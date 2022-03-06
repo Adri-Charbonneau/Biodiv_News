@@ -21,3 +21,4 @@ jobs:
         run:  |
           ./ascete.ps1
           ./naturae.ps1
+          ./antarea.ps1
