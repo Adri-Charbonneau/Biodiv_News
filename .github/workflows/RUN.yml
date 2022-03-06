@@ -20,3 +20,4 @@ jobs:
           PST_TOKEN_SECRET: ${{ secrets.PST_TOKEN_SECRET }}
         run:  |
           ./ascete.ps1
+          ./naturae.ps1
