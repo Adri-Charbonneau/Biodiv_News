@@ -1,24 +1,24 @@
 # compare two title
-[xml]$old_title = Get-Content ./ascete/ascete.xml -Encoding UTF8
-$old = $old_title.rss.channel.item.title[0]
+[xml]$old_title = Get-Content ./naturae/naturae.xml -Encoding UTF8
+$old = echo $old_title.rss.channel.item.title[0].InnerText
 
-[xml]$new_title = (invoke-webrequest -Uri "https://ascete.org/feed").Content
-$new = $new_title.rss.channel.item.title[0]
+[xml]$new_title = (invoke-webrequest -Uri "https://sciencepress.mnhn.fr/fr/periodique/rss/17836/Naturae").Content
+$new = echo $new_title.rss.channel.item.title[0].InnerText
 
 if ( $new -eq $old ) {
 echo 'Last title already exist'
 } else {
-Invoke-WebRequest -Uri "https://ascete.org/feed" -OutFile "./ascete/ascete.xml"
-[xml]$data = Get-Content ./ascete/ascete.xml -Encoding UTF8
+Invoke-WebRequest -Uri "https://sciencepress.mnhn.fr/fr/periodique/rss/17836/Naturae" -OutFile "./naturae/naturae.xml"
+[xml]$data = Get-Content ./naturae/naturae.xml -Encoding UTF8
 
-$title = $data.rss.channel.item.title[0]
+$title = echo $data.rss.channel.item.title[0].InnerText
 $link = $data.rss.channel.item.link[0]
 
 # git and create tag
 git config --local user.email "bi.alive@outlook.fr"
 git config --local user.name "JACK"
 git add .
-git commit -m "[Bot] Update Ascete"
+git commit -m "[Bot] Update Naturae"
 git push -f
 
 # post tweet
@@ -34,10 +34,11 @@ AccessToken = "$env:PST_TOKEN"
 AccessTokenSecret = "$env:PST_TOKEN_SECRET"
 }
 Set-TwitterOAuthSettings @OAuthSettings
-Send-TwitterStatuses_Update -status "Nouvel article de Ascete ! $title
+Send-TwitterStatuses_Update -status "Nouvel article de Naturae ! $title
 
 Lien : $link
-#ascete #news #biodiversity #orthoptere #entomology
+@Le_Museum @Publi_MNHN
+#naturae #news #biodiversity #science #museum
 "
 }
 
@@ -49,5 +50,5 @@ $Telegramchatid = "$env:CHAT_ID"
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $Response = Invoke-RestMethod -Uri "https://api.telegram.org/bot$($Telegramtoken)/sendMessage?chat_id=$($Telegramchatid)&text=$($Message)"}
 
-Send-Telegram -Message "[BN] Nouvel article de Ascete : $title - $link"
+Send-Telegram -Message "[BN] Nouvel article de Naturae : $title - $link"
 }
