@@ -1,0 +1,22 @@
+name: RUN-AGGREGATOR
+
+on:
+  schedule:
+    - cron:  '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Script
+        env:
+          TELEGRAM: ${{ secrets.TELEGRAM }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          PST_KEY: ${{ secrets.PST_KEY }}
+          PST_KEY_SECRET: ${{ secrets.PST_KEY_SECRET }}
+          PST_TOKEN: ${{ secrets.PST_TOKEN }}
+          PST_TOKEN_SECRET: ${{ secrets.PST_TOKEN_SECRET }}
+        run:  |
+          ./ascete.ps1
