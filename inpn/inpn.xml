@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+    <channel>
+    
+        <title>INPN - News</title>
+        <link>https://inpn.mnhn.fr/actualites/sommaire-actualites</link>
+        <description>Les dernières actualités de l'Inventaire National du Patrimoine Naturel</description>
+        <language>fr</language>
+        <copyright>Copyright Muséum national d'Histoire naturelle</copyright>          
+        <image>
+            <title>https://inpn.mnhn.fr</title>
+            <url>https://inpn.mnhn.fr/img/icones/inpn_tr_rss.png</url>
+            <link>https://inpn.mnhn.fr</link>
+            
+        </image>
+        <ttl>1440</ttl>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>             
+            <item>
+                    <title>Quête INPN Espèces : les poissons endémiques de l’Adour-Garonne</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/13681/quete-inpn-especes-les-poissons-endemiques-de-l-adour-garonne</link>
+                    <description>
+                        &lt;p&gt;Une nouvelle quête est disponible sur l’application INPN Espèces pour partir à la recherche des poissons endémiques de l’Adour-Garonne&lt;/p&gt;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inpn-especes">INPN Espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13681/</guid>        
+                    <pubDate>    
+                        Wed, 02 Mar 2022 09:07:06 +0100</pubDate>            
+               </item>                
+            <item>
+                    <title>La France, troisième pays contributeur du réseau GBIF</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/13641/la-france-troisieme-pays-contributeur-du-reseau-gbif</link>
+                    <description>
+                        &lt;p&gt;L’INPN diffuse 82 millions de données d’occurrences d’espèces dans le GBIF, dont plus de 10 millions de nouvelles données partagées en 2021&lt;/p&gt;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13641/</guid>        
+                    <pubDate>    
+                        Tue, 01 Mar 2022 09:10:25 +0100</pubDate>            
+               </item>                
+            <item>
+                    <title>Bilan 2021 de La Planète Revisitée en Corse : 11 000 données de biodiversité terrestre partagées sur l'INPN</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/13621/bilan-2021-de-la-planete-revisitee-en-corse-11-000-donnees-de-biodiversite-terrestre-partagees-sur-l-inpn</link>
+                    <description>
+                        &lt;p&gt;L&#039;équipe de la Planète Revisitée en Corse publie un premier bilan des missions terrestres en 2021. Plus de 2 200 espèces de la côte orientale et du &lt;em&gt;Capicorsu&lt;/em&gt; ont été inventoriées.&lt;/p&gt;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13621/</guid>        
+                    <pubDate>    
+                        Fri, 25 Feb 2022 09:09:12 +0100</pubDate>            
+               </item>                
+            <item>
+                    <title>Le ver plat envahissant Obama nungara signalé à La Réunion</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/13602/le-ver-plat-envahissant-obama-nungara-signale-a-la-reunion</link>
+                    <description>
+                        &lt;p&gt;Le Plathelminthe (ver plat) invasif &lt;em&gt;Obama nungara&lt;/em&gt;, qui a déjà envahi plus de 70 départements en France métropolitaine, vient d&#039;être signalé pour la première fois à La Réunion.&lt;/p&gt;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/especes-invasives">Espèces invasives EEE</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13602/</guid>        
+                    <pubDate>    
+                        Fri, 18 Feb 2022 17:58:41 +0100</pubDate>            
+               </item>                
+            </channel>
+</rss>

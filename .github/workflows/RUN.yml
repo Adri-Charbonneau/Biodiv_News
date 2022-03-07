@@ -24,3 +24,4 @@ jobs:
           ./antarea.ps1
           ./zoom-nature.ps1
           ./martinia.ps1
+          ./inpn.ps1
