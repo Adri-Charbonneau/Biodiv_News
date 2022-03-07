@@ -18,18 +18,7 @@
         <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
-        </skipDays>
-
-        <item>
-                    <title>Nouvelles quêtes disponibles sur l’application INPN Espèces : Mission forêt</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/13661/nouvelles-quetes-disponibles-sur-l-application-inpn-especes-mission-foret</link>
-                    <description>
-                        &lt;p&gt;Partez à la découverte du milieu forestier à travers quatre nouvelles quêtes disponibles sur l’application INPN Espèces : le Morio, l’Élégante striée, le Polypore soufré et le Sonneur à ventre jaune.&lt;/p&gt;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inpn-especes">INPN Espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13661/</guid>        
-                    <pubDate>    
-                        Mon, 07 Mar 2022 16:06:27 +0100</pubDate>            
-               </item>                
+        </skipDays>               
             <item>
                     <title>Quête INPN Espèces : à la recherche des hérissons aixois</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/13682/quete-inpn-especes-a-la-recherche-des-herissons-aixois</link>
