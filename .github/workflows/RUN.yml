@@ -25,3 +25,4 @@ jobs:
           ./zoom-nature.ps1
           ./martinia.ps1
           ./inpn.ps1
+          ./uicnfr.ps1
