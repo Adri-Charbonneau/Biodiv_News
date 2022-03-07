@@ -37,7 +37,7 @@ Set-TwitterOAuthSettings @OAuthSettings
 Send-TwitterStatuses_Update -status "Nouvel article de Zoom-Nature ! $title
 
 Lien : $link
-#zoom-nature #news #biodiversity #science
+#zoomnature #news #biodiversity #science
 "
 }
 
