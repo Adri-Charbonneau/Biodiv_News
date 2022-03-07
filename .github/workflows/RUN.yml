@@ -22,3 +22,4 @@ jobs:
           ./ascete.ps1
           ./naturae.ps1
           ./antarea.ps1
+          ./zoom-nature.ps1
