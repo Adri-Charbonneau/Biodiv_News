@@ -26,3 +26,4 @@ jobs:
           ./martinia.ps1
           ./inpn.ps1
           ./uicnfr.ps1
+          ./faune-france.ps1
