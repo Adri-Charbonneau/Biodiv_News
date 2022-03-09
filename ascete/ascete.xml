@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 23 Feb 2022 10:11:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Mar 2022 20:31:37 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Liste rouge régionale des orthoptères, phasme et mante d&#8217;Île-de-France</title>
+		<link>https://ascete.org/liste-rouge-regionale-des-orthopteres-phasme-et-mante-dile-de-france/</link>
+		
+		<dc:creator><![CDATA[David Morichon]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2022 20:27:24 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Liste rouge]]></category>
+		<category><![CDATA[Publications]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3048</guid>
+
+					<description><![CDATA[Le 26 février dernier a été annoncée sur le site de l&#8217;agence régionale de la biodiversité en Île-de-France la publication de la Liste rouge régionale des Orthoptéroïdes d&#8217;Île-de-France : à l&#8217;évaluation des orthoptères sont ajoutées celles de la mante religieuse et du phasme gaulois, soit en tout 63 taxons évalués. Le rapport a été réalisé [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Troisième congrès européen sur la conservation des orthoptères (mise à jour)</title>
 		<link>https://ascete.org/troisieme-congres-europeen-sur-la-conservation-des-orthopteres-mise-a-jour/</link>
 		
@@ -159,22 +175,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=2340</guid>
 
 					<description><![CDATA[Après plusieurs mois d&#8217;attente, nous vous proposons un site Web rénové, au contenu enrichi et à l&#8217;architecture un peu modifiée. Nous vous laissons explorer par vous-même cette nouvelle interface. Notez que tous les articles de notre revue, jusqu&#8217;à l&#8217;année 2019, sont désormais disponibles en téléchargement  (onglet Notre revue). D&#8217;anciens documents ont été numérisés et sont [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Acoustique du genre Phaneroptera et description d&#8217;une nouvelle espèce</title>
-		<link>https://ascete.org/lacoustique-du-genre-phaneroptera-audinet-serville-1831-et-la-description-dune-nouvelle-espece-pour-la-faune-francaise/</link>
-		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
-		<pubDate>Sat, 20 Nov 2021 16:27:29 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Publications]]></category>
-		<category><![CDATA[taxonomie -- taxinomie]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=2031</guid>
-
-					<description><![CDATA[Une étude acoustique des espèces de Phaneroptera d’Europe occidentale vient d’être publiée par Julien Barataud dans la revue Zoosystema (Barataud, 2021). Ce travail, très détaillé, décrit une nouvelle espèce : Phaneroptera laticerca n. sp. Celle-ci est très proche morphologiquement de P. nana, mais des critères morphologiques et acoustiques sont présentés par l&#8217;auteur pour identifier les quatre [&#8230;]]]></description>
 		
 		
 		
