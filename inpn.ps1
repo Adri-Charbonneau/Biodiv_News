@@ -50,5 +50,5 @@ $Telegramchatid = "$env:CHAT_ID"
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $Response = Invoke-RestMethod -Uri "https://api.telegram.org/bot$($Telegramtoken)/sendMessage?chat_id=$($Telegramchatid)&text=$($Message)"}
 
-Send-Telegram -Message "[BN] Nouvel article de l'INPN : $title - $link"
+Send-Telegram -Message "Nouvel article de l'INPN : $title - $link"
 }
