@@ -12,7 +12,7 @@ $old = $old_title.rss.channel.item.title[0]
 $new = $new_title.rss.channel.item.title[0]
 
 if ( $new -eq $old ) {
-echo 'Le dernier article de $name est déjà existant dans la base de donnée'
+echo "Le dernier article de $name est déjà existant dans la base de donnée"
 } else {
 Invoke-WebRequest -Uri "https://www.zoom-nature.fr/feed" -OutFile "./$id/$id.xml"
 [xml]$data = Get-Content ./$id/$id.xml -Encoding UTF8
