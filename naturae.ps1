@@ -12,7 +12,7 @@ $old = echo $old_title.rss.channel.item.title[0].InnerText
 $new = echo $new_title.rss.channel.item.title[0].InnerText
 
 if ( $new -eq $old ) {
-echo 'Last title already exist'
+echo 'Le dernier article de $name est déjà existant dans la base de donnée'
 } else {
 Invoke-WebRequest -Uri "https://sciencepress.mnhn.fr/fr/periodique/rss/17836/Naturae" -OutFile "./$id/$id.xml"
 [xml]$data = Get-Content ./$id/$id.xml -Encoding UTF8

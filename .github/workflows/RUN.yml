@@ -19,11 +19,21 @@ jobs:
           PST_TOKEN: ${{ secrets.PST_TOKEN }}
           PST_TOKEN_SECRET: ${{ secrets.PST_TOKEN_SECRET }}
         run:  |
+          echo "Vérification d'Ascete :"
           ./ascete.ps1
+          echo "Vérification de Naturae :"
           ./naturae.ps1
+          echo "Vérification d'AntArea :"
           ./antarea.ps1
+          echo "Vérification de Zoom-Nature :"
           ./zoom-nature.ps1
+          echo "Vérification de Martinia :"
           ./martinia.ps1
+          echo "Vérification de l'INPN :"
           ./inpn.ps1
+          echo "Vérification de l'UICN France :"
           ./uicnfr.ps1
+          echo "Vérification de Faune-France :"
           ./faune-france.ps1
+          echo "Vérification de La Pie Bavarde :"
+          ./lapiebavarde.ps1
