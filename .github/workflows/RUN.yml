@@ -37,3 +37,5 @@ jobs:
           ./faune-france.ps1
           echo "Vérification de La Pie Bavarde :"
           ./lapiebavarde.ps1
+          echo "Vérification du CRBPO Info :"
+          ./crbpoinfo.ps1
