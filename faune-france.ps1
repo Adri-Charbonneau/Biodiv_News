@@ -1,7 +1,7 @@
 # variables
 $id = "faune-france"
 $name = "Faune-France"
-$accounts = "@biolovision"
+$accounts = "@biolovision @LPOFrance"
 $tags ="#faunefrance #biodiversity #ornithology #science"
 
 # compare two title
