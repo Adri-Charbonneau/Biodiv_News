@@ -6,6 +6,14 @@ git commit -m "[Bot] Update $name"
 git push -f
 
 # post tweet
+## length of tweet
+if ( $title.Length -ge 110 )
+{ 
+$title = $title.Substring(0, 110)
+$title = -join($title,"...")
+}
+
+## post tweet
 $twitter = (Select-String -Path config.txt -Pattern "twitter=(.*)").Matches.Groups[1].Value
 if ( $twitter -eq "y" )
 {
