@@ -39,3 +39,9 @@ jobs:
           ./lapiebavarde.ps1
           echo "Vérification du CRBPO Info :"
           ./crbpoinfo.ps1
+          echo "Vérification de la SHF :"
+          ./shf.ps1
+          echo "Vérification de d'Ornithomedia :"
+          ./ornithomedia.ps1
+
+
