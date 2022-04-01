@@ -25,8 +25,7 @@ if ( $title -eq $old ) {
 echo "Le dernier article de $name est déjà existant dans la base de donnée"
 } else {
 $title | Out-File "./$id/$id.txt"
-echo "$title et $link"
-#./end_push.ps1
+./end_push.ps1
 }
 
 }
