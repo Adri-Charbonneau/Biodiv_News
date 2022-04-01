@@ -43,5 +43,7 @@ jobs:
           ./shf.ps1
           echo "Vérification de d'Ornithomedia :"
           ./ornithomedia.ps1
+          echo "Vérification de d'Oiseaux de France :"
+          ./odf.ps1
 
 
