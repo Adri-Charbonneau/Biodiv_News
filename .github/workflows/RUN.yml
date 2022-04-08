@@ -4,46 +4,43 @@ on:
   schedule:
     - cron:  '0 * * * *'
   workflow_dispatch:
+  
+env:
+    TELEGRAM: ${{ secrets.TELEGRAM }}
+    CHAT_ID: ${{ secrets.CHAT_ID }}
+    PST_KEY: ${{ secrets.PST_KEY }}
+    PST_KEY_SECRET: ${{ secrets.PST_KEY_SECRET }}
+    PST_TOKEN: ${{ secrets.PST_TOKEN }}
+    PST_TOKEN_SECRET: ${{ secrets.PST_TOKEN_SECRET }}
 
 jobs:
   build:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Script
-        env:
-          TELEGRAM: ${{ secrets.TELEGRAM }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-          PST_KEY: ${{ secrets.PST_KEY }}
-          PST_KEY_SECRET: ${{ secrets.PST_KEY_SECRET }}
-          PST_TOKEN: ${{ secrets.PST_TOKEN }}
-          PST_TOKEN_SECRET: ${{ secrets.PST_TOKEN_SECRET }}
-        run:  |
-          echo "Vérification d'Ascete :"
-          ./ascete.ps1
-          echo "Vérification de Naturae :"
-          ./naturae.ps1
-          echo "Vérification d'AntArea :"
-          ./antarea.ps1
-          echo "Vérification de Zoom-Nature :"
-          ./zoom-nature.ps1
-          echo "Vérification de Martinia :"
-          ./martinia.ps1
-          echo "Vérification de l'INPN :"
-          ./inpn.ps1
-          echo "Vérification de l'UICN France :"
-          ./uicnfr.ps1
-          echo "Vérification de Faune-France :"
-          ./faune-france.ps1
-          echo "Vérification de La Pie Bavarde :"
-          ./lapiebavarde.ps1
-          echo "Vérification du CRBPO Info :"
-          ./crbpoinfo.ps1
-          echo "Vérification de la SHF :"
-          ./shf.ps1
-          echo "Vérification de d'Ornithomedia :"
-          ./ornithomedia.ps1
-          echo "Vérification de d'Oiseaux de France :"
-          ./odf.ps1
-
-
+      - name: Ascete
+        run:  ./ascete.ps1
+      - name: Ascete
+        run:  ./naturae.ps1
+      - name: Ascete
+        run:  ./antarea.ps1
+      - name: Ascete
+        run:  ./zoom-nature.ps1
+      - name: Ascete
+        run:  ./martinia.ps1
+      - name: Ascete
+        run:  ./inpn.ps1
+      - name: Ascete
+        run:  ./uicnfr.ps1
+      - name: Ascete
+        run:  ./faune-france.ps1
+      - name: Ascete
+        run:  ./lapiebavarde.ps1
+      - name: Ascete
+        run:  ./crbpoinfo.ps1
+      - name: Ascete
+        run:  ./shf.ps1
+      - name: Ascete
+        run:  ./ornithomedia.ps1
+      - name: Ascete
+        run:  ./odf.ps1
