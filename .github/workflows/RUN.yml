@@ -20,27 +20,27 @@ jobs:
       - uses: actions/checkout@v2
       - name: Ascete
         run:  ./ascete.ps1
-      - name: Ascete
+      - name: Naturae
         run:  ./naturae.ps1
-      - name: Ascete
+      - name: Antarea
         run:  ./antarea.ps1
-      - name: Ascete
+      - name: Zoom-Nature
         run:  ./zoom-nature.ps1
-      - name: Ascete
+      - name: Martinia
         run:  ./martinia.ps1
-      - name: Ascete
+      - name: INPN
         run:  ./inpn.ps1
-      - name: Ascete
+      - name: UICN-FR
         run:  ./uicnfr.ps1
-      - name: Ascete
+      - name: Faune-France
         run:  ./faune-france.ps1
-      - name: Ascete
+      - name: La Pie Bavarde
         run:  ./lapiebavarde.ps1
-      - name: Ascete
+      - name: CRBPO
         run:  ./crbpoinfo.ps1
-      - name: Ascete
+      - name: SHF
         run:  ./shf.ps1
-      - name: Ascete
+      - name: Ornithomedia
         run:  ./ornithomedia.ps1
-      - name: Ascete
+      - name: Oiseaux de France
         run:  ./odf.ps1
