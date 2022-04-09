@@ -32,6 +32,8 @@ jobs:
         run:  ./inpn.ps1
       - name: UICN-FR
         run:  ./uicnfr.ps1
+      - name: Test
+        run: Invoke-WebRequest -Uri "https://www.la-pie-bavarde.com/blog1-feed.xml" -OutFile "test.xml"
       - name: Faune-France
         run:  ./faune-france.ps1
       - name: La Pie Bavarde
