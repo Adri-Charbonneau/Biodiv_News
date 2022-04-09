@@ -1,4 +1,4 @@
-name: RUN-AGGREGATOR
+name: UPDATE-NEWS
 
 on:
   schedule:
@@ -14,49 +14,58 @@ env:
     PST_TOKEN_SECRET: ${{ secrets.PST_TOKEN_SECRET }}
 
 jobs:
-  build:
+  Update-news:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
       - name: Ascete
         if: always()
         run:  ./ascete.ps1
+        
       - name: Naturae
         if: always()
         run:  ./naturae.ps1
+        
       - name: Antarea
         if: always()
         run:  ./antarea.ps1
+        
       - name: Zoom-Nature
         if: always()
         run:  ./zoom-nature.ps1
+        
       - name: Martinia
         if: always()
         run:  ./martinia.ps1
+        
       - name: INPN
         if: always()
         run:  ./inpn.ps1
+        
       - name: UICN-FR
         if: always()
         run:  ./uicnfr.ps1
-      - name: Test
-        if: always()
-        run: Invoke-WebRequest -Uri "https://www.la-pie-bavarde.com/blog1-feed.xml" -OutFile "test.xml"
+        
       - name: Faune-France
         if: always()
         run:  ./faune-france.ps1
+        
       - name: La Pie Bavarde
         if: always()
         run:  ./lapiebavarde.ps1
+        
       - name: CRBPO
         if: always()
         run:  ./crbpoinfo.ps1
+        
       - name: SHF
         if: always()
         run:  ./shf.ps1
+        
       - name: Ornithomedia
         if: always()
         run:  ./ornithomedia.ps1
+        
       - name: Oiseaux de France
         if: always()
         run:  ./odf.ps1
