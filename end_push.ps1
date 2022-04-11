@@ -26,7 +26,7 @@ AccessToken = "$env:PST_TOKEN"
 AccessTokenSecret = "$env:PST_TOKEN_SECRET"
 }
 Set-TwitterOAuthSettings @OAuthSettings
-Send-TwitterStatuses_Update -status "Nouvel article de $name ! titletweet
+Send-TwitterStatuses_Update -status "Nouvel article de $name ! $titletweet
 
 Lien : $link
 $accounts
