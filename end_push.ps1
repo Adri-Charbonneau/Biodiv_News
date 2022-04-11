@@ -9,8 +9,8 @@ git push -f
 ## length of tweet
 if ( $title.Length -ge 110 )
 { 
-$title = $title.Substring(0, 110)
-$title = -join($title,"...")
+$titletweet = $title.Substring(0, 110)
+$titletweet = -join($titletweet,"...")
 }
 
 ## post tweet
@@ -26,7 +26,7 @@ AccessToken = "$env:PST_TOKEN"
 AccessTokenSecret = "$env:PST_TOKEN_SECRET"
 }
 Set-TwitterOAuthSettings @OAuthSettings
-Send-TwitterStatuses_Update -status "Nouvel article de $name ! $title
+Send-TwitterStatuses_Update -status "Nouvel article de $name ! titletweet
 
 Lien : $link
 $accounts
