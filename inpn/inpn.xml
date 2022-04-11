@@ -21,6 +21,26 @@
         </skipDays>
 
         <item>
+                    <title>De nouvelles fonctionnalités pour télécharger l'intégralité des données de l'inventaire des Znieff</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/13801/de-nouvelles-fonctionnalites-pour-telecharger-l-integralite-des-donnees-de-l-inventaire-des-znieff</link>
+                    <description>
+                        &lt;p&gt;Afin de faciliter l’utilisation des données par la communauté scientifique et naturaliste nationale et internationale, un datapaper a été publié.&lt;/p&gt;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/znieff">ZNIEFF</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13801/</guid>        
+                    <pubDate>    
+                        Mon, 11 Apr 2022 16:07:59 +0200</pubDate>            
+               </item>                
+            <item>
+                    <title>Enquête Natura 2000  Métropole Nice Côte d’Azur sur INPN Espèces : À la recherche du Spéléomante de Strinati</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/13821/enquete-natura-2000--metropole-nice-cote-d-azur-sur-inpn-especes-a-la-recherche-du-speleomante-de-strinati</link>
+                    <description>
+                        &lt;p&gt;Une nouvelle quête pour aller à la rencontre du Spéléomante de Strinati dans certains sites Natura 2000 est proposée sur l’application INPN Espèces.&lt;/p&gt;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inpn-especes">INPN Espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13821/</guid>        
+                    <pubDate>    
+                        Mon, 11 Apr 2022 15:53:07 +0200</pubDate>            
+               </item>                
+            <item>
                     <title>Quête INPN Espèces : un serpent en danger, la Vipère péliade</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/13761/quete-inpn-especes-un-serpent-en-danger-la-vipere-peliade</link>
                     <description>
@@ -49,26 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13743/</guid>        
                     <pubDate>    
                         Thu, 24 Mar 2022 15:21:16 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Inscription du Poisson-ange de Clipperton à l’Annexe III de la CITES</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/13741/inscription-du-poisson-ange-de-clipperton-a-l-annexe-iii-de-la-cites</link>
-                    <description>
-                        &lt;p&gt;Le Poisson-ange de Clipperton, espèce endémique d&#039;un atoll français, fait son entrée à l&#039;Annexe III de la CITES&lt;/p&gt;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/legislation-reglementation">Réglementation des espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13741/</guid>        
-                    <pubDate>    
-                        Tue, 22 Mar 2022 15:05:08 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Quête INPN Espèces : les primevères du printemps</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/13721/quete-inpn-especes-les-primeveres-du-printemps</link>
-                    <description>
-                        &lt;p&gt;Une nouvelle quête est disponible sur l’application INPN Espèces pour partir à la recherche de la première fleur du printemps, la Primevère !&lt;/p&gt;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inpn-especes">INPN Espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/13721/</guid>        
-                    <pubDate>    
-                        Fri, 18 Mar 2022 15:31:47 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
