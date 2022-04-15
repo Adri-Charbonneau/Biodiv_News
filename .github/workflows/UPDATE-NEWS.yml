@@ -40,7 +40,7 @@ jobs:
         
       - name: INPN
         if: always()
-        run:  ./inpn.ps1
+        run:  #./inpn.ps1
         
       - name: UICN-FR
         if: always()
