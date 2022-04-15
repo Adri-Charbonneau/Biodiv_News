@@ -11,6 +11,8 @@ if ( $title.Length -ge 110 )
 { 
 $titletweet = $title.Substring(0, 110)
 $titletweet = -join($titletweet,"...")
+}else{
+  $titletweet = $title
 }
 
 ## post tweet
