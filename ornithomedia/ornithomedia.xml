@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 19 Apr 2022 22:02:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Apr 2022 19:12:15 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Comment distinguer les Traquets isabelle et motteux ?</title>
+		<link>https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-traquets-isabelle-et-motteux/</link>
+		<comments>https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-traquets-isabelle-et-motteux/#respond</comments>
+		<pubDate>Wed, 20 Apr 2022 18:02:54 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Pratique]]></category>
+		<category><![CDATA[Identification]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=207206</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-traquets-isabelle-et-motteux/">Comment distinguer les Traquets isabelle et motteux ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-traquets-isabelle-et-motteux/">Comment distinguer les Traquets isabelle et motteux ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-traquets-isabelle-et-motteux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Découverte en Argentine de nouvelles zones de présence du Commandeur huppé</title>
 		<link>https://www.ornithomedia.com/breves/decouverte-de-nouvelles-zones-de-presence-du-commandeur-huppe-en-argentine/</link>
@@ -162,23 +179,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/un-fou-brun-observe-en-mars-2022-dans-les-eaux-basques-a-la-frontiere-franco-espagnole/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>Séjour printanier en Carélie du Nord et du Sud (Finlande), à la recherche des oiseaux nicheurs remarquables</title>
-		<link>https://www.ornithomedia.com/magazine/voyages/sejour-ornithologique-en-mai-2021-en-carelie-du-nord-et-du-sud-a-la-recherche-des-oiseaux-nicheurs-remarquables/</link>
-		<comments>https://www.ornithomedia.com/magazine/voyages/sejour-ornithologique-en-mai-2021-en-carelie-du-nord-et-du-sud-a-la-recherche-des-oiseaux-nicheurs-remarquables/#respond</comments>
-		<pubDate>Tue, 29 Mar 2022 22:02:20 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Voyages]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=205821</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/sejour-ornithologique-en-mai-2021-en-carelie-du-nord-et-du-sud-a-la-recherche-des-oiseaux-nicheurs-remarquables/">Séjour printanier en Carélie du Nord et du Sud (Finlande), à la recherche des oiseaux nicheurs remarquables</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/sejour-ornithologique-en-mai-2021-en-carelie-du-nord-et-du-sud-a-la-recherche-des-oiseaux-nicheurs-remarquables/">Séjour printanier en Carélie du Nord et du Sud (Finlande), à la recherche des oiseaux nicheurs remarquables</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/sejour-ornithologique-en-mai-2021-en-carelie-du-nord-et-du-sud-a-la-recherche-des-oiseaux-nicheurs-remarquables/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
