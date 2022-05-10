@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 09 May 2022 15:29:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 May 2022 22:02:50 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Les intéressantes particularités d&#8217;une population isolée de Falconelles à casque dans le nord de l&#8217;Australie</title>
+		<link>https://www.ornithomedia.com/breves/les-particularites-dune-population-isolee-de-falconelles-a-casque-dans-le-nord-de-laustralie/</link>
+		<comments>https://www.ornithomedia.com/breves/les-particularites-dune-population-isolee-de-falconelles-a-casque-dans-le-nord-de-laustralie/#respond</comments>
+		<pubDate>Tue, 10 May 2022 22:02:49 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=208655</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-particularites-dune-population-isolee-de-falconelles-a-casque-dans-le-nord-de-laustralie/">Les intéressantes particularités d&rsquo;une population isolée de Falconelles à casque dans le nord de l&rsquo;Australie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-particularites-dune-population-isolee-de-falconelles-a-casque-dans-le-nord-de-laustralie/">Les intéressantes particularités d&rsquo;une population isolée de Falconelles à casque dans le nord de l&rsquo;Australie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/les-particularites-dune-population-isolee-de-falconelles-a-casque-dans-le-nord-de-laustralie/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Un Aigle des steppes découvert en Normandie en mai 2022 : une donnée remarquable qui en rappelle deux autres</title>
 		<link>https://www.ornithomedia.com/magazine/analyses/un-aigle-des-steppes-decouvert-en-normandie-en-mai-2022-une-donnee-remarquable-qui-en-rappelle-deux-autres/</link>
@@ -161,22 +177,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-traquets-isabelle-et-motteux/">Comment distinguer les Traquets isabelle et motteux ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-traquets-isabelle-et-motteux/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Découverte en Argentine de nouvelles zones de présence du Commandeur huppé</title>
-		<link>https://www.ornithomedia.com/breves/decouverte-de-nouvelles-zones-de-presence-du-commandeur-huppe-en-argentine/</link>
-		<comments>https://www.ornithomedia.com/breves/decouverte-de-nouvelles-zones-de-presence-du-commandeur-huppe-en-argentine/#respond</comments>
-		<pubDate>Tue, 19 Apr 2022 22:02:29 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=207155</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/decouverte-de-nouvelles-zones-de-presence-du-commandeur-huppe-en-argentine/">Découverte en Argentine de nouvelles zones de présence du Commandeur huppé</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/decouverte-de-nouvelles-zones-de-presence-du-commandeur-huppe-en-argentine/">Découverte en Argentine de nouvelles zones de présence du Commandeur huppé</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/decouverte-de-nouvelles-zones-de-presence-du-commandeur-huppe-en-argentine/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
