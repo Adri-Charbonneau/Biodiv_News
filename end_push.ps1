@@ -15,6 +15,12 @@ $titletweet = -join($titletweet,"...")
   $titletweet = $title
 }
 
+## replace character
+$tmtitle = $title
+$tmtitle -replace '&','&amp;'
+$tmtitle -replace '<','&lt;'
+$tmtitle -replace '>','&gt;'
+
 ## post tweet
 $twitter = (Select-String -Path config.txt -Pattern "twitter=(.*)").Matches.Groups[1].Value
 if ( $twitter -eq "y" )
@@ -44,4 +50,4 @@ $Telegramchatid = "$env:CHAT_ID"
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $Response = Invoke-RestMethod -Uri "https://api.telegram.org/bot$($Telegramtoken)/sendMessage?chat_id=$($Telegramchatid)&text=$($Message)"}
 
-Send-Telegram -Message "Nouvel article de $name : $title - $link"
+Send-Telegram -Message "Nouvel article de $name : $tmtitle - $link"
