@@ -12,13 +12,13 @@
 	<atom:link href="https://www.martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Fri, 25 Feb 2022 10:03:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 May 2022 18:50:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.7</generator>
+	<generator>https://wordpress.org/?v=5.6.8</generator>
 
 <image>
 	<url>https://www.martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Reproduction d’Oxygastra curtisii (Odonata : incertae sedis) sur un étang de pêche de loisir en Bresse (Ain – France)</title>
+		<link>https://www.martinia.insectes.org/reproduction-doxygastra-curtisii-odonata-incertae-sedis-sur-un-etang-de-peche-de-loisir-en-bresse-ain-france/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Mon, 23 May 2022 18:46:36 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[alimentation en eau]]></category>
+		<category><![CDATA[Auvergne-Rhône-Alpes]]></category>
+		<category><![CDATA[habitat lentique]]></category>
+		<category><![CDATA[lentic habitat]]></category>
+		<category><![CDATA[water supply]]></category>
+		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4336</guid>
+
+					<description><![CDATA[L’habitat larvaire d’Oxygastra curtisii (Dale, 1834), est ordinairement décrit comme des zones lentes des cours d’eau à ripisylve fonctionnelle (avec un système racinaire atteignant l’eau). Toutefois Herbrecht &#38; Dommanget (2006) nous avaient rapporté le cas d’émergence de l’espèce en milieu lentique (lacs, gravières, étangs tourbeux oligotrophes), puis entre autres Doucet (2009) sur un étang du [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lestes barbarus en Bourgogne-Franche-Comté : dynamique spatio-temporelle de l’espèce entre 2001 et 2020 et premières mentions d’émergence</title>
+		<link>https://www.martinia.insectes.org/lestes-barbarus-en-bourgogne-franche-comte-dynamique-spatio-temporelle-de-lespece-entre-2001-et-2020-et-premieres-mentions-demergence/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Sat, 14 May 2022 13:22:47 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[autochthony]]></category>
+		<category><![CDATA[autochtonie]]></category>
+		<category><![CDATA[Côte-d’Or]]></category>
+		<category><![CDATA[Exuviae]]></category>
+		<category><![CDATA[Exuvies]]></category>
+		<category><![CDATA[Saône-et-Loire]]></category>
+		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4322</guid>
+
+					<description><![CDATA[Auteur(s) :Doucet Guillaume, Jacquot Perrine &#038; Gayet Philippe Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouveaux éléments sur la durée du cycle larvaire de Leucorrhinia pectoralis (Charpentier, 1825) en France (Odonata, Anisoptera : Libellulidae)</title>
 		<link>https://www.martinia.insectes.org/nouveaux-elements-sur-la-duree-du-cycle-larvaire-de-leucorrhinia-pectoralis-charpentier-1825-en-france-odonata-anisoptera-libellulidae/</link>
 		
@@ -182,34 +221,6 @@
 		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=3949</guid>
 
 					<description><![CDATA[De l’œuf à l’imago, le développement de nos chers Odonates est un parcours semé d’embûches. Pour une même espèce, ce parcours peut être tantôt raccourci, tantôt allongé&#160;en fonction de nombreux facteurs environnementaux comme la température ou les ressources disponibles. Pourquoi vous conter ces choses que vous savez, vous, odonatologues passionnés, lecteurs de ces lignes&#160;? Parce [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Synthèse des connaissances et évaluation de l’état de conservation de Lestes macrostigma en Corse (Odonata : Lestidae).</title>
-		<link>https://www.martinia.insectes.org/synthese-des-connaissances-et-evaluation-de-letat-de-conservation-de-lestes-macrostigma-en-corse-odonata-lestidae/</link>
-		
-		<dc:creator><![CDATA[Francois Vaillant]]></dc:creator>
-		<pubDate>Thu, 17 Jun 2021 08:43:23 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://fsopsbq.cluster030.hosting.ovh.net/synthese-des-connaissances-et-evaluation-de-letat-de-conservation-de-lestes-macrostigma-en-corse-odonata-lestidae/</guid>
-
-					<description><![CDATA[Auteur(s) :Berquier C. &#038; Andrei-Ruiz M.-C. Numérotation : Type de publication :]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Première observation de Trithemis annulata en région Centre-Val de Loire (Odonata : Libellulidae).</title>
-		<link>https://www.martinia.insectes.org/premiere-observation-de-trithemis-annulata-en-region-centre-val-de-loire-odonata-libellulidae/</link>
-		
-		<dc:creator><![CDATA[Francois Vaillant]]></dc:creator>
-		<pubDate>Thu, 17 Jun 2021 08:45:17 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://fsopsbq.cluster030.hosting.ovh.net/premiere-observation-de-trithemis-annulata-en-region-centre-val-de-loire-odonata-libellulidae/</guid>
-
-					<description><![CDATA[Auteur(s) :Vary P. &#038; Sansault É. Numérotation : Type de publication :]]></description>
 		
 		
 		
