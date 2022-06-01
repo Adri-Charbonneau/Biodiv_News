@@ -69,3 +69,7 @@ jobs:
       - name: Oiseaux de France
         if: always()
         run:  ./odf.ps1
+        
+      - name: VigiNature
+        if: always()
+        run:  ./viginature.ps1
