@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 02 Jun 2022 06:24:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jun 2022 06:10:17 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Un nid insolite de Gobemouches gris construit dans la main d&#8217;une statue au printemps 2022</title>
+		<link>https://www.ornithomedia.com/breves/insolite-un-nid-de-gobemouche-gris-construit-dans-la-main-dune-statue-au-printemps-2022/</link>
+		<comments>https://www.ornithomedia.com/breves/insolite-un-nid-de-gobemouche-gris-construit-dans-la-main-dune-statue-au-printemps-2022/#respond</comments>
+		<pubDate>Fri, 03 Jun 2022 06:10:17 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=209981</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/insolite-un-nid-de-gobemouche-gris-construit-dans-la-main-dune-statue-au-printemps-2022/">Un nid insolite de Gobemouches gris construit dans la main d&rsquo;une statue au printemps 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/insolite-un-nid-de-gobemouche-gris-construit-dans-la-main-dune-statue-au-printemps-2022/">Un nid insolite de Gobemouches gris construit dans la main d&rsquo;une statue au printemps 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/insolite-un-nid-de-gobemouche-gris-construit-dans-la-main-dune-statue-au-printemps-2022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Nidification inhabituelle d&#8217;un Petit-ducs scops au sol sous un rocher en Italie</title>
 		<link>https://www.ornithomedia.com/breves/une-nidification-inhabituelle-dun-petit-duc-scops-au-sol-sous-un-rocher-en-italie/</link>
@@ -160,23 +176,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-pygargue-a-queue-blanche-en-lorraine-en-mai-2022-un-spectacle-rare-mais-desormais-regulier/">Un Pygargue à queue blanche en Lorraine en mai 2022 : un spectacle printanier rare mais désormais régulier</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/un-pygargue-a-queue-blanche-en-lorraine-en-mai-2022-un-spectacle-rare-mais-desormais-regulier/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Observer les oiseaux dans les prairies humides d&#8217;altitude de la narse de Nouvialle (Cantal)</title>
-		<link>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-les-prairies-humides-daltitude-de-la-narse-de-nouvialle-cantal/</link>
-		<comments>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-les-prairies-humides-daltitude-de-la-narse-de-nouvialle-cantal/#respond</comments>
-		<pubDate>Mon, 16 May 2022 18:14:18 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Observer en France]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=208999</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-les-prairies-humides-daltitude-de-la-narse-de-nouvialle-cantal/">Observer les oiseaux dans les prairies humides d&rsquo;altitude de la narse de Nouvialle (Cantal)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-les-prairies-humides-daltitude-de-la-narse-de-nouvialle-cantal/">Observer les oiseaux dans les prairies humides d&rsquo;altitude de la narse de Nouvialle (Cantal)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-les-prairies-humides-daltitude-de-la-narse-de-nouvialle-cantal/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
