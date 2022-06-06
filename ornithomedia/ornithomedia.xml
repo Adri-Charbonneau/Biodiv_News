@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sun, 05 Jun 2022 06:10:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Jun 2022 06:10:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Un Bruant à gorge blanche, « vedette » américaine d&#8217;un village du Jura en juin 2022</title>
+		<link>https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/</link>
+		<comments>https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/#respond</comments>
+		<pubDate>Mon, 06 Jun 2022 06:10:12 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=210142</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/">Un Bruant à gorge blanche, « vedette » américaine d&rsquo;un village du Jura en juin 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/">Un Bruant à gorge blanche, « vedette » américaine d&rsquo;un village du Jura en juin 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Exposition « Le roi pêcheur » au Musée de l&#8217;Erdre à Carquefou (Loire-Atlantique) jusqu&#8217;au 26 juin 2022</title>
 		<link>https://www.ornithomedia.com/breves/exposition-le-roi-pecheur-au-musee-de-lerdre-a-carquefou-loire-atlantique-jusquau-26-juin-2022/</link>
@@ -161,22 +177,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/pratique/debuter/le-chant-chez-les-femelles-des-oiseaux/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>L&#8217;invasion des Abeilles naines en Israël expliquerait l&#8217;hivernage récent de la Bondrée orientale dans ce pays</title>
-		<link>https://www.ornithomedia.com/breves/linvasion-des-abeilles-naines-en-israel-expliquerait-lhivernage-recent-de-la-bondree-orientale/</link>
-		<comments>https://www.ornithomedia.com/breves/linvasion-des-abeilles-naines-en-israel-expliquerait-lhivernage-recent-de-la-bondree-orientale/#respond</comments>
-		<pubDate>Fri, 20 May 2022 22:02:34 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=209263</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/linvasion-des-abeilles-naines-en-israel-expliquerait-lhivernage-recent-de-la-bondree-orientale/">L&rsquo;invasion des Abeilles naines en Israël expliquerait l&rsquo;hivernage récent de la Bondrée orientale dans ce pays</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/linvasion-des-abeilles-naines-en-israel-expliquerait-lhivernage-recent-de-la-bondree-orientale/">L&rsquo;invasion des Abeilles naines en Israël expliquerait l&rsquo;hivernage récent de la Bondrée orientale dans ce pays</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/linvasion-des-abeilles-naines-en-israel-expliquerait-lhivernage-recent-de-la-bondree-orientale/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
