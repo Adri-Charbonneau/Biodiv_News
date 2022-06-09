@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 09 Jun 2022 06:10:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jun 2022 16:12:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>La ruse de l&#8217;aile brisée utilisée par certains oiseaux pour éloigner les prédateurs de leur nid</title>
+		<link>https://www.ornithomedia.com/pratique/debuter/la-ruse-de-laile-brisee-utilisee-par-certains-oiseaux-pour-eloigner-les-predateurs-de-leur-nid/</link>
+		<comments>https://www.ornithomedia.com/pratique/debuter/la-ruse-de-laile-brisee-utilisee-par-certains-oiseaux-pour-eloigner-les-predateurs-de-leur-nid/#respond</comments>
+		<pubDate>Thu, 09 Jun 2022 16:10:08 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Pratique]]></category>
+		<category><![CDATA[Débuter]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=210360</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/debuter/la-ruse-de-laile-brisee-utilisee-par-certains-oiseaux-pour-eloigner-les-predateurs-de-leur-nid/">La ruse de l&rsquo;aile brisée utilisée par certains oiseaux pour éloigner les prédateurs de leur nid</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/debuter/la-ruse-de-laile-brisee-utilisee-par-certains-oiseaux-pour-eloigner-les-predateurs-de-leur-nid/">La ruse de l&rsquo;aile brisée utilisée par certains oiseaux pour éloigner les prédateurs de leur nid</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/pratique/debuter/la-ruse-de-laile-brisee-utilisee-par-certains-oiseaux-pour-eloigner-les-predateurs-de-leur-nid/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>L&#8217;association bénéfique réciproquement entre le Fournier roux et le Moqueur plombé</title>
 		<link>https://www.ornithomedia.com/breves/lassociation-benefique-entre-le-fournier-roux-et-le-moqueur-plombe/</link>
@@ -159,22 +176,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-etonnantes-colonies-de-tisserins-bayas-installees-sur-des-cables-electriques-en-inde/">Les étonnantes colonies de Tisserins bayas installées sur des câbles électriques en Inde</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/les-etonnantes-colonies-de-tisserins-bayas-installees-sur-des-cables-electriques-en-inde/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>La Mésange sultane, une mésange originale à plus d&#8217;un titre</title>
-		<link>https://www.ornithomedia.com/breves/la-mesange-sultane-une-mesange-originale-a-plus-dun-titre/</link>
-		<comments>https://www.ornithomedia.com/breves/la-mesange-sultane-une-mesange-originale-a-plus-dun-titre/#respond</comments>
-		<pubDate>Wed, 25 May 2022 22:02:29 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=209556</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-mesange-sultane-une-mesange-originale-a-plus-dun-titre/">La Mésange sultane, une mésange originale à plus d&rsquo;un titre</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-mesange-sultane-une-mesange-originale-a-plus-dun-titre/">La Mésange sultane, une mésange originale à plus d&rsquo;un titre</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/la-mesange-sultane-une-mesange-originale-a-plus-dun-titre/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
