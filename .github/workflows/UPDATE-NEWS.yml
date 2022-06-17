@@ -73,3 +73,7 @@ jobs:
       - name: VigiNature
         if: always()
         run:  ./viginature.ps1
+        
+      - name: LPO Rapaces
+        if: always()
+        run:  ./lporapaces.ps1
