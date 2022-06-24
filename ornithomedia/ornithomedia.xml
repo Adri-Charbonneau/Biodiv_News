@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 23 Jun 2022 06:10:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jun 2022 08:17:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Le Sirli du Dupont doit parfois modifier son chant à cause du bruit des éoliennes</title>
+		<link>https://www.ornithomedia.com/breves/le-sirli-du-dupont-doit-parfois-modifier-son-chant-a-cause-du-bruit-des-eoliennes/</link>
+		<comments>https://www.ornithomedia.com/breves/le-sirli-du-dupont-doit-parfois-modifier-son-chant-a-cause-du-bruit-des-eoliennes/#respond</comments>
+		<pubDate>Fri, 24 Jun 2022 06:10:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211083</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-sirli-du-dupont-doit-parfois-modifier-son-chant-a-cause-du-bruit-des-eoliennes/">Le Sirli du Dupont doit parfois modifier son chant à cause du bruit des éoliennes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-sirli-du-dupont-doit-parfois-modifier-son-chant-a-cause-du-bruit-des-eoliennes/">Le Sirli du Dupont doit parfois modifier son chant à cause du bruit des éoliennes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/le-sirli-du-dupont-doit-parfois-modifier-son-chant-a-cause-du-bruit-des-eoliennes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Des Eurylaimes psittacins nichent sur des câbles électriques dans le sud de la Chine</title>
 		<link>https://www.ornithomedia.com/breves/des-eurylaimes-psittacins-nichent-sur-des-cables-electriques-dans-le-sud-de-la-chine/</link>
@@ -162,22 +178,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/les-becs-en-ciseaux-noirs-peuvent-tuer-leurs-poussins-suite-a-un-stress/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Un Bruant à gorge blanche, « vedette » américaine d&#8217;un village du Jura en juin 2022</title>
-		<link>https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/</link>
-		<comments>https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/#comments</comments>
-		<pubDate>Mon, 06 Jun 2022 06:10:12 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=210142</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/">Un Bruant à gorge blanche, « vedette » américaine d&rsquo;un village du Jura en juin 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/">Un Bruant à gorge blanche, « vedette » américaine d&rsquo;un village du Jura en juin 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/un-bruant-a-gorge-blanche-un-passereau-americain-est-la-vedette-dun-village-du-jura-en-ce-mois-de-juin-2022/feed/</wfw:commentRss>
-		<slash:comments>4</slash:comments>
 		</item>
 	</channel>
 </rss>
