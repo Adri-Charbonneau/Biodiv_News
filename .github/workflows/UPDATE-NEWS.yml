@@ -77,3 +77,7 @@ jobs:
       - name: LPO Rapaces
         if: always()
         run:  ./lporapaces.ps1
+
+      - name: Plume de Naturaliste
+        if: always()
+        run: ./plumedenaturaliste.ps1

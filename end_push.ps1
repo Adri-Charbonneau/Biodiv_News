@@ -22,7 +22,7 @@ $tmtitle -replace '<','&lt;'
 $tmtitle -replace '>','&gt;'
 
 ## post tweet
-$twitter = (Select-String -Path config.txt -Pattern "twitter=(.*)").Matches.Groups[1].Value
+$twitter = (Select-String -Path "config.txt" -Pattern "twitter=(.*)").Matches.Groups[1].Value
 if ( $twitter -eq "y" )
 {
 Install-Module PSTwitterAPI -Force
