@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://naturefrance.fr/">
+  <channel>
+    <title>Nature France</title>
+    <link>http://naturefrance.fr/</link>
+    <description/>
+    <language>fr</language>
+
+<item>
+  <title>Disparition des papillons de jour dans les départements de métropole</title>
+  <link>http://naturefrance.fr/indicateurs/disparition-des-papillons-de-jour-dans-les-departements-de-metropole</link>
+  <description>            &lt;span&gt;Disparition des papillons de jour dans les départements de métropole&lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/8" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Adrien Rousselet&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;28/06/2022&lt;/span&gt;
+            &lt;span&gt;&lt;p&gt;Cet indicateur concerne le territoire de France métropolitaine et vise à objectiver la part des espèces de papillons de jour qui n’ont pas été revues dans au moins un des départements qu’elles occupaient. En contrechamp, nous objectivons également la part des papillons nouvellement observés au cours des 20 dernières années dans au moins un département où ils n’étaient pas connus. De là, nous pouvons quantifier la dynamique d’érosion spécifique des espèces de papillons de jour à l’échelle des départements de France métropolitaine.&lt;/p&gt;&lt;/span&gt;
+                  &lt;span&gt;NC-DPJ-22&lt;/span&gt;
+                  &lt;span&gt;&lt;time datetime="2022-05-31T12:00:00Z"&gt;31 mai 2022&lt;/time&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;Stratégie nationale pour la biodiversité (SNB) - Nature&lt;/span&gt;
+          &lt;/div&gt;
+              &lt;span&gt;&lt;p&gt;66 % des espèces de papillons de jour n’ont pas été revues depuis 20 ans dans au moins un département qu’elles occupaient&lt;/p&gt;&lt;/span&gt;
+                  &lt;span&gt;&lt;p&gt;L’analyse du taux de perte et/ou du taux de gain permet de rendre compte de la dynamique nationale liée à la diversité des espèces de papillons de jour. L’indicateur témoigne du niveau de maintien des espèces au sein de certains territoires et donc de l’évolution de la qualité et de la fonctionnalité des habitats naturels dits « de milieux ouverts » que sont les pelouses, les prairies, les landes et fourrés et enfin, les clairières forestières. Un accroissement du taux de perte départementale témoigne de l’érosion spécifique des papillons de jour. Une expertise réalisée sur les statuts de « découverte »  ou de « disparition » d’espèces au sein des territoires permet de différencier les évolutions liés à l’amélioration des connaissances des évolutions à celles liés à une réelle implantation ou encore des évolutions liées à la destruction des habitats. Les effets du réchauffement climatique peuvent également être observés au travers des gains et des pertes d’espèces.&lt;/p&gt;&lt;/span&gt;
+                  &lt;span&gt;2 à 5 ans&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;Novice&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Coût moyen&lt;/span&gt;
+          &lt;/div&gt;
+    &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Producteur :&lt;/span&gt;
+                  &lt;span class="value"&gt;&lt;p&gt;Office pour les insectes et leur environnement (Opie)&lt;/p&gt;&lt;/span&gt;
+              &lt;/div&gt;
+      &lt;div&gt;
+              &lt;span&gt;Non&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Robuste&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Assez précis&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Sensible&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Très efficace&lt;/span&gt;
+          &lt;/div&gt;
+              &lt;span&gt;&lt;p&gt;Cet indicateur rend compte d’une réalité implacable : la non-observation effective d’espèces là où elles étaient observées auparavant.&lt;br /&gt;
+Permet d’aborder le suivi des insectes à travers un groupe phare.&lt;br /&gt;
+Exploite les données des papillons de l’INPN et des réseaux experts Lépi’Net et Oreina.&lt;/p&gt;&lt;/span&gt;
+                  &lt;span&gt;&lt;p&gt;Nécessite une expertise pour vérifier les données. C’est un indicateur essentiellement descriptif qui ne permet pas de mesurer l’évolution quantitative des populations. Il témoigne à rebours du phénomène d’érosion et ce de façon relativement binaire (perte/gain).&lt;/p&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;Assez accessibles&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Assez homogènes&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Fiables&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Pérenne&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Abondantes&lt;/span&gt;
+          &lt;/div&gt;
+              &lt;span&gt;&lt;p&gt;Les données produites dans le cadre de cet indicateur permettront d’explorer de nombreuses questions : quels cortèges de papillons sont les plus touchés par la disparition départementale ? Quels liens y a-t-il entre perte/gain de diversité de papillons et d’autres attributs du département ? (habitats naturels, biogéographie, artificialisation des sols, réchauffement climatique, pratiques agricoles)&lt;/p&gt;&lt;/span&gt;
+                  &lt;span&gt;86a4b05e-c7dc-42cc-828a-e1d13105b5a7&lt;/span&gt;
+                  &lt;span&gt;2022&lt;/span&gt;
+                  &lt;span&gt;%&lt;/span&gt;
+                  &lt;span&gt;http://odata-indicateurs.mnhn.fr/calculations/86a4b05e-c7dc-42cc-828a-e1d13105b5a7/resource&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;Comment les éléments de la biodiversité identifiés comme majeurs évoluent-ils en France ?&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Tous milieux concernés&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Métropole&lt;/span&gt;
+          &lt;/div&gt;
+    &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Images :&lt;/span&gt;
+        &lt;div&gt;
+                    &lt;span class="value"&gt;&lt;figure class="default"&gt;&lt;span&gt;Disparition des papillons de jour en métropole&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/default/public/media/original/image/74cf160f-00c3-42d2-a5d2-3b3ed27204a9.png?itok=HOp2UbYo" width="2000" height="1307" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;INPN/SINP et Lépi'Net, 2020 ; Oreina, 2022&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+              &lt;span class="value"&gt;&lt;figure class="default"&gt;&lt;span&gt;Nombre d'espèces en fonction du nombre de départements où elles ont disparus&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/default/public/media/original/image/0102ec32-4bee-4510-bf96-ea5e2dbc894a.png?itok=uGLW-V-x" width="1500" height="973" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;INPN/SINP et Lépi'Net, 2020 ; Oreina, 2022&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+              &lt;span class="value"&gt;&lt;figure class="default"&gt;&lt;span&gt;Espèces de papillons de jour disparues par département&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/default/public/media/original/image/1e17c2f7-1d07-4dc6-8685-27cf192c9847.png?itok=bZL7nvub" width="2000" height="1994" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;INPN/SINP et Lépi'Net, 2020 ; Oreina, 2022&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+              &lt;span class="value"&gt;&lt;figure class="default"&gt;&lt;span&gt;Nombre de départements en fonction de la part des espèces disparues&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/default/public/media/original/image/f9585097-b961-4f4b-9e06-8e4ac3c5315b.png?itok=_8ZO6T8k" width="2000" height="1377" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;INPN/SINP et Lépi'Net, 2020 ; Oreina, 2022&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+                &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Intérêt :&lt;/span&gt;
+                  &lt;span class="value"&gt;&lt;p&gt;Il n’existe à l’heure actuelle aucun indicateur ONB concernant les insectes. Les papillons de jour bénéficient d’un grand attrait du public et, de par leurs exigences écologiques, ils sont représentatifs de l’état de conservation des milieux naturels. Il s’agit d’un groupe d’espèces dit « ambassadeur » : à travers l’étude de ce groupe, il est possible de dégager des tendances significatives pour l’ensemble des insectes et la biodiversité qu’ils représentent. Les papillons de jour adultes sont floricoles et interviennent dans les processus de pollinisation. A ce titre cet indicateur témoigne de la qualité de ce service écosystémique.&lt;/p&gt;&lt;/span&gt;
+              &lt;/div&gt;
+      &lt;div&gt;
+              &lt;span&gt;Gestion des espaces naturels&lt;/span&gt;
+              &lt;span&gt;Maitrise des pressions liées aux activités humaines&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;div&gt;
+              &lt;span&gt;Pollutions&lt;/span&gt;
+              &lt;span&gt;Destruction et fragmentation des habitats&lt;/span&gt;
+          &lt;/div&gt;
+    &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Visuel :&lt;/span&gt;
+                  &lt;span class="value"&gt;VisuelPapillons_445x555_0.png&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Origine des données :&lt;/span&gt;
+                  &lt;span class="value"&gt;&lt;p&gt;Les données utilisées correspondent à un export de l’INPN (1 948 756 données exploitables*) et un export de Lépi’Net transmis par Philippe Mothiron (65 005 données exploitables*) puis un export d’Oreina (10 0081 données*)&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;*&lt;em&gt;données d’observations identifiées à l’espèce et associées à un seul département&lt;/em&gt;.&lt;/p&gt;&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Nom complet de l'indicateur :&lt;/span&gt;
+                  &lt;span class="value"&gt;Part d’espèces de papillons de jour n’ayant pas été revues dans au moins un département sur les 20 dernières années&lt;/span&gt;
+              &lt;/div&gt;
+
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=899" class="webform-dialog webform-dialog-wide"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      
+  &lt;div&gt;
+    &lt;div&gt;Paragraphe Dépliable&lt;/div&gt;
+                  &lt;div&gt;0&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;div&gt;
+              &lt;span&gt;66&lt;/span&gt;
+          &lt;/div&gt;
+  </description>
+  <pubDate>Tue, 28 Jun 2022 11:00:03 +0000</pubDate>
+    <dc:creator>Adrien Rousselet</dc:creator>
+    <guid isPermaLink="false">899 at http://naturefrance.fr</guid>
+    </item>
+<item>
+  <title>Un nouveau portail pour la biodiversité en Centre-Val de Loire</title>
+  <link>http://naturefrance.fr/actualites/un-nouveau-portail-pour-la-biodiversite-en-centre-val-de-loire</link>
+  <description>            &lt;span&gt;Un nouveau portail pour la biodiversité en Centre-Val de Loire&lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/8" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Adrien Rousselet&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;09/05/2022&lt;/span&gt;
+
+            &lt;div&gt;&lt;p class="text-align-center"&gt;&lt;strong&gt;Outil collaboratif, ce nouveau site rassemble toutes les ressources pour découvrir, comprendre et agir en faveur de la biodiversité dans la région.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+                  &lt;span&gt;&lt;figure class="ofb_header_contenu_editorial"&gt;&lt;span&gt;Glaïeul d'Illyrie&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_header_contenu_editorial/public/2022-05/Gla%C3%AFeul%20d%27Illyrie.jpg?h=58c5ae79&amp;itok=A2VzVjqH" width="1920" height="254" alt="Glaïeul d'Illyrie" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;Glaïeul d'Illyrie&lt;/span&gt;
+                  &lt;span&gt;N. Van Ingen&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;observatoires territoriaux&lt;/span&gt;
+          &lt;/div&gt;
+  
+      &lt;div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_984"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_984-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;h5 style="color:#EA6109"&gt;&lt;img alt="" height="25" src="http://naturefrance.fr/sites/default/files/2020-12/Picto-feuille.png" width="25" /&gt;Un média unique&lt;br /&gt;
+ &lt;/h5&gt;
+
+&lt;p class="text-align-justify"&gt;Lancé en janvier 2022, il est dédié aux collectivités,&lt;strong&gt; citoyen·ne·s, entreprises, agriculteur·rice·s, enseignant·e·s&lt;/strong&gt;… Il oriente vers les dispositifs d’accompagnement, les interlocuteur·rice·s compétent·e·s, les outils pratiques et les contenus scientifiques et vulgarisés.&lt;br /&gt;&lt;br /&gt;
+Vitrine de l’&lt;strong&gt;Agence et de l’Observatoire régional de la biodiversité&lt;/strong&gt;, le Portail valorise les contenus produits par l’Observatoire et les acteurs en région.&lt;br /&gt;
+ &lt;/p&gt;
+
+&lt;h5 style="color:#EA6109"&gt;&lt;img alt="" height="25" src="http://naturefrance.fr/sites/default/files/2020-12/Picto-feuille.png" width="25" /&gt;Fusion des contenus de l'Observatoire au sein du Portail&lt;br /&gt;
+ &lt;/h5&gt;
+
+&lt;div style="float:right; margin:20px;"&gt;
+&lt;figure role="group" class="align-right"&gt;&lt;figure class="large"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-05/Etourneau%20sansonnet%20dans%20colzas.jpg?itok=y8PTXgjA" width="480" height="223" alt="Etourneau sansonnet dans colzas" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
+
+&lt;p class="text-align-justify"&gt;L'ensemble des contenus de l'Observatoire est intégré au sein du Portail. L’entrée Découvrir vous permet de retrouver &lt;a href="https://www.biodiversite-centrevaldeloire.fr/decouvrir/l-observatoire" target="_blank"&gt;&lt;strong&gt;la page Observatoire&lt;/strong&gt;&lt;/a&gt;, &lt;strong&gt;&lt;a href="https://www.biodiversite-centrevaldeloire.fr/decouvrir/l-observatoire/publications-de-l-observatoire" target="_blank"&gt;ses publications&lt;/a&gt;&lt;/strong&gt;, ainsi que les pages des pôles&lt;strong&gt; &lt;a href="https://www.biodiversite-centrevaldeloire.fr/decouvrir/l-observatoire/pole-faune" target="_blank"&gt;Faune&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href="https://www.biodiversite-centrevaldeloire.fr/decouvrir/l-observatoire/pole-flore-habitats" target="_blank"&gt;Flore&amp;habitats&lt;/a&gt;&lt;/strong&gt; et &lt;strong&gt;&lt;a href="https://www.biodiversite-centrevaldeloire.fr/decouvrir/l-observatoire/pole-gestion-des-milieux-naturels" target="_blank"&gt;Gestion des milieux naturels&lt;/a&gt;&lt;/strong&gt;. Vous découvrez également un large contenu détaillé, portant sur la &lt;strong&gt;biodiversité en Centre-Val de Loire&lt;/strong&gt;, &lt;strong&gt;&lt;a href="https://www.biodiversite-centrevaldeloire.fr/decouvrir/la-biodiversite-en-centre-val-de-loire/grands-milieux-et-especes-associees" target="_blank"&gt;ses milieux et espèces associées&lt;/a&gt;&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;
+La rubrique Comprendre orientera vers des contenus scientifiques et techniques, comme les &lt;strong&gt;&lt;a href="https://www.biodiversite-centrevaldeloire.fr/comprendre/dossiers-thematiques" target="_blank"&gt;dossiers thématiques&lt;/a&gt;&lt;/strong&gt;, pour saisir les enjeux et menaces actuels pesant sur la biodiversité. L’entrée Agir vous permet d’accéder au guide "planter local" parmi d’autres idées d’actions !&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--mise-en-exerge" id="paragraph_985"&gt;&lt;div class="container"&gt;
+  &lt;div class="row"&gt;
+        &lt;div class="col-12"&gt;
+          &lt;div class="card" style="background-color: #E8682F"&gt;
+            &lt;div class="card--image"&gt;
+                                                &lt;figure&gt;&lt;div class="figure-wrapper"&gt;
+    &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_mise_en_exerge/public/2020-08/ORB%20Centre%20Val%20de%20Loire.png?h=653d7163&amp;itok=a_peFEVo" class="figure-img img-fluid" alt="ORB Centre val de Loire" title="ORB Centre val de Loire" /&gt;&lt;/div&gt;
+      &lt;figcaption class="figure-bottom"&gt;&lt;span class="figure-caption"&gt;Site de l'Observatoire régional de la biodiversité du Centre-Val de Loire
+&lt;/span&gt;
+                &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
+                                      &lt;div class="card--wysiwyg"&gt;
+                            &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;&lt;span style="font-size:1.3em"&gt;Guide "planter local"&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;61 espèces d'arbres et d'arbustes indigènes au Centre-Val de Loire (CBNBP, 2016).&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="btn btn-secondary" href="https://www.biodiversite-centrevaldeloire.fr/ressources/idees-actions/planter-local" id="print-btn" style="background:#e0e0e0; text-decoration:none;" tabindex="-1" target="_blank" title="Accéder au portail"&gt;&lt;span class="sr-only"&gt;Accéder aux ressources&lt;/span&gt;En savoir plus&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+              &lt;/div&gt;
+                      &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_986"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_986-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;h5 style="color:#EA6109"&gt;Un outils collaboratif&lt;br /&gt;
+ &lt;/h5&gt;
+
+&lt;p class="text-align-justify"&gt;Voué à s’enrichir dans le temps, cet outil collaboratif est ouvert à tous. Vitrine des actions et acteurs dans les territoires, le Portail vise à amplifier la dynamique collective, &lt;strong&gt;partager les connaissances&lt;/strong&gt; et faciliter les coopérations. Vous souhaitez partager des retours d’expérience, idées d’action, ressources documentaires, ou des vidéos, podcasts ? Chacun.e peut en effet &lt;strong&gt;contribuer à ce portail&lt;/strong&gt; en renseignant les formulaires dédiés à chaque type de contenus.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_987"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_987-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;div style=" border: solid 1px #098838;  border-radius:10px;  padding: 20px;"&gt;
+&lt;p class="text-align-justify"&gt;Le Portail est animé par l’Agence régionale de la biodiversité Centre-Val de Loire. Les membres et partenaires de l’Agence ont participé à sa construction et contribuent aujourd’hui à son enrichissement.&lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;&lt;a class="btn btn-primary" href="https://www.biodiversite-centrevaldeloire.fr/" id="print-btn" tabindex="-1" target="_blank" title="je consulte"&gt;&lt;span class="sr-only"&gt;je consulte&lt;/span&gt;Je consulte le portail&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=897"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      
+  &lt;div&gt;
+    &lt;div&gt;Paragraphe Dépliable&lt;/div&gt;
+                  &lt;div&gt;0&lt;/div&gt;
+              &lt;/div&gt;
+</description>
+  <pubDate>Mon, 09 May 2022 12:26:07 +0000</pubDate>
+    <dc:creator>Adrien Rousselet</dc:creator>
+    <guid isPermaLink="false">897 at http://naturefrance.fr</guid>
+    </item>
+<item>
+  <title>Nouvelle édition de « Regard sur la nature » pour découvrir l'état de la biodiversité en PACA</title>
+  <link>http://naturefrance.fr/actualites/nouvelle-edition-de-regard-sur-la-nature-pour-decouvrir-letat-de-la-biodiversite-en-paca</link>
+  <description>            &lt;span&gt;Nouvelle édition de « Regard sur la nature » pour découvrir l'état de la biodiversité en PACA&lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/34" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Quentin Gouffe&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;30/03/2022&lt;/span&gt;
+            &lt;span&gt;&lt;figure class="ofb_header_contenu_editorial"&gt;&lt;span&gt;Paysage des Alpilles, Haie et bocage &lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_header_contenu_editorial/public/2022-03/45917-copie.jpg?h=ed37a792&amp;itok=doKZ9zCO" width="1920" height="254" alt="Paysage des Alpilles, Haie et bocage " loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;Paysage des Alpilles, Haie et bocage &lt;/span&gt;
+                  &lt;span&gt;- Thomas Gendre / OFB&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;état de la biodiversité&lt;/span&gt;
+              &lt;span&gt;observatoires territoriaux&lt;/span&gt;
+              &lt;span&gt;pressions sur la biodiversité&lt;/span&gt;
+          &lt;/div&gt;
+  
+      &lt;div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_978"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_978-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-center"&gt;&lt;strong&gt;L’Observatoire Régional de la Biodiversité [ORB] Provence-Alpes-Côte d’Azur publie sa 4e synthèse sur l’état de la biodiversité en Provence-Alpes-Côte d’Azur : Regard sur la nature, édition 2021&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p class="text-align-center"&gt; &lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;Une nouvelle publication pour découvrir les chiffres clés sur la biodiversité en Provence-Alpes-Côte d'Azur.&lt;/p&gt;
+
+&lt;div style=" border: solid 1px #098838;  border-radius:10px;  padding: 20px; padding-bottom: 90px; margin:auto"&gt;&lt;img alt="" height="150" src="http://naturefrance.fr/sites/default/files/2022-03/couv RSN 2021.PNG" style="margin-right:10px; float:left" width="112" /&gt;&lt;p style="font-size:12px"&gt;Regard sur la nature, édition 2021 – ORB Provence-Alpes-Côte d’Azur&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="btn btn-primary" href="https://naturefrance.fr/publications/regard-sur-la-nature-edition-2021-orb-provence-alpes-cote-dazur" target="_blank" title="Consulter"&gt;&lt;span&gt;Consulter la publication&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Une grande richesse en espèces&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_983"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_983-1" role="button" aria-expanded="true" aria-controls="paragraph_983-1"&gt;
+              &lt;h3 class="title--bar"&gt;            &lt;span&gt;Une grande richesse en espèces&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_983-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;div id="cf_paca"&gt;
+&lt;style type="text/css"&gt;
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+@media screen and (min-width: 480px){
+    #cf_paca{
+		float:right;
+		margin: 20px;
+        margin-top: 0px;
+    	width: 300px !important;
+    }
+    }
+
+/*--&gt;&lt;!]]]]&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]&gt;*/
+&lt;/style&gt;&lt;div style="width: auto; text-align: center; color:#EAAA0A; margin-bottom:20px;"&gt;
+&lt;p style="font-size:50px; font-weight:bold"&gt;71,5 %&lt;/p&gt;
+
+&lt;p style="font-size:20px"&gt;des espèces de métropole abritées en Provence-Alpes-Côte d’Azur&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="text-align-justify"&gt; &lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;La région Provence-Alpes-Côte d’Azur bénéficie d’une &lt;strong&gt;très grande richesse en espèces&lt;/strong&gt;, qu’elles soient animales ou végétales. Le territoire porte une responsabilité nationale - voire européenne pour certains groupes biologiques- dans la conservation de ce patrimoine naturel. La Provence-Alpes-Côte d’Azur abrite ainsi  71,5 % des espèces de métropole.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Une grande diversité de milieux&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_981"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_981-1" role="button" aria-expanded="true" aria-controls="paragraph_981-1"&gt;
+              &lt;h3 class="title--bar"&gt;            &lt;span&gt;Une grande diversité de milieux&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_981-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;La &lt;strong&gt;diversité des milieux naturels&lt;/strong&gt; en PACA est, elle aussi, remarquable. Façonnés par les influences climatiques méditerranéennes et alpines et les substrats géologiques, certains sont même uniques en France comme la plaine steppique de la Crau.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;figure role="group" class="align-left"&gt;&lt;figure class="large"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-03/54013-copie.jpg?itok=MAdtowdS" width="480" height="360" alt="Lac long inférieur dans la Vallée des Merveilles - Alpes Maritimes (06)" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;figcaption&gt;Lac long inférieur dans la Vallée des Merveilles - Vincent Marty / OFB&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure role="group" class="align-right"&gt;&lt;figure class="large"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-03/45904.jpg?itok=nPVekUpA" width="480" height="360" alt="Réserve naturelle Coussouls de Crau" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;figcaption&gt;Réserve naturelle Coussouls de Crau - Laure Corcelle / OFB&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
+
+&lt;div style="display:inline-block;"&gt;
+&lt;hr /&gt;&lt;p class="text-align-justify"&gt; &lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;Le territoire régional est également l’un des plus peuplés de France. La biodiversité y est confrontée à de &lt;strong&gt;nombreuses pressions&lt;/strong&gt;, dues aux activités humaines.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_982"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_982-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p&gt;Cette nouvelle publication dresse ainsi le bilan d’une &lt;strong&gt;biodiversité exceptionnelle fragilisée par les activités humaines&lt;/strong&gt;.&lt;br /&gt;
+ &lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;&lt;a class="btn btn-primary" href="http://naturefrance.fr/sites/default/files/2022-03/arbe_-_regards_sur_la_nature_web_2022_03_03.pdf" target="_blank"&gt;&lt;span&gt;Je consulte la publication&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;Plus d’informations sur &lt;u&gt;&lt;a href="http://www.observatoire-biodiversite-paca.org/" target="_blank"&gt;l’Observatoire régional de la biodiversité Provences-Alpes-Côte d’azur&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Pour aller plus loin&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--pour-aller-plus-loin" id="paragraph_980"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_980-1" role="button" aria-expanded="true" aria-controls="paragraph_980-1"&gt;
+              &lt;h3 class="title"&gt;            &lt;span&gt;Pour aller plus loin&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+          
+          &lt;div class="glide glide--pour-aller-plus-loin collapse show" id="paragraph_980-1"&gt;
+            &lt;div data-glide-el="track" class="glide__track"&gt;
+              &lt;div class="glide__slides"&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="http://naturefrance.fr/publications/les-observatoires-de-la-biodiversite-des-vigies-de-levolution-du-vivant-dans-les" target="_blank"&gt;Les observatoires de la biodiversité, des vigies de l’évolution du vivant dans les territoires&lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Publication ONB&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="http://naturefrance.fr/observatoires-territoriaux-de-la-biodiversite" target="_blank"&gt;Observatoires territoriaux de la biodiversité&lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Page ONB&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                              &lt;/div&gt;
+              &lt;div class="glide__arrows" data-glide-el="controls"&gt;
+                &lt;button class="glide__arrow glide__arrow--left chevron-link-plus-loin" data-glide-dir="&lt;"&gt;&lt;/button&gt;
+                &lt;button class="glide__arrow glide__arrow--right chevron-link-plus-loin" data-glide-dir="&gt;"&gt;&lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;div class="modal fade" role="dialog" id="modalPourAllerPlusLoin"&gt;
+            &lt;button type="button" class="close" data-dismiss="modal" aria-label="Close"&gt;
+              &lt;span class="fas fa-times" aria-hidden="true"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;div class="modal-dialog"&gt;
+              &lt;div class="modal-content"&gt;
+                              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=896"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      
+  &lt;div&gt;
+    &lt;div&gt;Paragraphe Dépliable&lt;/div&gt;
+                  &lt;div&gt;0&lt;/div&gt;
+              &lt;/div&gt;
+</description>
+  <pubDate>Wed, 30 Mar 2022 09:42:12 +0000</pubDate>
+    <dc:creator>Quentin Gouffe</dc:creator>
+    <guid isPermaLink="false">896 at http://naturefrance.fr</guid>
+    </item>
+<item>
+  <title>La France, troisième pays contributeur du réseau GBIF</title>
+  <link>http://naturefrance.fr/actualites/la-france-troisieme-pays-contributeur-du-reseau-gbif</link>
+  <description>            &lt;span&gt;La France, troisième pays contributeur du réseau GBIF&lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/8" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Adrien Rousselet&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;14/03/2022&lt;/span&gt;
+
+            &lt;div&gt;&lt;p class="text-align-center"&gt;&lt;strong&gt;L’Inventaire National du Patrimoine Naturel (INPN), diffuse 82 millions dedonnées d’occurrences d’espèces dans le Global Biodiversity Information Facility* (GBIF), ou en d’autres termes le Système mondial d'information sur la biodiversité, dont plus de 10 millions de nouvelles données partagées en 2021&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+                  &lt;span&gt;&lt;figure class="ofb_header_contenu_editorial"&gt;&lt;span&gt;forêt vue aérienne&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_header_contenu_editorial/public/2022-03/for%C3%AAt%20vue%20a%C3%A9rienne.jpg?h=2b318589&amp;itok=k8cFDu0I" width="1920" height="254" alt="forêt vue aérienne" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;forêt vue aérienne&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;données sur la biodiversité&lt;/span&gt;
+              &lt;span&gt;systèmes d'information&lt;/span&gt;
+          &lt;/div&gt;
+  
+      &lt;div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_975"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_975-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;L’effort de diffusion des données françaises au niveau international se poursuit avec l’apport de plus de 10 millions de nouvelles occurrences compilées par l’INPN dans le GBIF.&lt;/p&gt;
+
+&lt;div id="cf_gbif"&gt;
+&lt;style type="text/css"&gt;
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+@media screen and (min-width: 480px){
+    #cf_gbif{
+		float:left;
+		margin: 20px;
+    	width: 300px !important;
+    }
+    }
+
+/*--&gt;&lt;!]]]]]]]]&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]]]]]&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]]]&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]&gt;*/
+&lt;/style&gt;&lt;div style="width: auto; text-align: center; color:#EAAA0A; margin-bottom:20px;"&gt;
+&lt;p style="font-size:50px; font-weight:bold"&gt;82 millions&lt;/p&gt;
+
+&lt;p style="font-size:20px"&gt;C'est le nombre total de données diffusée par l'INPN dans le GBIF&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="text-align-justify"&gt;&lt;br /&gt;&lt;br /&gt;
+Cette nouvelle diffusion porte le nombre total de données diffusées par l'INPN dans le GBIF à plus de 82 millions (répartis dans 4 442 jeux de données). La France devient ainsi le troisième pays contributeur du réseau GBIF, en termes de données publiées, et &lt;strong&gt;PatriNat&lt;/strong&gt; (gestionnaire de l’INPN) le deuxième contributeur mondial en nombre de jeux de données d’observation d’espèces.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;div style="float:right; margin:20px;"&gt;
+&lt;figure class="align-center large"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-03/inpn-vers-gbif-2022-02.jpg?itok=jeAnNXad" width="480" height="275" alt="biodiversité espèces medley" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;/div&gt;
+
+&lt;p class="text-align-justify"&gt;Ces données, agrégées au niveau national par l’INPN dans le cadre du &lt;strong&gt;Système d’Information de l’Inventaire du Patrimoine Naturel&lt;/strong&gt; **, SINP, proviennent de sources variées sur tout le territoire français métropolitain et ultra-marin : associations naturalistes et sociétés savantes, conservatoires botaniques, experts ou encore programmes de sciences citoyennes et participatives.&lt;br /&gt;&lt;br /&gt;
+Toutes ces données sont librement accessibles sur &lt;a href="https://www.gbif.org/" target="_blank"&gt;le site GBIF&lt;/a&gt; et contribuent à la production de nouvelles études scientifiques ainsi qu’à l’appui aux politiques publiques.&lt;br /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;&lt;a class="btn btn-primary" href="https://www.gbif.org/" target="_blank" title="Consulter"&gt;&lt;span&gt;Je consulte&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p style="font-size:9px"&gt;&lt;u&gt;&lt;strong&gt;Crédits photo&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;
+Coprinus niveus © Anonyme via l'application INPN&lt;br /&gt;
+Espèces Salamandra atra atra © J. Thevenot&lt;br /&gt;
+Sepioteuthis lessoniana © Philippe Bourjon / La Réunion&lt;br /&gt;
+Palicourea crocea © César Delnatte / Biotope Amazonie&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;u&gt;Références bibliographiques &lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+(*)C’est une infrastructure de données financés par les gouvernements du monde entier et visant à fournir à quiconque, où qu'il soit, un accès libre et gratuit aux données relatives à tous les types de vie sur Terre.&lt;br /&gt;
+(**) Un des SI métier composant le Système d’Information de la Biodiversité (SIB)&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;La répartition des données transmises&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--media-text" id="paragraph_976"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_976-1" role="button" aria-expanded="true" aria-controls="paragraph_976-1"&gt;
+              &lt;h3 class="title--bar"&gt;            &lt;span&gt;La répartition des données transmises&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+          
+          &lt;div class="card-body collapse show" id="paragraph_976-1"&gt;
+            &lt;div class="text-center"&gt;
+              &lt;div class="row"&gt;
+                                                                                      &lt;div class="textMediaImageVideo mb-5 col-md-12"&gt;
+    &lt;div class="text-center"&gt;
+              &lt;figure&gt;&lt;div class="figure-wrapper"&gt;
+    &lt;img src="https://naturefrance.fr/sites/default/files/2022-03/patrinat_inpn_gbif_carte.png" class="figure-img img-fluid" alt="GBIF carte" title="GBIF carte" /&gt;&lt;/div&gt;
+      &lt;figcaption class="figure-bottom"&gt;&lt;span class="figure-caption"&gt;Répartition des données transmises sur le portail du GBIF © OpenStreetMap contributors - © OpenMapTiles, GBIF&lt;/span&gt;
+                    &lt;span class="figure-copyright"&gt;© OpenStreetMap contributors - © OpenMapTiles, GBIF&lt;/span&gt;
+          &lt;/figcaption&gt;&lt;/figure&gt;&lt;div class="media--caption"&gt;
+          &lt;a class="fas fa-info-circle" data-toggle="collapse" href="#media--caption-2277" role="button" aria-expanded="false" aria-controls="collapseExample"&gt;
+          &lt;/a&gt;
+          &lt;div class="card--caption collapse" id="media--caption-2277"&gt;
+            &lt;a class="fas fa-times" data-toggle="collapse" href="#media--caption-2277" role="button" aria-expanded="false" aria-controls="collapseExample"&gt;
+            &lt;/a&gt;
+            &lt;p class="caption"&gt;Répartition des données transmises sur le portail du GBIF © OpenStreetMap contributors - © OpenMapTiles, GBIF&lt;/p&gt;
+            &lt;p class="copyright"&gt;© OpenStreetMap contributors - © OpenMapTiles, GBIF&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="row"&gt;
+                              &lt;div class="modal fade" role="dialog" id="mediaModal"&gt;
+                  &lt;button type="button" class="close" data-dismiss="modal" aria-label="Close"&gt;
+                    &lt;span class="fas fa-times" aria-hidden="true"&gt;&lt;/span&gt;
+                  &lt;/button&gt;
+                  &lt;div class="modal-dialog"&gt;
+                    &lt;div class="modal-content"&gt;
+                      &lt;div class="container"&gt;
+                        &lt;div class="row"&gt;
+                          &lt;div class="col"&gt;
+                            &lt;div class="media--modal-img"&gt;
+                              &lt;div class="imageVideo-inner"&gt;
+                                                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                                            &lt;div class="col-12"&gt;
+                  &lt;div class="card--footer"&gt;
+                                &lt;div class="text-long"&gt;&lt;div class="text-align-center" style=" border: solid 1px #098838;  border-radius:10px;  padding: 20px;"&gt;Le &lt;strong&gt;GBIF France&lt;/strong&gt;, en association avec &lt;strong&gt;PatriNat&lt;/strong&gt; dont il fait partie intégrante, remercie tous les producteurs de données français et reste disponible pour accompagner la mise en ligne ou l'utilisation des données accessibles dans le réseau GBIF&lt;br /&gt;
+ 
+&lt;p class="text-align-center"&gt;&lt;a class="btn btn-primary" href="mailto:" target="_blank" title="Contact"&gt;&lt;span&gt;Je contacte&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                          &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Pour aller plus loin&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--pour-aller-plus-loin" id="paragraph_977"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_977-1" role="button" aria-expanded="true" aria-controls="paragraph_977-1"&gt;
+              &lt;h3 class="title"&gt;            &lt;span&gt;Pour aller plus loin&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+          
+          &lt;div class="glide glide--pour-aller-plus-loin collapse show" id="paragraph_977-1"&gt;
+            &lt;div data-glide-el="track" class="glide__track"&gt;
+              &lt;div class="glide__slides"&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="https://www.gbif.org/publisher/1928bdf0-f5d2-11dc-8c12-b8a03c50a862" target="_blank"&gt;Data publisher de PatriNat sur GBIF&lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Article&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="https://www.youtube.com/watch?v=8PxnlJTZpFs&amp;list=PLqWoi3QNM7I7qyjBaRbhnRXo4Yhi-hoGL&amp;index=11" target="_blank"&gt;Vidéo « Le SINP et la sphère internationale » &lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Vidéo&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="https://www.gbif.org/science-review" target="_blank"&gt;Science Review du Gbif &lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Site internet&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                              &lt;/div&gt;
+              &lt;div class="glide__arrows" data-glide-el="controls"&gt;
+                &lt;button class="glide__arrow glide__arrow--left chevron-link-plus-loin" data-glide-dir="&lt;"&gt;&lt;/button&gt;
+                &lt;button class="glide__arrow glide__arrow--right chevron-link-plus-loin" data-glide-dir="&gt;"&gt;&lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;div class="modal fade" role="dialog" id="modalPourAllerPlusLoin"&gt;
+            &lt;button type="button" class="close" data-dismiss="modal" aria-label="Close"&gt;
+              &lt;span class="fas fa-times" aria-hidden="true"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;div class="modal-dialog"&gt;
+              &lt;div class="modal-content"&gt;
+                              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=891"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      
+  &lt;div&gt;
+    &lt;div&gt;Paragraphe Dépliable&lt;/div&gt;
+                  &lt;div&gt;0&lt;/div&gt;
+              &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Mar 2022 17:22:26 +0000</pubDate>
+    <dc:creator>Adrien Rousselet</dc:creator>
+    <guid isPermaLink="false">891 at http://naturefrance.fr</guid>
+    </item>
+<item>
+  <title>Bilan du Séminaire Données sur la biodiversité </title>
+  <link>http://naturefrance.fr/actualites/bilan-du-seminaire-donnees-sur-la-biodiversite</link>
+  <description>            &lt;span&gt;Bilan du Séminaire Données sur la biodiversité &lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/34" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Quentin Gouffe&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;11/02/2022&lt;/span&gt;
+            &lt;span&gt;&lt;figure class="ofb_header_contenu_editorial"&gt;&lt;span&gt;seminaire sib données biodiversité 2021&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_header_contenu_editorial/public/2022-02/seminaire%20donnee%20biodiversit%C3%A9%202021_0.jpg?h=2b318589&amp;itok=iYjr8NxJ" width="1920" height="254" alt="seminaire sib données biodiversité 2021" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;seminaire sib données biodiversité 2021&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;connaissances&lt;/span&gt;
+              &lt;span&gt;systèmes d'information&lt;/span&gt;
+          &lt;/div&gt;
+  
+      &lt;div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_954"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_954-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;h4 class="text-align-center"&gt;&lt;strong&gt;Publication du bilan du séminaire "Données sur la biodiversité" &lt;/strong&gt;&lt;/h4&gt;
+
+&lt;h4 class="text-align-center"&gt;&lt;strong&gt;des 6 et 7 avril 2021 &lt;/strong&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;&lt;p class="text-align-justify"&gt;Les 6 et 7 avril 2021, 390 personnes ont partagé un temps d'échange et de réflexion sur la diffusion et la réutilisation des données sur la biodiversité lors d'un séminaire virtuel.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--mise-en-exerge" id="paragraph_957"&gt;&lt;div class="container"&gt;
+  &lt;div class="row"&gt;
+        &lt;div class="col-12"&gt;
+          &lt;div class="card" style="background-color: #E8682F"&gt;
+            &lt;div class="card--image"&gt;
+                                                &lt;figure&gt;&lt;div class="figure-wrapper"&gt;
+    &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_mise_en_exerge/public/2021-03/SIB-logo-carre_0.png?h=653d7163&amp;itok=jQXcmyjV" class="figure-img img-fluid" alt="logo SIB carré" title="logo SIB carré" /&gt;&lt;/div&gt;
+      &lt;figcaption class="figure-bottom"&gt;&lt;span class="figure-caption"&gt;logo SIB carré&lt;/span&gt;
+                    &lt;span class="figure-copyright"&gt;SIB&lt;/span&gt;
+          &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
+                                      &lt;div class="card--wysiwyg"&gt;
+                            &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Le Système d’information sur la biodiversité (SIB) est le dispositif qui a pour objectif de fédérer toutes les données disponibles et mobilisables sur la biodiversité en France, afin d’améliorer leur accessibilité et leur réutilisation.&lt;/p&gt;
+&lt;/div&gt;
+      
+              &lt;/div&gt;
+                      &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Rapport Bilan du séminaire des 6 et 7 avril 2021&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_959"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_959-1" role="button" aria-expanded="true" aria-controls="paragraph_959-1"&gt;
+              &lt;h3 class="title--bar"&gt;            &lt;span&gt;Rapport Bilan du séminaire des 6 et 7 avril 2021&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_959-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;L'ensemble des éléments qui ont été abordés, en amont par l'enquête sur l’appropriation des acteurs sur le système d'information sur la biodiversité, et pendant ce séminaire (plénière, carrefours thématiques, forum des actions, rencontres flash) ont été rassemblés dans un &lt;strong&gt;rapport de synthèse&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;Ce rapport pose un jalon dans le projet du système d'information sur la biodiversité (SIB) et acte l'état des réflexions en 2021, année de lancement du dispositif.&lt;br /&gt;
+Il référence les supports de présentation utilisés, les enregistrements vidéos ainsi que les documents de travail présentés lors du séminaire.&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt; &lt;/p&gt;
+
+&lt;div style=" border: solid 1px #098838;  border-radius:10px;  padding: 20px; margin:auto"&gt;&lt;img alt="PatriNat" height="92" src="http://naturefrance.fr/sites/default/files/2021-03/SIB-logo-carre_0.png" style="margin-right:10px; float:left" width="92" /&gt;&lt;p style="font-size:12px"&gt;&lt;strong&gt;BILAN DU SÉMINAIRE « DONNÉES SUR LA BIODIVERSITÉ » du 6 et 7 avril 2021, Septembre 2021. Thomas MILON / PatriNat (OFB-CNRS-MNHN)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="btn btn-primary" href="https://inpn.mnhn.fr/docs-web/docs/download/397981" target="_blank" title="Consulter"&gt;&lt;span&gt;Consulter&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Qu'est ce que le séminaire "Données sur la Biodiversité" ?&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_962"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_962-1" role="button" aria-expanded="true" aria-controls="paragraph_962-1"&gt;
+              &lt;h3 class="title--bar"&gt;            &lt;span&gt;Qu'est ce que le séminaire "Données sur la Biodiversité" ?&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_962-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Destiné aux porteurs des politiques publiques du SIB ainsi qu’aux opérateurs associés (acteurs de la production, de la gestion et de la diffusion des données).&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;Il a pour objectifs de permettre aux participants :&lt;/p&gt;
+
+&lt;ul&gt;&lt;li class="text-align-justify"&gt;de mieux appréhender les objectifs du SIB ainsi que son fonctionnement à travers des exemples concrets&lt;/li&gt;
+	&lt;li class="text-align-justify"&gt;d’échanger sur les synergies existantes et à créer sur les sujets «données» en lien avec les grands enjeux de biodiversité (artificialisation des sols, transition agro-écologique, pollution lumineuse, aires protégées, biodiversité des sols, espèces exotiques envahissantes, mesures compensatoires, écosystèmes marins…)&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="text-align-justify"&gt;Il se présente sous la forme d’une expérience de 2 jours, rythmés par des carrefours thématiques et des temps forts participatifs. Une troisième journée dédiée à de courtes rencontres avec les services du SIB est également proposée.&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt; &lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt; &lt;/p&gt;
+
+&lt;div style="background-image: url('/sites/default/files/2020-10/fond-feuille-vert.png'); padding:5px;  color:#FFF"&gt;
+&lt;h5 class="text-align-center"&gt;Séminaire Données sur la biodiversité - 6 &amp; 7 avril 2021&lt;/h5&gt;
+
+&lt;p class="text-align-center"&gt;&lt;a href="https://www.youtube.com/playlist?list=PLqWoi3QNM7I49YVfpLnBluU_rA0xtDcxM" style="text-decoration:none; color: #fff;" target="_blank"&gt;La playlist complète  avec toutes les séances du séminaire est à retrouver ici&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--media-text" id="paragraph_955"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+          
+          &lt;div class="card-body collapse show" id="paragraph_955-1"&gt;
+            &lt;div class="text-center"&gt;
+              &lt;div class="row"&gt;
+                                                                                      &lt;div class="textMediaImageVideo mb-5 col-md-12"&gt;
+    &lt;div class="text-center"&gt;
+                    &lt;figure&gt;&lt;div class="figure-wrapper"&gt;
+      &lt;iframe id="player" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/_2F8c1zC16M" frameborder="0"&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+  &lt;figcaption class="figure-bottom"&gt;&lt;span class="figure-caption"&gt;Séminaire Données sur la biodiversité - 6 &amp; 7 avril 2021&lt;/span&gt;
+        &lt;span class="figure-copyright"&gt;PatriNat INPN&lt;/span&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;div class="media--caption"&gt;
+          &lt;a class="fas fa-info-circle" data-toggle="collapse" href="#media--caption-2109" role="button" aria-expanded="false" aria-controls="collapseExample"&gt;
+          &lt;/a&gt;
+          &lt;div class="card--caption collapse" id="media--caption-2109"&gt;
+            &lt;a class="fas fa-times" data-toggle="collapse" href="#media--caption-2109" role="button" aria-expanded="false" aria-controls="collapseExample"&gt;
+            &lt;/a&gt;
+            &lt;p class="caption"&gt;Séminaire Données sur la biodiversité - 6 &amp; 7 avril 2021&lt;/p&gt;
+            &lt;p class="copyright"&gt;PatriNat INPN&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="row"&gt;
+                              &lt;div class="modal fade" role="dialog" id="mediaModal"&gt;
+                  &lt;button type="button" class="close" data-dismiss="modal" aria-label="Close"&gt;
+                    &lt;span class="fas fa-times" aria-hidden="true"&gt;&lt;/span&gt;
+                  &lt;/button&gt;
+                  &lt;div class="modal-dialog"&gt;
+                    &lt;div class="modal-content"&gt;
+                      &lt;div class="container"&gt;
+                        &lt;div class="row"&gt;
+                          &lt;div class="col"&gt;
+                            &lt;div class="media--modal-img"&gt;
+                              &lt;div class="imageVideo-inner"&gt;
+                                                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                                            &lt;div class="col-12"&gt;
+                  &lt;div class="card--footer"&gt;
+                                &lt;div class="text-long"&gt;&lt;h4 class="text-align-justify"&gt;&lt;strong&gt;La participation au séminaire&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;div id="cf_seminaire"&gt;
+&lt;style type="text/css"&gt;
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+@media screen and (min-width: 480px){
+    #cf_seminaire{
+        float:right;
+		margin: 20px;
+    	width: 300px !important;
+    }
+    }
+
+/*--&gt;&lt;!]]]]&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]&gt;*/
+&lt;/style&gt;&lt;div style="width: auto; text-align: center; color:#EAAA0A; margin-bottom:20px;"&gt;
+&lt;p style="font-size:50px; font-weight:bold"&gt;390&lt;/p&gt;
+
+&lt;p style="font-size:20px"&gt;participants au séminaire Données sur la Biodiversité&lt;/p&gt;
+&lt;a class="btn btn-secondary" href="https://inpn.mnhn.fr/docs-web/docs/download/397981" id="print-btn" tabindex="-1" target="_blank" title="En savoir plus"&gt;&lt;span class="sr-only"&gt;En savoir plus&lt;/span&gt;En savoir plus&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="text-align-justify"&gt;Sur les 458 personnes inscrites, 390 personnes ont participé au séminaire, avec 371 le premier jour et 180 le deuxième jour.&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;Un peu moins de la moitié des participants sont issus d’établissements publics (notamment l’Office français de la biodiversité (OFB) et le MNHN) et de services de l’État (ministères et services déconcentrés). Un peu moins d’un quart des participants sont issus de la « sphère biodiversité » (CBN, CEN, PNR, CPIE, etc.) et du monde associatif. Enfin, une partie des participants est issue du monde privé (entreprises du numérique notamment), du monde de la recherche académique et des collectivités territoriales (région, département, communautés de communes et communes). Par ailleurs, 57 % des participants travaillent à une échelle nationale, 27 % à une échelle régionale et 15 % à une échelle plus locale.&lt;/p&gt;
+&lt;/div&gt;
+      
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                          &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Le SIB poursuit sa mise en place &lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--media-text" id="paragraph_963"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_963-1" role="button" aria-expanded="true" aria-controls="paragraph_963-1"&gt;
+              &lt;h3 class="title--bar"&gt;            &lt;span&gt;Le SIB poursuit sa mise en place &lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+          
+          &lt;div class="card-body collapse show" id="paragraph_963-1"&gt;
+            &lt;div class="text-center"&gt;
+              &lt;div class="row"&gt;
+                                                                                        &lt;div class="textMediaImageVideo mb-5 col-md-6"&gt;
+    &lt;div class="text-center"&gt;
+              &lt;figure&gt;&lt;div class="figure-wrapper"&gt;
+    &lt;img src="https://naturefrance.fr/sites/default/files/2021-05/NF_ServicesSIB.PNG" class="figure-img img-fluid" alt="Les services du SIB " title="Les services du SIB " /&gt;&lt;/div&gt;
+      &lt;figcaption class="figure-bottom"&gt;&lt;span class="figure-caption"&gt;Les services du SIB &lt;/span&gt;
+                    &lt;span class="figure-copyright"&gt;Olivier Debuf, OFB&lt;/span&gt;
+          &lt;/figcaption&gt;&lt;/figure&gt;&lt;div class="media--caption"&gt;
+          &lt;a class="fas fa-info-circle" data-toggle="collapse" href="#media--caption-1364" role="button" aria-expanded="false" aria-controls="collapseExample"&gt;
+          &lt;/a&gt;
+          &lt;div class="card--caption collapse" id="media--caption-1364"&gt;
+            &lt;a class="fas fa-times" data-toggle="collapse" href="#media--caption-1364" role="button" aria-expanded="false" aria-controls="collapseExample"&gt;
+            &lt;/a&gt;
+            &lt;p class="caption"&gt;Les services du SIB &lt;/p&gt;
+            &lt;p class="copyright"&gt;Olivier Debuf, OFB&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="textMediaImageVideo mb-5 col-md-6"&gt;
+    &lt;div class="text-center"&gt;
+              &lt;figure&gt;&lt;div class="figure-wrapper"&gt;
+    &lt;img src="https://naturefrance.fr/sites/default/files/2021-03/GourvenanceSIB.PNG" class="figure-img img-fluid" alt="Gouvernance SIB " title="Gouvernance SIB " /&gt;&lt;/div&gt;
+      &lt;figcaption class="figure-bottom"&gt;&lt;span class="figure-caption"&gt;Gouvernance SIB &lt;/span&gt;
+                    &lt;span class="figure-copyright"&gt;Olivier Debuf, OFB&lt;/span&gt;
+          &lt;/figcaption&gt;&lt;/figure&gt;&lt;div class="media--caption"&gt;
+          &lt;a class="fas fa-info-circle" data-toggle="collapse" href="#media--caption-1340" role="button" aria-expanded="false" aria-controls="collapseExample"&gt;
+          &lt;/a&gt;
+          &lt;div class="card--caption collapse" id="media--caption-1340"&gt;
+            &lt;a class="fas fa-times" data-toggle="collapse" href="#media--caption-1340" role="button" aria-expanded="false" aria-controls="collapseExample"&gt;
+            &lt;/a&gt;
+            &lt;p class="caption"&gt;Gouvernance SIB &lt;/p&gt;
+            &lt;p class="copyright"&gt;Olivier Debuf, OFB&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="row"&gt;
+                              &lt;div class="modal fade" role="dialog" id="mediaModal"&gt;
+                  &lt;button type="button" class="close" data-dismiss="modal" aria-label="Close"&gt;
+                    &lt;span class="fas fa-times" aria-hidden="true"&gt;&lt;/span&gt;
+                  &lt;/button&gt;
+                  &lt;div class="modal-dialog"&gt;
+                    &lt;div class="modal-content"&gt;
+                      &lt;div class="container"&gt;
+                        &lt;div class="row"&gt;
+                          &lt;div class="col"&gt;
+                            &lt;div class="media--modal-img"&gt;
+                              &lt;div class="imageVideo-inner"&gt;
+                                                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                                            &lt;div class="col-12"&gt;
+                  &lt;div class="card--footer"&gt;
+                                &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Depuis le séminaire, le système d'information sur la biodiversité à poursuivi sa mise en place. De nombreux chantiers sont en cours : construction d'un catalogue de données, mise en place du Caret (Centre d’administration du référentiel technique du SIB), consolidation de la cartographie du SIB, prodution d'un kit pédagogique pour l'ouverture de données...&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;Une nouvelle édition de ce séminaire est envisagée à l'automne 2022.&lt;/p&gt;
+&lt;/div&gt;
+      
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                          &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Pour aller plus loin&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--pour-aller-plus-loin" id="paragraph_958"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_958-1" role="button" aria-expanded="true" aria-controls="paragraph_958-1"&gt;
+              &lt;h3 class="title"&gt;            &lt;span&gt;Pour aller plus loin&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+          
+          &lt;div class="glide glide--pour-aller-plus-loin collapse show" id="paragraph_958-1"&gt;
+            &lt;div data-glide-el="track" class="glide__track"&gt;
+              &lt;div class="glide__slides"&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="http://naturefrance.fr/publications/la-feuille-de-route-sib" target="_blank"&gt;La feuille de route SIB &lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Publication ONB&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="http://naturefrance.fr/systeme-information-biodiversite" target="_blank"&gt;Le Système d'information sur la biodiversité (SIB)&lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Page ONB&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                              &lt;/div&gt;
+              &lt;div class="glide__arrows" data-glide-el="controls"&gt;
+                &lt;button class="glide__arrow glide__arrow--left chevron-link-plus-loin" data-glide-dir="&lt;"&gt;&lt;/button&gt;
+                &lt;button class="glide__arrow glide__arrow--right chevron-link-plus-loin" data-glide-dir="&gt;"&gt;&lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;div class="modal fade" role="dialog" id="modalPourAllerPlusLoin"&gt;
+            &lt;button type="button" class="close" data-dismiss="modal" aria-label="Close"&gt;
+              &lt;span class="fas fa-times" aria-hidden="true"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;div class="modal-dialog"&gt;
+              &lt;div class="modal-content"&gt;
+                              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=888"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      
+  &lt;div&gt;
+    &lt;div&gt;Paragraphe Dépliable&lt;/div&gt;
+                  &lt;div&gt;0&lt;/div&gt;
+              &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 Feb 2022 13:33:36 +0000</pubDate>
+    <dc:creator>Quentin Gouffe</dc:creator>
+    <guid isPermaLink="false">888 at http://naturefrance.fr</guid>
+    </item>
+<item>
+  <title>L’ampleur de la sixième crise d’extinction confirmée par la prise en compte des non-vertébrés</title>
+  <link>http://naturefrance.fr/actualites/lampleur-de-la-sixieme-crise-dextinction-confirmee-par-la-prise-en-compte-des-non</link>
+  <description>            &lt;span&gt;L’ampleur de la sixième crise d’extinction confirmée par la prise en compte des non-vertébrés&lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/34" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Quentin Gouffe&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;25/01/2022&lt;/span&gt;
+
+            &lt;div&gt;&lt;p class="text-align-center"&gt;&lt;strong&gt;La prise en compte des non-vertébrés met en évidence un rythme d’extinction bien plus important que celui déjà estimé par les listes rouges de l’Union Internationale pour la Conservation de la Nature&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+                  &lt;span&gt;&lt;figure class="ofb_header_contenu_editorial"&gt;&lt;span&gt;Paysage polynésien&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_header_contenu_editorial/public/2022-01/11794.jpg?h=613f110c&amp;itok=pB4ia_xu" width="1920" height="254" alt="Paysage polynésien" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;Paysage polynésien, Coucher de soleil à Punaauia&lt;/span&gt;
+                  &lt;span&gt;- Benjamin Guichard / OFB&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;connaissances&lt;/span&gt;
+              &lt;span&gt;destruction des habitats&lt;/span&gt;
+              &lt;span&gt;état de la biodiversité&lt;/span&gt;
+              &lt;span&gt;pressions sur la biodiversité&lt;/span&gt;
+          &lt;/div&gt;
+  
+      &lt;div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_948"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_948-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Dans une publication scientifique parue le 10 janvier 2022 dans la revue &lt;a href="http://doi.org/10.1111/brv.12816" target="_blank"&gt;&lt;strong&gt;Biological Reviews&lt;/strong&gt;&lt;/a&gt;, une équipe de recherche internationale alerte sur l’importance de prendre en compte les espèces de non-vertébrés dans l’évaluation de l’ampleur de la sixième crise d’extinction.&lt;br /&gt;
+ &lt;/p&gt;
+
+&lt;div style=" border: solid 1px #098838;  border-radius:10px;  padding: 20px; margin:auto"&gt;&lt;img alt="biological review" height="92" src="https://onlinelibrary.wiley.com/cms/asset/dfefab7a-07e9-4940-a9be-4195a69f313f/brv.v97.1.cover.jpg" style="margin-right:10px; float:left" width="70" /&gt;&lt;p style="font-size:10px"&gt;Biological Review du 10 janvier 2022 (en anglais) (Cowie, R.H., Bouchet, P., Fontaine, B. In press. The Sixth Mass Extinction: fact, fiction or speculation? Biological Reviews, DOI&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="btn btn-primary" href="http://doi.org/10.1111/brv.12816" target="_blank" title="Consulter"&gt;&lt;span&gt;Consulter&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Un pourcentage d’espèces éteintes bien plus important&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_949"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_949-1" role="button" aria-expanded="true" aria-controls="paragraph_949-1"&gt;
+              &lt;h3 class="title--bar"&gt;            &lt;span&gt;Un pourcentage d’espèces éteintes bien plus important&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_949-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;On estime aujourd’hui que les vertébrés ne constituent que 3 % environ de la diversité des espèces connues actuellement. Dans leur étude, les auteurs mettent en avant &lt;strong&gt;un pourcentage d’espèces éteintes bien plus important&lt;/strong&gt; que celui proposé par les listes rouges de l’Union Internationale pour la Conservation de la Nature qui est fondé majoritairement sur l’état des populations d’oiseaux et de mammifères.&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt; &lt;/p&gt;
+
+&lt;div style="float:left;margin-right:20px"&gt;
+&lt;figure role="group" class="align-center"&gt;&lt;figure class="large"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-01/escargots.jpg?itok=LCfwrTLX" width="480" height="151" alt="Coquilles d’escargots récemment éteints (Endodontidae), trouvées à Ruturu, Polynésie française." loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;figcaption&gt;Coquilles d’escargots récemment éteints (Endodontidae),&lt;br /&gt;
+trouvées à Ruturu, Polynésie française.&lt;br /&gt;
+- O. Gargominy / MNHN&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
+
+&lt;div id="cf_especes"&gt;
+&lt;p class="text-align-center"&gt;
+&lt;style type="text/css"&gt;
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+
+&lt;!--/*--&gt;&lt;![CDATA[/* &gt;&lt;!--*/
+@media screen and (min-width: 480px){
+    #cf_especes{
+		margin: auto;
+    	width: 100%;
+    }
+    }
+
+/*--&gt;&lt;!]]]]]]]]]]&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]]]]]]]&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]]]]]&gt;&lt;![CDATA[&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]]]&gt;&lt;![CDATA[&gt;*/
+
+/*--&gt;&lt;!]]&gt;*/
+&lt;/style&gt;&lt;/p&gt;
+
+&lt;div style="width: auto; text-align: center; color:#EAAA0A; margin-bottom:20px;"&gt;
+&lt;p style="font-size:50px; font-weight:bold"&gt;150 000 à 260 000&lt;/p&gt;
+
+&lt;p style="font-size:20px"&gt;espèces éteintes à l'échelle du vivant&lt;/p&gt;
+&lt;a class="btn btn-secondary" href="http://doi.org/10.1111/brv.12816" id="print-btn" tabindex="-1" target="_blank" title="En savoir plus"&gt;&lt;span class="sr-only"&gt;En savoir plus&lt;/span&gt;En savoir plus&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_953"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_953-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Selon l’analyse de la situation des &lt;strong&gt;mollusques terrestres&lt;/strong&gt; (escargots et limaces), il n’y aurait pas 0,04 % d’espèces animales et végétales disparues dans le monde &lt;strong&gt;depuis l’an 1500&lt;/strong&gt;, mais entre 7,5 et 13 %. Appliqué à l’ensemble des êtres vivants, ceci représente de l’ordre de 150 000 à 260 000 espèces éteintes.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Les milieux insulaires particulièrement impactés&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_950"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_950-1" role="button" aria-expanded="true" aria-controls="paragraph_950-1"&gt;
+              &lt;h3 class="title--bar"&gt;            &lt;span&gt;Les milieux insulaires particulièrement impactés&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_950-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Les milieux insulaires sont particulièrement touchés par cette extinction.&lt;/p&gt;
+
+&lt;div style="float:right; margin-left:20px"&gt;
+&lt;figure role="group" class="align-left"&gt;&lt;figure class="large"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-01/Benoit%20Fontaine%20Polyn%C3%A9sie%20fse.jpg?itok=_-qwbhiD" width="480" height="322" alt="L’île Rapa, en Polynésie française" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;figcaption&gt;&lt;em&gt;L’île Rapa, en Polynésie française - © Benoît Fontaine&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;div style=" border-left: solid 5px #EAAA0A; padding-left: 10px;  margin: auto; width:90%"&gt;
+&lt;p class="text-align-justify"&gt;&lt;strong&gt;Sur l’île Rapa, en Polynésie française,&lt;/strong&gt; les feux de forêt et le surpâturage ont détruit la quasi-totalité des habitats d’altitude, provoquant la disparition de centaines d’espèces endémiques d’escargots terrestres, de plantes et d’insectes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;h6 class="sr-only"&gt;            &lt;span&gt;Pour aller plus loin&lt;/span&gt;
+      &lt;/h6&gt;&lt;section class="paragraph--pour-aller-plus-loin" id="paragraph_951"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                      &lt;div class="card--title" data-toggle="collapse" href="#paragraph_951-1" role="button" aria-expanded="true" aria-controls="paragraph_951-1"&gt;
+              &lt;h3 class="title"&gt;            &lt;span&gt;Pour aller plus loin&lt;/span&gt;
+      &lt;/h3&gt;
+              &lt;i class="fas fa-caret-down"&gt;&lt;/i&gt;
+            &lt;/div&gt;
+          
+          &lt;div class="glide glide--pour-aller-plus-loin collapse show" id="paragraph_951-1"&gt;
+            &lt;div data-glide-el="track" class="glide__track"&gt;
+              &lt;div class="glide__slides"&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="http://naturefrance.fr/la-destruction-des-habitats" target="_blank"&gt;La destruction des habitats&lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Article ONB&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-node"&gt;
+                      
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="http://naturefrance.fr/publications/la-carte-des-pressions-menaces-exercees-sur-la-biodiversite" target="_blank"&gt;La carte des pressions - Menaces exercées sur la biodiversité &lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Publication ONB&lt;/div&gt;
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                                  &lt;li class="glide__slide"&gt;
+                    &lt;div class="glide__slide--inner type-document"&gt;
+                      
+                      
+                                              &lt;a class="contenu-title text-uppercase font-weight-bold" href="http://naturefrance.fr/sites/default/files/2022-02/220128_liste_rouge_faune_guadeloupe_fascicule_v4f_0.pdf" target="_blank"&gt;UICN La liste rouge des espèces menacées en France: Chapitre Faune de Guadeloupe 2021&lt;/a&gt;
+                        &lt;div class="media-type flex-shrink-1"&gt;Document&lt;/div&gt;
+                      
+                                          &lt;/div&gt;
+                  &lt;/li&gt;
+                              &lt;/div&gt;
+              &lt;div class="glide__arrows" data-glide-el="controls"&gt;
+                &lt;button class="glide__arrow glide__arrow--left chevron-link-plus-loin" data-glide-dir="&lt;"&gt;&lt;/button&gt;
+                &lt;button class="glide__arrow glide__arrow--right chevron-link-plus-loin" data-glide-dir="&gt;"&gt;&lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;div class="modal fade" role="dialog" id="modalPourAllerPlusLoin"&gt;
+            &lt;button type="button" class="close" data-dismiss="modal" aria-label="Close"&gt;
+              &lt;span class="fas fa-times" aria-hidden="true"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;div class="modal-dialog"&gt;
+              &lt;div class="modal-content"&gt;
+                              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=883"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      
+  &lt;div&gt;
+    &lt;div&gt;Paragraphe Dépliable&lt;/div&gt;
+                  &lt;div&gt;0&lt;/div&gt;
+              &lt;/div&gt;
+</description>
+  <pubDate>Tue, 25 Jan 2022 13:29:38 +0000</pubDate>
+    <dc:creator>Quentin Gouffe</dc:creator>
+    <guid isPermaLink="false">883 at http://naturefrance.fr</guid>
+    </item>
+<item>
+  <title>Liste rouge UICN de 2021 des espèces menacées en France : Fortes pressions sur la faune de Guadeloupe</title>
+  <link>http://naturefrance.fr/publications/liste-rouge-uicn-de-2021-des-especes-menacees-en-france-fortes-pressions-sur-la-faune</link>
+  <description>            &lt;span&gt;Liste rouge UICN de 2021 des espèces menacées en France : Fortes pressions sur la faune de Guadeloupe&lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/34" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Quentin Gouffe&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;24/01/2022&lt;/span&gt;
+      &lt;div&gt;
+              &lt;span&gt;espèce menacée&lt;/span&gt;
+              &lt;span&gt;Etat de la biodiversité&lt;/span&gt;
+              &lt;span&gt;Pressions sur la biodiversité&lt;/span&gt;
+          &lt;/div&gt;
+              &lt;span&gt;&lt;a href="http://naturefrance.fr/taxonomy/term/420" hreflang="fr"&gt;Rapport&lt;/a&gt;&lt;/span&gt;
+                  &lt;span&gt;&lt;figure class="ofb_publication"&gt;&lt;span&gt;Couverture Liste rouge espèce menacée UICN Faune de Guadeloupe&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_publication/public/2022-01/Screenshot%202022-01-24%20at%2010-00-37%20Liste_rouge_Faune_Guadeloupe_2021_fascicule%20pdf.png?itok=z1AucsgI" width="360" height="510" alt="Couverture Liste rouge espèce menacée UICN Faune de Guadeloupe" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;Couverture Liste rouge espèce menacée UICN Faune de Guadeloupe&lt;/span&gt;
+                  &lt;span&gt;UICN / OFB / MNHN&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+      
+            &lt;div&gt;&lt;p class="text-align-justify"&gt;Marqué par un patrimoine naturel riche et diversifié, l’archipel de la Guadeloupe abrite une faune remarquable confrontée à de nombreuses menaces, dont près de 12 % d'espèces strictement endémiques. L'état des lieux réalisé dans le cadre de la Liste rouge nationale porte sur 574 espèces indigènes, dont près de 15 % apparaissent menacées. Les analyses concernent des espèces vertébrées comme invertébrées dans les milieux marins, d’eau douce et terrestres. Au total, 16 espèces ont déjà disparu, 85 sont menacées et 48 sont quasi menacées.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;span&gt;&lt;div&gt;
+  
+  
+            &lt;div&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;&lt;a href="http://naturefrance.fr/sites/default/files/2022-02/220128_liste_rouge_faune_guadeloupe_fascicule_v4f_0.pdf" type="application/pdf"&gt;220128_liste_rouge_faune_guadeloupe_fascicule_v4f_0.pdf&lt;/a&gt;&lt;/span&gt;
+  &lt;span&gt;(6.26 Mo)&lt;/span&gt;
+&lt;/div&gt;
+      
+&lt;/div&gt;
+&lt;/span&gt;
+        &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Auteur(s) :&lt;/span&gt;
+                  &lt;span class="value"&gt;Comité français de l’Union internationale pour la conservation de la nature (UICN)&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Direction de publication :&lt;/span&gt;
+                  &lt;span class="value"&gt;Comité français de l’Union internationale pour la conservation de la nature (UICN)&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Contribution :&lt;/span&gt;
+                  &lt;span class="value"&gt;Comité français de l’Union internationale pour la conservation de la nature (UICN), Office Français de la Biodiversité (OFB), Muséum national d'Histoire naturelle (MNHN)&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Date de publication :&lt;/span&gt;
+                  &lt;span class="value"&gt;janvier 2022&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Langue :&lt;/span&gt;
+                  &lt;span class="value"&gt;Français&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Nombre de pages :&lt;/span&gt;
+                  &lt;span class="value"&gt;36&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Emprise géographique :&lt;/span&gt;
+                  &lt;span class="value"&gt;FR&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Droit d'usage texte :&lt;/span&gt;
+                  &lt;span class="value"&gt;CC BY 3.0 FR&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Droit d'usage :&lt;/span&gt;
+                  &lt;span class="value"&gt;&lt;a href="https://creativecommons.org/licenses/by/3.0/fr/"&gt;https://creativecommons.org/licenses/by/3.0/fr/&lt;/a&gt;&lt;/span&gt;
+              &lt;/div&gt;
+  &lt;div class="field--label"&gt;
+    &lt;span class="label"&gt;Date des données :&lt;/span&gt;
+                  &lt;span class="value"&gt;&lt;time datetime="2000-01-01T12:00:00Z"&gt;01/01/2000&lt;/time&gt;
+ - &lt;time datetime="2022-01-01T12:00:00Z"&gt;01/01/2022&lt;/time&gt;&lt;/span&gt;
+              &lt;/div&gt;
+
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=882"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Mon, 24 Jan 2022 16:07:06 +0000</pubDate>
+    <dc:creator>Quentin Gouffe</dc:creator>
+    <guid isPermaLink="false">882 at http://naturefrance.fr</guid>
+    </item>
+<item>
+  <title>85 espèces animales sont menacées d’extinction en Guadeloupe</title>
+  <link>http://naturefrance.fr/actualites/85-especes-animales-sont-menacees-dextinction-en-guadeloupe</link>
+  <description>            &lt;span&gt;85 espèces animales sont menacées d’extinction en Guadeloupe&lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/34" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Quentin Gouffe&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;24/01/2022&lt;/span&gt;
+            &lt;span&gt;&lt;figure class="ofb_header_contenu_editorial"&gt;&lt;span&gt;Antilles françaises; Guadeloupe; Les Saintes&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_header_contenu_editorial/public/2022-01/107302%20.JPG?h=0e46434d&amp;itok=1kc0j7iW" width="1920" height="254" alt="Antilles françaises; Guadeloupe; Les Saintes" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;Antilles françaises; Guadeloupe; Les Saintes&lt;/span&gt;
+                  &lt;span&gt;- Jérôme Couvat / OFB&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;biodiversité outre-mer&lt;/span&gt;
+              &lt;span&gt;espèce menacée&lt;/span&gt;
+          &lt;/div&gt;
+  
+      &lt;div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_952"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_952-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-center"&gt;&lt;strong&gt;Le risque d'extinction de la faune de Guadeloupe évalué pour la première fois&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_944"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_944-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Pour la première fois, le degré de menace pesant sur la faune de Guadeloupe a été évalué. L’état des lieux a porté sur tous les vertébrés sauf les poissons marins, ainsi que sur de nombreux invertébrés, soit au total 574 espèces. Près de 15 % d’entre elles sont menacées d’extinction.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_945"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_945-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;figure class="align-right large" style="margin-left: 20px; margin-bottom: 20px;"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-01/Screenshot%202022-01-24%20at%2010-00-37%20Liste_rouge_Faune_Guadeloupe_2021_fascicule%20pdf.png?itok=0iGLbviz" width="339" height="480" alt="Couverture Liste rouge espèce menacée UICN Faune de Guadeloupe" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;p class="text-align-justify"&gt;Les îles de Guadeloupe, dans les Antilles, sont un des points chauds de la biodiversité mondiale et constituent à ce titre une priorité de conservation. L’Archipel est en effet caractérisé à la fois par un taux élevé d’endémisme – 12 % des espèces des groupes évalués ne sont présentes nulle part ailleurs sur Terre – et par des menaces fortes pesant sur sa biodiversité : destruction et dégradation des habitats, pesticides, chasse et braconnage, enchevêtrement des tortues et mammifères marins dans les filets de pêche, etc.&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;La première évaluation du degré de menace de la faune de Guadeloupe vient d’être publiée. Elle a été menée conjointement par PatriNat et le Comité français de l’UICN, avec le soutien de la Direction de l’Environnement, de l’Aménagement et du Logement (DEAL) de Guadeloupe. L’attention des experts s’est portée sur tous les vertébrés sauf les poissons marins (mammifères, oiseaux, reptiles terrestres, tortues marines, amphibiens et poissons d’eau douce), ainsi que sur de nombreux invertébrés (macro-crustacés d’eau douce, mollusques terrestres et d’eau douce, libellules et demoiselles, papillons de jour, abeilles, mantes, phasmes et coléoptères longicornes et scarabéoïdes).&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;&lt;strong&gt;Parmi les 574 espèces évaluées, 85 sont menacées (15 %) et 48 quasi menacées.&lt;/strong&gt;&lt;br /&gt;
+Par manque de connaissances suffisantes, le risque de disparition d’un quart des espèces évaluées n’a pu être estimé.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_946"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_946-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Les reptiles terrestres sont particulièrement touchés (41 % des espèces de reptiles évaluées sont menacées d’extinction), ainsi que les abeilles, les oiseaux et les mollusques (entre 17 % et 21 %). Une espèce de libellule ou demoiselle sur 10 est également menacée.&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt; &lt;/p&gt;
+
+&lt;figure role="group" class="align-right"&gt;&lt;figure class="large"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-01/Alsophis_antillensis_at_Rosalie-a15_Wikipedia.jpg?itok=lKfiEMDa" width="480" height="320" alt="Alsophis antillensis, la Couleuvre de la Guadeloupe" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;figcaption&gt;&lt;em&gt;Alsophis antillensis, la Couleuvre de la Guadeloupe -&lt;br /&gt;
+@Postdlf / Wikimedia Commons, License cc-by-sa-4.0&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure role="group" class="align-left"&gt;&lt;figure class="large"&gt;&lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/large/public/2022-01/Pic%20de%20Guadeloupe_Claudine%20et%20Pierre%20Guezennec.jpg?itok=bxRcgJxf" width="480" height="320" alt="Pic de Guadeloupe, Melanerpes herminieri" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      
+&lt;/figure&gt;&lt;figcaption&gt;&lt;em&gt;Melanerpes herminieri, Pic de Guadeloupe&lt;br /&gt;
+- ©Claudine et Pierre Guezennec&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_947"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_947-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;div style=" border: medium solid #098838;  border-radius:10px;  padding: 20px; padding-bottom:145px;"&gt;
+&lt;div style="float:left; margin-right:10px;"&gt;&lt;a href="../sites/default/files/2022-01/liste-rouge-faune-de-guadeloupe.pdf" target="_blank"&gt;&lt;img alt="" height="280" src="https://naturefrance.fr/sites/default/files/2022-01/Screenshot 2022-01-24 at 10-00-37 Liste_rouge_Faune_Guadeloupe_2021_fascicule pdf.png" width="200" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div style=" margin-top:50px;"&gt;
+&lt;p class="text-align-center"&gt;Liste rouge UICN de 2021 des espèces menacées en France : Fortes pressions sur la faune de Guadeloupe&lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;&lt;a href="../publications/liste-rouge-uicn-de-2021-des-especes-menacees-en-france-fortes-pressions-sur-la-faune" target="_blank"&gt;&lt;input class="btn btn-primary" tabindex="-1" type="submit" value="Je consulte la publication" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=881"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      
+  &lt;div&gt;
+    &lt;div&gt;Paragraphe Dépliable&lt;/div&gt;
+                  &lt;div&gt;0&lt;/div&gt;
+              &lt;/div&gt;
+</description>
+  <pubDate>Mon, 24 Jan 2022 10:56:44 +0000</pubDate>
+    <dc:creator>Quentin Gouffe</dc:creator>
+    <guid isPermaLink="false">881 at http://naturefrance.fr</guid>
+    </item>
+<item>
+  <title>Une nouvelle publication du SDES sur les relations entre les Français et la nature </title>
+  <link>http://naturefrance.fr/actualites/une-nouvelle-publication-du-sdes-sur-les-relations-entre-les-francais-et-la-nature</link>
+  <description>            &lt;span&gt;Une nouvelle publication du SDES sur les relations entre les Français et la nature &lt;/span&gt;
+      &lt;span&gt;&lt;span lang="" about="http://naturefrance.fr/user/34" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Quentin Gouffe&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;05/01/2022&lt;/span&gt;
+            &lt;span&gt;&lt;figure class="ofb_header_contenu_editorial"&gt;&lt;span&gt;Écotourisme aux alentours du lac de Monteynard-Avignonet&lt;/span&gt;
+      
+            &lt;div&gt;  &lt;img src="http://naturefrance.fr/sites/default/files/styles/ofb_header_contenu_editorial/public/2021-12/%C3%89cotourisme%20aux%20alentours%20du%20lac%20de%20Monteynard-Avignonet.PNG?h=7b0cb474&amp;itok=XqPAJ2k4" width="1920" height="254" alt="Écotourisme aux alentours du lac de Monteynard-Avignonet" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+                  &lt;span&gt;Écotourisme aux alentours du lac de Monteynard-Avignonet&lt;/span&gt;
+                  &lt;span&gt;Catherine Brugel / Office français de la biodiversité&lt;/span&gt;
+      
+&lt;/figure&gt;&lt;/span&gt;
+            &lt;div&gt;
+              &lt;span&gt;acteurs et société&lt;/span&gt;
+              &lt;span&gt;activités humaines&lt;/span&gt;
+              &lt;span&gt;connaissances&lt;/span&gt;
+          &lt;/div&gt;
+  
+      &lt;div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_933"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_933-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-center"&gt;&lt;strong&gt;Une nouvelle publication du &lt;span class="value"&gt;Service des données et études statistiques (SDES) &lt;/span&gt;du Ministère de la Transition Écologique consacrée aux relations que la population française entretient avec la nature, est parue en décembre 2021.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="text-align-center"&gt; &lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;Le Ministère de la Transition Écologique publie un nouveau numéro de la collection Théma, consacré aux liens entre la société et la biodiversité. Ce travail se base sur les résultats de l’enquête « les Français et la nature », réalisée en 2020 par le SDES. Cette enquête met en lumière la variété des points de vue et la complexité des interactions entre les citoyens et le monde vivant qui les entoure.&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt;Bien que les Français soient de plus en plus nombreux à être convaincus de l’urgence à agir, un certain nombre de facteurs freinent toujours la mobilisation de l’ensemble de la société.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+              &lt;div&gt;&lt;article&gt;&lt;section class="paragraph--wysiwyg" id="paragraph_934"&gt;&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col"&gt;
+        &lt;div class="card"&gt;
+                    &lt;div class="card-body collapse show" id="paragraph_934-1"&gt;
+                        &lt;div class="text-long"&gt;&lt;p class="text-align-justify"&gt;Qu’est-ce que la notion de nature évoque pour les Français ? Quelle relation entretiennent-ils avec les milieux naturels, la faune et la flore ? Quel regard portent-ils sur les aires naturelles protégées ? Comment appréhendent-ils l’urbanisation des espaces naturels ? Perçoivent-ils les menaces qui pèsent sur la biodiversité ? Sont-ils convaincus de l’intérêt d’agir pour protéger la nature ? Quelles formes d’engagement sont-ils prêts à mettre en œuvre pour mettre un terme à l’érosion de la biodiversité ? Des différences de perception et/ou de pratique s’observent-elles en fonction du territoire de vie, du milieu social ou de la génération ?&lt;/p&gt;
+
+&lt;p class="text-align-justify"&gt; &lt;/p&gt;
+
+&lt;div style=" border: medium solid #098838;  border-radius:10px;  padding: 20px; padding-bottom:130px;"&gt;
+&lt;div style="float:left; margin-right:10px;"&gt;&lt;a href="../publications/societe-nature-et-biodiversite-regards-croises-sur-les-relations-entre-les-francais-et" target="_blank"&gt;&lt;img alt="../publications/societe-nature-et-biodiversite-regards-croises-sur-les-relations-entre-les-francais-et" height="280" src="https://naturefrance.fr/sites/default/files/2021-12/thema_analyse_10_societe_nature_biodiversite_decembre2021.PNG" width="200" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div style=" margin-top:50px;"&gt;
+&lt;p class="text-align-justify"&gt;Réunissant quinze articles, cette publication s’attache à répondre à ces différentes questions en mobilisant l’expertise de chercheurs issus de disciplines variées (sociologie, écologie, géographie, philosophie, psychologie, sciences de l’éducation, etc.) mais aussi d’acteurs de terrain.&lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;&lt;a href="../publications/societe-nature-et-biodiversite-regards-croises-sur-les-relations-entre-les-francais-et" target="_blank"&gt;&lt;input class="btn btn-primary" tabindex="-1" type="submit" value="Je consulte la publication" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+
+                        
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div&gt;&lt;a href="http://naturefrance.fr/suggestion?source_entity_type=node&amp;source_entity_id=878"&gt;Donnez-nous votre avis&lt;/a&gt;&lt;/div&gt;
+      
+  &lt;div&gt;
+    &lt;div&gt;Paragraphe Dépliable&lt;/div&gt;
+                  &lt;div&gt;0&lt;/div&gt;
+              &lt;/div&gt;
+</description>
+  <pubDate>Wed, 05 Jan 2022 09:00:00 +0000</pubDate>
+    <dc:creator>Quentin Gouffe</dc:creator>
+    <guid isPermaLink="false">878 at http://naturefrance.fr</guid>
+    </item>
+
+  </channel>
+</rss>

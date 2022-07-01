@@ -81,3 +81,7 @@ jobs:
       - name: Plume de Naturaliste
         if: always()
         run: ./plumedenaturaliste.ps1
+
+      - name: Nature France
+        if: always()
+        run: ./naturefrance.ps1
