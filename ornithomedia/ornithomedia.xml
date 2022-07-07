@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 06 Jul 2022 06:00:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Jul 2022 19:11:40 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Une Sterne bridée découverte le 28 juin 2022 sur l&#8217;île aux Moutons (Finistère), le « royaume » breton des sternes</title>
+		<link>https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/</link>
+		<comments>https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/#respond</comments>
+		<pubDate>Thu, 07 Jul 2022 19:03:32 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Analyses]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211785</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/">Une Sterne bridée découverte le 28 juin 2022 sur l&rsquo;île aux Moutons (Finistère), le « royaume » breton des sternes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/">Une Sterne bridée découverte le 28 juin 2022 sur l&rsquo;île aux Moutons (Finistère), le « royaume » breton des sternes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Deux constructions originales pour aider les martinets et les Hirondelles de rivage</title>
 		<link>https://www.ornithomedia.com/breves/deux-constructions-uniques-et-originales-pour-aider-les-martinets-et-les-hirondelles-de-rivage/</link>
@@ -160,23 +177,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/pourquoi-les-entrees-des-nids-de-la-sous-espece-de-floride-du-bruant-sauterelle-sont-elles-orientees-vers-le-nord-est/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Test et comparaison des jumelles GPO Passion HD 10&#215;42 et des Nikon Monarch HG 10&#215;42</title>
-		<link>https://www.ornithomedia.com/pratique/equipement/comparer-deux-modeles-de-jumelles-les-gpo-passion-hd-10x42-et-les-nikon-monarch-hg-10x42/</link>
-		<comments>https://www.ornithomedia.com/pratique/equipement/comparer-deux-modeles-de-jumelles-les-gpo-passion-hd-10x42-et-les-nikon-monarch-hg-10x42/#comments</comments>
-		<pubDate>Tue, 21 Jun 2022 16:10:12 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Pratique]]></category>
-		<category><![CDATA[Équipement]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=210880</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/equipement/comparer-deux-modeles-de-jumelles-les-gpo-passion-hd-10x42-et-les-nikon-monarch-hg-10x42/">Test et comparaison des jumelles GPO Passion HD 10&#215;42 et des Nikon Monarch HG 10&#215;42</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/equipement/comparer-deux-modeles-de-jumelles-les-gpo-passion-hd-10x42-et-les-nikon-monarch-hg-10x42/">Test et comparaison des jumelles GPO Passion HD 10&#215;42 et des Nikon Monarch HG 10&#215;42</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/pratique/equipement/comparer-deux-modeles-de-jumelles-les-gpo-passion-hd-10x42-et-les-nikon-monarch-hg-10x42/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
 </rss>
