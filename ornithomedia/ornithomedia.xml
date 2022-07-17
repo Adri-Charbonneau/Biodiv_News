@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Fri, 15 Jul 2022 06:00:54 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Jul 2022 06:03:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Conférence « zoom sur la Perruche à collier » dans la Maison Paris Nature (Paris) le 24 août 2022</title>
+		<link>https://www.ornithomedia.com/breves/conference-zoom-sur-la-perruche-a-collier-dans-la-maison-paris-nature-paris-le-24-aout-2022/</link>
+		<comments>https://www.ornithomedia.com/breves/conference-zoom-sur-la-perruche-a-collier-dans-la-maison-paris-nature-paris-le-24-aout-2022/#respond</comments>
+		<pubDate>Sun, 17 Jul 2022 06:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=212295</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/conference-zoom-sur-la-perruche-a-collier-dans-la-maison-paris-nature-paris-le-24-aout-2022/">Conférence « zoom sur la Perruche à collier » dans la Maison Paris Nature (Paris) le 24 août 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/conference-zoom-sur-la-perruche-a-collier-dans-la-maison-paris-nature-paris-le-24-aout-2022/">Conférence « zoom sur la Perruche à collier » dans la Maison Paris Nature (Paris) le 24 août 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/conference-zoom-sur-la-perruche-a-collier-dans-la-maison-paris-nature-paris-le-24-aout-2022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Une scène estivale désormais régulière en Vendée : jeunes Élanions blancs prenant leur envol en juillet 2022</title>
 		<link>https://www.ornithomedia.com/breves/une-scene-estivale-desormais-reguliere-en-vendee-jeunes-elanions-blancs-prenant-leur-envol-en-juillet-2022/</link>
@@ -160,23 +176,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-loriot-a-gorge-noire-devrait-etre-divise-en-deux-especes-distinctes/">Le Loriot à gorge noire devrait être divisé en deux espèces distinctes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/le-loriot-a-gorge-noire-devrait-etre-divise-en-deux-especes-distinctes/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Observer les oiseaux montagnards dans le secteur du cirque de Gérac (Ariège)</title>
-		<link>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-montagnards-dans-le-secteur-du-cirque-de-gerac-ariege/</link>
-		<comments>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-montagnards-dans-le-secteur-du-cirque-de-gerac-ariege/#respond</comments>
-		<pubDate>Tue, 28 Jun 2022 06:00:03 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Observer en France]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211270</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-montagnards-dans-le-secteur-du-cirque-de-gerac-ariege/">Observer les oiseaux montagnards dans le secteur du cirque de Gérac (Ariège)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-montagnards-dans-le-secteur-du-cirque-de-gerac-ariege/">Observer les oiseaux montagnards dans le secteur du cirque de Gérac (Ariège)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-montagnards-dans-le-secteur-du-cirque-de-gerac-ariege/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
