@@ -38,9 +38,9 @@ jobs:
         if: always()
         run:  ./martinia.ps1
         
-      #- name: INPN
-        #if: always()
-        #run:  ./inpn.ps1
+      - name: INPN
+        if: always()
+        run:  ./inpn.ps1
         
       - name: UICN-FR
         if: always()
