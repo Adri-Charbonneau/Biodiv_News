@@ -6,7 +6,7 @@ git commit -m "[Bot] Update $name"
 git push -f
 
 # correct characters
-$title -replace '&#233;','é'
+$title = $title -replace '&#233;','é'
 
 # post tweet
 ## length of tweet
@@ -20,12 +20,12 @@ $titletweet = -join($titletweet,"...")
 
 ## replace character
 $tmtitle = $title
-$tmtitle -replace '&','&amp;'
-$tmtitle -replace '<','&lt;'
-$tmtitle -replace '>','&gt;'
+$tmtitle = $tmtitle -replace '&','&amp;'
+$tmtitle = $tmtitle -replace '<','&lt;'
+$tmtitle = $tmtitle -replace '>','&gt;'
 
 $tmlink = $link
-$tmlink -replace '&','%26'
+$tmlink = $tmlink -replace '&','%26'
 
 ## post tweet
 $twitter = (Select-String -Path "config.txt" -Pattern "twitter=(.*)").Matches.Groups[1].Value
