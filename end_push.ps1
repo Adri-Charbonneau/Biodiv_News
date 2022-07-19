@@ -17,6 +17,7 @@ $titletweet = -join($titletweet,"...")
 
 ## replace character
 $tmtitle = $title
+$tmtitle -replace '&#233;','é'
 $tmtitle -replace '&','&amp;'
 $tmtitle -replace '<','&lt;'
 $tmtitle -replace '>','&gt;'
