@@ -5,6 +5,9 @@ git add .
 git commit -m "[Bot] Update $name"
 git push -f
 
+# correct characters
+$title -replace '&#233;','é'
+
 # post tweet
 ## length of tweet
 if ( $title.Length -ge 110 )
@@ -17,7 +20,6 @@ $titletweet = -join($titletweet,"...")
 
 ## replace character
 $tmtitle = $title
-$tmtitle -replace '&#233;','é'
 $tmtitle -replace '&','&amp;'
 $tmtitle -replace '<','&lt;'
 $tmtitle -replace '>','&gt;'
