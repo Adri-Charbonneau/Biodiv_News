@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Fri, 22 Jul 2022 06:00:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Jul 2022 06:08:39 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Sortie ornithologique guidée dans les marais des Loirs près des Sables-d&#8217;Olonne (Vendée) le 2 août 2022</title>
+		<link>https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-des-marais-des-loirs-pres-des-sables-dolonne-vendee-le-2-aout-2022/</link>
+		<comments>https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-des-marais-des-loirs-pres-des-sables-dolonne-vendee-le-2-aout-2022/#respond</comments>
+		<pubDate>Sun, 24 Jul 2022 06:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=212643</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-des-marais-des-loirs-pres-des-sables-dolonne-vendee-le-2-aout-2022/">Sortie ornithologique guidée dans les marais des Loirs près des Sables-d&rsquo;Olonne (Vendée) le 2 août 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-des-marais-des-loirs-pres-des-sables-dolonne-vendee-le-2-aout-2022/">Sortie ornithologique guidée dans les marais des Loirs près des Sables-d&rsquo;Olonne (Vendée) le 2 août 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-des-marais-des-loirs-pres-des-sables-dolonne-vendee-le-2-aout-2022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Jelaine L. Gan nous en dit plus sur la première description de la nidification de l’Aigle des Philippines</title>
 		<link>https://www.ornithomedia.com/magazine/interviews/jelaine-l-gan-nous-en-dit-plus-sur-la-premiere-description-de-la-nidification-de-laigle-des-philippines/</link>
@@ -161,22 +177,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-plante-invasive-dorigine-africaine-favoriserait-le-rale-gris-au-bresil/">Une plante invasive d&rsquo;origine africaine favoriserait le Râle gris au Brésil</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/une-plante-invasive-dorigine-africaine-favoriserait-le-rale-gris-au-bresil/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Le Loriot à gorge noire devrait être divisé en deux espèces distinctes</title>
-		<link>https://www.ornithomedia.com/breves/le-loriot-a-gorge-noire-devrait-etre-divise-en-deux-especes-distinctes/</link>
-		<comments>https://www.ornithomedia.com/breves/le-loriot-a-gorge-noire-devrait-etre-divise-en-deux-especes-distinctes/#respond</comments>
-		<pubDate>Wed, 29 Jun 2022 06:00:47 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211322</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-loriot-a-gorge-noire-devrait-etre-divise-en-deux-especes-distinctes/">Le Loriot à gorge noire devrait être divisé en deux espèces distinctes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-loriot-a-gorge-noire-devrait-etre-divise-en-deux-especes-distinctes/">Le Loriot à gorge noire devrait être divisé en deux espèces distinctes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/le-loriot-a-gorge-noire-devrait-etre-divise-en-deux-especes-distinctes/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
