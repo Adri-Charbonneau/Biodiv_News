@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 25 Jul 2022 20:24:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Jul 2022 06:21:08 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Les ballots et les bottes de paille sont utilisés par de nombreuses espèces d&#8217;oiseaux</title>
+		<link>https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/</link>
+		<comments>https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/#respond</comments>
+		<pubDate>Wed, 27 Jul 2022 06:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Pratique]]></category>
+		<category><![CDATA[Conseils]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=212758</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/">Les ballots et les bottes de paille sont utilisés par de nombreuses espèces d&rsquo;oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/">Les ballots et les bottes de paille sont utilisés par de nombreuses espèces d&rsquo;oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Plusieurs espèces d&#8217;oiseaux ont été vues ingérant des morceaux de nids de Fourniers roux</title>
 		<link>https://www.ornithomedia.com/breves/plusieurs-especes-doiseaux-ont-ete-vues-ingerant-des-morceaux-des-nids-de-fourniers-roux/</link>
@@ -162,22 +179,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/le-sejour-prolonge-et-inhabituel-dun-cormoran-huppe-sur-un-canal-a-reims-marne-depuis-decembre-2019/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>Une plante invasive d&#8217;origine africaine favoriserait le Râle gris au Brésil</title>
-		<link>https://www.ornithomedia.com/breves/une-plante-invasive-dorigine-africaine-favoriserait-le-rale-gris-au-bresil/</link>
-		<comments>https://www.ornithomedia.com/breves/une-plante-invasive-dorigine-africaine-favoriserait-le-rale-gris-au-bresil/#respond</comments>
-		<pubDate>Fri, 01 Jul 2022 06:00:15 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211413</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-plante-invasive-dorigine-africaine-favoriserait-le-rale-gris-au-bresil/">Une plante invasive d&rsquo;origine africaine favoriserait le Râle gris au Brésil</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-plante-invasive-dorigine-africaine-favoriserait-le-rale-gris-au-bresil/">Une plante invasive d&rsquo;origine africaine favoriserait le Râle gris au Brésil</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/une-plante-invasive-dorigine-africaine-favoriserait-le-rale-gris-au-bresil/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
