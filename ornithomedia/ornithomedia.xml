@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 27 Jul 2022 06:21:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Jul 2022 18:20:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Les Malcohas frisé et à sourcils rouges seraient plus répandus qu&#8217;on ne le pensait</title>
+		<link>https://www.ornithomedia.com/breves/les-malcohas-frise-et-a-sourcils-rouges-seraient-plus-repandus-quon-ne-le-pensait/</link>
+		<comments>https://www.ornithomedia.com/breves/les-malcohas-frise-et-a-sourcils-rouges-seraient-plus-repandus-quon-ne-le-pensait/#respond</comments>
+		<pubDate>Thu, 28 Jul 2022 18:02:54 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=212866</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-malcohas-frise-et-a-sourcils-rouges-seraient-plus-repandus-quon-ne-le-pensait/">Les Malcohas frisé et à sourcils rouges seraient plus répandus qu&rsquo;on ne le pensait</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-malcohas-frise-et-a-sourcils-rouges-seraient-plus-repandus-quon-ne-le-pensait/">Les Malcohas frisé et à sourcils rouges seraient plus répandus qu&rsquo;on ne le pensait</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/les-malcohas-frise-et-a-sourcils-rouges-seraient-plus-repandus-quon-ne-le-pensait/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Les ballots et les bottes de paille sont utilisés par de nombreuses espèces d&#8217;oiseaux</title>
 		<link>https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/</link>
@@ -163,22 +179,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/un-faucon-de-nouvelle-zelande-essaie-dadopter-de-jeunes-canards-musques/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Le séjour prolongé et inhabituel d’un Cormoran huppé le long d&#8217;un canal à Reims (Marne) depuis décembre 2019</title>
-		<link>https://www.ornithomedia.com/breves/le-sejour-prolonge-et-inhabituel-dun-cormoran-huppe-sur-un-canal-a-reims-marne-depuis-decembre-2019/</link>
-		<comments>https://www.ornithomedia.com/breves/le-sejour-prolonge-et-inhabituel-dun-cormoran-huppe-sur-un-canal-a-reims-marne-depuis-decembre-2019/#comments</comments>
-		<pubDate>Sat, 02 Jul 2022 06:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211452</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-sejour-prolonge-et-inhabituel-dun-cormoran-huppe-sur-un-canal-a-reims-marne-depuis-decembre-2019/">Le séjour prolongé et inhabituel d’un Cormoran huppé le long d&rsquo;un canal à Reims (Marne) depuis décembre 2019</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-sejour-prolonge-et-inhabituel-dun-cormoran-huppe-sur-un-canal-a-reims-marne-depuis-decembre-2019/">Le séjour prolongé et inhabituel d’un Cormoran huppé le long d&rsquo;un canal à Reims (Marne) depuis décembre 2019</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/le-sejour-prolonge-et-inhabituel-dun-cormoran-huppe-sur-un-canal-a-reims-marne-depuis-decembre-2019/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
 		</item>
 	</channel>
 </rss>
