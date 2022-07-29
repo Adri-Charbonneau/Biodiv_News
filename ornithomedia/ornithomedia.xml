@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 28 Jul 2022 18:20:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Jul 2022 18:12:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Pétrel et Traquet, deux noms génériques d’oiseaux qui seraient utilisés à tort</title>
+		<link>https://www.ornithomedia.com/magazine/etudes/petrel-et-traquet-deux-noms-generiques-doiseaux-qui-seraient-utilises-a-tort/</link>
+		<comments>https://www.ornithomedia.com/magazine/etudes/petrel-et-traquet-deux-noms-generiques-doiseaux-qui-seraient-utilises-a-tort/#respond</comments>
+		<pubDate>Fri, 29 Jul 2022 17:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Études]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=212917</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/etudes/petrel-et-traquet-deux-noms-generiques-doiseaux-qui-seraient-utilises-a-tort/">Pétrel et Traquet, deux noms génériques d’oiseaux qui seraient utilisés à tort</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/etudes/petrel-et-traquet-deux-noms-generiques-doiseaux-qui-seraient-utilises-a-tort/">Pétrel et Traquet, deux noms génériques d’oiseaux qui seraient utilisés à tort</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/petrel-et-traquet-deux-noms-generiques-doiseaux-qui-seraient-utilises-a-tort/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Les Malcohas frisé et à sourcils rouges seraient plus répandus qu&#8217;on ne le pensait</title>
 		<link>https://www.ornithomedia.com/breves/les-malcohas-frise-et-a-sourcils-rouges-seraient-plus-repandus-quon-ne-le-pensait/</link>
@@ -162,22 +179,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/deux-constructions-uniques-et-originales-pour-aider-les-martinets-et-les-hirondelles-de-rivage/">Deux constructions originales pour aider les martinets et les Hirondelles de rivage</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/deux-constructions-uniques-et-originales-pour-aider-les-martinets-et-les-hirondelles-de-rivage/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Un Faucon de Nouvelle-Zélande essaie « d&#8217;adopter » de jeunes Canards musqués</title>
-		<link>https://www.ornithomedia.com/breves/un-faucon-de-nouvelle-zelande-essaie-dadopter-de-jeunes-canards-musques/</link>
-		<comments>https://www.ornithomedia.com/breves/un-faucon-de-nouvelle-zelande-essaie-dadopter-de-jeunes-canards-musques/#respond</comments>
-		<pubDate>Mon, 04 Jul 2022 19:00:36 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211639</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-faucon-de-nouvelle-zelande-essaie-dadopter-de-jeunes-canards-musques/">Un Faucon de Nouvelle-Zélande essaie « d&rsquo;adopter » de jeunes Canards musqués</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-faucon-de-nouvelle-zelande-essaie-dadopter-de-jeunes-canards-musques/">Un Faucon de Nouvelle-Zélande essaie « d&rsquo;adopter » de jeunes Canards musqués</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/un-faucon-de-nouvelle-zelande-essaie-dadopter-de-jeunes-canards-musques/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
