@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 03 Aug 2022 06:00:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Aug 2022 06:00:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Deux à trois Martinets cafres observés près de la plage de l&#8217;Ostriconi (Haute-Corse) le 27 juillet 2022</title>
+		<link>https://www.ornithomedia.com/breves/deux-a-trois-martinets-cafres-observes-pres-de-la-plage-de-lostriconi-haute-corse-le-27-juillet-2022/</link>
+		<comments>https://www.ornithomedia.com/breves/deux-a-trois-martinets-cafres-observes-pres-de-la-plage-de-lostriconi-haute-corse-le-27-juillet-2022/#respond</comments>
+		<pubDate>Thu, 04 Aug 2022 06:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=213120</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/deux-a-trois-martinets-cafres-observes-pres-de-la-plage-de-lostriconi-haute-corse-le-27-juillet-2022/">Deux à trois Martinets cafres observés près de la plage de l&rsquo;Ostriconi (Haute-Corse) le 27 juillet 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/deux-a-trois-martinets-cafres-observes-pres-de-la-plage-de-lostriconi-haute-corse-le-27-juillet-2022/">Deux à trois Martinets cafres observés près de la plage de l&rsquo;Ostriconi (Haute-Corse) le 27 juillet 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/deux-a-trois-martinets-cafres-observes-pres-de-la-plage-de-lostriconi-haute-corse-le-27-juillet-2022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Une Marouette de Baillon est la « vedette » du parc du Marquenterre (Somme) depuis la fin juillet 2022</title>
 		<link>https://www.ornithomedia.com/breves/une-marouette-de-baillon-est-la-vedette-du-parc-du-marquenterre-somme-depuis-la-fin-juillet-2022/</link>
@@ -162,23 +178,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/la-situation-du-diamant-de-gould-semble-sameliorer-en-australie/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>Une Sterne bridée découverte le 28 juin 2022 sur l&#8217;île aux Moutons (Finistère), le « royaume » breton des sternes</title>
-		<link>https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/</link>
-		<comments>https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/#respond</comments>
-		<pubDate>Fri, 08 Jul 2022 06:05:32 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Analyses]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211785</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/">Une Sterne bridée découverte le 28 juin 2022 sur l&rsquo;île aux Moutons (Finistère), le « royaume » breton des sternes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/">Une Sterne bridée découverte le 28 juin 2022 sur l&rsquo;île aux Moutons (Finistère), le « royaume » breton des sternes</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/analyses/une-sterne-bridee-decouverte-le-28-juin-2022-sur-lile-aux-moutons-finistere-le-royaume-breton-des-sternes/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
