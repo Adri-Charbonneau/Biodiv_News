@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Fri, 05 Aug 2022 06:18:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Aug 2022 06:03:09 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>La population de Râles sylvestres a atteint 565 individus en 2022 sur l&#8217;île Lord Howe (Australie)</title>
+		<link>https://www.ornithomedia.com/breves/la-population-de-rales-sylvestres-a-atteint-565-individus-en-2022-sur-lile-lord-howe-australie/</link>
+		<comments>https://www.ornithomedia.com/breves/la-population-de-rales-sylvestres-a-atteint-565-individus-en-2022-sur-lile-lord-howe-australie/#respond</comments>
+		<pubDate>Sat, 06 Aug 2022 06:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=213290</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-population-de-rales-sylvestres-a-atteint-565-individus-en-2022-sur-lile-lord-howe-australie/">La population de Râles sylvestres a atteint 565 individus en 2022 sur l&rsquo;île Lord Howe (Australie)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-population-de-rales-sylvestres-a-atteint-565-individus-en-2022-sur-lile-lord-howe-australie/">La population de Râles sylvestres a atteint 565 individus en 2022 sur l&rsquo;île Lord Howe (Australie)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/la-population-de-rales-sylvestres-a-atteint-565-individus-en-2022-sur-lile-lord-howe-australie/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Proposition de reconnaissance d&#8217;une nouvelle espèce d&#8217;oiseau, le Percefleur inca (Diglossa melanopis)</title>
 		<link>https://www.ornithomedia.com/breves/la-sous-espece-melanopis-du-percefleur-masque-devrait-etre-eleve-au-rang-despece-distincte-le-percefleur-inca-diglossa-melanopis/</link>
@@ -162,22 +178,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/une-association-entre-des-tarentes-de-mauretanie-et-des-hirondelles-de-fenetre-dans-lherault-france/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>La situation du Diamant de Gould semble s&#8217;améliorer en Australie</title>
-		<link>https://www.ornithomedia.com/breves/la-situation-du-diamant-de-gould-semble-sameliorer-en-australie/</link>
-		<comments>https://www.ornithomedia.com/breves/la-situation-du-diamant-de-gould-semble-sameliorer-en-australie/#comments</comments>
-		<pubDate>Sat, 09 Jul 2022 06:00:45 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=211860</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-situation-du-diamant-de-gould-semble-sameliorer-en-australie/">La situation du Diamant de Gould semble s&rsquo;améliorer en Australie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-situation-du-diamant-de-gould-semble-sameliorer-en-australie/">La situation du Diamant de Gould semble s&rsquo;améliorer en Australie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/la-situation-du-diamant-de-gould-semble-sameliorer-en-australie/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
 </rss>
