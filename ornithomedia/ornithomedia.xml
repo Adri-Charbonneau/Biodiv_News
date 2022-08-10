@@ -12,15 +12,31 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 08 Aug 2022 22:10:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Aug 2022 06:00:45 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 		<item>
+		<title>La Chevêchette d&#8217;Europe pourrait être en cours d&#8217;installation en Espagne</title>
+		<link>https://www.ornithomedia.com/breves/la-chevechette-deurope-pourrait-etre-en-voie-dinstallation-en-espagne/</link>
+		<comments>https://www.ornithomedia.com/breves/la-chevechette-deurope-pourrait-etre-en-voie-dinstallation-en-espagne/#respond</comments>
+		<pubDate>Wed, 10 Aug 2022 06:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=213499</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-chevechette-deurope-pourrait-etre-en-voie-dinstallation-en-espagne/">La Chevêchette d&rsquo;Europe pourrait être en cours d&rsquo;installation en Espagne</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-chevechette-deurope-pourrait-etre-en-voie-dinstallation-en-espagne/">La Chevêchette d&rsquo;Europe pourrait être en cours d&rsquo;installation en Espagne</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/la-chevechette-deurope-pourrait-etre-en-voie-dinstallation-en-espagne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Yann Jacob (Bretagne Vivante) nous en dit plus sur la situation actuelle de la Sterne de Dougall en France métropolitaine</title>
 		<link>https://www.ornithomedia.com/magazine/interviews/yann-jacob-bretagne-vivante-sepnb-nous-en-dit-plus-sur-la-situation-actuelle-de-la-sterne-de-dougall-en-france-metropolitaine/</link>
 		<comments>https://www.ornithomedia.com/magazine/interviews/yann-jacob-bretagne-vivante-sepnb-nous-en-dit-plus-sur-la-situation-actuelle-de-la-sterne-de-dougall-en-france-metropolitaine/#respond</comments>
-		<pubDate>Mon, 08 Aug 2022 21:31:23 +0000</pubDate>
+		<pubDate>Tue, 09 Aug 2022 05:00:23 +0000</pubDate>
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
 				<category><![CDATA[Magazine]]></category>
 		<category><![CDATA[Interviews]]></category>
@@ -163,22 +179,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/jelaine-l-gan-nous-en-dit-plus-sur-la-premiere-description-de-la-nidification-de-laigle-des-philippines/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Une forme d&#8217;association entre des Tarentes de Maurétanie et des Hirondelles de fenêtre dans l&#8217;Hérault (France)</title>
-		<link>https://www.ornithomedia.com/breves/une-association-entre-des-tarentes-de-mauretanie-et-des-hirondelles-de-fenetre-dans-lherault-france/</link>
-		<comments>https://www.ornithomedia.com/breves/une-association-entre-des-tarentes-de-mauretanie-et-des-hirondelles-de-fenetre-dans-lherault-france/#comments</comments>
-		<pubDate>Wed, 20 Jul 2022 06:00:14 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=212383</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-association-entre-des-tarentes-de-mauretanie-et-des-hirondelles-de-fenetre-dans-lherault-france/">Une forme d&rsquo;association entre des Tarentes de Maurétanie et des Hirondelles de fenêtre dans l&rsquo;Hérault (France)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-association-entre-des-tarentes-de-mauretanie-et-des-hirondelles-de-fenetre-dans-lherault-france/">Une forme d&rsquo;association entre des Tarentes de Maurétanie et des Hirondelles de fenêtre dans l&rsquo;Hérault (France)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/une-association-entre-des-tarentes-de-mauretanie-et-des-hirondelles-de-fenetre-dans-lherault-france/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
 		</item>
 	</channel>
 </rss>
