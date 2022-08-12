@@ -12,7 +12,7 @@
 	<atom:link href="https://www.zoom-nature.fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.zoom-nature.fr</link>
 	<description>Chroniques Nature &#038; Sciences</description>
-	<lastBuildDate>Wed, 10 Aug 2022 12:17:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Aug 2022 11:37:58 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,266 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Le plumage des oiseaux, arc-en-ciel incomplet ?</title>
+		<link>https://www.zoom-nature.fr/le-plumage-des-oiseaux-un-arc-en-ciel-incomplet/</link>
+				<pubDate>Fri, 12 Aug 2022 11:34:49 +0000</pubDate>
+		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
+				<category><![CDATA[Couleurs du vivant]]></category>
+		<category><![CDATA[Caroténoïde]]></category>
+		<category><![CDATA[Couleur]]></category>
+		<category><![CDATA[Gamut]]></category>
+		<category><![CDATA[Oiseau]]></category>
+		<category><![CDATA[Pigment]]></category>
+		<category><![CDATA[Plumage]]></category>
+		<category><![CDATA[Vision des couleurs]]></category>
+
+		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=26585</guid>
+				<description><![CDATA[11/08/2022 De tous les vertébrés terrestres, les oiseaux sont de loin ceux qui affichent la [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-int.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-int.jpg" alt="" class="wp-image-26596" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-int.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-int-300x172.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-int-768x440.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-int-600x344.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Lori de Swainson </figcaption></figure></div>
+
+
+
+<p>11/08/2022 De tous les vertébrés terrestres, les oiseaux sont de loin ceux qui affichent la plus large palette de couleurs à nos yeux. J’ai collecté au hasard quelques noms vernaculaires évocateurs en feuilletant une encyclopédie des oiseaux du monde, histoire de rêver un peu : colibri topaze&nbsp;; quetzal resplendissant&nbsp;; lori féérique&nbsp;; passerin arc-en-ciel&nbsp;; jardinier ardent&nbsp;; paradisier gorge-d’acier&nbsp;; perce-fleur indigo&nbsp;; tangara à col d’or&nbsp;; brève grenadine&nbsp;; manakin à tête d’opale&nbsp;; …</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-intropaon.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-intropaon.jpg" alt="" class="wp-image-26597" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-intropaon.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-intropaon-300x188.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-intropaon-768x481.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-intropaon-600x376.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Les incroyables couleurs structurelles du paon </figcaption></figure></div>
+
+
+
+<p>Et encore, nous n’apprécions qu’une partie de cette incroyable palette de couleurs car les performances de notre vision des couleurs restent bien en deçà de celle des oiseaux eux-mêmes. Nous avons d’ailleurs consacré une chronique à <a href="https://www.zoom-nature.fr/les-couleurs-vues-a-travers-les-yeux-des-oiseaux/">la vision des couleurs chez les oiseaux </a>et nous vous conseillons de la lire attentivement avant celle-ci car elle expose des notions de base que nous ne réexpliciterons pas ici. Pour autant, en dépit de cette diversité apparente qui nous subjugue, est-ce que cette palette de couleurs est aussi diversifiée qu’il nous semble&nbsp;? N’y a-t-il pas des «&nbsp;zones d’ombre&nbsp;» dans cet arc-en-ciel, des couleurs non observables chez aucun oiseau&nbsp;? Ont-ils réussi à dépasser en diversité de couleurs un autre groupe d’êtres vivants qui nous éblouit tout autant&nbsp;: les plantes à fleurs&nbsp;? A toutes ces questions, un des grands spécialistes des plumes des oiseaux, R. Prum, et ses collègues apportent des éléments de réponse passionnants dans une publication clé de 2011. Pour comprendre, nous allons au préalable devoir nous frotter à certaines notions peu connues comme le gamut ou les espaces colorés&nbsp;; mais l’enjeu en vaut vraiment la peine.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-topaz.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-topaz.jpg" alt="" class="wp-image-26604" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-topaz.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-topaz-300x254.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-topaz-768x651.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-topaz-600x509.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Colibri topaze (Cliché Kyle Van Houtan&nbsp;CC BY-SA 4.0)</figcaption></figure></div>
+
+
+
+<h2>Gamut coloré avien&nbsp;</h2>
+
+
+
+<p>Jusqu’en 2011, en dépit de l’évidente diversité des couleurs des plumages des oiseaux et de la connaissance de leurs hautes capacités en matière de vision des couleurs, aucune étude n’avait cherché à cartographier l’ensemble des couleurs que peuvent renvoyer les plumages de tous les oiseaux, ce qu’on appelle le gamut coloré. En fait, à cette date, chez les vertébrés terrestres, on n’avait exploré cet aspect que chez les primates en recensant toutes les couleurs affichées par ces mammifères&nbsp;; il est vrai que la tâche était bien plus facile du fait du nombre plus limité d’espèces (414&nbsp;versus environ 10 000 oiseaux) et de la faible gamme de couleurs ternes de la majorité des pelages&nbsp;; mais néanmoins, il y a de beaux signaux colorés comme les plages de peau nue du visage du mandrill. Il fallait donc impérativement effectuer cette étude sur les oiseaux et quantifier leur gamut coloré.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-peau.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-peau.jpg" alt="" class="wp-image-26602" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-peau.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-peau-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-peau-768x534.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-peau-600x417.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>En plus du plumage, certains oiseaux comme ce vautour pape arborent des couleurs sur des plages de peau nue. </figcaption></figure></div>
+
+
+
+<p>Le gamut coloré avien désigne donc l’ensemble des signaux visuels colorés émis par les différentes parties des plumages des oiseaux et perceptibles par les oiseaux eux-mêmes, i.e. des couleurs et tons avec des longueurs d’onde incluses dans leur spectre de vision qui, rappelons-le (<a href="https://www.zoom-nature.fr/les-couleurs-vues-a-travers-les-yeux-des-oiseaux/">voir la chronique</a>) est plus large que le nôtre avec notamment un élargissement vers les UV.</p>
+
+
+
+<p>Gamut est un mot d’origine anglo-saxonne, utilisé par la communauté scientifique sous sa forme francisée&nbsp;; il a été créé dans le cadre musical où il désignait la gamme complète des tons disponibles pour une échelle musicale donnée (les sons, comme les couleurs, correspondent à des ondes). Comme au Moyen-âge, on transcrivait les notes par des lettres, la gamme sonore allait du sol le plus grave (alors noté avec la lettre grecque gamma) au do le plus aigu (noté ut)&nbsp;; ainsi la gamme sonore s’écrivait&nbsp;<em>gamma-ut</em>&nbsp;ce qui a donné gamut. Donc, en dépit de l’homophonie partielle, gamut ne dérive pas de gamme.&nbsp;</p>
+
+
+
+<p>Nous connaissons tous le gamut coloré des écrans d’ordinateur ou de téléviseur basé sur les 3 couleurs primaires&nbsp;; ce peut être par exemple l’Adobe RGB très utilisé en impression ou le sRGB (standard) utilisé par défaut.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mire.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mire.jpg" alt="" class="wp-image-26601" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mire.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mire-150x150.jpg 150w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mire-50x50.jpg 50w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption>Notre espace coloré en 2D </figcaption></figure></div>
+
+
+
+<h2>Espace coloré&nbsp;</h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-drongobrill.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-drongobrill.jpg" alt="" class="wp-image-26588" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-drongobrill.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-drongobrill-300x163.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-drongobrill-768x418.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-drongobrill-600x327.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Les taches colorées peuvent être très discrètes comme sur les ailes de ce drongo brillant (photo R. Guillot) ; mais peut-être qu&rsquo;il y a une composante UV qui rend ces taches bien plus visibles aux yeux des congénères</figcaption></figure></div>
+
+
+
+<p>Pour accéder à ce gamut avien, la première étape consiste à enregistrer le spectre coloré renvoyé par une tache colorée d’un plumage&nbsp;: une calotte, le dos, la gorge, la poitrine, le ventre, … Pour mesurer la lumière réfléchie ou réflectance, on éclaire, de manière standardisée, avec une fibre optique, une tache circulaire de 3mm de diamètre sur la partie échantillonnée et on enregistre les ondes renvoyées (entre 300 et 700nm pour être dans la gamme visible par les oiseaux) avec un spectrophotomètre. Ce travail s’effectue le plus souvent en laboratoire sur des peaux conservées dans les musées.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gp.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gp.jpg" alt="" class="wp-image-26594" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gp.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gp-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gp-768x576.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gp-600x450.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Barbes colorées d&rsquo;une plume sous le microscope </figcaption></figure></div>
+
+
+
+<p>La seconde étape consiste maintenant à rendre ces informations lisibles en simulant comment seraient perçues les ondes renvoyées par ce «&nbsp;point coloré&nbsp;du plumage » à travers les yeux d’un oiseau, en vision tétrachromatique (voir <a href="https://www.zoom-nature.fr/les-couleurs-vues-a-travers-les-yeux-des-oiseaux/">la chronique sur la vision des couleurs</a>). On calcule la stimulation relative des 4 types de cônes (L, M, S et UV) selon leur pic de sensibilité&nbsp;; ces 4 valeurs sont reportées comme coordonnées dans un graphique en «&nbsp;4D&nbsp;» sous la forme d’un tétraèdre dont les 4 sommets représentent les 4 types de cônes&nbsp;: ainsi chaque mesure d’une tache colorée d’une espèce apparait sous forme d’un point «&nbsp;suspendu&nbsp;» dans un espace en 4 dimensions. Ce graphique n’a pas la prétention de visualiser une expérience sensorielle qui dépend entièrement du traitement ultérieur effectué par les centres nerveux&nbsp;: il ne fait que cartographier dans un espace coloré la stimulation sensorielle sur les cônes d’une tache colorée.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-espace.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-espace.jpg" alt="" class="wp-image-26589"/></a><figcaption>Espace coloré avien sous forme de tétraèdre (extrait de 1-Biblio) </figcaption></figure></div>
+
+
+
+<p>Les bords de ce tétraèdre représentent donc les frontières de toutes les couleurs imaginables qui sont théoriquement discriminables par l’œil d’un oiseau. Si l’ensemble des espèces oiseaux dispose effectivement de toutes les couleurs possibles, alors, avec un échantillonnage conséquent, on doit «&nbsp;remplir&nbsp;» tout l’espace interne du tétraèdre de points. Si par contre, il reste des zones de cet espace non occupées (aucun point), alors cela signifie que la couleur correspondante théoriquement possible n’existe pas chez les oiseaux&nbsp;; il restera alors à expliquer pourquoi elle n’est pas disponible.&nbsp;</p>
+
+
+
+<h2>Échantillonnage</h2>
+
+
+
+<p>Comme il existe près de 10 000 espèces d’oiseaux, on comprend aisément qu’on ne peut pas (au moins dans l’immédiat) effectuer ce travail sur toutes les espèces. Il faut donc définir une stratégie d’échantillonnage qui permette de balayer de manière rationnelle et avec le moins de biais possible la grande diversité des oiseaux.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mandar.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mandar.jpg" alt="" class="wp-image-26600" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mandar.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mandar-300x183.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mandar-768x468.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-mandar-600x365.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Canard mandarin </figcaption></figure></div>
+
+
+
+<p>Les auteurs de cette étude ont analysé 965 taches colorées sur 111 espèces d’oiseaux différents, soit 1% de la diversité totale&nbsp;; ce pourcentage peut sembler faible mais le protocole ci-dessous permet de compenser cet effectif. Selon les espèces, le nombre de taches colorées différentes peut aller de 1 (plumage très uniforme) à 7 pour les plus bigarrés. On choisit des espèces appartenant à des lignées différentes&nbsp;: ici, les 111 espèces se répartissent dans 55 familles classées dans 18 ordres. Ceci minimise considérablement la possibilité de&nbsp;rater un type de couleur particulier propre à une seule lignée. En plus, on a veillé à inclure le plus possible d’origines différentes des couleurs des taches.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-choucsup.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-choucsup.jpg" alt="" class="wp-image-26586" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-choucsup.jpg 668w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-choucsup-300x199.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-choucsup-600x399.jpg 600w" sizes="(max-width: 668px) 100vw, 668px" /></a><figcaption>Choucador superbe (Sturnidé) au Kenya (D. Bermudez) : exemple de couleurs « métalliques » structurelles </figcaption></figure></div>
+
+
+
+<p>Celles-ci peuvent être de deux types. Certaines proviennent de pigments très divers&nbsp;: mélanines, caroténoïdes (voir la chronique), porphyrines ou psittacofulvines. D’autres sont des couleurs dites structurelles ou physiques dues à la diffraction de la lumière par des nanostructures internes qui se répètent régulièrement comme au niveau des barbes ou barbules des plumes (voir <a href="https://www.zoom-nature.fr/sur-les-chemins-des-plumes-a-dechiffrer/">la chronique</a>)&nbsp;; là aussi, on a veillé à inclure des espèces avec des couleurs structurelles générées selon des mécanismes différents. Ainsi, le diamant de Gould, bien connu comme oiseau de cage, qui figure dans cette analyse dispose de 6 couleurs différentes qui ont 4 origines différentes.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gould.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gould.jpg" alt="" class="wp-image-26593" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gould.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gould-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption>Diamant de Gould (Cliché Kym Nicolson&nbsp;CC BY-SA 4.0)</figcaption></figure></div>
+
+
+
+<h2>Gamut végétal&nbsp;</h2>
+
+
+
+<p>Les chercheurs ont élargi leur étude en cartographiant en parallèle le gamut de 2530 espèces de plantes dont 48 écorces, 590 feuilles et le reste en fleurs. Ces informations ont l’avantage d’être déjà disponibles dans une grosse base de données internationale, accessible à tous&nbsp;: Floral Reflectance Database. Ensuite, comme pour les plumages, ils ont converti ces mesures de réflectance végétale en points colorés dans l’espace coloré des oiseaux, i.e. comme si ces parties de végétaux étaient vues par des oiseaux. Mais pourquoi intégrer les végétaux dans une étude sur les couleurs des plumages des oiseaux&nbsp;?&nbsp;</p>
+
+
+
+<p>L’intérêt des végétaux est triple. Les oiseaux évoluent dans leur milieu au sein d’une végétation ; les signaux envoyés par leurs plumages sont donc en fait vus avec la végétation comme fond coloré ce qui peut modifier considérablement leur perception notamment via les contrastes. La comparaison des gamuts des oiseaux et des pantes à fleurs permettra de mieux comprendre comment les oiseaux ont accédé à leurs propres couleurs. Enfin, ce gamut végétal va servir de «&nbsp;contrôle&nbsp;» dans le sens où ces organes végétaux n’ont pas évolué en réponse à la vision avienne des couleurs vu que, à de rares exceptions près, ils ne sont pas ou peu consommés par les oiseaux&nbsp;: ils fournissent donc indirectement une estimation de la gamme des couleurs naturelles ne servant pas de signaux particuliers pour les oiseaux et qu’ils côtoient dans leur environnement. Certes, il existe des fleurs dites ornithophiles, i.e. visitées par des oiseaux nectarivores qui les visitent pour y récolter le nectar et d’ailleurs certaines d’entre elles ont été incluses dans les données. Mais, d’une part ceci ne concerne qu’un petit nombre d’espèces de plantes et on sait que leur coloration, souvent à dominante rouge, n’a pas évolué en fait sous la pression de la vision des oiseaux (plutôt pour échapper aux visites d’insectes). Par contre, on a exclu des organes végétaux testés les fruits car là, par contre, on a de nombreux cas de coévolution de la couleur des fruits en fonction du système visuel des oiseaux qui comptent de nombreux frugivores (voir la chronique sur l’endozoochorie).&nbsp;</p>
+
+
+
+<h2>Infinité limitée&nbsp;</h2>
+
+
+
+<p>Les résultats obtenus contredisent d’emblée notre idée reçue d’une infinité de couleurs chez les oiseaux&nbsp;: l’ensemble des points colorés des plumages testés n’occupe que … 26 à 30% de l’espace coloré total&nbsp;; il y a donc bien moins de couleurs dans les plumages par rapport à toutes celles que pourraient percevoir les oiseaux. De plus, les couleurs des plumages ne sont pas uniformément réparties&nbsp;: il y a des «&nbsp;continents de teintes&nbsp;» où se concentrent de nombreux points séparés par des grands océans vides, sans aucun point.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gamut.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-gamut.jpg" alt="" class="wp-image-26591"/></a><figcaption>L&rsquo;ensemble des points colorés mesurés dans cette étude (extrait de 1-Biblio) </figcaption></figure></div>
+
+
+
+<p>Les couleurs dues à des pigments chimiques n’apportent qu’une modeste contribution à cet espace coloré&nbsp;: seulement 7%&nbsp;du volume ; et chaque type de pigment n’occupe qu’un petit volume de l’espace&nbsp;: 3,5% pour les caroténoïdes, 2,7% pour les psittacofulvines, 1,5% pour les mélanines et 0,1% pour les porphyrines. Par contre, les couleurs structurelles représentent 17,9% du volume&nbsp;; alors qu’elles ne concernaient qu’un quart des espèces testées, elles apportent 70% des couleurs du gamut total. L’acquisition de ce type de couleurs semble donc avoir été déterminante dans l’élargissement du gamut avien au cours de son évolution. On peut aussi penser qu’avec un échantillonnage plus grand incluant plus de telles couleurs, le gamut serait sans doute élargi et les 30% d’occupation sensiblement dépassés.</p>
+
+
+
+<p>Les ultra-violets ne semblent pas apporter de couleurs en plus mais contribuent à une meilleure séparation des couleurs.</p>
+
+
+
+<h2>Versus végétaux&nbsp;</h2>
+
+
+
+<p>Qu’en est-il par rapport au gamut végétal&nbsp;? Nouvelle surprise&nbsp;: les végétaux à fleurs occupent un espace coloré encore plus restreint&nbsp;: seulement 17% versus 26% pour les plumages. Donc, les oiseaux déploient incontestablement une plus grande diversité colorée que les plantes à fleurs … aux yeux des oiseaux qui sont dans cette affaire les observateurs. La rareté des couleurs structurelles chez les plantes explique une bonne part de cet écart.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-perroq.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-perroq.jpg" alt="" class="wp-image-26603"/></a><figcaption>Chevauchement des gamuts des caroténoïdes et des psittacofulvines  (extrait de 1-Biblio) </figcaption></figure></div>
+
+
+
+<p>On constate un très fort chevauchement entre le gamut végétal et celui des plumages dans la gamme des rouge et jaune&nbsp;; ceci n’a rien d’étonnant puisque les pigments responsables (<a href="https://www.zoom-nature.fr/1000-nuances-de-jaune-orange-et-rouge/">voir la chronique</a>), les caroténoïdes sont récupérés par les oiseaux dans leur alimentation végétale. La divergence entre les deux gamuts se fait dans les UV, les bleus et les verts. La majorité des couleurs structurelles des oiseaux tombent en dehors du gamut des végétaux&nbsp;: ceci suggère que l’évolution de la diversité de ces couleurs permettrait aux oiseaux de mieux se différencier de leur environnement naturel végétal.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-jaune.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-jaune.jpg" alt="" class="wp-image-26598" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-jaune.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-jaune-300x149.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption>Tisserin palmiste et sa palette de jaune/orange liée à la fixation des carténoïdes (D. Bermudez)</figcaption></figure></div>
+
+
+
+<p>Inversement, les plantes atteignent des couleurs absentes chez les oiseaux dans les pourpres et UV dues aux pigments anthocyanes uniquement végétaux&nbsp;: pélargonidine (rouge), cyanidine (magenta et bleu) et delphinidine (bleu). Ceci transparaît dans les noms vernaculaires&nbsp;: on a beaucoup de plantes «&nbsp;pourpres&nbsp;» (lamier pourpre, orchis pourpre, …) et pas d’oiseaux pourpres.&nbsp;</p>
+
+
+
+<h2>Syndrome de la rose bleue&nbsp;</h2>
+
+
+
+<p>Comment expliquer l’absence de certaines teintes dans le gamut avien comme le vert saturé, le bleu, les pourpres, les UV verts et UV rouge. Une piste d’explication repose sur l’hypothèse dite de la rose bleue. On sait que depuis longtemps les rosiéristes rêvent de produire une rose bleue&nbsp;; or, c’est impossible car les roses ne fabriquent pas d’anthocyanes responsables de cette couleur chez les fleurs&nbsp;; on y est arrivé en 2004 mais par génie génétique, i.e. en «&nbsp;trichant&nbsp;».&nbsp;</p>
+
+
+
+<p>L’examen détaillé des zones inoccupées dans l’espace coloré indique que les couleurs absentes seraient impossibles à produire avec les mécanismes de coloration existants. Chaque classe de pigment avien n’occupe qu’un tout petit volume de l’espace coloré et donc de nombreuses couleurs ne peuvent être atteintes avec les seuls pigments dont disposent les oiseaux. Ainsi, il n’y a pas de pigments bleus&nbsp;; les oiseaux consomment des végétaux contenant des anthocyanes mais ils les digèrent entièrement sans avoir la capacité de les récupérer contrairement aux caroténoïdes. Les porphyrines vertes sont rares et ne donnent qu’une gamme restreinte de teintes.&nbsp;</p>
+
+
+
+<p>Par contre, en combinant les couleurs structurelles avec les pigments, les oiseaux ont réussi à produire des couleurs saturées. Cette contribution majeure des couleurs structurelles confirme l’idée qu’elles ont évolué dans un contexte contraint par la limitation des pigments.&nbsp;</p>
+
+
+
+<p>D’autres considérations complexes par rapport au fonctionnement des récepteurs suggèrent que nombre de couleurs saturées non atteintes sur les plumages des oiseaux seraient inopérantes car trop compliquées à percevoir.</p>
+
+
+
+<h2>Iles de Pâques&nbsp;</h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-lepto.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-lepto-731x1024.jpg" alt="" class="wp-image-26599" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-lepto-731x1024.jpg 731w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-lepto-214x300.jpg 214w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-lepto-768x1075.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-lepto-600x840.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-lepto.jpg 800w" sizes="(max-width: 731px) 100vw, 731px" /></a><figcaption>Rémiges primaires iridescentes du courol (cliché Jennifer Bergk, CC BY-SA 3.0)</figcaption></figure></div>
+
+
+
+<p>Les chercheurs ont été interpellés par au moins deux espèces dont le point coloré se retrouve complètement isolé au milieu d’une vaste zone inoccupée de l’espace coloré et qu’ils qualifient «&nbsp;d’îles de Pâques&nbsp;». Les deux se situent dans la zone vide des pourpres mentionnée ci-dessus. Il s’agit de la calotte vive rose rouge du guêpier à fraise d’Asie et les rémiges primaires iridescentes du courol vouroudriou de Madagascar. Or, dans les deux cas, ces nouvelles couleurs proviennent de mécanismes spéciaux de production de couleur&nbsp;: pour le guêpier par la combinaison de caroténoïdes et de couleur structurelle et pour le courol par une couleur structurelle à partir des barbules des plumes. Il s’agit donc dans les deux cas d’exemples de sélection naturelle ou sexuelle liées à un environnement particulier et pas à une innovation majeure en soi.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-guep.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-guep.jpg" alt="" class="wp-image-26595"/></a><figcaption>Guêpier à fraise <br>(cliché Francesco Veronesi from Italy, CC BY-SA 2.0)</figcaption></figure></div>
+
+
+
+<h2>Innovations en séries&nbsp;</h2>
+
+
+
+<p>Justement, il est intéressant sur un arbre phylogénétique de pister où et quand sont apparues certaines innovations évolutives en matière de mécanisme de production de couleur. Ainsi, on découvre que les lignées basales (dont les Galliformes et ansériformes&nbsp;: <a href="https://www.zoom-nature.fr/les-oiseaux-de-basse-cour-un-groupe-scientifiquement-correct/">voir la chronique</a>) n’ont pas de caroténoïdes dans leurs plumages. La capacité à récupérer ces substances végétales n’est apparue qu’ultérieurement&nbsp;; ensuite, de nouvelles innovations (équipement enzymatique) ont permis de récupérer les matériaux issus de la dégradation des xanthophylles (caroténoïdes jaunes) végétaux pour les recombiner en nouveaux caroténoïdes, des kétocaroténoïdes. On pourrait dire que les oiseaux ont réussi à s’affranchir en partie de leur dépendance aux végétaux pour ces couleurs et à les «&nbsp;faire leurs&nbsp;».</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-faisan.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-faisan.jpg" alt="" class="wp-image-26590" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-faisan.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-faisan-300x213.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-faisan-768x546.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-faisan-600x427.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>La lignée basale des Galliformes possède une palette de couleurs moindre mais joue beaucoup sur les motifs (barres, taches, rayures, &#8230;) ; ici, un faisan vénéré</figcaption></figure></div>
+
+
+
+<p>De nombreuses autres innovations ont émergé dans diverses lignées, notamment au sein des passereaux, le groupe qui a connu une radiation évolutive considérable. Ainsi, le cotinga Pompadour (Amazonie) a réussi à développer un plumage pourpre bordeaux foncé (chez les mâles) via un mélange de six kétocaroténoïdes originaux.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-cot.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-cot.jpg" alt="" class="wp-image-26587" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-cot.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-cot-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption>Mâle de cotinga Pompadour (Cliché Nortondefeis, CC BY-SA 4.0)</figcaption></figure></div>
+
+
+
+<p>De telles nuances bordeaux ne se retrouvent que chez les perroquets qui eux ont développé une nouvelle catégorie de pigments, les psittacofulvines&nbsp;; ces pigments les placent à peu près dans le même espace coloré que celui des caroténoïdes des passereaux, le groupe frère des perroquets. Pourtant, les perroquets sont incapables de récupérer les caroténoïdes végétaux en dépit des quantités qui circulent dans leur sang&nbsp;et issus de leur alimentation ; ils ont étendu leur gamut en accédant à de nouveaux pigments. Ceci signifie que l’ancêtre commun aux perroquets et aux passereaux, avant leur divergence, n’avait pas non plus cette capacité&nbsp;; les passereaux l’ont acquise au cours du développement de leur lignée.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-geaipano.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-geaipano.jpg" alt="" class="wp-image-26592" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-geaipano.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-geaipano-300x97.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-geaipano-768x247.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/08/gam-geaipano-600x193.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Il n&rsquo;y a pas que les oiseaux exotiques qui ont de « belles couleurs » : notre geai des chênes possède de superbes plumes sur ses ailes </figcaption></figure></div>
+
+
+
+<p>Donc, globalement, les innovations évolutives liées à la production de couleurs ont souvent évolué séparément dans telle ou telle lignée et à de nombreuses reprises&nbsp;; ceci est encore plus vrai pour le développement des couleurs structurelles au rôle majeur dans cette folle diversification.&nbsp;</p>
+
+
+
+<h2>Bibliographie&nbsp;</h2>
+
+
+
+<p>1)<strong>How colorful are birds? Evolution of the avian plumage color gamut</strong>&nbsp;Mary Caswell Stoddard&nbsp;and Richard O. Prum Behavioral Ecology Advance, 1-10&nbsp;; 2011</p>
+
+
+
+<p><strong><a href="http:// http://www.reflectance.co.uk">Floral Reflectance Database</a></strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+										</item>
+		<item>
 		<title>Les couleurs vues à travers les yeux des oiseaux</title>
 		<link>https://www.zoom-nature.fr/les-couleurs-vues-a-travers-les-yeux-des-oiseaux/</link>
 				<pubDate>Wed, 10 Aug 2022 12:17:27 +0000</pubDate>
@@ -942,259 +1202,6 @@
 <p><strong>Red bowl-shaped flowers: convergence for beetle pollination in the Mediterranean region.</strong>&nbsp;Isr J Bot 39:81–92 Dafni A, Bernhardt P, Shmida A et al (1990)</p>
 ]]></content:encoded>
 										</item>
-		<item>
-		<title>La mare des Gouyards</title>
-		<link>https://www.zoom-nature.fr/la-mare-des-gouyards/</link>
-				<pubDate>Sat, 30 Jul 2022 17:24:59 +0000</pubDate>
-		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
-				<category><![CDATA[Mares des Combrailles]]></category>
-		<category><![CDATA[Biodiversité ordinaire]]></category>
-		<category><![CDATA[Conservation]]></category>
-		<category><![CDATA[Flore aquatique]]></category>
-		<category><![CDATA[Gestion des zones humides]]></category>
-		<category><![CDATA[Libellule]]></category>
-		<category><![CDATA[Mare]]></category>
-		<category><![CDATA[Odonate]]></category>
-		<category><![CDATA[Zone humide]]></category>
-
-		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=26377</guid>
-				<description><![CDATA[29/07/ 2022 Dans une récente chronique, j’ai relaté mon nouveau rôle de conservateur bénévole auprès [&#8230;]]]></description>
-								<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-intro.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-intro.jpg" alt="" class="wp-image-26393" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-intro.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-intro-300x183.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-intro-768x468.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-intro-600x365.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a></figure></div>
-
-
-
-<p>29/07/ 2022 Dans une récente chronique, j’ai relaté mon nouveau rôle de conservateur bénévole auprès du CEN (Conservatoire des Espaces Naturels) d’Auvergne pour<a href="https://www.zoom-nature.fr/preserver-la-mare-des-chavades-a-saint-myon-63/"> la mare des Chavades à St Myon </a>et commencé à décrire la biodiversité de cette mare communale. A cette occasion, j’ai proposé au CEN de visiter les autres mares des Combrailles gérées par le Conservatoire, notamment pour en dresser l’inventaire botanique, la flore ayant été jusque là peu ou pas prospectée. Je vais donc dans cette série de chroniques&nbsp;<em>Mares des Combrailles</em>&nbsp;rapporter mes découvertes faunistiques et floristiques sur certaines de ces mares au fil de mes visites&nbsp;; ce sera une manière de faire comprendre à quel point chaque mare est unique de par sa configuration, son histoire, sa végétation dominante, sa gestion, … La série commence donc avec la mare des Gouyards à Saint-Rémy-de-Blot.&nbsp;</p>
-
-
-
-<h2>Belle mare&nbsp;</h2>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panoint.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panoint.jpg" alt="" class="wp-image-26425" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panoint.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panoint-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panoint-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panoint-600x399.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a></figure></div>
-
-
-
-<p>Le nom du lieu-dit où se trouve&nbsp;cette mare, les Gouyards, dérive probablement de gouille (ou de la forme masculine moins courante,&nbsp;<em>gouillas</em>), un vieux nom qui remonte au 12<sup>ème</sup>&nbsp;siècle (sous la forme&nbsp;<em>goille</em>) et désigne un trou d’eau, une mare, une fondrière. Ceci laisse à penser qu’elle doit être ancienne pour avoir ainsi laissé son empreinte toponymique&nbsp;; pourtant, on n’en retrouve pas trace sur le cadastre napoléonien de 1833. Effectivement, au premier coup d’œil, on pressent qu’il s’agit là d’une mare ancienne comme en attestent les grands arbres qui la bordent,&nbsp;âgés d’au moins 50 ans. Ce rideau de vieux arbres qui ceint presque tout le tour de la mare créé une ambiance très ombragée sur les bords&nbsp;; ce pourrait être un inconvénient majeur sur une petite mare mais vu sa taille conséquente (600m2), la partie centrale reçoit encore bien le soleil&nbsp;; autre avantage en ces temps où les canicules se succèdent crescendo&nbsp;: elle a conservé un niveau d’eau assez élevé au cœur de cet été si chaud (mais avec un gros épisode orageux en juin). Alimentée par un fossé, elle s’assèche pourtant facilement en période de sécheresse et sa profondeur moyenne se situe entre 10 et 30cm.&nbsp;</p>
-
-
-
-<p>En dépit de sa taille, elle passe inaperçue dans le paysage notamment du fait de ce rideau d’arbres&nbsp;: il faut entrer sur le communal herbeux (avec un remarquable tilleul dit de&nbsp;Sully, pluricentenaire de presque 6m de circonférence) sur le côté droit de la route qui mène au village pour repérer une table de pique-nique sur une plate-forme en bois qui domine la mare. Vous devrez chercher de brèves ouvertures entre ces arbres pour découvrir la mare par petits morceaux.&nbsp;</p>
-
-
-
-<h2>Roncier refuge</h2>
-
-
-
-<p>Avant d’entamer l’inspection de la mare proprement dite, j’explore les abords côté communal&nbsp;: un grand roncier broussailleux s’étend sur toute la moitié au-delà de la table de pique-nique&nbsp;: une jungle impénétrable que d’aucuns jugeraient comme «&nbsp;à nettoyer&nbsp;». Et pourtant, cet espace semi-sauvage forme une zone tampon qui d’une part rend la mare inaccessible de ce côté (donc tranquillité pour les nicheurs) et surtout offre des ressources «&nbsp;alimentaires&nbsp;» et des abris pour une riche biodiversité.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment3.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment3.jpg" alt="" data-id="26402" data-link="https://www.zoom-nature.fr/?attachment_id=26402" class="wp-image-26402" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment3-300x205.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment3-768x525.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment3-600x410.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment1.jpg" alt="" data-id="26400" data-link="https://www.zoom-nature.fr/?attachment_id=26400" class="wp-image-26400" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment1-300x188.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment1-768x482.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment1-600x377.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Menthe à feuilles rondes </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment2.jpg" alt="" data-id="26401" data-link="https://www.zoom-nature.fr/?attachment_id=26401" class="wp-image-26401" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment2-300x220.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment2-768x563.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-ment2-600x440.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li></ul>
-
-
-
-<p>L’élément le plus frappant en cette fin juillet ce sont plusieurs imposantes colonies de menthe à feuilles rondes en pleine floraison. On la surnomme menthe de cheval (sous-entendu pas très bonne au goût comme tisane) ou menthe laineuse (à cause des tiges et feuilles gaufrées couvertes de poils mou crépus)&nbsp;; cette espèce commune et banale fréquente les sites mouillés en hiver et pouvant s’assécher en été. Elle affiche ses longs épis terminaux coniques de minuscules fleurs blanches à rosées (3-4mm) innombrables&nbsp;; comme chez les autres menthes, ces fleurs sont régulières (non à deux lèvres) avec un tube ouvert ce qui rend leur abondant nectar accessible à toutes sortes d’insectes non spécialisés&nbsp;: on parle de plante mellifère généraliste.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-4 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc1.jpg" alt="" data-id="26409" data-link="https://www.zoom-nature.fr/?attachment_id=26409" class="wp-image-26409" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc1-300x219.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc1-768x562.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc1-600x439.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>4 espèces de mouches </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc2.jpg" alt="" data-id="26410" data-link="https://www.zoom-nature.fr/?attachment_id=26410" class="wp-image-26410" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc2-300x230.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc2-768x588.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-mouc2-600x460.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-syrp.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-syrp.jpg" alt="" data-id="26412" data-link="https://www.zoom-nature.fr/?attachment_id=26412" class="wp-image-26412" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-syrp.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-syrp-300x198.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-syrp-768x508.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-syrp-600x397.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-tach.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-tach.jpg" alt="" data-id="26413" data-link="https://www.zoom-nature.fr/?attachment_id=26413" class="wp-image-26413" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-tach.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-tach-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-tach-768x577.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-tach-600x451.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li></ul>
-
-
-
-<p>Et je peux largement attester de cette attractivité&nbsp;: en un quart d’heure de «&nbsp;safari-photo&nbsp;» centré sur les massifs fleuris, j’observe des dizaines d’espèces butineurs. Les mouches dominent par leur nombre et leur diversité&nbsp;: des syrphes éristales (mouches floricoles&nbsp;: voir la chronique)&nbsp;dont les asticots vivent dans l’eau stagnante ; diverses mouches classiques, la plupart aux teintes métalliques&nbsp;: des vertes, des bleues, des rouge violacé, …&nbsp;; une superbe mouche de la famille des tachinidés aux grands yeux rouges&nbsp;; …</p>
-
-
-
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guepsol.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guepsol.jpg" alt="" data-id="26408" data-link="https://www.zoom-nature.fr/?attachment_id=26408" class="wp-image-26408" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guepsol.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guepsol-300x197.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guepsol-768x503.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guepsol-600x393.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Guêpe solitaire </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guep.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guep.jpg" alt="" data-id="26407" data-link="https://www.zoom-nature.fr/?attachment_id=26407" class="wp-image-26407" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guep.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guep-300x221.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guep-768x565.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-guep-600x442.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Guêpe sociale </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abnoir.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abnoir.jpg" alt="" data-id="26405" data-link="https://www.zoom-nature.fr/?attachment_id=26405" class="wp-image-26405" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abnoir.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abnoir-300x206.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abnoir-768x528.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abnoir-600x413.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Abeille noire </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abbour.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abbour.jpg" alt="" data-id="26404" data-link="https://www.zoom-nature.fr/?attachment_id=26404" class="wp-image-26404" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abbour.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abbour-300x173.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abbour-768x443.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-abbour-600x346.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Bourdon terrestre</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-ab.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-ab.jpg" alt="" data-id="26403" data-link="https://www.zoom-nature.fr/?attachment_id=26403" class="wp-image-26403" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-ab.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-ab-300x210.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-ab-768x537.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-ab-600x419.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Abeille solitaire </figcaption></figure></li></ul>
-
-
-
-<p>Les hyménoptères (<a href="https://www.zoom-nature.fr/les-ailes-mariees-un-ordre-mega-divers/">voir la chronique</a>) ne sont pas en reste&nbsp;: de minuscules abeilles noires&nbsp;et une autre espèce noire&nbsp;plus grande ; un bourdon du groupe terrestre&nbsp;; un frelon asiatique qui passe en mode «&nbsp;bulldozer&nbsp;» à plusieurs reprises&nbsp;; … Et puis il y a des dizaines de papillons de jour amaryllis et quelques petits nocturnes dont une jolie pyrale pourpre dont les chenilles se nourrissent de … menthes. </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-amar.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-amar.jpg" alt="" class="wp-image-26406" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-amar.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-amar-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-amar-768x534.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-amar-600x417.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Amaryllis</figcaption></figure></div>
-
-
-
-<p>Autant dire que devant une telle diversité dans des groupes eux-mêmes hyper-diversifiés (voir la <a href="https://www.zoom-nature.fr/les-ailes-mariees-un-ordre-mega-divers/">chronique sur les hyménoptères</a>), il est vain d’essayer d’identifier ces espèces à part une ou deux vraiment reconnaissables de visu. Peu importe qu’ils soient sans nom&nbsp;: ils témoignent de manière superbe de l’importance capitale de ce roncier-friche comme pourvoyeur de nourriture au moins pour des hordes de pollinisateurs. On imagine sans guère se tromper qu’il doit y avoir d’innombrables autres espèces y habitant dont des herbivores comme les sauterelles et criquets sans oublier les prédateurs attirés par cette manne de visiteurs (les toiles d’araignées ne manquent pas).&nbsp;</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-pred.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-pred.jpg" alt="" class="wp-image-26411" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-pred.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-pred-300x218.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-pred-768x557.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-poll-pred-600x435.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Punaise <em>Deraeocoris</em> prédatrice de petits insectes </figcaption></figure></div>
-
-
-
-<p>Et surtout ce havre de biodiversité doit largement profiter aux prédateurs liés à la mare au premier rang desquelles les libellules&nbsp;: si les larves vivent et chassent dans l’eau (<a href="https://www.zoom-nature.fr/lemergence-dune-libellule-linstant-magique/">voir la chronique</a>), les adultes volent et chassent activement les insectes volants à proximité. Le roncier constitue un terrain de chasse idéal avec en sus des perchoirs par milliers (postes d’affût) et une bonne insolation pour se chauffer au soleil. Les passereaux doivent aussi y trouver leur compte&nbsp;; les mûres des ronces ne vont pas tarder à être … mûres et seront une bénédiction pour les passereaux en migration ou se préparant à migrer en se gavant pour accumuler des réserves de graisse.</p>
-
-
-
-<p>Bref, ce milieu banal, fouillis apparemment sans intérêt, constitue un maillon clé pour épauler l’écosystème mare dont il est étroitement solidaire&nbsp;: les deux sont indissociables.&nbsp;</p>
-
-
-
-<h2>Rideaux d’arbres</h2>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-rideau.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-rideau.jpg" alt="" class="wp-image-26414" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-rideau.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-rideau-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-rideau-768x576.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-rideau-600x450.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></div>
-
-
-
-<p>Second écran avant la mare&nbsp;: le rideau d’arbres et arbustes mentionné ci-dessus. On y trouve évidemment en tête les essences liées à l’eau&nbsp;: saules et peupliers (salicacées). Trois espèces de saules se partagent les bords&nbsp;: de nombreux saules cendrés en cépées, quelques saules blancs plus «&nbsp;arbres&nbsp;» et un saule marsault isolé. Dans un angle, d’une vénérable cépée de saule, un énorme tronc, plus gros que ma jambe, s’est abattu en travers de la mare&nbsp;: des dimensions peu courantes de la part de ce saule nettement arbustif&nbsp;: il n’est pas mort pour autant et ce tronc rejette de nombreuses pousses verticales vigoureuses . </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-saulepano.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-saulepano.jpg" alt="" class="wp-image-26415" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-saulepano.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-saulepano-300x186.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-saulepano-768x475.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-saulepano-600x371.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a></figure></div>
-
-
-
-<p>Près de la table de pique-nique se dresse un grand peuplier tremble dont le feuillage frissonne sous le vent (<a href="https://www.zoom-nature.fr/pourquoi-les-feuilles-du-tremble-tremblent-elles-autant/">voir la chronique</a>)&nbsp;; autour de lui se dressent de nombreux rejetons issus de rejets sur les racines (drageons). </p>
-
-
-
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-trem-saul.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-trem-saul.jpg" alt="" data-id="26418" data-link="https://www.zoom-nature.fr/?attachment_id=26418" class="wp-image-26418" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-trem-saul.jpg 467w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-trem-saul-175x300.jpg 175w" sizes="(max-width: 467px) 100vw, 467px" /></a><figcaption>Saule blanc </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-tre.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-tre.jpg" alt="" data-id="26417" data-link="https://www.zoom-nature.fr/?attachment_id=26417" class="wp-image-26417" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-tre.jpg 497w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-tre-186x300.jpg 186w" sizes="(max-width: 497px) 100vw, 497px" /></a><figcaption>Peuplier tremble </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-trem1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-trem1.jpg" alt="" data-id="26419" data-link="https://www.zoom-nature.fr/?attachment_id=26419" class="wp-image-26419" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-trem1.jpg 532w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-trem1-200x300.jpg 200w" sizes="(max-width: 532px) 100vw, 532px" /></a><figcaption>Tronc clair du tremble </figcaption></figure></li></ul>
-
-
-
-<p>Un grand noyer surplombe la mare. De l’autre côté, plusieurs grands frênes dominent la scène&nbsp;: cette essence n’est pas strictement dépendante de l’eau mais ne prospère bien que sur des sols bien pourvus. Deux petites bizarreries liées à la proximité du hameau&nbsp;: un jeune pied de laurier-cerise, un amateur de lieux frais qui correspondent à son habitat d’origine dans les Balkans, et un jeune groseillier rouge sans doute dispersé via des excréments d’oiseaux ayant mangé des baies dans un jardin.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall2.jpg" alt="" data-id="26390" data-link="https://www.zoom-nature.fr/?attachment_id=26390" class="wp-image-26390" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall2-300x239.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall2-768x612.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall2-600x478.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Rouille <em>Phragmidium</em> sur ronce </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall1.jpg" alt="" data-id="26389" data-link="https://www.zoom-nature.fr/?attachment_id=26389" class="wp-image-26389" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall1-300x207.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall1-768x531.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall1-600x415.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Rouille sur saule blanc </figcaption></figure></li></ul>
-
-
-
-<p>L’examen des feuillages de ces arbres et arbustes révèle une biodiversité négligée mais bien réelle&nbsp;: des «&nbsp;galles&nbsp;» sur les feuilles des ronces déformées ou des feuilles repliées sur le saule cendré&nbsp;; des traces de consommation par des insectes herbivores sur les feuilles de tremble&nbsp;; des «&nbsp;champignons&nbsp;» parasites&nbsp;de type rouilles (<a href="https://www.zoom-nature.fr/cinq-vies-entre-deux-hotes/">voir la chronique</a>) sur le saule blanc ou sur les ronces.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall-conso.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall-conso.jpg" alt="" data-id="26388" data-link="https://www.zoom-nature.fr/?attachment_id=26388" class="wp-image-26388" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall-conso.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall-conso-300x210.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall-conso-768x537.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall-conso-600x419.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Feuille de tremble grignotée : par qui ???</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall5.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall5.jpg" alt="" data-id="26392" data-link="https://www.zoom-nature.fr/?attachment_id=26392" class="wp-image-26392" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall5.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall5-300x222.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall5-768x567.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall5-600x443.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Galle sur saule cendré : bord de feuille replié et déformé </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall3.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall3.jpg" alt="" data-id="26391" data-link="https://www.zoom-nature.fr/?attachment_id=26391" class="wp-image-26391" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall3-300x221.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall3-768x565.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-gall3-600x442.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Galle sur ronce : <em>Dasineura plicatrix</em> (petite mouche)</figcaption></figure></li></ul>
-
-
-
-<p>Tous ces arbres impactent directement la vie de la mare de diverses manières&nbsp;: par l’ombrage qu’ils projettent qui modifie la température de l’eau et l’évaporation&nbsp;; par leurs racines qui plongent juste sous la mare et peuvent prélever de grosses quantités d’eau, notamment les saules qui transpirent beaucoup&nbsp;; par leurs feuilles mortes qui, chaque automne, vont s’accumuler au fond et participer au comblement progressif de la mare. Cet impact mixte explique pourquoi lors des opérations périodiques de gestion, on est amené à en rabattre une partie d’entre eux pour les «&nbsp;calmer&nbsp;» sachant qu’ils rejettent très facilement depuis leur souche et récupèrent en quelques années. Ainsi en 2019, une telle opération avait été menée sur la bordure du communal où nous sommes&nbsp;: il suffit de voir les images d’alors et de comparer avec aujourd’hui pour comprendre la capacité de reprise de ces arbres dont on aperçoit les rejets au bord&nbsp;: seulement quatre ans séparent ces deux paysages.&nbsp;</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-travaux.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-travaux-150x300.jpg" alt="" class="wp-image-26416" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-travaux-150x300.jpg 150w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-travaux.jpg 349w" sizes="(max-width: 150px) 100vw, 150px" /></a></figure></div>
-
-
-
-<h2>Dans la typhaie mangrove&nbsp;</h2>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-pano.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-pano.jpg" alt="" class="wp-image-26424" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-pano.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-pano-300x150.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-pano-768x384.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-pano-600x300.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a></figure></div>
-
-
-
-<p>Près de la moitié de la surface de la mare est occupée par un peuplement continu et dense de hautes massettes à larges feuilles, ces «&nbsp;roseaux à quenouilles&nbsp;» aux inflorescences en cigares bien connues. Comme dans la mare des Chavades à St Myon (<a href="https://www.zoom-nature.fr/preserver-la-mare-des-chavades-a-saint-myon-63/">voir la chronique</a>), les massettes tendent à coloniser très vite ces mares au fond riche en matière organique via leur système de rhizome redoutablement efficace. Pour inspecter la mare et dresser l’inventaire de sa flore, je chausse les bottes et je circule lentement entre les pieds de massettes en veillant à respecter le plus possible l’environnement. Attention&nbsp;: ne soyez pas tentés d’en faire autant car tout déplacement dans ce milieu très abrité induit des perturbations sur la faune que l’on piétine et écrase immanquablement.&nbsp;&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-frong.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-frong.jpg" alt="" data-id="26423" data-link="https://www.zoom-nature.fr/?attachment_id=26423" class="wp-image-26423" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-frong.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-frong-300x228.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-frong-768x583.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-frong-600x455.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Feuille rongée (chenille ?)</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-coup.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-coup.jpg" alt="" data-id="26421" data-link="https://www.zoom-nature.fr/?attachment_id=26421" class="wp-image-26421" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-coup.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-coup-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-coup-768x576.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-coup-600x450.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Feuille coupée montrant la structure interne faite de lacunes </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-rac.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-rac.jpg" alt="" data-id="26427" data-link="https://www.zoom-nature.fr/?attachment_id=26427" class="wp-image-26427" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-rac.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-rac-300x201.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-rac-768x514.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-rac-600x401.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Racines plumeuses : de redoutables pompes d&rsquo;absorption </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-cig.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-cig.jpg" alt="" data-id="26420" data-link="https://www.zoom-nature.fr/?attachment_id=26420" class="wp-image-26420" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-cig.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-cig-300x215.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-cig-768x549.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-cig-600x429.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Epi fructifière </figcaption></figure></li></ul>
-
-
-
-<p>Je me retrouve ainsi à déambuler entre des hautes tiges qui, pour la plupart, me dépassent d’un bon mètre,&nbsp;; l’impression d’être perdu au cœur d’une mangrove herbacée. Belle occasion pour considérer au plus près la structure des massettes avec leurs feuilles disposées en éventails, pleines de lacunes aérifères, leurs tiges puissantes, leurs racines fines et plumeuses à peine ancrées sur la vase semi-liquide, … Nombre d’entre elles portent des «&nbsp;cigares&nbsp;brun foncé», les épis femelles fructifiés, composés&nbsp;&nbsp;de milliers de fruits plumeux hyper serrés qui vont se désorganiser à partir de l’automne et être emportés par le vent&nbsp;; au-dessus, on trouve les restes de l’épi mâle qui a produit les étamines et le pollen ayant servi à la fécondation.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-puc3.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-puc3.jpg" alt="" data-id="26426" data-link="https://www.zoom-nature.fr/?attachment_id=26426" class="wp-image-26426" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-puc3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-puc3-300x210.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-puc3-768x537.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-puc3-600x419.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc1.jpg" alt="" data-id="26380" data-link="https://www.zoom-nature.fr/?attachment_id=26380" class="wp-image-26380" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc1-300x224.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc1-768x573.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc1-600x448.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc2.jpg" alt="" data-id="26381" data-link="https://www.zoom-nature.fr/?attachment_id=26381" class="wp-image-26381" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc2-300x189.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc2-768x485.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-puc2-600x379.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li></ul>
-
-
-
-<p>En se déplaçant ainsi à demi enfoncé dans la vase molle, mes yeux se trouvent à hauteur de feuillage ce qui facilite l’observation directe. Très vite, je note de grandes colonies de pucerons minuscules vert clair déjà rencontrés à la mare des Chavades (<a href="https://www.zoom-nature.fr/les-minuscules-de-la-mare-des-chavades-lete/">voir la chronique sur les minuscules</a>)&nbsp;: une espèce banale, le puceron du prunier. Par contre, leur abondance ici est un gage de ressource alimentaire pour divers insectes prédateurs et les petits passereaux comme les pouillots. De nombreuses mouches, tout aussi banales, se chauffent au soleil, posées sur les feuilles plates. Un étrange tonnelet brun collé sur une feuille accroche mon regard&nbsp;: une pupe d’éristale&nbsp;; ces syrphes pondent dans l’eau stagnante riche en matière organique où se développent leurs asticots «&nbsp;queue-de-rat&nbsp;».</p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-faun1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-faun1.jpg" alt="" data-id="26422" data-link="https://www.zoom-nature.fr/?attachment_id=26422" class="wp-image-26422" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-faun1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-faun1-300x207.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-faun1-768x530.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-faun1-600x414.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Belle surface pour se chauffer </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-syrp.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-syrp.jpg" alt="" data-id="26428" data-link="https://www.zoom-nature.fr/?attachment_id=26428" class="wp-image-26428" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-syrp.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-syrp-300x214.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-syrp-768x547.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-syrp-600x428.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Pupe de syrphe </figcaption></figure></li></ul>
-
-
-
-<p>A contre-jour, une silhouette m’interpelle&nbsp;: une grande araignée brune aux longues pattes&nbsp;; comme je m’approche, elle s’étire en long, position typique des tétragnathes, araignées typiques des zones humides. </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panotatra.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panotatra.jpg" alt="" class="wp-image-26431" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panotatra.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panotatra-300x135.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panotatra-768x346.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-typ-panotatra-600x271.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a></figure></div>
-
-
-
-<p>J’atteins le bord de la typhaie et l’eau libre&nbsp;: des remous signalent des «&nbsp;grosses&nbsp;» bêtes&nbsp;; brève attente et une grosse grenouille verte émerge&nbsp;; tout autour de grandes plumes flottant sur l’eau ont l’air (&nbsp;?) d’être celles d’un héron cendré sans doute venu chasser les grenouilles. L’inventaire antérieur réalisé par le CEN signalait trois autres espèces d’amphibiens dans cette mare&nbsp;: la grenouille rousse, le crapaud commun et le triton palmé.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plu.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plu.jpg" alt="" data-id="26378" data-link="https://www.zoom-nature.fr/?attachment_id=26378" class="wp-image-26378" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plu.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plu-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plu-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plu-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plum.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plum.jpg" alt="" data-id="26379" data-link="https://www.zoom-nature.fr/?attachment_id=26379" class="wp-image-26379" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plum.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plum-300x212.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plum-768x541.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-plum-600x423.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-ranapano.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-ranapano.jpg" alt="" class="wp-image-26382" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-ranapano.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-ranapano-300x145.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-ranapano-768x372.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-faune-ranapano-600x291.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a></figure></div>
-
-
-
-<h2>Safari libellules&nbsp;</h2>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-lest.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-lest.jpg" alt="" data-id="26398" data-link="https://www.zoom-nature.fr/?attachment_id=26398" class="wp-image-26398" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-lest.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-lest-300x186.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-lest-768x476.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-lest-600x372.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Leste vert</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-symp.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-symp.jpg" alt="" data-id="26399" data-link="https://www.zoom-nature.fr/?attachment_id=26399" class="wp-image-26399" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-symp.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-symp-300x186.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-symp-768x475.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-symp-600x371.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Mâle de Sympétrum </figcaption></figure></li></ul>
-
-
-
-<p>Évidemment, les libellules sont au rendez-vous. Quelques délicats agrions bleus se dérobent sans se laisser approcher. Une gracieuse demoiselle au corps d’un délicat vert métallique se pose au sommet d’un typha et se laisse tirer le portrait ; ainsi, je réussis à l’identifier (mais j’attends quand même une confirmation experte) comme étant un leste vert (<em>Chalcolestes viridis</em>) ; elle réunit une série de critères diagnostiques : un long abdomen ; une teinte métallique verte ; des appendices anaux (au bout de l’abdomen de cette femelle) blanchâtres ; ptérostigmas clairs au bout des ailes. Cette espèce a une particularité écologique qui, de plus, colle bien avec le site : elle recherche les mares bordées d’arbres et pond systématiquement dans le bois des branches au-dessus de l’eau. Un superbe mâle rouge de sympétrum se chauffe au soleil : via un expert du site Faune Auvergne j&rsquo;obtiens la confirmation qu&rsquo;il s&rsquo;agit d&rsquo;un sympétrum sanguin &#8230; bien nommé :  pattes noires, thorax uniforme, bien rouge, front rouge, abdomen rouge sang légèrement épaissi en massue. </p>
-
-
-
-<ul class="wp-block-gallery columns-4 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex4.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex4.jpg" alt="" data-id="26397" data-link="https://www.zoom-nature.fr/?attachment_id=26397" class="wp-image-26397" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex4.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex4-300x206.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex4-768x528.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex4-600x413.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>4 exuvies de libellules</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex3.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex3.jpg" alt="" data-id="26396" data-link="https://www.zoom-nature.fr/?attachment_id=26396" class="wp-image-26396" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex3-300x227.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex3-768x582.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex3-600x455.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex2.jpg" alt="" data-id="26395" data-link="https://www.zoom-nature.fr/?attachment_id=26395" class="wp-image-26395" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex2-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex2-768x513.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex2-600x401.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex1.jpg" alt="" data-id="26394" data-link="https://www.zoom-nature.fr/?attachment_id=26394" class="wp-image-26394" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex1-300x226.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex1-768x578.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-lib-ex1-600x452.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li></ul>
-
-
-
-<p>Mais c’est en circulant au cœur de la typhaie que je vais trouver pas moins de quatre exuvies, des peaux vides issues de la métamorphose de larves de libellules lors de l’émergence, i.e. la sortie de l’eau et l’éclosion d’un pré-adulte (<a href="https://www.zoom-nature.fr/lemergence-dune-libellule-linstant-magique/">voir la chronique</a>). Ce sont toutes des exuvies de «&nbsp;vraies&nbsp;» libellules ou anisoptères (voir la chronique)&nbsp;et de grande taille ce qui exclut les sympétrums observés plus petits ; il y a à coup sûr au moins deux espèces car l’une d’elles est courte et trapue. Il paraît que l’on peut identifier les espèces d’après ces dépouilles&nbsp;: si un expert a envie de s’y attabler, je suis preneur.&nbsp;</p>
-
-
-
-<p>Clairement, une telle mare représente un réservoir majeur de biodiversité pour les libellules en offrant à la fois de la nourriture (voir le roncier) et des sites de pontes originaux variés.&nbsp;</p>
-
-
-
-<h2>Inventaire flore</h2>
-
-
-
-<p>Le fort ombrage engendré par les arbres et la domination des massettes limitent sérieusement la diversité floristique au niveau de la mare elle-même.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-algv.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-algv.jpg" alt="" data-id="26383" data-link="https://www.zoom-nature.fr/?attachment_id=26383" class="wp-image-26383" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-algv.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-algv-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-algv-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-algv-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Algues vertes </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-mous.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-mous.jpg" alt="" data-id="26385" data-link="https://www.zoom-nature.fr/?attachment_id=26385" class="wp-image-26385" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-mous.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-mous-300x230.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-mous-768x589.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-mous-600x461.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Mousse semi-aquatique </figcaption></figure></li></ul>
-
-
-
-<p>Quelques radeaux flottants visqueux d’algues vertes indiquent une eau chargée en nutriments ce qui n’a rien de surprenant vu l’épaisseur de la vase et la proximité des habitations et des cultures. Une belle mousse vert fluo tapisse la vase entre les pieds de massettes&nbsp;; il va falloir que je m’y attable cet hiver, quand j’aurai plus de temps, pour l’identifier&nbsp;; il suffit d’en conserver un échantillon au sec et de le réhydrater le moment venu (<a href="https://www.zoom-nature.fr/pierre-qui-mousse-namasse-pas-deau/">voir la chronique sur les mousses</a>). A elle seule, elle représente une belle biomasse végétale.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-galiu.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-galiu.jpg" alt="" data-id="26384" data-link="https://www.zoom-nature.fr/?attachment_id=26384" class="wp-image-26384" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-galiu.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-galiu-300x215.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-galiu-768x549.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-galiu-600x429.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Gaillet des marais </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-pepl.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-pepl.jpg" alt="" data-id="26386" data-link="https://www.zoom-nature.fr/?attachment_id=26386" class="wp-image-26386" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-pepl.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-pepl-300x234.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-pepl-768x600.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-pepl-600x469.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Péplide pourpière</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-potam.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-potam.jpg" alt="" data-id="26387" data-link="https://www.zoom-nature.fr/?attachment_id=26387" class="wp-image-26387" srcset="https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-potam.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-potam-300x216.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-potam-768x552.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2022/07/gou-flo-potam-600x431.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Potamot à feuilles de renouée </figcaption></figure></li></ul>
-
-
-
-<p>Je réussis néanmoins à dénicher trois espèces semi-aquatiques, pas rares mais peu communes, installées sur la vase affleurante en bord de mare : le gaillet des marais en petites colonies&nbsp;; la péplide pourpière typique des grèves vaseuses à peine exondées&nbsp;; la glycérie aquatique dont on voit de beaux herbiers sur les photos datant de 2019 et maintenant très réduite. En eau plus profonde, on trouve la classique lentille d’eau mineure et des callitriches dispersées&nbsp;; petite surprise avec quelques feuilles flottantes d’un potamot à feuilles de renouée, typique des eaux acides et peu profondes.&nbsp;</p>
-
-
-
-<p>Certes, rien dans cet inventaire (à peaufiner avec des visites à d’autres saisons) n’est extraordinaire&nbsp;; cependant, à l’occasion de travaux de gestion comme le rétablissement de l’éclairement ou le curage, on peut avoir de belles surprises avec des plantes qui «&nbsp;apparaissent&nbsp;» brutalement&nbsp;: leurs graines ou spores étaient enfouies dans la vase, dormantes, et le retour de la lumière les «&nbsp;réveille&nbsp;» ainsi que le contact avec l’air et une eau plus oxygénée.&nbsp;&nbsp;D’où l’intérêt d’un suivi régulier au fil des saisons et des années.&nbsp;</p>
-
-
-
-<h2>Bibliographie&nbsp;</h2>
-
-
-
-<p><strong>Plan de gestion, Mares des Combrailles.&nbsp;</strong>Région Auvergne Rhône Alpes.&nbsp;Legrand R., Roig J. ; 2022. 194 pages. CEN Auvergne – Riom</p>
-]]></content:encoded>
-										</item>
 	</channel>
 </rss>
 
@@ -1204,5 +1211,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/pro
 Page Caching using disk: enhanced (Page is feed) 
 Mibnifié utilisant disk
 
-Served from: www.zoom-nature.fr @ 2022-08-10 13:33:15 by W3 Total Cache
+Served from: www.zoom-nature.fr @ 2022-08-12 13:32:03 by W3 Total Cache
 -->
