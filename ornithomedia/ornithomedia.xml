@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sat, 13 Aug 2022 06:00:32 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 14 Aug 2022 06:00:40 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>12ème Festival des oiseaux migrateurs de la Côte-Nord au Québec (Canada) du 22 au 25 septembre 2022</title>
+		<link>https://www.ornithomedia.com/breves/12eme-festival-des-oiseaux-migrateurs-de-la-cote-nord-au-quebec-canada-du-22-au-25-septembre-2022/</link>
+		<comments>https://www.ornithomedia.com/breves/12eme-festival-des-oiseaux-migrateurs-de-la-cote-nord-au-quebec-canada-du-22-au-25-septembre-2022/#respond</comments>
+		<pubDate>Sun, 14 Aug 2022 06:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=213731</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/12eme-festival-des-oiseaux-migrateurs-de-la-cote-nord-au-quebec-canada-du-22-au-25-septembre-2022/">12ème Festival des oiseaux migrateurs de la Côte-Nord au Québec (Canada) du 22 au 25 septembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/12eme-festival-des-oiseaux-migrateurs-de-la-cote-nord-au-quebec-canada-du-22-au-25-septembre-2022/">12ème Festival des oiseaux migrateurs de la Côte-Nord au Québec (Canada) du 22 au 25 septembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/12eme-festival-des-oiseaux-migrateurs-de-la-cote-nord-au-quebec-canada-du-22-au-25-septembre-2022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Le Goéland pontique poursuit son expansion vers l&#8217;ouest de l&#8217;Europe</title>
 		<link>https://www.ornithomedia.com/breves/le-goeland-pontique-poursuit-son-expansion-en-europe/</link>
@@ -162,23 +178,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/les-malcohas-frise-et-a-sourcils-rouges-seraient-plus-repandus-quon-ne-le-pensait/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Les ballots et les bottes de paille sont utilisés par de nombreuses espèces d&#8217;oiseaux</title>
-		<link>https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/</link>
-		<comments>https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/#comments</comments>
-		<pubDate>Wed, 27 Jul 2022 06:00:36 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Pratique]]></category>
-		<category><![CDATA[Conseils]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=212758</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/">Les ballots et les bottes de paille sont utilisés par de nombreuses espèces d&rsquo;oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/">Les ballots et les bottes de paille sont utilisés par de nombreuses espèces d&rsquo;oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/les-ballots-et-les-bottes-de-paille-sont-utiles-pour-plusieurs-especes-doiseaux/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
 		</item>
 	</channel>
 </rss>
