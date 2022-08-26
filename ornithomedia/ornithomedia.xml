@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 25 Aug 2022 06:18:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Aug 2022 17:21:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Où observer les oiseaux dans la partie autrichienne du lac de Neusield ?</title>
+		<link>https://www.ornithomedia.com/magazine/voyages/ou-observer-les-oiseaux-dans-la-partie-autrichienne-du-lac-de-neusield/</link>
+		<comments>https://www.ornithomedia.com/magazine/voyages/ou-observer-les-oiseaux-dans-la-partie-autrichienne-du-lac-de-neusield/#respond</comments>
+		<pubDate>Fri, 26 Aug 2022 17:21:10 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Voyages]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=214384</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/ou-observer-les-oiseaux-dans-la-partie-autrichienne-du-lac-de-neusield/">Où observer les oiseaux dans la partie autrichienne du lac de Neusield ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/ou-observer-les-oiseaux-dans-la-partie-autrichienne-du-lac-de-neusield/">Où observer les oiseaux dans la partie autrichienne du lac de Neusield ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/ou-observer-les-oiseaux-dans-la-partie-autrichienne-du-lac-de-neusield/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Peut-on être optimiste concernant le statut actuel réel de l&#8217;Éperonnier de Hainan ?</title>
 		<link>https://www.ornithomedia.com/breves/peut-on-etre-plus-optimiste-concernant-le-statut-actuel-reel-de-leperonnier-de-hainan/</link>
@@ -160,23 +177,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-chevechette-deurope-pourrait-etre-en-voie-dinstallation-en-espagne/">La Chevêchette d&rsquo;Europe pourrait être en cours d&rsquo;installation en Espagne</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/la-chevechette-deurope-pourrait-etre-en-voie-dinstallation-en-espagne/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Yann Jacob (Bretagne Vivante) nous en dit plus sur la situation actuelle de la Sterne de Dougall en France métropolitaine</title>
-		<link>https://www.ornithomedia.com/magazine/interviews/yann-jacob-bretagne-vivante-sepnb-nous-en-dit-plus-sur-la-situation-actuelle-de-la-sterne-de-dougall-en-france-metropolitaine/</link>
-		<comments>https://www.ornithomedia.com/magazine/interviews/yann-jacob-bretagne-vivante-sepnb-nous-en-dit-plus-sur-la-situation-actuelle-de-la-sterne-de-dougall-en-france-metropolitaine/#respond</comments>
-		<pubDate>Tue, 09 Aug 2022 05:00:23 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Interviews]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=213421</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/yann-jacob-bretagne-vivante-sepnb-nous-en-dit-plus-sur-la-situation-actuelle-de-la-sterne-de-dougall-en-france-metropolitaine/">Yann Jacob (Bretagne Vivante) nous en dit plus sur la situation actuelle de la Sterne de Dougall en France métropolitaine</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/yann-jacob-bretagne-vivante-sepnb-nous-en-dit-plus-sur-la-situation-actuelle-de-la-sterne-de-dougall-en-france-metropolitaine/">Yann Jacob (Bretagne Vivante) nous en dit plus sur la situation actuelle de la Sterne de Dougall en France métropolitaine</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/yann-jacob-bretagne-vivante-sepnb-nous-en-dit-plus-sur-la-situation-actuelle-de-la-sterne-de-dougall-en-france-metropolitaine/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
