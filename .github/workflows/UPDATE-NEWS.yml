@@ -42,9 +42,9 @@ jobs:
         #if: always()
         #run:  ./inpn.ps1
         
-      - name: UICN-FR
-        if: always()
-        run:  ./uicnfr.ps1
+      #- name: UICN-FR
+        #if: always()
+        #run:  ./uicnfr.ps1
         
       - name: Faune-France
         if: always()
