@@ -12,13 +12,13 @@
 	<atom:link href="http://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>http://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Aug 2022 10:05:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Sep 2022 21:04:17 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.6</generator>
+	<generator>https://wordpress.org/?v=5.7.7</generator>
 
 <image>
 	<url>http://lashf.org/wp-content/uploads/2019/10/cropped-LOGO_SHF_detoure_vf-32x32.png</url>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Appel à candidatures au conseil d&#8217;administration</title>
+		<link>http://lashf.org/non-classe/appel-a-candidatures-au-conseil-dadministration/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=appel-a-candidatures-au-conseil-dadministration</link>
+		
+		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<pubDate>Mon, 05 Sep 2022 21:02:26 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://lashf.org/?p=4635</guid>
+
+					<description><![CDATA[Nous avons le plaisir de vous informer de la tenue de notre Assemblée Générale Ordinaire le Vendredi 7 octobre 2022 à Belleville-en-Beaujolais (69). Nous lançons aujourd&#8217;hui un appel à candidatures pour le conseil d&#8217;administration. Comme vous le savez, la SHF ne cesse de se développer. Les administrateurs et l&#8217;équipe salariée ont besoin de vous pour [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Nous avons le plaisir de vous informer de la tenue de notre Assemblée Générale Ordinaire le Vendredi 7 octobre 2022 à Belleville-en-Beaujolais (69).</strong></p>
+<p>Nous lançons aujourd&rsquo;hui un appel à candidatures pour le conseil d&rsquo;administration. Comme vous le savez, la SHF ne cesse de se développer. Les administrateurs et l&rsquo;équipe salariée ont besoin de vous pour les aider à continuer de faire évoluer la SHF. Nous serions ravis de vous compter parmi nous pour mener à bien les différents chantiers en cours et vous faire vivre l&rsquo;expérience et l&rsquo;aventure associatives.</p>
+<p>Faites-nous vite parvenir votre candidature en suivant les instructions disponibles dans le document téléchargeable ci-dessous !</p>
+<h4 style="text-align: center;"><a href="http://lashf.org/wp-content/uploads/2022/09/SHF_AGO_2022_appel__candidatures.pdf">Télécharger l&rsquo;appel à candidatures 2022</a></h4>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Gestion des amphibiens exotiques envahissants : un guide technique dédié au Xénope lisse et à la Grenouille taureau</title>
 		<link>http://lashf.org/lifecroaa/gestion-des-amphibiens-exotiques-envahissants-un-guide-technique-dedie-au-xenope-lisse-et-a-la-grenouille-taureau/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gestion-des-amphibiens-exotiques-envahissants-un-guide-technique-dedie-au-xenope-lisse-et-a-la-grenouille-taureau</link>
 		
@@ -579,28 +598,6 @@
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" width="595" height="173" src="http://lashf.org/wp-content/uploads/2022/03/logo-sondage-IFOP-1.jpg" alt="" class="wp-image-4066" srcset="http://lashf.org/wp-content/uploads/2022/03/logo-sondage-IFOP-1.jpg 595w, http://lashf.org/wp-content/uploads/2022/03/logo-sondage-IFOP-1-300x87.jpg 300w" sizes="(max-width: 595px) 100vw, 595px" /></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Un documentaire pour le LIFE CROAA</title>
-		<link>http://lashf.org/communication/un-documentaire-pour-le-life-croaa/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=un-documentaire-pour-le-life-croaa</link>
-		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
-		<pubDate>Fri, 11 Mar 2022 10:28:34 +0000</pubDate>
-				<category><![CDATA[COMMUNICATION]]></category>
-		<category><![CDATA[LIFE CROAA]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=4055</guid>
-
-					<description><![CDATA[La SHF a le plaisir de vous présenter la dernière vidéo d’une série de 6 épisodes sur le LIFE CROAA ! C&#8217;est au travers d&#8217;un documentaire de 20 min que vous pourrez découvrir les actions de notre association et de nos 7 partenaires, engagés depuis 6 ans pour préserver les amphibiens autochtones menacés par la [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><strong>La SHF a le plaisir de vous présenter la dernière vidéo d’une série de 6 épisodes sur le LIFE CROAA !</strong></p>
-<p>C&rsquo;est au travers d&rsquo;un documentaire de 20 min que vous pourrez découvrir les actions de notre association et de nos 7 partenaires, engagés depuis 6 ans pour préserver les amphibiens autochtones menacés par la Grenouille taureau et le Xénope lisse.</p>
-<p>Ce programme européen a notamment permis de mener des activités de suivi et de gestion de ces deux espèces exotiques envahissantes, des actions recherche, de sensibilisation et de mobilisation des politiques publiques.</p>
-<p>Nous tenions à remercier nos partenaires techniques et financiers qui nous ont accompagné tout au long de ce projet.</p>
-<p>Bon visionnage !</p>
-<p><iframe loading="lazy" title="Préserver les amphibiens autochtones : le LIFE CROAA" width="680" height="383" src="https://www.youtube.com/embed/3vt1BAZcRoA?start=2&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
 		
