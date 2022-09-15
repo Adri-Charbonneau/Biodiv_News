@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 14 Sep 2022 06:00:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Sep 2022 19:15:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Le Crêt des Roches (Doubs), un site méconnu pour suivre la migration postnuptiale des oiseaux</title>
+		<link>https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/</link>
+		<comments>https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/#respond</comments>
+		<pubDate>Thu, 15 Sep 2022 18:32:17 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Observer en France]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=215615</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/">Le Crêt des Roches (Doubs), un site méconnu pour suivre la migration postnuptiale des oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/">Le Crêt des Roches (Doubs), un site méconnu pour suivre la migration postnuptiale des oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>22 jeunes Pygargues à queue blanche ont été lâchés dans les Asturies (Espagne) en 2021 et en 2022</title>
 		<link>https://www.ornithomedia.com/breves/22-jeunes-pygargues-a-queue-blanche-ont-ete-laches-en-espagne-en-2021-et-en-2022/</link>
@@ -161,22 +178,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/ou-observer-les-oiseaux-dans-la-partie-autrichienne-du-lac-de-neusiedl/">Où observer les oiseaux dans la partie autrichienne du lac de Neusiedl ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/ou-observer-les-oiseaux-dans-la-partie-autrichienne-du-lac-de-neusiedl/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Peut-on être optimiste concernant le statut actuel réel de l&#8217;Éperonnier de Hainan ?</title>
-		<link>https://www.ornithomedia.com/breves/peut-on-etre-plus-optimiste-concernant-le-statut-actuel-reel-de-leperonnier-de-hainan/</link>
-		<comments>https://www.ornithomedia.com/breves/peut-on-etre-plus-optimiste-concernant-le-statut-actuel-reel-de-leperonnier-de-hainan/#respond</comments>
-		<pubDate>Thu, 25 Aug 2022 06:00:49 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=214290</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/peut-on-etre-plus-optimiste-concernant-le-statut-actuel-reel-de-leperonnier-de-hainan/">Peut-on être optimiste concernant le statut actuel réel de l&rsquo;Éperonnier de Hainan ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/peut-on-etre-plus-optimiste-concernant-le-statut-actuel-reel-de-leperonnier-de-hainan/">Peut-on être optimiste concernant le statut actuel réel de l&rsquo;Éperonnier de Hainan ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/peut-on-etre-plus-optimiste-concernant-le-statut-actuel-reel-de-leperonnier-de-hainan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
