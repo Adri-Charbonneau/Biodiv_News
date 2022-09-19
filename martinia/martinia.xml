@@ -12,13 +12,13 @@
 	<atom:link href="https://www.martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Mon, 23 May 2022 18:50:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Sep 2022 17:46:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.8</generator>
+	<generator>https://wordpress.org/?v=5.6.9</generator>
 
 <image>
 	<url>https://www.martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Plus de 72 minutes : à propos d’une durée record de ponte immergée chez Coenagrion mercuriale (Odonata : Coenagrionidae)</title>
+		<link>https://www.martinia.insectes.org/plus-de-72-minutes-a-propos-dune-duree-record-de-ponte-immergee-chez-coenagrion-mercuriale-odonata-coenagrionidae/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Mon, 19 Sep 2022 17:46:26 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4387</guid>
+
+					<description><![CDATA[Trois types de comportements de ponte sont connus chez les Odonates : (1) la ponte endophytique,  réalisée par tous les Zygoptères et les Anisoptères Aeshnidés, avec insertion des œufs dans des tissus végétaux, morts ou vivants, chez les espèces ayant un ovipositeur, complet et fonctionnel ; (2) la ponte exophytique, réalisée par les Anisoptères des autres familles, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Reproduction d’Oxygastra curtisii (Odonata : incertae sedis) sur un étang de pêche de loisir en Bresse (Ain – France)</title>
 		<link>https://www.martinia.insectes.org/reproduction-doxygastra-curtisii-odonata-incertae-sedis-sur-un-etang-de-peche-de-loisir-en-bresse-ain-france/</link>
 		
@@ -207,20 +221,6 @@
 		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=3967</guid>
 
 					<description><![CDATA[Auteur(s) :Paul Doniol-Valcroze, Paul De Ferrière, Bruno Jourdain &#038; Alain Cugno Numérotation : Type de publication : Article]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Un nouvel envol pour Martinia</title>
-		<link>https://www.martinia.insectes.org/un-nouvel-envol-pour-martinia/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Thu, 24 Jun 2021 13:27:56 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=3949</guid>
-
-					<description><![CDATA[De l’œuf à l’imago, le développement de nos chers Odonates est un parcours semé d’embûches. Pour une même espèce, ce parcours peut être tantôt raccourci, tantôt allongé&#160;en fonction de nombreux facteurs environnementaux comme la température ou les ressources disponibles. Pourquoi vous conter ces choses que vous savez, vous, odonatologues passionnés, lecteurs de ces lignes&#160;? Parce [&#8230;]]]></description>
 		
 		
 		
