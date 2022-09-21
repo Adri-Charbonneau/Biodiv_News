@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 19 Sep 2022 13:50:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Sep 2022 06:00:40 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Un groupe record de 22 Perruches à tête rose photographié en Chine en septembre 2022</title>
+		<link>https://www.ornithomedia.com/breves/un-groupe-record-de-22-perruches-a-tete-rose-photographie-en-chine-en-septembre-2022/</link>
+		<comments>https://www.ornithomedia.com/breves/un-groupe-record-de-22-perruches-a-tete-rose-photographie-en-chine-en-septembre-2022/#respond</comments>
+		<pubDate>Wed, 21 Sep 2022 06:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=215872</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-groupe-record-de-22-perruches-a-tete-rose-photographie-en-chine-en-septembre-2022/">Un groupe record de 22 Perruches à tête rose photographié en Chine en septembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-groupe-record-de-22-perruches-a-tete-rose-photographie-en-chine-en-septembre-2022/">Un groupe record de 22 Perruches à tête rose photographié en Chine en septembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/un-groupe-record-de-22-perruches-a-tete-rose-photographie-en-chine-en-septembre-2022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Le test sur le terrain de la longue-vue Kowa TSN-99 Prominar</title>
 		<link>https://www.ornithomedia.com/pratique/equipement/test-sur-le-terrain-de-la-longue-vue-kowa-tsn-99-prominar/</link>
@@ -162,23 +178,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/decouverte-dune-population-isolee-dalouettes-melodieuses-en-afrique-de-lest/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Description au Chili d&#8217;une nouvelle espèce d&#8217;oiseau, le Synallaxe subantarctique</title>
-		<link>https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-doiseau-le-synallaxe-subantarctique/</link>
-		<comments>https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-doiseau-le-synallaxe-subantarctique/#comments</comments>
-		<pubDate>Wed, 31 Aug 2022 06:00:17 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Études]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=214698</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-doiseau-le-synallaxe-subantarctique/">Description au Chili d&rsquo;une nouvelle espèce d&rsquo;oiseau, le Synallaxe subantarctique</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-doiseau-le-synallaxe-subantarctique/">Description au Chili d&rsquo;une nouvelle espèce d&rsquo;oiseau, le Synallaxe subantarctique</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-doiseau-le-synallaxe-subantarctique/feed/</wfw:commentRss>
-		<slash:comments>4</slash:comments>
 		</item>
 	</channel>
 </rss>
