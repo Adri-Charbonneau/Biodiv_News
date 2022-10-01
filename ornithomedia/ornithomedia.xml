@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 29 Sep 2022 18:27:32 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Oct 2022 06:26:25 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Observation et identification des Labbes à longue queue à l&#8217;intérieur des terres</title>
+		<link>https://www.ornithomedia.com/pratique/identification/observation-et-identification-des-labbes-a-longue-queue-a-linterieur-des-terres/</link>
+		<comments>https://www.ornithomedia.com/pratique/identification/observation-et-identification-des-labbes-a-longue-queue-a-linterieur-des-terres/#respond</comments>
+		<pubDate>Sat, 01 Oct 2022 06:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Pratique]]></category>
+		<category><![CDATA[Identification]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=216373</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/identification/observation-et-identification-des-labbes-a-longue-queue-a-linterieur-des-terres/">Observation et identification des Labbes à longue queue à l&rsquo;intérieur des terres</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/identification/observation-et-identification-des-labbes-a-longue-queue-a-linterieur-des-terres/">Observation et identification des Labbes à longue queue à l&rsquo;intérieur des terres</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/observation-et-identification-des-labbes-a-longue-queue-a-linterieur-des-terres/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Le Martin-chasseur cannelle devrait être introduit sur l&#8217;atoll américain de Palmyra en 2023</title>
 		<link>https://www.ornithomedia.com/breves/le-martin-chasseur-cannelle-devrait-etre-introduit-sur-latoll-americain-de-palmyra-en-2023/</link>
@@ -161,22 +178,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/un-second-cas-dhybridation-entre-une-aigrette-garzette-et-un-heron-cendre-dans-le-parc-du-marquenterre-somme-en-juillet-2022/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>La Veuve dominicaine est en expansion en Californie, où elle pourrait jouer un rôle utile</title>
-		<link>https://www.ornithomedia.com/breves/la-veuve-dominicaine-est-en-expansion-en-californie-ou-elle-pourrait-peut-etre-jouer-un-role-utile/</link>
-		<comments>https://www.ornithomedia.com/breves/la-veuve-dominicaine-est-en-expansion-en-californie-ou-elle-pourrait-peut-etre-jouer-un-role-utile/#respond</comments>
-		<pubDate>Sat, 10 Sep 2022 06:00:57 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=215275</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-veuve-dominicaine-est-en-expansion-en-californie-ou-elle-pourrait-peut-etre-jouer-un-role-utile/">La Veuve dominicaine est en expansion en Californie, où elle pourrait jouer un rôle utile</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-veuve-dominicaine-est-en-expansion-en-californie-ou-elle-pourrait-peut-etre-jouer-un-role-utile/">La Veuve dominicaine est en expansion en Californie, où elle pourrait jouer un rôle utile</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/la-veuve-dominicaine-est-en-expansion-en-californie-ou-elle-pourrait-peut-etre-jouer-un-role-utile/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
