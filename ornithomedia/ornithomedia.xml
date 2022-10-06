@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 05 Oct 2022 06:00:56 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Oct 2022 18:27:55 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>La péninsule de Loop Head (Irlande), un site renommé pour trouver des oiseaux rares en automne</title>
+		<link>https://www.ornithomedia.com/magazine/voyages/la-peninsule-de-loop-head-irlande-un-site-remarquable-pour-trouver-des-oiseaux-rares-en-automne/</link>
+		<comments>https://www.ornithomedia.com/magazine/voyages/la-peninsule-de-loop-head-irlande-un-site-remarquable-pour-trouver-des-oiseaux-rares-en-automne/#respond</comments>
+		<pubDate>Thu, 06 Oct 2022 18:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Voyages]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=216754</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/la-peninsule-de-loop-head-irlande-un-site-remarquable-pour-trouver-des-oiseaux-rares-en-automne/">La péninsule de Loop Head (Irlande), un site renommé pour trouver des oiseaux rares en automne</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/la-peninsule-de-loop-head-irlande-un-site-remarquable-pour-trouver-des-oiseaux-rares-en-automne/">La péninsule de Loop Head (Irlande), un site renommé pour trouver des oiseaux rares en automne</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/la-peninsule-de-loop-head-irlande-un-site-remarquable-pour-trouver-des-oiseaux-rares-en-automne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Observation remarquable d&#8217;une Bergeronnette du Maroc en Gironde (France) en septembre 2022</title>
 		<link>https://www.ornithomedia.com/breves/observation-remarquable-dune-bergeronnette-du-maroc-en-gironde-france-en-septembre-2022/</link>
@@ -160,23 +177,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/equipement/test-sur-le-terrain-de-la-longue-vue-kowa-tsn-99-prominar/">Le test sur le terrain de la longue-vue Kowa TSN-99 Prominar</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/pratique/equipement/test-sur-le-terrain-de-la-longue-vue-kowa-tsn-99-prominar/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Le Crêt des Roches (Doubs), un site méconnu pour suivre la migration postnuptiale des oiseaux</title>
-		<link>https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/</link>
-		<comments>https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/#respond</comments>
-		<pubDate>Fri, 16 Sep 2022 06:32:17 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Observer en France]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=215615</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/">Le Crêt des Roches (Doubs), un site méconnu pour suivre la migration postnuptiale des oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/">Le Crêt des Roches (Doubs), un site méconnu pour suivre la migration postnuptiale des oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/le-cret-des-roches-doubs-un-site-meconnu-pour-suivre-la-migration-postnuptiale-des-oiseaux/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
