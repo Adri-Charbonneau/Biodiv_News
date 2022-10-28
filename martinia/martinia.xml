@@ -12,13 +12,13 @@
 	<atom:link href="https://www.martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Mon, 19 Sep 2022 17:46:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Oct 2022 12:06:02 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.9</generator>
+	<generator>https://wordpress.org/?v=5.6.10</generator>
 
 <image>
 	<url>https://www.martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,15 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Première mention d’Aeshna isoceles (Odonata : Aeshnidae) dans le Territoire de Belfort</title>
+		<link>https://www.martinia.insectes.org/premiere-mention-daeshna-isoceles-odonata-aeshnidae-dans-le-territoire-de-belfort/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 11:46:17 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Bourgogne-Franche-Comté]]></category>
+		<category><![CDATA[découverte]]></category>
+		<category><![CDATA[discovery]]></category>
+		<category><![CDATA[Exuviae]]></category>
+		<category><![CDATA[exuvie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[habitat larvaire]]></category>
+		<category><![CDATA[larval habitat]]></category>
+		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4407</guid>
+
+					<description><![CDATA[Aeshna isoceles (O.F. Müller, 1767) est une espèce ouest-paléarctique que l’on trouve depuis l’Europe de l’ouest jusqu’en Asie centrale (Kalkman et al., 2015). Son biotope de prédilection correspond à un milieu stagnant à légèrement courant, bien ensoleillé, riche en végétation, notamment en roselière (Heidemann &#38; Seidenbusch, 2002), préférentiellement à basse altitude en dessous de 600 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Plus de 72 minutes : à propos d’une durée record de ponte immergée chez Coenagrion mercuriale (Odonata : Coenagrionidae)</title>
 		<link>https://www.martinia.insectes.org/plus-de-72-minutes-a-propos-dune-duree-record-de-ponte-immergee-chez-coenagrion-mercuriale-odonata-coenagrionidae/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Mon, 19 Sep 2022 17:46:26 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[comportement de reproduction]]></category>
+		<category><![CDATA[dragonfly]]></category>
+		<category><![CDATA[libellule]]></category>
+		<category><![CDATA[oviposition]]></category>
+		<category><![CDATA[ponte]]></category>
+		<category><![CDATA[reproductive behaviour]]></category>
+		<category><![CDATA[Zygoptera]]></category>
+		<category><![CDATA[Zygoptère]]></category>
 		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4387</guid>
 
-					<description><![CDATA[Trois types de comportements de ponte sont connus chez les Odonates : (1) la ponte endophytique,  réalisée par tous les Zygoptères et les Anisoptères Aeshnidés, avec insertion des œufs dans des tissus végétaux, morts ou vivants, chez les espèces ayant un ovipositeur, complet et fonctionnel ; (2) la ponte exophytique, réalisée par les Anisoptères des autres familles, [&#8230;]]]></description>
+					<description><![CDATA[Trois types de comportements de ponte sont connus chez les Odonates&#160;: (1) la ponte endophytique,&#160; réalisée par tous les Zygoptères et les Anisoptères Aeshnidés, avec insertion des œufs dans des tissus végétaux, morts ou vivants, chez les espèces ayant un ovipositeur, complet et fonctionnel&#160;; (2) la ponte exophytique, réalisée par les Anisoptères des autres familles, [&#8230;]]]></description>
 		
 		
 		
@@ -196,31 +226,6 @@
 		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=3977</guid>
 
 					<description><![CDATA[Daniel Grand (1943–2013) a légué ses collections d’odonates au musée des Confluences à Lyon et à la Société linnéenne de Lyon. Le Groupe de recherches et de protection de libellules Sympetrum a été sollicité en 2016 par le musée des Confluences pour l’examen, la vérification et le classement des collections en collaboration avec Harold Labrique, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Première preuve de reproduction de Trithemis kirbyi (Odonata : Libellulidae) en France</title>
-		<link>https://www.martinia.insectes.org/premiere-preuve-de-reproduction-de-trithemis-kirbyi-odonata-libellulidae-en-france/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Thu, 24 Jun 2021 14:04:52 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Cambo-les-Bains]]></category>
-		<category><![CDATA[Changement global]]></category>
-		<category><![CDATA[Colonisation]]></category>
-		<category><![CDATA[Colonization]]></category>
-		<category><![CDATA[Dispersion]]></category>
-		<category><![CDATA[Expansion]]></category>
-		<category><![CDATA[Nouvelle-Aquitaine]]></category>
-		<category><![CDATA[Orange-Winged Dropwing]]></category>
-		<category><![CDATA[Pyrénées-Atlantiques]]></category>
-		<category><![CDATA[Range expansion]]></category>
-		<category><![CDATA[Trithémis à ailes ambrées]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=3967</guid>
-
-					<description><![CDATA[Auteur(s) :Paul Doniol-Valcroze, Paul De Ferrière, Bruno Jourdain &#038; Alain Cugno Numérotation : Type de publication : Article]]></description>
 		
 		
 		
