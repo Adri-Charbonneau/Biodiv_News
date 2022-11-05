@@ -12,12 +12,13 @@ env:
     PST_KEY_SECRET: ${{ secrets.PST_KEY_SECRET }}
     PST_TOKEN: ${{ secrets.PST_TOKEN }}
     PST_TOKEN_SECRET: ${{ secrets.PST_TOKEN_SECRET }}
+    MASTODON: ${{ secrets.MASTODON }}
 
 jobs:
   Update-news:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Ascete
         if: always()
         run:  ./ascete.ps1
