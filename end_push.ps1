@@ -53,10 +53,9 @@ if ( $twitter -eq "y" )
 
 # send telegram notification
 $tmtext = "Nouvel article de $name : $tmtitle - $tmlink"
-
-$Telegramtoken = "$env:TELEGRAM"
-$Telegramchatid = "$env:CHAT_ID"
-Invoke-RestMethod -Uri "https://api.telegram.org/bot$($Telegramtoken)/sendMessage?chat_id=$($Telegramchatid)&text=$tmtext"
+$tmtoken = "$env:TELEGRAM"
+$tmchatid = "$env:CHAT_ID"
+Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&text=$tmtext"
 
 # post mastodon toot
 $mastodonheaders = @{Authorization = "Bearer $env:MASTODON"}
