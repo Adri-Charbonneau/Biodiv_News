@@ -7,6 +7,8 @@ git push -f
 
 # correct characters
 $title = $title -replace '&#233;','é'
+$title = $title -replace '&nbsp;',' '
+$title = $title -replace '&rsquo;',"'"
 
 # post tweet
 ## length of tweet
@@ -20,10 +22,10 @@ if ( $title.Length -ge 110 )
 
 ## replace character
 $tmtitle = $title
-$tmtitle = $tmtitle -replace '&nbsp;',' '
+#$tmtitle = $tmtitle -replace '&nbsp;',' '
 $tmtitle = $tmtitle -replace '&','&amp;'
-$tmtitle = $tmtitle -replace '<','&lt;'
-$tmtitle = $tmtitle -replace '>','&gt;'
+#$tmtitle = $tmtitle -replace '<','&lt;'
+#$tmtitle = $tmtitle -replace '>','&gt;'
 
 $tmlink = $link
 $tmlink = $tmlink -replace '&','%26'
@@ -50,24 +52,16 @@ if ( $twitter -eq "y" )
 }
 
 # send telegram notification
-Function Send-Telegram {
-	Param([Parameter(Mandatory=$true)][String]$Message)
-	$Telegramtoken = "$env:TELEGRAM"
-	$Telegramchatid = "$env:CHAT_ID"
-	[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-$Response = Invoke-RestMethod -Uri "https://api.telegram.org/bot$($Telegramtoken)/sendMessage?chat_id=$($Telegramchatid)&text=$($Message)"}
+$tmtext = "Nouvel article de $name : $tmtitle - $tmlink"
 
-Send-Telegram -Message "Nouvel article de $name : $tmtitle - $tmlink"
+$Telegramtoken = "$env:TELEGRAM"
+$Telegramchatid = "$env:CHAT_ID"
+Invoke-RestMethod -Uri "https://api.telegram.org/bot$($Telegramtoken)/sendMessage?chat_id=$($Telegramchatid)&text=$tmtext"
 
 # post mastodon toot
-$Uri = 'https://piaille.fr/api/v1/statuses'
-$headers = @{
-	Authorization = "Bearer $env:MASTODON"
-}
-$form = @{
-	status = "Nouvel article de $name ! $titletweet
+$mastodonheaders = @{Authorization = "Bearer $env:MASTODON"}
+$mastodonform = @{status = "Nouvel article de $name ! $titletweet
 	
 	Lien : $link
-	$tags"
-}
-Invoke-WebRequest -Uri $Uri -Headers $headers -Method Post -Form $form
+	$tags"}
+Invoke-WebRequest -Uri "https://piaille.fr/api/v1/statuses" -Headers $mastodonheaders -Method Post -Form $mastodonform
