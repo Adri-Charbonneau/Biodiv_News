@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sat, 05 Nov 2022 07:12:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Nov 2022 07:00:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>36ème Festival du Cinéma Nature et Environnement à Grenoble (Isère) du 25 novembre au 3 décembre 2022</title>
+		<link>https://www.ornithomedia.com/breves/36eme-festival-du-cinema-nature-et-environnement-a-grenoble-isere-du-25-novembre-au-3-decembre-2022/</link>
+		<comments>https://www.ornithomedia.com/breves/36eme-festival-du-cinema-nature-et-environnement-a-grenoble-isere-du-25-novembre-au-3-decembre-2022/#respond</comments>
+		<pubDate>Sun, 06 Nov 2022 07:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=218511</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/36eme-festival-du-cinema-nature-et-environnement-a-grenoble-isere-du-25-novembre-au-3-decembre-2022/">36ème Festival du Cinéma Nature et Environnement à Grenoble (Isère) du 25 novembre au 3 décembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/36eme-festival-du-cinema-nature-et-environnement-a-grenoble-isere-du-25-novembre-au-3-decembre-2022/">36ème Festival du Cinéma Nature et Environnement à Grenoble (Isère) du 25 novembre au 3 décembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/36eme-festival-du-cinema-nature-et-environnement-a-grenoble-isere-du-25-novembre-au-3-decembre-2022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Premier cas de nidification de la Chouette de l&#8217;Oural sur une structure métallique</title>
 		<link>https://www.ornithomedia.com/breves/premier-cas-de-nidification-de-la-chouette-de-loural-sur-une-structure-metallique/</link>
@@ -161,22 +177,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/il-existerait-une-population-nicheuse-de-roselins-tachetes-au-kazakhstan/">Il existerait une population nicheuse de Roselins tachetés au Kazakhstan</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/il-existerait-une-population-nicheuse-de-roselins-tachetes-au-kazakhstan/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Les nids artificiels semblent efficaces pour la conservation des Grues à cou noir du lac Qinghai (Chine)</title>
-		<link>https://www.ornithomedia.com/breves/les-nids-artificiels-semblent-efficaces-pour-la-conservation-des-grues-a-cou-noir-du-lac-qinghai-chine/</link>
-		<comments>https://www.ornithomedia.com/breves/les-nids-artificiels-semblent-efficaces-pour-la-conservation-des-grues-a-cou-noir-du-lac-qinghai-chine/#respond</comments>
-		<pubDate>Thu, 20 Oct 2022 17:24:38 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=217597</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-nids-artificiels-semblent-efficaces-pour-la-conservation-des-grues-a-cou-noir-du-lac-qinghai-chine/">Les nids artificiels semblent efficaces pour la conservation des Grues à cou noir du lac Qinghai (Chine)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-nids-artificiels-semblent-efficaces-pour-la-conservation-des-grues-a-cou-noir-du-lac-qinghai-chine/">Les nids artificiels semblent efficaces pour la conservation des Grues à cou noir du lac Qinghai (Chine)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/les-nids-artificiels-semblent-efficaces-pour-la-conservation-des-grues-a-cou-noir-du-lac-qinghai-chine/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
