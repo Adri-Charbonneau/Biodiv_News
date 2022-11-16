@@ -86,3 +86,7 @@ jobs:
       - name: Nature France
         if: always()
         run: ./naturefrance.ps1
+
+      - name: Tour du Valat
+        if: always()
+        run: ./tourduvalat.ps1
