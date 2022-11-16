@@ -8,7 +8,7 @@ $tags ="#tourduvalat #news #biodiversity #science"
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8
 $old = $old_title.rss.channel.item.title[0]
 
-[xml]$new_title = (invoke-webrequest -Uri "https://tourduvalat.org/feed/).Content
+[xml]$new_title = (invoke-webrequest -Uri "https://tourduvalat.org/feed/").Content
 $new = $new_title.rss.channel.item.title[0]
 
 if ( $new -eq $old ) {
