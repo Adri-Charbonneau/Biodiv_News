@@ -90,3 +90,11 @@ jobs:
       - name: Tour du Valat
         if: always()
         run: ./tourduvalat.ps1
+
+      - name: Faune-PACA Publication
+        if: always()
+        run: ./faunepaca_publication.ps1
+
+      - name: Faune & Nature
+        if: always()
+        run: ./faunenature.ps1
