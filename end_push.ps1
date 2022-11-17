@@ -21,6 +21,9 @@ if ( $title.Length -ge 110 )
 }
 
 ## replace character
+$tmname = $name
+$tmname = $tmname -replace '&','&amp;'
+
 $tmtitle = $title
 #$tmtitle = $tmtitle -replace '&nbsp;',' '
 $tmtitle = $tmtitle -replace '&','&amp;'
@@ -52,7 +55,7 @@ if ( $twitter -eq "y" )
 }
 
 # send telegram notification
-$tmtext = "Nouvel article de $name : $tmtitle - $tmlink"
+$tmtext = "Nouvel article de $tmname : $tmtitle - $tmlink"
 $tmtoken = "$env:TELEGRAM"
 $tmchatid = "$env:CHAT_ID"
 Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&text=$tmtext"
