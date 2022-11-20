@@ -98,3 +98,7 @@ jobs:
       - name: Faune & Nature
         if: always()
         run: ./faunenature.ps1
+
+      - name: Réseau CEN
+        if: always()
+        run: ./reseau_cen.ps1
