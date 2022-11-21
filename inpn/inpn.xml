@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Les données flore du CBN de Corse rejoignent l’INPN</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14361/les-donnees-flore-du-cbn-de-corse-rejoignent-l-inpn</link>
+                    <description>
+                        &#034;Plus de 360 000 nouvelles données d&#039;observations provenant de la base de données du Conservatoire botanique national de Corse sont désormais disponibles sur l’INPN.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14361/</guid>        
+                    <pubDate>    
+                        Mon, 21 Nov 2022 13:59:34 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Les données d'observations naturalistes de la Guadeloupe sont disponibles sur l'INPN</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14341/les-donnees-d-observations-naturalistes-de-la-guadeloupe-sont-disponibles-sur-l-inpn</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14301/</guid>        
                     <pubDate>    
                         Wed, 19 Oct 2022 11:59:33 +0200</pubDate>            
-               </item>                
-            <item>
-                    <title>Aidez-nous à détecter la fourmi électrique Wasmannia auropunctata, en France</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14262/aidez-nous-a-detecter-la-fourmi-electrique-wasmannia-auropunctata-en-france</link>
-                    <description>
-                        &#034;La fourmi électrique, petite fourmi jaune orangé d&#039;environ 1,5 mm, est une des 3 fourmis les plus envahissantes du monde. Elle vient d&#039;être découverte à Toulon (83).&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/especes-invasives">Espèces invasives EEE</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14262/</guid>        
-                    <pubDate>    
-                        Thu, 13 Oct 2022 08:53:28 +0200</pubDate>            
                </item>                
             </channel>
 </rss>
