@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Les données de la campagne 2020 de l'inventaire forestier alimentent l'INPN</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14381/les-donnees-de-la-campagne-2020-de-l-inventaire-forestier-alimentent-l-inpn</link>
+                    <description>
+                        &#034;Plus de 130 000 données floristiques de l&#039;inventaire permanent des ressources forestières nationales sont transmises à l&#039;INPN par l&#039;IGN.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14381/</guid>        
+                    <pubDate>    
+                        Wed, 23 Nov 2022 00:00:00 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Les données flore du CBN de Corse rejoignent l’INPN</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14361/les-donnees-flore-du-cbn-de-corse-rejoignent-l-inpn</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14281/</guid>        
                     <pubDate>    
                         Tue, 25 Oct 2022 10:05:54 +0200</pubDate>            
-               </item>                
-            <item>
-                    <title>Guide simplifié d’identification des concombres de mer</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14301/guide-simplifie-d-identification-des-concombres-de-mer</link>
-                    <description>
-                        &#034;Patrinat a réalisé un guide simplifié d’identification sur les holothuries, afin d’identifier facilement ces espèces, pour les inventaires naturalistes et détecter les fraudes.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14301/</guid>        
-                    <pubDate>    
-                        Wed, 19 Oct 2022 11:59:33 +0200</pubDate>            
                </item>                
             </channel>
 </rss>
