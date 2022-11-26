@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Fri, 25 Nov 2022 07:00:50 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Nov 2022 07:00:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Novembre, un bon mois pour observer les oiseaux en Iran</title>
+		<link>https://www.ornithomedia.com/magazine/voyages/novembre-un-bon-mois-pour-observer-les-oiseaux-en-iran/</link>
+		<comments>https://www.ornithomedia.com/magazine/voyages/novembre-un-bon-mois-pour-observer-les-oiseaux-en-iran/#respond</comments>
+		<pubDate>Sat, 26 Nov 2022 07:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Voyages]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=219735</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/novembre-un-bon-mois-pour-observer-les-oiseaux-en-iran/">Novembre, un bon mois pour observer les oiseaux en Iran</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/novembre-un-bon-mois-pour-observer-les-oiseaux-en-iran/">Novembre, un bon mois pour observer les oiseaux en Iran</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/novembre-un-bon-mois-pour-observer-les-oiseaux-en-iran/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Irruption majeure de Syrrhaptes paradoxaux dans la municipalité de Pékin (Chine) en novembre 2022</title>
 		<link>https://www.ornithomedia.com/breves/irruption-majeure-de-syrrhaptes-paradoxaux-dans-la-region-de-pekin-chine-en-novembre-2022/</link>
@@ -161,22 +178,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/le-comportement-hivernal-atypique-dun-monticole-bleu-dans-une-cour-dimmeuble-dans-lherault-france/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>Premier cas de nidification de la Chouette de l&#8217;Oural sur une structure métallique</title>
-		<link>https://www.ornithomedia.com/breves/premier-cas-de-nidification-de-la-chouette-de-loural-sur-une-structure-metallique/</link>
-		<comments>https://www.ornithomedia.com/breves/premier-cas-de-nidification-de-la-chouette-de-loural-sur-une-structure-metallique/#respond</comments>
-		<pubDate>Sat, 05 Nov 2022 07:00:50 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=218497</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/premier-cas-de-nidification-de-la-chouette-de-loural-sur-une-structure-metallique/">Premier cas de nidification de la Chouette de l&rsquo;Oural sur une structure métallique</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/premier-cas-de-nidification-de-la-chouette-de-loural-sur-une-structure-metallique/">Premier cas de nidification de la Chouette de l&rsquo;Oural sur une structure métallique</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/premier-cas-de-nidification-de-la-chouette-de-loural-sur-une-structure-metallique/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
