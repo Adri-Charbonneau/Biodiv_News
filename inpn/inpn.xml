@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Appel à manifestations d'intérêt sur l’efficacité des mesures Natura 2000</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14402/appel-a-manifestations-d-interet-sur-l-efficacite-des-mesures-natura-2000</link>
+                    <description>
+                        &#034;L&#039;OFB lance un cinquième AMI finançant ou co-finançant des suivis standardisés pour évaluer l’efficacité de mesures de gestion mises en œuvre dans les sites.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/natura2000">Natura 2000</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14402/</guid>        
+                    <pubDate>    
+                        Tue, 29 Nov 2022 14:24:53 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Les données d’observation d’ambroisie de FREDON France intègrent l’INPN</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14401/les-donnees-d-observation-d-ambroisie-de-fredon-france-integrent-l-inpn</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14341/</guid>        
                     <pubDate>    
                         Fri, 28 Oct 2022 11:56:45 +0200</pubDate>            
-               </item>                
-            <item>
-                    <title>Première Liste rouge des poissons récifaux de La Réunion</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14321/premiere-liste-rouge-des-poissons-recifaux-de-la-reunion</link>
-                    <description>
-                        &#034;Sur les 732 espèces évaluées 59 dont menacées ou quasi-menacées. La surpêche, les pollutions, la dégradation des habitats, le réchauffement climatique constituent des menaces pour de nombreux poissons des récifs.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/listes-rouges-especes">Listes rouges</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14321/</guid>        
-                    <pubDate>    
-                        Wed, 26 Oct 2022 11:01:32 +0200</pubDate>            
                </item>                
             </channel>
 </rss>
