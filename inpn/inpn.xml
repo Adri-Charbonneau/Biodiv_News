@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Un nouvel outil pour rechercher des indicateurs sur les espaces en France</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14421/un-nouvel-outil-pour-rechercher-des-indicateurs-sur-les-espaces-en-france</link>
+                    <description>
+                        &#034;Un nouvel outil est désormais disponible sur l&#039;INPN pour favoriser la recherche et la consultation des indicateurs calculés sur les espaces protégés continentaux et marins.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/nouveaute-inpn">Nouveauté de l'INPN</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14421/</guid>        
+                    <pubDate>    
+                        Wed, 30 Nov 2022 09:14:30 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Appel à manifestations d'intérêt sur l’efficacité des mesures Natura 2000</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14402/appel-a-manifestations-d-interet-sur-l-efficacite-des-mesures-natura-2000</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14361/</guid>        
                     <pubDate>    
                         Mon, 21 Nov 2022 13:59:34 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Les données d'observations naturalistes de la Guadeloupe sont disponibles sur l'INPN</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14341/les-donnees-d-observations-naturalistes-de-la-guadeloupe-sont-disponibles-sur-l-inpn</link>
-                    <description>
-                        &#034;La plateforme régionale du SINP de Guadeloupe (Karunati) a transmis plus de 96 000 données d&#039;observation d&#039;espèces.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14341/</guid>        
-                    <pubDate>    
-                        Fri, 28 Oct 2022 11:56:45 +0200</pubDate>            
                </item>                
             </channel>
 </rss>
