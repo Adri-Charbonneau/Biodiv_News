@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>De nouveaux guides d'identification pour la faune des Antilles</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14404/de-nouveaux-guides-d-identification-pour-la-faune-des-antilles</link>
+                    <description>
+                        &#034;Parution de guides richement illustrés concernant les Amphibiens et Reptiles de la Martinique et les Papillons de jour de la Guadeloupe.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14404/</guid>        
+                    <pubDate>    
+                        Mon, 05 Dec 2022 10:51:27 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Un nouvel outil pour rechercher des indicateurs sur les espaces en France</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14421/un-nouvel-outil-pour-rechercher-des-indicateurs-sur-les-espaces-en-france</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14381/</guid>        
                     <pubDate>    
                         Wed, 23 Nov 2022 00:00:00 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Les données flore du CBN de Corse rejoignent l’INPN</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14361/les-donnees-flore-du-cbn-de-corse-rejoignent-l-inpn</link>
-                    <description>
-                        &#034;Plus de 360 000 nouvelles données d&#039;observations provenant de la base de données du Conservatoire botanique national de Corse sont désormais disponibles sur l’INPN.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14361/</guid>        
-                    <pubDate>    
-                        Mon, 21 Nov 2022 13:59:34 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
