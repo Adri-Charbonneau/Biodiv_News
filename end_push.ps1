@@ -26,7 +26,7 @@ $tmname = $tmname -replace '&','&amp;'
 
 $tmtitle = $title
 #$tmtitle = $tmtitle -replace '&nbsp;',' '
-$tmtitle = $tmtitle -replace '&','&amp;'
+$tmtitle = $tmtitle -replace '&','%26'
 #$tmtitle = $tmtitle -replace '<','&lt;'
 #$tmtitle = $tmtitle -replace '>','&gt;'
 
