@@ -8,7 +8,7 @@ $tags ="#cen #news #biodiversity #science"
 [xml]$download = (invoke-webrequest -Uri "https://reseau-cen.org/rss").Content
 $first_title = $download.rss.channel.item.title[0]
 
-if ( $first_title -eq "Emplois - services civiques & stages" ) {
+if ( "echo $first_title" -eq 'Emplois - services civiques & stages' ) {
 	$new_title = $download.rss.channel.item.title[1]
 	} else {
 	$new_title = $download.rss.channel.item.title[0]
