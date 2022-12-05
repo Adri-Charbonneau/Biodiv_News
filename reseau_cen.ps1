@@ -39,5 +39,5 @@ if ( $new -eq $old ) {
 	$title = $new
 	$link = $link
 	
-	
+	./end_push.ps1	
 }
