@@ -15,7 +15,7 @@ if ( $first_title -eq 'Emplois - services civiques & stages' ) {
 }
 
 [xml]$local = Get-Content ./$id/$id.xml -Encoding UTF8
-$first_old_title = $old_title.rss.channel.item.title[0]
+$first_old_title = $local.rss.channel.item.title[0]
 
 if ( echo $first_old_title -eq 'Emplois - services civiques & stages' ) {
 	$old_title = $local.rss.channel.item.title[1]
