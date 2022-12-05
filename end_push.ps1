@@ -33,6 +33,17 @@ $tmtitle = $tmtitle -replace '&','%26'
 $tmlink = $link
 $tmlink = $tmlink -replace '&','%26'
 
+## resume
+echo "Valeurs de $name :"
+echo "------------------"
+echo "title = $link"
+echo "tmtitle = $tmtitle"
+echo "titletweet = $titletweet"
+echo "------------------"
+echo "link = $title"
+echo "tmlink = $tmlink"
+echo "------------------"
+
 ## post twitter tweet
 $twitter = (Select-String -Path "config.txt" -Pattern "twitter=(.*)").Matches.Groups[1].Value
 if ( $twitter -eq "y" )
