@@ -10,8 +10,10 @@ $first_title = $download.rss.channel.item.title[0]
 
 if ( $first_title -eq 'Emplois - services civiques & stages' ) {
 	$new_title = $download.rss.channel.item.title[1]
+	$link = $download.rss.channel.item.link[1]
 	} else {
 	$new_title = $download.rss.channel.item.title[0]
+	$link = $download.rss.channel.item.link[0]
 }
 
 [xml]$local = Get-Content ./$id/$id.xml -Encoding UTF8
@@ -34,8 +36,8 @@ if ( $new -eq $old ) {
 	Invoke-WebRequest -Uri "https://reseau-cen.org/rss" -OutFile "./$id/$id.xml"
 	[xml]$data = Get-Content ./$id/$id.xml -Encoding UTF8
 	
-	$title = $data.rss.channel.item.title[0]
-	$link = $data.rss.channel.item.link[0]
+	$title = $new
+	$link = $link
 	
-	./end_push.ps1
+	
 }
