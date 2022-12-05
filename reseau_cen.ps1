@@ -8,17 +8,25 @@ $tags ="#cen #news #biodiversity #science"
 [xml]$download = (invoke-webrequest -Uri "https://reseau-cen.org/rss").Content
 $first_title = $download.rss.channel.item.title[0]
 
-if ( "echo $first_title" -eq 'Emplois - services civiques & stages' ) {
+if ( $first_title -eq 'Emplois - services civiques & stages' ) {
 	$new_title = $download.rss.channel.item.title[1]
 	} else {
 	$new_title = $download.rss.channel.item.title[0]
 }
 
+[xml]$local = Get-Content ./$id/$id.xml -Encoding UTF8
+$first_old_title = $old_title.rss.channel.item.title[0]
+
+if ( echo $first_old_title -eq 'Emplois - services civiques & stages' ) {
+	$old_title = $local.rss.channel.item.title[1]
+	} else {
+	$old_title = $local.rss.channel.item.title[0]
+}
+
 # compare two title
-[xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8
-$old = $old_title.rss.channel.item.title[0]
 
 $new = $new_title
+$old = $old_title
 
 if ( $new -eq $old ) {
 	echo "Le dernier article de $name est déjà existant dans la base de donnée"
