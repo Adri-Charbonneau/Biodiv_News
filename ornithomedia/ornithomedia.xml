@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 06 Dec 2022 07:00:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Dec 2022 07:00:50 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Pourquoi les Pouillots fitis chantent-ils parfois sur une seule patte ?</title>
+		<link>https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/</link>
+		<comments>https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/#respond</comments>
+		<pubDate>Wed, 07 Dec 2022 07:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=220613</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/">Pourquoi les Pouillots fitis chantent-ils parfois sur une seule patte ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/">Pourquoi les Pouillots fitis chantent-ils parfois sur une seule patte ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>La population d&#8217;Étourneaux de Rothschild dépasserait désormais les 450 oiseaux en liberté</title>
 		<link>https://www.ornithomedia.com/breves/la-population-detourneaux-de-rothschild-depasserait-desormais-les-450-oiseaux-en-liberte/</link>
@@ -161,23 +177,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/lotidiphaps-a-cou-noir-a-ete-filme-pour-la-premiere-fois-depuis-sa-decouverte-en-1840/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>Serge Mouhedin nous parle de la création à Hambye (Manche) d’une réserve pour protéger le bocage et son avifaune</title>
-		<link>https://www.ornithomedia.com/magazine/interviews/serge-mouhedin-et-la-creation-a-hembye-manche-dune-reserve-ornithologique-pour-proteger-le-bocage/</link>
-		<comments>https://www.ornithomedia.com/magazine/interviews/serge-mouhedin-et-la-creation-a-hembye-manche-dune-reserve-ornithologique-pour-proteger-le-bocage/#respond</comments>
-		<pubDate>Mon, 21 Nov 2022 15:16:05 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Interviews]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=219187</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/serge-mouhedin-et-la-creation-a-hembye-manche-dune-reserve-ornithologique-pour-proteger-le-bocage/">Serge Mouhedin nous parle de la création à Hambye (Manche) d’une réserve pour protéger le bocage et son avifaune</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/serge-mouhedin-et-la-creation-a-hembye-manche-dune-reserve-ornithologique-pour-proteger-le-bocage/">Serge Mouhedin nous parle de la création à Hambye (Manche) d’une réserve pour protéger le bocage et son avifaune</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/serge-mouhedin-et-la-creation-a-hembye-manche-dune-reserve-ornithologique-pour-proteger-le-bocage/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
