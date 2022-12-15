@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Les petits territoires d'outre-mer intègrent la Liste rouge</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14501/les-petits-territoires-d-outre-mer-integrent-la-liste-rouge</link>
+                    <description>
+                        &#034;Le risque d&#039;extinction des plantes vasculaires endémiques de Wallis-et-Futuna, de Saint-Martin, des îles Éparses et de Saint-Paul et Amsterdam est évalué pour la première fois.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/listes-rouges-especes">Listes rouges</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14501/</guid>        
+                    <pubDate>    
+                        Thu, 15 Dec 2022 12:00:52 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Participez à l'enquête de satisfaction de l'INPN 2022</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14441/participez-a-l-enquete-de-satisfaction-de-l-inpn-2022</link>
                     <description>
@@ -60,16 +70,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14421/</guid>        
                     <pubDate>    
                         Wed, 30 Nov 2022 09:14:30 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Appel à manifestations d'intérêt sur l’efficacité des mesures Natura 2000</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14402/appel-a-manifestations-d-interet-sur-l-efficacite-des-mesures-natura-2000</link>
-                    <description>
-                        &#034;L&#039;OFB lance un cinquième AMI finançant ou co-finançant des suivis standardisés pour évaluer l’efficacité de mesures de gestion mises en œuvre dans les sites.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/natura2000">Natura 2000</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14402/</guid>        
-                    <pubDate>    
-                        Tue, 29 Nov 2022 14:24:53 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
