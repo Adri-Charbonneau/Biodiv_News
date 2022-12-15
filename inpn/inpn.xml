@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>TaxRef v16 : le cap symbolique des 200 000 espèces est dépassé</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14461/taxref-v16-le-cap-symbolique-des-200-000-especes-est-depasse</link>
+                    <description>
+                        &#034;La nouvelle version de TaxRef est en ligne et téléchargeable sur le site de l&#039;INPN. Elle comptabilise désormais 202 456 espèces pour un total de 670 946 noms diffusés.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/referentiels-especes">Référentiel Espèces TaxRef</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14461/</guid>        
+                    <pubDate>    
+                        Thu, 15 Dec 2022 16:44:52 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Les petits territoires d'outre-mer intègrent la Liste rouge</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14501/les-petits-territoires-d-outre-mer-integrent-la-liste-rouge</link>
                     <description>
@@ -60,16 +70,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14404/</guid>        
                     <pubDate>    
                         Mon, 05 Dec 2022 10:51:27 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Un nouvel outil pour rechercher des indicateurs sur les espaces en France</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14421/un-nouvel-outil-pour-rechercher-des-indicateurs-sur-les-espaces-en-france</link>
-                    <description>
-                        &#034;Un nouvel outil est désormais disponible sur l&#039;INPN pour favoriser la recherche et la consultation des indicateurs calculés sur les espaces protégés continentaux et marins.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/nouveaute-inpn">Nouveauté de l'INPN</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14421/</guid>        
-                    <pubDate>    
-                        Wed, 30 Nov 2022 09:14:30 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
