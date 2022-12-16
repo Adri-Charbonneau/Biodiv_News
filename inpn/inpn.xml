@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Participez au défi hivernal et partez à la recherche de six espèces avec INPN Espèces</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14521/participez-au-defi-hivernal-et-partez-a-la-recherche-de-six-especes-avec-inpn-especes</link>
+                    <description>
+                        &#034;Un défi hivernal du 17 décembre 2022 au 1er janvier 2023 pour partir à la recherche d’espèces durant cette période hivernale et gagner des points bonus&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inpn-especes">INPN Espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14521/</guid>        
+                    <pubDate>    
+                        Fri, 16 Dec 2022 10:51:45 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>TaxRef v16 : le cap symbolique des 200 000 espèces est dépassé</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14461/taxref-v16-le-cap-symbolique-des-200-000-especes-est-depasse</link>
                     <description>
@@ -60,16 +70,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14481/</guid>        
                     <pubDate>    
                         Fri, 09 Dec 2022 14:07:06 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>De nouveaux guides d'identification pour la faune des Antilles</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14404/de-nouveaux-guides-d-identification-pour-la-faune-des-antilles</link>
-                    <description>
-                        &#034;Parution de guides richement illustrés concernant les Amphibiens et Reptiles de la Martinique et les Papillons de jour de la Guadeloupe.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14404/</guid>        
-                    <pubDate>    
-                        Mon, 05 Dec 2022 10:51:27 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
