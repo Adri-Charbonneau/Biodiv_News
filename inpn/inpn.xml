@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>De nouvelles données d'observations botaniques de Tela Botanica sur l'INPN</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14541/de-nouvelles-donnees-d-observations-botaniques-de-tela-botanica-sur-l-inpn</link>
+                    <description>
+                        &#034;L&#039;association Tela Botanica a transmis l&#039;intégralité des données françaises de flore saisies par son réseau de botanistes francophones.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14541/</guid>        
+                    <pubDate>    
+                        Mon, 19 Dec 2022 14:35:12 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Participez au défi hivernal et partez à la recherche de six espèces avec INPN Espèces</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14521/participez-au-defi-hivernal-et-partez-a-la-recherche-de-six-especes-avec-inpn-especes</link>
                     <description>
@@ -60,16 +70,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14441/</guid>        
                     <pubDate>    
                         Mon, 12 Dec 2022 15:33:32 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>À vos agendas ! Colloque de restitution du projet de Cartographie nationale des milieux humides</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14481/a-vos-agendas--colloque-de-restitution-du-projet-de-cartographie-nationale-des-milieux-humides</link>
-                    <description>
-                        &#034;PatriNat et le ministère de la Transition écologique et de la cohésion des territoires organisent le 16 février 2023 un colloque national dédié à la restitution des résultats du projet de cartographie nationale des milieux humides : « Une connaissance partagée pour contribuer à mieux préserver les milieux humides »&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/actualites-generales">Actualité générale</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14481/</guid>        
-                    <pubDate>    
-                        Fri, 09 Dec 2022 14:07:06 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
