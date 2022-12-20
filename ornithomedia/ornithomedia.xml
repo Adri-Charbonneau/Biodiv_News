@@ -12,10 +12,27 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sun, 18 Dec 2022 07:00:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Dec 2022 20:08:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Observer les oiseaux sur les pittoresques rochers du Saussois (Yonne)</title>
+		<link>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-sur-les-pittoresques-rochers-du-saussois-yonne/</link>
+		<comments>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-sur-les-pittoresques-rochers-du-saussois-yonne/#comments</comments>
+		<pubDate>Tue, 20 Dec 2022 19:29:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Observer en France]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=221464</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-sur-les-pittoresques-rochers-du-saussois-yonne/">Observer les oiseaux sur les pittoresques rochers du Saussois (Yonne)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-sur-les-pittoresques-rochers-du-saussois-yonne/">Observer les oiseaux sur les pittoresques rochers du Saussois (Yonne)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-sur-les-pittoresques-rochers-du-saussois-yonne/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
 		<item>
 		<title>Une intéressante « association » entre un Phalarope à bec large et deux Canards souchets dans la réserve du Teich (Gironde) en décembre 2022</title>
 		<link>https://www.ornithomedia.com/breves/une-interessante-association-entre-un-phalarope-a-bec-large-et-deux-canards-souchets-dans-la-reserve-du-teich-gironde-en-decembre-2022/</link>
@@ -159,22 +176,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/lelanion-blanc-serait-en-train-de-chasser-le-faucon-crecerelle-de-lile-de-taiwan/">L&rsquo;Élanion blanc serait en train de « chasser » le Faucon crécerelle de l&rsquo;île de Taïwan</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/lelanion-blanc-serait-en-train-de-chasser-le-faucon-crecerelle-de-lile-de-taiwan/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Le Talégalle de Latham, un oiseau forestier australien de plus en plus urbain</title>
-		<link>https://www.ornithomedia.com/breves/le-talegalle-de-latham-un-oiseau-forestier-australien-de-plus-en-plus-urbain/</link>
-		<comments>https://www.ornithomedia.com/breves/le-talegalle-de-latham-un-oiseau-forestier-australien-de-plus-en-plus-urbain/#respond</comments>
-		<pubDate>Tue, 29 Nov 2022 15:22:35 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=220129</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-talegalle-de-latham-un-oiseau-forestier-australien-de-plus-en-plus-urbain/">Le Talégalle de Latham, un oiseau forestier australien de plus en plus urbain</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/le-talegalle-de-latham-un-oiseau-forestier-australien-de-plus-en-plus-urbain/">Le Talégalle de Latham, un oiseau forestier australien de plus en plus urbain</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/le-talegalle-de-latham-un-oiseau-forestier-australien-de-plus-en-plus-urbain/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
