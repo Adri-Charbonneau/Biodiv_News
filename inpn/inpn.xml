@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Appel à projets 2023 pour la connaissance naturaliste</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14561/appel-a-projets-2023-pour-la-connaissance-naturaliste</link>
+                    <description>
+                        &#034;Sixième appel à projet de l&#039;INPN visant à combler les lacunes de connaissances naturalistes en France. Les projets concernant la pollinisation, les herbiers marins et les récifs biogéniques retiendront une attention particulière.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/actualites-generales">Actualité générale</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14561/</guid>        
+                    <pubDate>    
+                        Thu, 22 Dec 2022 08:16:25 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>De nouvelles données d'observations botaniques de Tela Botanica sur l'INPN</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14541/de-nouvelles-donnees-d-observations-botaniques-de-tela-botanica-sur-l-inpn</link>
                     <description>
@@ -59,17 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14501/</guid>        
                     <pubDate>    
                         Thu, 15 Dec 2022 12:00:52 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Participez à l'enquête de satisfaction de l'INPN 2022</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14441/participez-a-l-enquete-de-satisfaction-de-l-inpn-2022</link>
-                    <description>
-                        &#034;L&#039;INPN met en ligne un questionnaire pour mieux connaître vos usages, votre satisfaction et vos attentes !
-5 minutes suffisent pour y répondre.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/actualites-generales">Actualité générale</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14441/</guid>        
-                    <pubDate>    
-                        Mon, 12 Dec 2022 15:33:32 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
