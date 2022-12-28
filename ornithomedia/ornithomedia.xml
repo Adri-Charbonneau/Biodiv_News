@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 26 Dec 2022 18:00:19 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Dec 2022 07:00:48 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Augmentation inattendue des populations d&#8217;Alouettes haussecols dans deux secteurs de Norvège</title>
+		<link>https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/</link>
+		<comments>https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/#respond</comments>
+		<pubDate>Wed, 28 Dec 2022 07:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=221832</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/">Augmentation inattendue des populations d&rsquo;Alouettes haussecols dans deux secteurs de Norvège</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/">Augmentation inattendue des populations d&rsquo;Alouettes haussecols dans deux secteurs de Norvège</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Rencontre en décembre 2022 avec le Pouillot de Hume dans le bois d&#8217;Haringzelles (Pas-de-Calais), un lieu chargé d&#8217;histoire</title>
 		<link>https://www.ornithomedia.com/magazine/observer-france/rencontre-en-decembre-2022-avec-le-pouillot-de-hume-dans-le-bois-dharingzelles-pas-de-calais-un-lieu-charge-dhistoire/</link>
@@ -161,22 +177,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/observations-de-mysterieuses-timalies-sur-le-mont-mugaphi-inde-en-2022/">Observations de « mystérieuses » timalies sur le mont Mugaphi (Inde) en 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/observations-de-mysterieuses-timalies-sur-le-mont-mugaphi-inde-en-2022/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Pourquoi les Pouillots fitis chantent-ils parfois sur une seule patte ?</title>
-		<link>https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/</link>
-		<comments>https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/#respond</comments>
-		<pubDate>Wed, 07 Dec 2022 07:00:03 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=220613</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/">Pourquoi les Pouillots fitis chantent-ils parfois sur une seule patte ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/">Pourquoi les Pouillots fitis chantent-ils parfois sur une seule patte ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/pourquoi-les-pouillots-fitis-chantent-ils-parfois-sur-une-seule-patte/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
