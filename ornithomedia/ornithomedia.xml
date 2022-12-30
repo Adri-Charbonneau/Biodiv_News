@@ -12,10 +12,26 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 28 Dec 2022 07:00:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Dec 2022 07:08:25 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Découverte d&#8217;une population de Casoars à casque à l&#8217;extrémité nord de l&#8217;Australie</title>
+		<link>https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/</link>
+		<comments>https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/#respond</comments>
+		<pubDate>Fri, 30 Dec 2022 07:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+				<category><![CDATA[Brèves]]></category>
+
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=221870</guid>
+		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/">Découverte d&rsquo;une population de Casoars à casque à l&rsquo;extrémité nord de l&rsquo;Australie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/">Découverte d&rsquo;une population de Casoars à casque à l&rsquo;extrémité nord de l&rsquo;Australie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>Augmentation inattendue des populations d&#8217;Alouettes haussecols dans deux secteurs de Norvège</title>
 		<link>https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/</link>
@@ -161,22 +177,6 @@
 				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-selection-de-livres-francophones-varies-sur-les-oiseaux-parus-en-2022/">Une sélection de beaux livres francophones sur les oiseaux parus en 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.ornithomedia.com/breves/une-selection-de-livres-francophones-varies-sur-les-oiseaux-parus-en-2022/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Observations de « mystérieuses » timalies sur le mont Mugaphi (Inde) en 2022</title>
-		<link>https://www.ornithomedia.com/breves/observations-de-mysterieuses-timalies-sur-le-mont-mugaphi-inde-en-2022/</link>
-		<comments>https://www.ornithomedia.com/breves/observations-de-mysterieuses-timalies-sur-le-mont-mugaphi-inde-en-2022/#respond</comments>
-		<pubDate>Mon, 12 Dec 2022 07:00:18 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=220925</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/observations-de-mysterieuses-timalies-sur-le-mont-mugaphi-inde-en-2022/">Observations de « mystérieuses » timalies sur le mont Mugaphi (Inde) en 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/observations-de-mysterieuses-timalies-sur-le-mont-mugaphi-inde-en-2022/">Observations de « mystérieuses » timalies sur le mont Mugaphi (Inde) en 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/observations-de-mysterieuses-timalies-sur-le-mont-mugaphi-inde-en-2022/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
