@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 09 Mar 2022 20:31:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Jan 2023 09:14:43 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Adhésion 2023</title>
+		<link>https://ascete.org/adhesion-3/</link>
+		
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<pubDate>Sun, 01 Jan 2023 08:17:39 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Vie associative de l'Ascete]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=1959</guid>
+
+					<description><![CDATA[Appel à cotisation 2023 Si vous souhaitez en savoir plus sur l&#8217;ASCETE, nous vous invitons à consulter la page Présentation. via HelloAsso]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Liste rouge régionale des orthoptères, phasme et mante d&#8217;Île-de-France</title>
 		<link>https://ascete.org/liste-rouge-regionale-des-orthopteres-phasme-et-mante-dile-de-france/</link>
 		
@@ -85,21 +100,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=2968</guid>
 
 					<description><![CDATA[J&#8217;ai le plaisir de vous présenter ici les vœux du conseil d&#8217;administration de l&#8217;Ascete pour cette année 2022. Vous trouverez ici le bulletin de liaison contenant les comptes rendus de réunion de la dernière assemblée générale et des derniers conseils d&#8217;administration. Celles et ceux d&#8217;entre vous qui le souhaitent ou qui ne l&#8217;ont pas encore [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adhésion 2022</title>
-		<link>https://ascete.org/adhesion-3/</link>
-		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
-		<pubDate>Mon, 17 Jan 2022 08:17:39 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Vie associative de l'Ascete]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=1959</guid>
-
-					<description><![CDATA[Appel à cotisation 2022 Si vous souhaitez en savoir plus sur l&#8217;ASCETE, nous vous invitons à consulter la page Présentation. via HelloAsso]]></description>
 		
 		
 		
