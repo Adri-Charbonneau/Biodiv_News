@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Nouvelle diffusion de données piscicoles sur l'INPN</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14582/nouvelle-diffusion-de-donnees-piscicoles-sur-l-inpn</link>
+                    <description>
+                        &#034;Les résultats de près de 50 000 opérations de pêche à l&#039;électricité en cours d&#039;eau, gérées via l&#039;application de saisie des données piscicoles et environnementales (ASPE), sont disponibles sur l&#039;INPN&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14582/</guid>        
+                    <pubDate>    
+                        Mon, 09 Jan 2023 12:10:55 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Les données de l’inventaire général de la biodiversité IGB-ATBI du Parc national du Mercantour sont accessibles sur l’INPN</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14581/les-donnees-de-l-inventaire-general-de-la-biodiversite-igb-atbi-du-parc-national-du-mercantour-sont-accessibles-sur-l-inpn</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14521/</guid>        
                     <pubDate>    
                         Fri, 16 Dec 2022 10:51:45 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>TaxRef v16 : le cap symbolique des 200 000 espèces est dépassé</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14461/taxref-v16-le-cap-symbolique-des-200-000-especes-est-depasse</link>
-                    <description>
-                        &#034;La nouvelle version de TaxRef est en ligne et téléchargeable sur le site de l&#039;INPN. Elle comptabilise désormais 202 456 espèces pour un total de 670 946 noms diffusés.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/referentiels-especes">Référentiel Espèces TaxRef</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14461/</guid>        
-                    <pubDate>    
-                        Thu, 15 Dec 2022 16:44:52 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
