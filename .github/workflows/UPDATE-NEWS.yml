@@ -63,9 +63,9 @@ jobs:
         if: always()
         run:  ./shf.ps1
         
-      - name: Ornithomedia
-        if: always()
-        run:  ./ornithomedia.ps1
+      #- name: Ornithomedia
+       # if: always()
+        #run:  ./ornithomedia.ps1
         
       - name: Oiseaux de France
         if: always()
