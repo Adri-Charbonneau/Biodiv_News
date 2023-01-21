@@ -10,173 +10,216 @@
 <channel>
 	<title>Ornithomedia.com</title>
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ornithomedia.com</link>
+	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sun, 15 Jan 2023 07:00:53 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Jan 2023 14:23:30 +0000</lastBuildDate>
 	<language>fr-FR</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+		<item>
+		<title>Bonne nouvelle concernant la population du très rare Ibis de Davison</title>
+		<link>https://www.ornithomedia.com/breves/bonne-nouvelle-concernant-la-population-du-tres-rare-ibis-de-davison/</link>
+					<comments>https://www.ornithomedia.com/breves/bonne-nouvelle-concernant-la-population-du-tres-rare-ibis-de-davison/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Sat, 21 Jan 2023 14:22:41 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=223065</guid>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/bonne-nouvelle-concernant-la-population-du-tres-rare-ibis-de-davison/">Bonne nouvelle concernant la population du très rare Ibis de Davison</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/bonne-nouvelle-concernant-la-population-du-tres-rare-ibis-de-davison/">Bonne nouvelle concernant la population du très rare Ibis de Davison</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/bonne-nouvelle-concernant-la-population-du-tres-rare-ibis-de-davison/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Onzième comptage national des oiseaux des jardins (et balcons) de France les 28 et 29 janvier 2023</title>
 		<link>https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/</link>
-		<comments>https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/#respond</comments>
-		<pubDate>Sun, 15 Jan 2023 07:00:53 +0000</pubDate>
+					<comments>https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/#respond</comments>
+		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 07:00:53 +0000</pubDate>
 				<category><![CDATA[Brèves]]></category>
-
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222950</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/">Onzième comptage national des oiseaux des jardins (et balcons) de France les 28 et 29 janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/">Onzième comptage national des oiseaux des jardins (et balcons) de France les 28 et 29 janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/">Onzième comptage national des oiseaux des jardins (et balcons) de France les 28 et 29 janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/">Onzième comptage national des oiseaux des jardins (et balcons) de France les 28 et 29 janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/onzieme-comptage-national-des-oiseaux-des-jardins-et-balcons-de-france-les-28-et-29-janvier-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Les recherches prometteuses de nouveaux sites de reproduction du Pétrel noir de Bourbon sur l&#8217;île de La Réunion</title>
 		<link>https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/</link>
-		<comments>https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/#respond</comments>
-		<pubDate>Sat, 14 Jan 2023 07:00:11 +0000</pubDate>
+					<comments>https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/#respond</comments>
+		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Sat, 14 Jan 2023 07:00:11 +0000</pubDate>
 				<category><![CDATA[Brèves]]></category>
-
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222895</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/">Les recherches prometteuses de nouveaux sites de reproduction du Pétrel noir de Bourbon sur l&rsquo;île de La Réunion</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/">Les recherches prometteuses de nouveaux sites de reproduction du Pétrel noir de Bourbon sur l&rsquo;île de La Réunion</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/">Les recherches prometteuses de nouveaux sites de reproduction du Pétrel noir de Bourbon sur l&rsquo;île de La Réunion</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/">Les recherches prometteuses de nouveaux sites de reproduction du Pétrel noir de Bourbon sur l&rsquo;île de La Réunion</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/les-recherches-prometteuses-de-nouveaux-sites-de-reproduction-du-petrel-noir-de-bourbon-sur-lile-de-la-reunion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Applications pour smartphones pour l’identification des oiseaux &#8211; Seconde partie</title>
+		<link>https://www.ornithomedia.com/pratique/equipement/applications-pour-smartphones-pour-identification-oiseaux-seconde-partie-03000/</link>
+					<comments>https://www.ornithomedia.com/pratique/equipement/applications-pour-smartphones-pour-identification-oiseaux-seconde-partie-03000/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Fri, 13 Jan 2023 07:00:40 +0000</pubDate>
+				<category><![CDATA[Équipement]]></category>
+		<category><![CDATA[Pratique]]></category>
+		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/?p=92327</guid>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/equipement/applications-pour-smartphones-pour-identification-oiseaux-seconde-partie-03000/">Applications pour smartphones pour l’identification des oiseaux &#8211; Seconde partie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/equipement/applications-pour-smartphones-pour-identification-oiseaux-seconde-partie-03000/">Applications pour smartphones pour l’identification des oiseaux &#8211; Seconde partie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/pratique/equipement/applications-pour-smartphones-pour-identification-oiseaux-seconde-partie-03000/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Premier cas prouvé de nidification du Petit-duc de Bruce en Jordanie</title>
 		<link>https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/</link>
-		<comments>https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/#respond</comments>
-		<pubDate>Thu, 12 Jan 2023 07:00:45 +0000</pubDate>
+					<comments>https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/#respond</comments>
+		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2023 07:00:45 +0000</pubDate>
 				<category><![CDATA[Brèves]]></category>
-
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222720</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/">Premier cas prouvé de nidification du Petit-duc de Bruce en Jordanie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/">Premier cas prouvé de nidification du Petit-duc de Bruce en Jordanie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/">Premier cas prouvé de nidification du Petit-duc de Bruce en Jordanie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/">Premier cas prouvé de nidification du Petit-duc de Bruce en Jordanie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/premier-cas-prouve-de-nidification-du-petit-duc-de-bruce-en-jordanie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Observer les oiseaux des dunes, vasières et prés salés de l&#8217;anse de Kernic (Finistère)</title>
 		<link>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/</link>
-		<comments>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/#comments</comments>
-		<pubDate>Tue, 10 Jan 2023 07:10:03 +0000</pubDate>
+					<comments>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/#comments</comments>
+		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 07:10:03 +0000</pubDate>
 				<category><![CDATA[Magazine]]></category>
 		<category><![CDATA[Observer en France]]></category>
-
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222601</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/">Observer les oiseaux des dunes, vasières et prés salés de l&rsquo;anse de Kernic (Finistère)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/">Observer les oiseaux des dunes, vasières et prés salés de l&rsquo;anse de Kernic (Finistère)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/">Observer les oiseaux des dunes, vasières et prés salés de l&rsquo;anse de Kernic (Finistère)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/">Observer les oiseaux des dunes, vasières et prés salés de l&rsquo;anse de Kernic (Finistère)</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-des-dunes-vasieres-et-pres-sales-de-lanse-de-kernic-finistere/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Des Chardonnerets élégants ingèrent des particules sur un mur de briques en Grande-Bretagne en janvier 2023</title>
 		<link>https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/</link>
-		<comments>https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/#respond</comments>
-		<pubDate>Fri, 06 Jan 2023 07:00:34 +0000</pubDate>
+					<comments>https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/#respond</comments>
+		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Fri, 06 Jan 2023 07:00:34 +0000</pubDate>
 				<category><![CDATA[Brèves]]></category>
-
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222379</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/">Des Chardonnerets élégants ingèrent des particules sur un mur de briques en Grande-Bretagne en janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/">Des Chardonnerets élégants ingèrent des particules sur un mur de briques en Grande-Bretagne en janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/">Des Chardonnerets élégants ingèrent des particules sur un mur de briques en Grande-Bretagne en janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/">Des Chardonnerets élégants ingèrent des particules sur un mur de briques en Grande-Bretagne en janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/des-chardonnerets-elegants-ingerent-des-particules-sur-un-mur-de-briques-en-grande-bretagne-en-janvier-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Une observation de rêve : un Albatros à sourcils noirs depuis la presqu&#8217;île de Quiberon (Morbihan) en décembre 2022</title>
 		<link>https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/</link>
-		<comments>https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/#respond</comments>
-		<pubDate>Thu, 05 Jan 2023 07:00:08 +0000</pubDate>
+					<comments>https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/#respond</comments>
+		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Thu, 05 Jan 2023 07:00:08 +0000</pubDate>
 				<category><![CDATA[Brèves]]></category>
-
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222311</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/">Une observation de rêve : un Albatros à sourcils noirs depuis la presqu&rsquo;île de Quiberon (Morbihan) en décembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/">Une observation de rêve : un Albatros à sourcils noirs depuis la presqu&rsquo;île de Quiberon (Morbihan) en décembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/">Une observation de rêve : un Albatros à sourcils noirs depuis la presqu&rsquo;île de Quiberon (Morbihan) en décembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/">Une observation de rêve : un Albatros à sourcils noirs depuis la presqu&rsquo;île de Quiberon (Morbihan) en décembre 2022</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/une-observation-de-reve-un-albatros-a-sourcils-noirs-depuis-la-presquile-de-quiberon-morbihan-en-decembre-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Un Blongios de Sturm récupéré dans un centre de soins à Ustaritz (Pyrénées-Atlantiques) en janvier 2023</title>
 		<link>https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/</link>
-		<comments>https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/#respond</comments>
-		<pubDate>Wed, 04 Jan 2023 07:00:05 +0000</pubDate>
+					<comments>https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/#respond</comments>
+		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Wed, 04 Jan 2023 07:00:05 +0000</pubDate>
 				<category><![CDATA[Brèves]]></category>
-
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222256</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/">Un Blongios de Sturm récupéré dans un centre de soins à Ustaritz (Pyrénées-Atlantiques) en janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/">Un Blongios de Sturm récupéré dans un centre de soins à Ustaritz (Pyrénées-Atlantiques) en janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/">Un Blongios de Sturm récupéré dans un centre de soins à Ustaritz (Pyrénées-Atlantiques) en janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/">Un Blongios de Sturm récupéré dans un centre de soins à Ustaritz (Pyrénées-Atlantiques) en janvier 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Les salines de la Trinitat, dans le delta de l&#8217;Èbre (Espagne) : du sel, des Flamants roses et des Goélands d&#8217;Audouin</title>
 		<link>https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/</link>
-		<comments>https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/#respond</comments>
+					<comments>https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2023 18:10:53 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Interviews]]></category>
-
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Magazine]]></category>
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222144</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/">Les salines de la Trinitat, dans le delta de l&rsquo;Èbre (Espagne) : du sel, des Flamants roses et des Goélands d&rsquo;Audouin</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/">Les salines de la Trinitat, dans le delta de l&rsquo;Èbre (Espagne) : du sel, des Flamants roses et des Goélands d&rsquo;Audouin</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Découverte d&#8217;une population de Casoars à casque à l&#8217;extrémité nord de l&#8217;Australie</title>
-		<link>https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/</link>
-		<comments>https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/#respond</comments>
-		<pubDate>Fri, 30 Dec 2022 07:00:37 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
 
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=221870</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/">Découverte d&rsquo;une population de Casoars à casque à l&rsquo;extrémité nord de l&rsquo;Australie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/">Les salines de la Trinitat, dans le delta de l&rsquo;Èbre (Espagne) : du sel, des Flamants roses et des Goélands d&rsquo;Audouin</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/">Découverte d&rsquo;une population de Casoars à casque à l&rsquo;extrémité nord de l&rsquo;Australie</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/">Les salines de la Trinitat, dans le delta de l&rsquo;Èbre (Espagne) : du sel, des Flamants roses et des Goélands d&rsquo;Audouin</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/decouverte-dune-population-de-casoars-a-casque-a-lextremite-nord-de-laustralie/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Augmentation inattendue des populations d&#8217;Alouettes haussecols dans deux secteurs de Norvège</title>
-		<link>https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/</link>
-		<comments>https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/#respond</comments>
-		<pubDate>Wed, 28 Dec 2022 07:00:46 +0000</pubDate>
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-				<category><![CDATA[Brèves]]></category>
-
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=221832</guid>
-		<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/">Augmentation inattendue des populations d&rsquo;Alouettes haussecols dans deux secteurs de Norvège</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/">Augmentation inattendue des populations d&rsquo;Alouettes haussecols dans deux secteurs de Norvège</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.ornithomedia.com/breves/augmentation-inattendue-des-populations-dalouettes-haussecols-dans-deux-secteurs-de-norvege/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>
