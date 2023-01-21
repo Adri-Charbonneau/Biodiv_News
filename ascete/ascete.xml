@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 04 Jan 2023 09:14:43 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Jan 2023 15:56:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Troisième congrès européen sur la conservation des orthoptères : compte rendu en ligne</title>
+		<link>https://ascete.org/troisieme-congres-europeen-sur-la-conservation-des-orthopteres-compte-rendu-en-ligne/</link>
+		
+		<dc:creator><![CDATA[David Morichon]]></dc:creator>
+		<pubDate>Sat, 21 Jan 2023 15:56:54 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3130</guid>
+
+					<description><![CDATA[Le troisième congrès européen sur la conservation des orthoptères (ECOC III) et la seizième conférence annuelle de la Deutsche Gesellschaft für Orthoptérologie (DGfO) ont eu lieu à Leyde (Pays-Bas) les 1er et 2 avril 2022. Au total, 138 participants de 31 pays se sont inscrits à cet événement. Vous trouverez ici des éléments de compte [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Adhésion 2023</title>
 		<link>https://ascete.org/adhesion-3/</link>
 		
@@ -37,7 +52,7 @@
 		<category><![CDATA[Vie associative de l'Ascete]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=1959</guid>
 
-					<description><![CDATA[Appel à cotisation 2023 Si vous souhaitez en savoir plus sur l&#8217;ASCETE, nous vous invitons à consulter la page Présentation. via HelloAsso]]></description>
+					<description><![CDATA[Appel à cotisation 2023 Si vous souhaitez en savoir plus sur l&#8217;ASCETE, nous vous invitons à consulter la page Présentation. via HelloAsso Si  vous souhaitez télécharger le bulletin d&#8217;adhésion, c&#8217;est ici.]]></description>
 		
 		
 		
@@ -69,6 +84,21 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3035</guid>
 
 					<description><![CDATA[Les 1er et 2 avril 2022, le troisième congrès européen sur la conservation des orthoptères (ECOC III) aura lieu à Leyde (Pays-Bas). Les orthoptéristes sont invités à rejoindre la réunion à Leyde, mais il est également possible d&#8217;y assister en ligne. La participation en ligne est gratuite, mais vous devez vous inscrire. Veuillez consulter les [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zoom sur… (2) la Société entomologique du Limousin et le référentiel des orthoptères du Limousin</title>
+		<link>https://ascete.org/zoom-sur-2-la-societe-entomologique-du-limousin-et-le-referentiel-des-orthopteres-du-limousin/</link>
+		
+		<dc:creator><![CDATA[David Morichon]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2022 14:29:17 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Organisations - associations]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3025</guid>
+
+					<description><![CDATA[Créée en 1986, la Société entomologique du Limousin (SEL) œuvre pour la connaissance de l&#8217;entomofaune de cette région et pour la préservation de leurs habitats naturels : elle dresse des inventaires, étudie la biologie et l&#8217;écologie des espèces, centralise les observations, publie des rapports ; elle assure une mission de sensibilisation et d&#8217;éducation en organisant [&#8230;]]]></description>
 		
 		
 		
@@ -145,36 +175,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=2705</guid>
 
 					<description><![CDATA[Dans le cadre d&#8217;une étude qu&#8217;ils mènent sur Arcyptera brevipennis subsp. vicheti Harz, 1975, Benoît Nabholz, Jérémy Février et Louis Ton sont à la recherche de toute information concernant des observations anciennes ou récentes de l&#8217;espèce. Les données qui les intéressent particulièrement sont celles qui n&#8217;ont pas été transmises aux bases de données suivantes : [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>International Prionotropis conservation symposium</title>
-		<link>https://ascete.org/international-prionotropis-conservation-symposium/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Wed, 24 Nov 2021 09:50:09 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=2692</guid>
-
-					<description><![CDATA[Le 3 décembre 2021, à partir de 14 h, se tiendra l&#8217;International Prionotropis conservation Symposium auquel vous pourrez assister par vidéoconférence. Le programme est téléchargeable ici. Axel Hochkirch : Introduction Lisbeth Zechner : Prionotropis travel impressions 2021: observations, habitats &#38; threats Sílvia Pina : Prionotropis flexuosa in Portugal: overview and conservation status José R. Correas [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mise à jour de notre site Web</title>
-		<link>https://ascete.org/mise-a-jour-de-notre-site-web/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Sun, 21 Nov 2021 12:50:24 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Vie associative de l'Ascete]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=2340</guid>
-
-					<description><![CDATA[Après plusieurs mois d&#8217;attente, nous vous proposons un site Web rénové, au contenu enrichi et à l&#8217;architecture un peu modifiée. Nous vous laissons explorer par vous-même cette nouvelle interface. Notez que tous les articles de notre revue, jusqu&#8217;à l&#8217;année 2019, sont désormais disponibles en téléchargement  (onglet Notre revue). D&#8217;anciens documents ont été numérisés et sont [&#8230;]]]></description>
 		
 		
 		
