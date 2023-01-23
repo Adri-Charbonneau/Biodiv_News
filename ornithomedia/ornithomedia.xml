@@ -12,12 +12,32 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sat, 21 Jan 2023 14:23:30 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Jan 2023 00:07:55 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Journée mondiale des zones humides 2023</title>
+		<link>https://www.ornithomedia.com/breves/journee-mondiale-des-zones-humides-2023/</link>
+					<comments>https://www.ornithomedia.com/breves/journee-mondiale-des-zones-humides-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Mon, 23 Jan 2023 07:00:00 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=223102</guid>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/journee-mondiale-des-zones-humides-2023/">Journée mondiale des zones humides 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/journee-mondiale-des-zones-humides-2023/">Journée mondiale des zones humides 2023</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/journee-mondiale-des-zones-humides-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Bonne nouvelle concernant la population du très rare Ibis de Davison</title>
 		<link>https://www.ornithomedia.com/breves/bonne-nouvelle-concernant-la-population-du-tres-rare-ibis-de-davison/</link>
@@ -196,27 +216,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/un-blongios-de-sturm-recupere-dans-le-centre-de-soins-dustaritz-pyrenees-atlantiques-en-janvier-2023/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Les salines de la Trinitat, dans le delta de l&#8217;Èbre (Espagne) : du sel, des Flamants roses et des Goélands d&#8217;Audouin</title>
-		<link>https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/</link>
-					<comments>https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Mon, 02 Jan 2023 18:10:53 +0000</pubDate>
-				<category><![CDATA[Interviews]]></category>
-		<category><![CDATA[Magazine]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=222144</guid>
-
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/">Les salines de la Trinitat, dans le delta de l&rsquo;Èbre (Espagne) : du sel, des Flamants roses et des Goélands d&rsquo;Audouin</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/">Les salines de la Trinitat, dans le delta de l&rsquo;Èbre (Espagne) : du sel, des Flamants roses et des Goélands d&rsquo;Audouin</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/les-salines-de-la-trinitat-dans-le-delta-de-lebre-espagne-du-sel-des-flamants-roses-et-des-goelands-daudouin/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
