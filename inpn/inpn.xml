@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Mise à jour des bases Listes rouges mondiale, européenne et régionales</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14601/mise-a-jour-des-bases-listes-rouges-mondiale-europeenne-et-regionales</link>
+                    <description>
+                        &#034;Les bases de données de l&#039;INPN sur les espèces menacées ont été mises à jour avec les derniers résultats des Listes rouges mondiale, européenne et régionales.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/listes-rouges-especes">Listes rouges</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14601/</guid>        
+                    <pubDate>    
+                        Tue, 24 Jan 2023 11:22:08 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>La DREAL Corse partage 50 000 données d'observation d'espèces avec l'INPN</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14583/la-dreal-corse-partage-50-000-donnees-d-observation-d-especes-avec-l-inpn</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14561/</guid>        
                     <pubDate>    
                         Thu, 22 Dec 2022 08:16:25 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>De nouvelles données d'observations botaniques de Tela Botanica sur l'INPN</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14541/de-nouvelles-donnees-d-observations-botaniques-de-tela-botanica-sur-l-inpn</link>
-                    <description>
-                        &#034;L&#039;association Tela Botanica a transmis l&#039;intégralité des données françaises de flore saisies par son réseau de botanistes francophones.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14541/</guid>        
-                    <pubDate>    
-                        Mon, 19 Dec 2022 14:35:12 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
