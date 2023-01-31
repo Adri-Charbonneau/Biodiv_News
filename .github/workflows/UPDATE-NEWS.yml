@@ -102,3 +102,7 @@ jobs:
       #- name: Réseau CEN
        # if: always()
         #run: ./reseau_cen.ps1
+
+      - name: Ar Gaouenn
+        if: always()
+        run: ./ar_gaouenn.ps1
