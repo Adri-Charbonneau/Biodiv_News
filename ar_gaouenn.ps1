@@ -14,7 +14,7 @@ $Source -match '(Ar Gaouenn .*?)<'
 $new = $matches[1]
 $new = $new -replace 'Â°','°'
 
-$Source -match '(/content/download/.*?)"'
+$Source -match '(content/download/.*?)"'
 $last = $matches[1]
 
 Remove-Item "./$id/$id.html"
