@@ -21,6 +21,17 @@
         </skipDays>
 
         <item>
+                    <title>Appel à photos Habitats marins d'Atlantique, Manche et Mer du Nord</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14621/appel-a-photos-habitats-marins-d-atlantique-manche-et-mer-du-nord</link>
+                    <description>
+                        &#034;La cellule Habitats benthiques recherche des photos libres de droits
+d’habitats marins d’Atlantique, de Manche et de Mer du Nord permettant d’illustrer les fiches habitats des unités de la typologie nationale sur le site de l’Inventaire national du patrimoine naturel.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/referentiel-habitats">Référentiel Habitats HabRef</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14621/</guid>        
+                    <pubDate>    
+                        Fri, 03 Feb 2023 15:49:53 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>À vos agendas ! Colloque de restitution du projet de Cartographie nationale des milieux humides</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14481/a-vos-agendas--colloque-de-restitution-du-projet-de-cartographie-nationale-des-milieux-humides</link>
                     <description>
@@ -59,16 +70,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14582/</guid>        
                     <pubDate>    
                         Mon, 09 Jan 2023 12:10:55 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Les données de l’inventaire général de la biodiversité IGB-ATBI du Parc national du Mercantour sont accessibles sur l’INPN</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14581/les-donnees-de-l-inventaire-general-de-la-biodiversite-igb-atbi-du-parc-national-du-mercantour-sont-accessibles-sur-l-inpn</link>
-                    <description>
-                        &#034;Le Parc national du Mercantour et PatriNat publient un article dans le Biodiversity Data Journal sur les 12 640 espèces du plan grand inventaire de France&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14581/</guid>        
-                    <pubDate>    
-                        Fri, 06 Jan 2023 09:35:07 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
