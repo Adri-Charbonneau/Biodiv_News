@@ -106,3 +106,7 @@ jobs:
       - name: Ar Gaouenn
         if: always()
         run: ./ar_gaouenn.ps1
+
+      - name: Xeno-Canto
+        if: always()
+        run: ./xeno-canto.ps1
