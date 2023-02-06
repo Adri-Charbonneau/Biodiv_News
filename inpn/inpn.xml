@@ -21,6 +21,18 @@
         </skipDays>
 
         <item>
+                    <title>Appel à communications pour le colloque national de malacologie continentale</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14622/appel-a-communications-pour-le-colloque-national-de-malacologie-continentale</link>
+                    <description>
+                        &#034;Du 11 au 13 octobre 2023 a lieu à Besançon (25) le 3e colloque de national de malacologie continentale.
+Vous souhaitez réaliser une communication (orale ou poster) lors de ce colloque ?
+Proposez une communication avant le vendredi 31 mars 2023.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14622/</guid>        
+                    <pubDate>    
+                        Mon, 06 Feb 2023 09:25:41 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Appel à photos Habitats marins d'Atlantique, Manche et Mer du Nord</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14621/appel-a-photos-habitats-marins-d-atlantique-manche-et-mer-du-nord</link>
                     <description>
@@ -60,16 +72,6 @@ d’habitats marins d’Atlantique, de Manche et de Mer du Nord permettant d’i
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14583/</guid>        
                     <pubDate>    
                         Thu, 12 Jan 2023 08:26:55 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Nouvelle diffusion de données piscicoles sur l'INPN</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14582/nouvelle-diffusion-de-donnees-piscicoles-sur-l-inpn</link>
-                    <description>
-                        &#034;Les résultats de près de 50 000 opérations de pêche à l&#039;électricité en cours d&#039;eau, gérées via l&#039;application de saisie des données piscicoles et environnementales (ASPE), sont disponibles sur l&#039;INPN&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14582/</guid>        
-                    <pubDate>    
-                        Mon, 09 Jan 2023 12:10:55 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
