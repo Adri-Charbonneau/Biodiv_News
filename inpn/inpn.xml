@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Huit nouvelles espèces de vers de terre viennent d’être découvertes en Corse</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14625/huit-nouvelles-especes-de-vers-de-terre-viennent-d-etre-decouvertes-en-corse</link>
+                    <description>
+                        &#034;Description de huit nouveaux vers de terre endémiques du genre _Scherotheca_ découverts en 2021 lors de La Planète revisitée en Corse&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14625/</guid>        
+                    <pubDate>    
+                        Wed, 08 Feb 2023 13:34:30 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Appel à communications pour le colloque national de malacologie continentale</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14622/appel-a-communications-pour-le-colloque-national-de-malacologie-continentale</link>
                     <description>
@@ -62,16 +72,6 @@ d’habitats marins d’Atlantique, de Manche et de Mer du Nord permettant d’i
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14601/</guid>        
                     <pubDate>    
                         Tue, 24 Jan 2023 11:22:08 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>La DREAL Corse partage 50 000 données d'observation d'espèces avec l'INPN</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14583/la-dreal-corse-partage-50-000-donnees-d-observation-d-especes-avec-l-inpn</link>
-                    <description>
-                        &#034;La base de données de la Direction régionale de l&#039;environnement, de l&#039;aménagement et du logement (DREAL) Corse vient compléter les données diffusées sur l&#039;INPN.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14583/</guid>        
-                    <pubDate>    
-                        Thu, 12 Jan 2023 08:26:55 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
