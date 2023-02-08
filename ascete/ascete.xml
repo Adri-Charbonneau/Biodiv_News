@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Sat, 21 Jan 2023 15:56:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Feb 2023 11:30:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Field course on Grasshopper Taxonomy and Conservation, by Axel Hochkirch</title>
+		<link>https://ascete.org/field-course-on-grasshopper-taxonomy-and-conservation-by-axel-hochkirch/</link>
+		
+		<dc:creator><![CDATA[David Morichon]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2023 11:25:00 +0000</pubDate>
+				<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3143</guid>
+
+					<description><![CDATA[Axel is announcing a field course on Grasshopper Taxonomy and Conservation. The lectures and the field course itself will take place in July this year in and around the town of Konitsa in Northwestern Greece. The registration fee is 300 € and covers accommodation, transport during the summer school, subsistence costs, and the use of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Troisième congrès européen sur la conservation des orthoptères : compte rendu en ligne</title>
 		<link>https://ascete.org/troisieme-congres-europeen-sur-la-conservation-des-orthopteres-compte-rendu-en-ligne/</link>
 		
 		<dc:creator><![CDATA[David Morichon]]></dc:creator>
 		<pubDate>Sat, 21 Jan 2023 15:56:54 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences]]></category>
+		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3130</guid>
 
 					<description><![CDATA[Le troisième congrès européen sur la conservation des orthoptères (ECOC III) et la seizième conférence annuelle de la Deutsche Gesellschaft für Orthoptérologie (DGfO) ont eu lieu à Leyde (Pays-Bas) les 1er et 2 avril 2022. Au total, 138 participants de 31 pays se sont inscrits à cet événement. Vous trouverez ici des éléments de compte [&#8230;]]]></description>
@@ -80,7 +94,7 @@
 		<dc:creator><![CDATA[David Morichon]]></dc:creator>
 		<pubDate>Wed, 23 Feb 2022 10:11:20 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences]]></category>
+		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3035</guid>
 
 					<description><![CDATA[Les 1er et 2 avril 2022, le troisième congrès européen sur la conservation des orthoptères (ECOC III) aura lieu à Leyde (Pays-Bas). Les orthoptéristes sont invités à rejoindre la réunion à Leyde, mais il est également possible d&#8217;y assister en ligne. La participation en ligne est gratuite, mais vous devez vous inscrire. Veuillez consulter les [&#8230;]]]></description>
@@ -156,25 +170,10 @@
 		<dc:creator><![CDATA[David Morichon]]></dc:creator>
 		<pubDate>Tue, 07 Dec 2021 07:05:10 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences]]></category>
+		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=2717</guid>
 
 					<description><![CDATA[Après avoir été reporté à deux reprises, le troisième congrès européen sur la conservation des orthoptères se tiendra les 1er et 2 avril 2022, à Leyde (Pays-Bas). Vous trouverez plus d&#8217;information en vous reportant à cette page du site Web Orthoptera of Europe. Les inscriptions peuvent se faire là. Si le congrès a été annulé [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Étude de Arcyptera brevipennis vicheti : appel à contribution</title>
-		<link>https://ascete.org/etude-de-arcyptera-brevipennis-vicheti-appel-a-contribution/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Sat, 27 Nov 2021 08:47:57 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Appel à participation]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=2705</guid>
-
-					<description><![CDATA[Dans le cadre d&#8217;une étude qu&#8217;ils mènent sur Arcyptera brevipennis subsp. vicheti Harz, 1975, Benoît Nabholz, Jérémy Février et Louis Ton sont à la recherche de toute information concernant des observations anciennes ou récentes de l&#8217;espèce. Les données qui les intéressent particulièrement sont celles qui n&#8217;ont pas été transmises aux bases de données suivantes : [&#8230;]]]></description>
 		
 		
 		
