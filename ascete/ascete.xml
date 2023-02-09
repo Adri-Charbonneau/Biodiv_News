@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 08 Feb 2023 11:30:12 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Feb 2023 06:53:49 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Parution de la liste rouge des orthoptères d’Occitanie</title>
+		<link>https://ascete.org/parution-de-la-liste-rouge-des-orthopteres-doccitanie/</link>
+		
+		<dc:creator><![CDATA[David Morichon]]></dc:creator>
+		<pubDate>Thu, 09 Feb 2023 06:53:49 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Liste rouge]]></category>
+		<category><![CDATA[Publications]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3151</guid>
+
+					<description><![CDATA[Nature en Occitanie, association qui œuvre pour la connaissance et la conservation du patrimoine naturel, a piloté la réalisation d&#8217;une liste rouge des orthoptères de la région Occitanie, qui est parue en fin d&#8217;année 2022. « Parmi les 168 espèces que compte [la région Occitanie], 163 ont été évaluées. 40 d’entre elles sont menacées de [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Field course on Grasshopper Taxonomy and Conservation, by Axel Hochkirch</title>
 		<link>https://ascete.org/field-course-on-grasshopper-taxonomy-and-conservation-by-axel-hochkirch/</link>
 		
@@ -159,21 +175,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=2765</guid>
 
 					<description><![CDATA[L&#8217;association LOCUSTA (groupe d&#8217;étude des orthoptères et des invertébrés d&#8217;Aquitaine) a été créée en 2014. Son territoire d&#8217;action couvre les cinq départements de l&#8217;ancienne région Aquitaine : Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques. L&#8217;association vise à rassembler les personnes qui souhaitent œuvrer pour la connaissance et la conservation des arthropodes d&#8217;Aquitaine, tout particulièrement des orthoptères. Elle [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Troisième congrès européen sur la conservation des orthoptères</title>
-		<link>https://ascete.org/troisieme-congres-europeen-sur-la-conservation-des-orthopteres/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Tue, 07 Dec 2021 07:05:10 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=2717</guid>
-
-					<description><![CDATA[Après avoir été reporté à deux reprises, le troisième congrès européen sur la conservation des orthoptères se tiendra les 1er et 2 avril 2022, à Leyde (Pays-Bas). Vous trouverez plus d&#8217;information en vous reportant à cette page du site Web Orthoptera of Europe. Les inscriptions peuvent se faire là. Si le congrès a été annulé [&#8230;]]]></description>
 		
 		
 		
