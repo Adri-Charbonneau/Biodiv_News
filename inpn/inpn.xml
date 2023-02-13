@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Le colloque de restitution du projet de cartographie nationale des milieux humides devient un webinaire</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14641/le-colloque-de-restitution-du-projet-de-cartographie-nationale-des-milieux-humides-devient-un-webinaire</link>
+                    <description>
+                        &#034;En raison d’un mouvement de grève annoncé le 16 février 2023 impactant fortement le réseau SNCF, le colloque se tiendra en distanciel.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/actualites-generales">Actualité générale</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14641/</guid>        
+                    <pubDate>    
+                        Mon, 13 Feb 2023 12:12:50 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Huit nouvelles espèces de vers de terre viennent d’être découvertes en Corse</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14625/huit-nouvelles-especes-de-vers-de-terre-viennent-d-etre-decouvertes-en-corse</link>
                     <description>
@@ -62,16 +72,6 @@ d’habitats marins d’Atlantique, de Manche et de Mer du Nord permettant d’i
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14481/</guid>        
                     <pubDate>    
                         Tue, 31 Jan 2023 15:26:39 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Mise à jour des bases Listes rouges mondiale, européenne et régionales</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14601/mise-a-jour-des-bases-listes-rouges-mondiale-europeenne-et-regionales</link>
-                    <description>
-                        &#034;Les bases de données de l&#039;INPN sur les espèces menacées ont été mises à jour avec les derniers résultats des Listes rouges mondiale, européenne et régionales.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/listes-rouges-especes">Listes rouges</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14601/</guid>        
-                    <pubDate>    
-                        Tue, 24 Jan 2023 11:22:08 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
