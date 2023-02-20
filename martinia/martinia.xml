@@ -12,7 +12,7 @@
 	<atom:link href="https://www.martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Fri, 28 Oct 2022 12:06:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Feb 2023 13:22:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Distribution et éléments d’écologie de Sympetrum depressiusculum (Libellulidae) dans le pays avignonnais (Vaucluse et Bouches-du-Rhône)</title>
+		<link>https://www.martinia.insectes.org/distribution-et-elements-decologie-de-sympetrum-depressiusculum-libellulidae-dans-le-pays-avignonnais-vaucluse-et-bouches-du-rhone/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 13:22:54 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[bassin de rétention]]></category>
+		<category><![CDATA[habitat]]></category>
+		<category><![CDATA[irrigation network]]></category>
+		<category><![CDATA[man-made wetlands]]></category>
+		<category><![CDATA[odonata]]></category>
+		<category><![CDATA[réseau d’irrigation]]></category>
+		<category><![CDATA[status]]></category>
+		<category><![CDATA[statut]]></category>
+		<category><![CDATA[stormwater pond]]></category>
+		<category><![CDATA[Sympétrum déprimé]]></category>
+		<category><![CDATA[zone humide artificielle]]></category>
+		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4438</guid>
+
+					<description><![CDATA[Auteur(s) :Durand Eric Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Première mention d’Aeshna isoceles (Odonata : Aeshnidae) dans le Territoire de Belfort</title>
 		<link>https://www.martinia.insectes.org/premiere-mention-daeshna-isoceles-odonata-aeshnidae-dans-le-territoire-de-belfort/</link>
 		
@@ -205,27 +230,6 @@
 		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4090</guid>
 
 					<description><![CDATA[Auteur(s) :Luc Belenguier Numérotation : Type de publication : Article]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Observation d’Erythromma najas Hansemann, 1823 dans le département du Var et mise à jour des données sur la région Provence-Alpes-Côte d’Azur (Odonata, Coenagrionidae)</title>
-		<link>https://www.martinia.insectes.org/observation-derythromma-najas-hansemann-1823-dans-le-departement-du-var-et-mise-a-jour-des-donnees-sur-la-region-provence-alpes-cote-dazur-odonata-coenagrionidae/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Thu, 24 Jun 2021 14:18:07 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Collections]]></category>
-		<category><![CDATA[Distribution]]></category>
-		<category><![CDATA[Faunistic data validation]]></category>
-		<category><![CDATA[Mediterranean basin]]></category>
-		<category><![CDATA[Musée des Confluences]]></category>
-		<category><![CDATA[Région méditerranéenne]]></category>
-		<category><![CDATA[Validation des données faunistiques]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=3977</guid>
-
-					<description><![CDATA[Daniel Grand (1943–2013) a légué ses collections d’odonates au musée des Confluences à Lyon et à la Société linnéenne de Lyon. Le Groupe de recherches et de protection de libellules Sympetrum a été sollicité en 2016 par le musée des Confluences pour l’examen, la vérification et le classement des collections en collaboration avec Harold Labrique, [&#8230;]]]></description>
 		
 		
 		
