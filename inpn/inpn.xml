@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>À la rencontre des Oiseaux et des Mollusques, deux nouveaux livrets disponibles</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14663/a-la-rencontre-des-oiseaux-et-des-mollusques-deux-nouveaux-livrets-disponibles</link>
+                    <description>
+                        &#034;Découvrez deux nouveaux fascicules de la collection &#034;La biodiversité en France&#034; sur des groupes de la faune française.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14663/</guid>        
+                    <pubDate>    
+                        Mon, 27 Feb 2023 10:47:12 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Colloque des 40 ans de l'inventaire des Znieff : les vidéos sont disponibles</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14662/colloque-des-40-ans-de-l-inventaire-des-znieff-les-videos-sont-disponibles</link>
                     <description>
@@ -59,18 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14625/</guid>        
                     <pubDate>    
                         Wed, 08 Feb 2023 13:34:30 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Appel à communications pour le colloque national de malacologie continentale</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14622/appel-a-communications-pour-le-colloque-national-de-malacologie-continentale</link>
-                    <description>
-                        &#034;Du 11 au 13 octobre 2023 a lieu à Besançon (25) le 3e colloque de national de malacologie continentale.
-Vous souhaitez réaliser une communication (orale ou poster) lors de ce colloque ?
-Proposez une communication avant le vendredi 31 mars 2023.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14622/</guid>        
-                    <pubDate>    
-                        Mon, 06 Feb 2023 09:25:41 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
