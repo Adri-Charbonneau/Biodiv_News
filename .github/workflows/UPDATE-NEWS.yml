@@ -103,9 +103,9 @@ jobs:
        # if: always()
         #run: ./reseau_cen.ps1
 
-      - name: Ar Gaouenn
-        if: always()
-        run: ./ar_gaouenn.ps1
+      #- name: Ar Gaouenn
+       # if: always()
+        #run: ./ar_gaouenn.ps1
 
       - name: Xeno-Canto
         if: always()
