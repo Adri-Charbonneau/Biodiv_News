@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 28 Feb 2023 07:37:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Feb 2023 17:45:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>David Allen Sibley nous en dit plus sur le dessin et sur la peinture des oiseaux</title>
+		<link>https://www.ornithomedia.com/magazine/interviews/david-allen-sibley-nous-en-dit-plus-sur-le-dessin-et-sur-la-peinture-des-oiseaux/</link>
+					<comments>https://www.ornithomedia.com/magazine/interviews/david-allen-sibley-nous-en-dit-plus-sur-le-dessin-et-sur-la-peinture-des-oiseaux/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 17:26:35 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=224685</guid>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/david-allen-sibley-nous-en-dit-plus-sur-le-dessin-et-sur-la-peinture-des-oiseaux/">David Allen Sibley nous en dit plus sur le dessin et sur la peinture des oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/david-allen-sibley-nous-en-dit-plus-sur-le-dessin-et-sur-la-peinture-des-oiseaux/">David Allen Sibley nous en dit plus sur le dessin et sur la peinture des oiseaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/david-allen-sibley-nous-en-dit-plus-sur-le-dessin-et-sur-la-peinture-des-oiseaux/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Des Effraies des clochers et des Craves à bec rouge utilisent les mêmes nichoirs en Espagne</title>
 		<link>https://www.ornithomedia.com/breves/des-effraies-des-clochers-et-des-craves-a-bec-rouge-cohabitent-dans-les-memes-nichoirs-en-espagne/</link>
@@ -197,26 +218,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-sur-la-montagne-du-semnoz-un-ecrin-de-nature-pres-dannecy-haute-savoie/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>La réintroduction du Francolin à double éperon dans différents secteurs du Maroc</title>
-		<link>https://www.ornithomedia.com/breves/la-reintroduction-du-francolin-a-double-eperon-dans-differents-secteurs-du-maroc/</link>
-					<comments>https://www.ornithomedia.com/breves/la-reintroduction-du-francolin-a-double-eperon-dans-differents-secteurs-du-maroc/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Sat, 11 Feb 2023 07:00:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=223980</guid>
-
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-reintroduction-du-francolin-a-double-eperon-dans-differents-secteurs-du-maroc/">La réintroduction du Francolin à double éperon dans différents secteurs du Maroc</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/la-reintroduction-du-francolin-a-double-eperon-dans-differents-secteurs-du-maroc/">La réintroduction du Francolin à double éperon dans différents secteurs du Maroc</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/la-reintroduction-du-francolin-a-double-eperon-dans-differents-secteurs-du-maroc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
