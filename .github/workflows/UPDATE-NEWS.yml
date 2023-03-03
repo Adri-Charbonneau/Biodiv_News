@@ -75,9 +75,9 @@ jobs:
         if: always()
         run:  ./viginature.ps1
         
-      - name: LPO Rapaces
-        if: always()
-        run:  ./lporapaces.ps1
+      #- name: LPO Rapaces
+       # if: always()
+        #run:  ./lporapaces.ps1
 
       - name: Plume de Naturalistes
         if: always()
