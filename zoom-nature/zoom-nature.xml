@@ -12,7 +12,7 @@
 	<atom:link href="https://www.zoom-nature.fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.zoom-nature.fr</link>
 	<description>Chroniques Nature &#038; Sciences</description>
-	<lastBuildDate>Sat, 04 Mar 2023 15:15:06 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Mar 2023 17:20:43 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,214 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
+		<title>Massettes : des ingénieurs de l’environnement</title>
+		<link>https://www.zoom-nature.fr/massettes-des-ingenieurs-de-lenvironnement/</link>
+				<pubDate>Sat, 04 Mar 2023 17:15:18 +0000</pubDate>
+		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
+				<category><![CDATA[Typhacée]]></category>
+		<category><![CDATA[Anoxie]]></category>
+		<category><![CDATA[Atterrissement]]></category>
+		<category><![CDATA[Gestion écologique]]></category>
+		<category><![CDATA[Ingénieur de l’environnement]]></category>
+		<category><![CDATA[Mare]]></category>
+		<category><![CDATA[Massette]]></category>
+		<category><![CDATA[Méthane]]></category>
+
+		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=28908</guid>
+				<description><![CDATA[02/03/2023 Nous avons déjà consacré deux chroniques à la découverte de ces plantes communes et [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>02/03/2023 Nous avons déjà consacré deux chroniques à la découverte de ces plantes communes et pourtant surprenantes que sont les massettes (<em>Typha</em>)&nbsp;: une sur les aspects végétatifs et leur habitat (<em><a href="https://www.zoom-nature.fr/massettes-les-faux-roseaux/">Massettes&nbsp;: les faux roseaux</a></em>) et une autre sur la reproduction sexuée (fleurs, pollinisation, fruits, dispersion et la famille des Typhacées) (<em><a href="https://www.zoom-nature.fr/massettes-quenouilles-ou-queues-de-chats/">Massettes&nbsp;: quenouilles et queues-de-chats</a></em>). Ici, nous allons nous intéresser au fonctionnement interne de ces plantes (physiologie) et notamment tout ce qui tourne autour des échanges gazeux (d’où ce titre un peu provocateur …), un élément-clé chez les plantes vertes pour la photosynthèse.&nbsp;</p>
+
+
+
+<h2>A moitié … vides&nbsp;</h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-aer.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-aer.jpg" alt="" class="wp-image-28910" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-aer.jpg 700w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-aer-300x199.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-aer-600x399.jpg 600w" sizes="(max-width: 700px) 100vw, 700px" /></a><figcaption>Tige et feuilles qui l&rsquo;entourent en section transversale : noter la prédominance des espaces vides </figcaption></figure></div>
+
+
+
+<p>Les massettes vivent les pieds dans l’eau et l’appareil racinaire plongé dans un sédiment (vase, boue, sable, …) au fond de l’eau (voir la chronique 1)&nbsp;: cette situation créé un problème crucial car, le plus souvent, la forte charge en matière organique du sédiment engendre une pénurie d’oxygène (anoxie), ce gaz étant utilisé par le monde microbien qui s’active à décomposer cette matière. Or, comme tous les organes de toute plante, l’appareil souterrain (<a href="https://www.zoom-nature.fr/massettes-les-faux-roseaux/">voir la chronique 1</a>) a impérativement besoin d’oxygène pour que les cellules qui composent ses tissus respirent. Nous avons déjà abordé cette question avec l’exemple du célèbre Lotus (<a href="https://www.zoom-nature.fr/les-feuilles-magiques-du-lotus-sacre/">voir la chronique</a>) ou du nénuphar jaune (<a href="https://www.zoom-nature.fr/voyage-au-fil-de-leau/">voir la chronique</a>) qui vivent à peu près dans les mêmes conditions (encore plus en profondeur dans l’eau). Face à ce problème vital, les massettes disposent elles aussi d’un système efficace de circulation des gaz à l’intérieur de toute la plante, entre les feuilles et les racines.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-typ-coup.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-typ-coup.jpg" alt="" class="wp-image-28924" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-typ-coup.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-typ-coup-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-typ-coup-768x576.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-typ-coup-600x450.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Feuille découpée montrant son aérenchyme </figcaption></figure></div>
+
+
+
+<p>Ce système s’appuie sur un réseau d’espaces intercellulaires vides dans lesquels les gaz peuvent circuler&nbsp;: l’ensemble de ces vides constitue un tissu «&nbsp;spongieux&nbsp;», l’aérenchyme&nbsp;; on le voit très bien en coupe transversale d’une touffe de feuilles emboitées les unes dans les autres. Dans les feuilles, au nombre d’une dizaine par touffe, il se présente sous forme de grands canaux, divisés transversalement par des diaphragmes poreux, et qui courent parallèlement à l’axe longitudinal de la feuille&nbsp;; ces canaux représentent plus de 50% du volume total des feuilles et se répartissent sur les deux faces de la feuille en dessous du parenchyme palissadique, la couche dédiée à la photosynthèse et proche de la lumière, juste sous l’épiderme. On retrouve ces espaces vides dans les rhizomes souterrains (qui sont des tiges) et ils sont interconnectés avec ceux des feuilles via la zone de transition rhizome/tige dressée verticale.&nbsp;</p>
+
+
+
+<h2>Double ventilation</h2>
+
+
+
+<p>Disposer de voies de circulation de gaz, c’est bien mais encore faut-il faire circuler l’air dans ces canaux et orienter les échanges depuis les zones à l’air libre vers les zones privées d’oxygène (sous l’eau et dans le sédiment) ou dans l’autre sens pour évacuer notamment le CO<sub>2</sub>&nbsp;produit lors de la respiration. Les massettes ont développé un système de double flux sous pression très efficace.</p>
+
+
+
+<p>Dans les jeunes feuilles des touffes (les plus récentes ou d’âge moyen au centre de la touffe), la température interne et l’humidité plus grandes créent un gradient qui génère une pression gazeuse plus grande que celle de l’air ambiant&nbsp;; l’air diffuse dans la feuille via l’aérenchyme et la pressurisation engendrée le tire vers le bas, vers le rhizome submergé. Cet air va circuler via les rhizomes horizontaux et peut ainsi être distribué vers d’autres touffes que celles qui ont «&nbsp;aspiré&nbsp;» l’air. Des expériences sur des rhizomes coupés en situation montrent que le flux arrivant d’en haut peut atteindre 8cm<sup>3</sup>/min. L’oxygène de l’air ainsi ventilé jusque-là est prélevé par les cellules des racines et des rhizomes pour assurer leur respiration et la production d’énergie.&nbsp;</p>
+
+
+
+<p>Dans les feuilles plus âgées, donc les plus externes des touffes (souvent d’ailleurs un peu abimées), du fait de leur porosité plus grande, un flux montant inverse se met parallèlement en place et permet d’évacuer le dioxyde de carbone issu de la respiration cellulaire mais aussi le méthane issu de la décomposition anaérobie du sédiment et de la litière de feuilles (voir ci-dessous).&nbsp;</p>
+
+
+
+<p>Les stomates, ces microscopiques «&nbsp;bouches&nbsp;» des feuilles par où s’effectuent les échanges gazeux avec l’atmosphère ambiante, communiquent avec l’aérenchyme par des voies tortueuses ce qui contribue à renforcer le gradient de pression.&nbsp;</p>
+
+
+
+<p>Si on coupe les tiges et feuilles vivantes en dessous de la ligne d’eau dans laquelle se développe la massette, cela induit un rapide effondrement du taux d’oxygène dans les rhizomes&nbsp;; la coupe répétée provoque ainsi à moyen terme la mort de la colonie liée au rhizome.&nbsp;</p>
+
+
+
+<p>Comme une partie de l’oxygène ainsi drainé jusqu’aux racines et rhizomes finit par suinter en dehors dans le sédiment (jusqu’à 1,1mg/heure), cela enrichit le substrat un peu en oxygène et compense son anoxie&nbsp;; cet oxygène oxyde aussi des composés potentiellement toxiques (issus notamment de la décomposition d’autres végétaux) et réduit leur nocivité. Les massettes transforment donc leur environnement en leur faveur, un trait typique d’organismes dits ingénieurs de l’environnement (voir la <a href="https://www.zoom-nature.fr/ingenieurs-de-lecosysteme/">chronique sur cette notion</a>)&nbsp;; mais ceci profite aussi à d’autres organismes qui ont aussi besoin d’oxygène.&nbsp;</p>
+
+
+
+<p>Notons enfin que cette capacité de ventiler est deux fois plus efficace chez la massette à feuilles étroites (voir la chronique 1) que chez la massette à larges feuilles ce qui implique une meilleure aération potentielle de l’appareil souterrain&nbsp;; ceci explique pourquoi la première vit dans une eau plus profonde que la seconde, où le déficit en O2 est encore plus important.&nbsp;</p>
+
+
+
+<h2>Usine à gaz&nbsp;</h2>
+
+
+
+<p>On sait que les zones humides avec leur très forte productivité biologique et donc l’accumulation rapide de litière de débris végétaux au fond de l’eau génèrent une production de méthane du fait des conditions anaérobies qui prévalent dans le sédiment&nbsp;; ainsi explique-t-on par exemple le phénomène des feux follets quand ce méthane (et d’autres gaz) atteint la surface et s’échappe. Par leurs racines directement au contact du sédiment en cours de transformation sous l’effet de la grouillante flore microbienne, les plantes émergées enracinées au fond deviennent des voies de passage pour ce méthane.&nbsp;</p>
+
+
+
+<p>Les massettes participent à ce processus activement via le flux remontant (voir ci-dessus), même si les quantités évacuées ne sont pas les plus élevées parmi les plantes émergées courantes. La nuit, le méthane s’accumule dans les feuilles et y atteint des pressions très élevées (250 fois plus que l’air ambiant)&nbsp;; le jour, avec la reprise d’activité chlorophyllienne, le méthane est évacué. Les massettes agissent donc comme des «&nbsp;condensateurs&nbsp;» qui stockent le méthane la nuit et l’évacuent de jour. Là aussi, elles se comportent encore en ingénieurs de l’environnement puisqu’elles facilitent l’évacuation de ce méthane du sédiment où il finirait par imposer des conditions encore plus difficiles.&nbsp;</p>
+
+
+
+<p>Plus les massettes croissent, en pleine lumière notamment et sur des substrats riches par exemple, et plus leurs racines libèrent de l’oxygène ce qui réduit significativement la production de méthane dans le sédiment. Leur présence s’avère donc bénéfique pour limiter les émissions de ce gaz à effet de serre redoutable.&nbsp;</p>
+
+
+
+<p>Par ailleurs, nous avons vu que le dioxyde de carbone (CO<sub>2</sub>) produit par la respiration des racines et rhizomes était évacué via le flux montant. Mais, la réalité est bien complexe car les massettes font partie, du point de vue de la photosynthèse, du groupe des plantes dites en C3 comme nombre de graminées. Cette photosynthèse permet d’obtenir des rendements plus élevés et fonctionne avec des taux de dioxyde de carbone plus élevés. Ainsi, le CO<sub>2</sub>&nbsp;qui remonte et se concentre un peu avant d’être évacué va pouvoir être réutilisé pour la photosynthèse. Les massettes limitent ainsi le rejet de CO<sub>2</sub>&nbsp;dans l’atmosphère.&nbsp;</p>
+
+
+
+<h2>Rafraîchissante&nbsp;</h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rafr.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rafr.jpg" alt="" class="wp-image-28921" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rafr.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rafr-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rafr-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rafr-600x399.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Les peuplements denses entretiennent un feuillage qui ombrage l&rsquo;eau en dessous </figcaption></figure></div>
+
+
+
+<p>On accuse souvent les massettes, quand elles forment des peuplements denses, «&nbsp;d’assécher&nbsp;» la zone humide qu’elles colonisent via l’intense évapotranspiration, i.e. le rejet de vapeur d’eau qui accompagne la&nbsp;photosynthèse et permet la circulation des sèves dans la plante. Comme elles ont les pieds dans l’eau, on pense qu’elles gaspillent l’eau sans vergogne contrairement aux plantes strictement terrestres qui doivent fermer leurs stomates dès que le sol s’assèche. Sauf que dans ce raisonnement, on oublie un effet indirect des massettes sur l’eau&nbsp;: leur feuillage abondant et leurs peuplements très denses projettent un ombrage important sur l’eau en-dessous et annulent quasiment toute évaporation directe de l’eau&nbsp;: la température de l’eau entre les tiges est plus fraîche de quelques degrés que celle dans l’air ambiant en été. D’autre part, la couche de litière épaisse qu’engendrent les massettes (voir ci-dessous) laisse s’échapper de la chaleur vers le haut la nuit mais ferme ce flux le&nbsp;jour ce qui induit une canopée aérienne plus fraîche. Ainsi, au final, un marais à massettes est loin de gaspiller l’eau et agit en ingénieur frigoriste&nbsp;: un effet précieux sur les mares, soumises aux épisodes de canicule à répétition, qui limite la surchauffe de l’eau.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-sol.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-sol.jpg" alt="" class="wp-image-28923" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-sol.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-sol-300x181.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-sol-768x463.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-sol-600x361.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Un tapis de mousses se développe sur le sédiment à l&rsquo;ombre des massettes </figcaption></figure></div>
+
+
+
+<h2>Litière&nbsp;</h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-panlit.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-panlit.jpg" alt="" class="wp-image-28920" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-panlit.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-panlit-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-panlit-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-panlit-600x400.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Tiges et feuilles mortes des plantes de l&rsquo;été précédent : un volume considérable très long à se décomposer</figcaption></figure></div>
+
+
+
+<p>La couche de litière de tiges et feuilles mortes évoquée ci-dessus représente un autre volet majeur de l’ingénierie de l’environnement des massettes. On estime la production d’un peuplement dense à presque 1 kg de matière végétale brute/m<sup>2</sup>. Parmi les plantes aquatiques communes, les massettes semblent bien être parmi celles dont les débris sont les plus résistants à la décomposition&nbsp;: les pousses mortes restent souvent sur pied jusqu’à trois ans au milieu des peuplements qui repoussent chaque année. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rhiz.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rhiz.jpg" alt="" class="wp-image-28922" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rhiz.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rhiz-300x166.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rhiz-768x424.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-rhiz-600x331.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Tas de rhizomes extraits du fond : une biomasse aussi importante que les parties aériennes </figcaption></figure></div>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant2.jpg" alt="" data-id="28919" data-link="https://www.zoom-nature.fr/?attachment_id=28919" class="wp-image-28919" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant2-300x191.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant2-768x490.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant2-600x383.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Un tas de massettes extrait de la mare des Chavades : une petite partie de la biomasse accumulée </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant1.jpg" alt="" data-id="28918" data-link="https://www.zoom-nature.fr/?attachment_id=28918" class="wp-image-28918" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant1-300x190.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant1-768x487.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-chant1-600x380.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Face à la biomasse &#8230;.</figcaption></figure></li></ul>
+
+
+
+<p>Ainsi, les massettes, par ce biais, transforment assez rapidement leur environnement en le saturant en litière de débris morts qui va empêcher l’installation d’autres plantes et induire l’anoxie du sédiment via les processus de décomposition qui consomment beaucoup d’oxygène. On estime que 30% de la masse initiale produite chaque année subsiste dans le système l’année suivante&nbsp;: quand on a des peuplements étendus et denses, l’accumulation peut devenir exponentielle très vite. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-atterr.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-atterr.jpg" alt="" class="wp-image-28915" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-atterr.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-atterr-300x162.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-atterr-768x414.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-atterr-600x323.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>La mare des Chavades complètement envahie après cinq années sans intervention </figcaption></figure></div>
+
+
+
+<p>Progressivement, cette couche s’épaissit et les rhizomes progressent vers sa surface&nbsp;: le fond de la zone humide tend donc à monter au fil des années&nbsp;: c’est le processus du colmatage ou atterrissement. Attention&nbsp;: atterrissement vient du verbe transitif atterrir qui veut dire remplir ou obstruer de terre&nbsp;; rien à voir donc avec l’atterrissage qui vient du même verbe atterrir mais sous sa forme intransitive.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ater.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ater.jpg" alt="" class="wp-image-28914" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ater.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ater-300x157.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ater-768x403.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ater-600x315.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Cette mare très peu profonde va rapidement être comblée par ce massif de massettes (Artonne)</figcaption></figure></div>
+
+
+
+<p>Le processus est accéléré par l’effet de piégeage des particules solides s’il y a des écoulements&nbsp;: le tapis de rhizomes et la forêt de tiges agissent comme des filtres ou des peignes qui favorisent les dépôts.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch2.jpg" alt="" class="wp-image-28917" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch2.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch2-300x158.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch2-768x405.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch2-600x317.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>La mare des Chavades le printemps qui suit une intervention </figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch1.jpg" alt="" class="wp-image-28916" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch1.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch1-300x163.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch1-768x416.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-ch1-600x325.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Rapidement, les massettes reprennent pied via les rhizomes restés au fond </figcaption></figure></div>
+
+
+
+<p>Au final, on aboutit à une zone humide qui s’exonde et va s’assécher en surface&nbsp;: les massettes finiront par s’autoéliminer ainsi. Ceci explique les opérations de gestion sur les petits plans d’eau comme les mares (voir la chronique sur<a href="https://www.zoom-nature.fr/preserver-la-mare-des-chavades-a-saint-myon-63/"> la mare des Chavades</a>) envahies par des massettes&nbsp;: l’arrachage périodique permet de freiner ce processus et d’éviter la disparition à moyen terme de la mare en tant que zone humide. Le paragraphe ci-dessus à propos de l’action sur l’eau doit inviter cependant à ne peut-être pas complètement éradiquer tout le peuplement à la fois pour profiter de ses bienfaits&nbsp;rafraîchissants en été. Sans compter que les massettes hébergent une riche biodiversité très intéressante qui interagit avec les autres compartiments écologiques de la mare (voir la chronique 4). Une gestion équilibrée s’impose donc.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art1.jpg" alt="" class="wp-image-28911" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art1.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art1-300x165.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art1-768x423.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art1-600x331.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Mare de la Croix des Rameaux : avant ..</figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art2.jpg" alt="" class="wp-image-28912" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art2.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art2-300x151.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art2-768x387.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art2-600x303.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>&#8230; pendant &#8230;.</figcaption></figure></div>
+
+
+
+<p>Finalement, les massettes se comportent un peu comme les castors, ingénieurs hydrauliques très puissants et, en plus, elles agissent non seulement sur l’eau mais aussi sur le substrat du fond de la zone humide.&nbsp;&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art3.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art3.jpg" alt="" class="wp-image-28913" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art3.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art3-300x169.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art3-768x432.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/03/gaz-art3-600x337.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Conserver une frange de massettes à la périphérie ou des petits massifs pour la biodiversité associée</figcaption></figure></div>
+
+
+
+<p>Pour voir l’ensemble des chroniques consacrées aux massettes, rendez-vous à <a href="https://www.zoom-nature.fr/articles/chroniques/t/typhacee/">la page&nbsp;</a><em><a href="https://www.zoom-nature.fr/articles/chroniques/t/typhacee/">Typhacées</a></em>&nbsp;du site.&nbsp;</p>
+
+
+
+<h2>Bibliographie&nbsp;</h2>
+
+
+
+<p><strong>THE IMPORTANCE OF STANDING DEAD SHOOTS OF THE NARROW LEAVED CATTAIL,&nbsp;<em>TYPHA ANGUSTIFOLIA&nbsp;</em></strong>L. THOMAS E. JORDAN&nbsp;et al.&nbsp;Aquatic Botany, 29 (1988) 319-328</p>
+
+
+
+<p><strong>Growth and root oxygen release by&nbsp;<em>Typha latifolia</em></strong><strong>&nbsp;and its effects on sediment methanogenesis</strong>&nbsp;&nbsp;Dorthe N. Jespersen et al.&nbsp;Aquatic Botany 61 (1998) 165-180&nbsp;</p>
+
+
+
+<p><strong>Factors that control Typha marsh evapotranspiration</strong>&nbsp;Michael L. Goulden et al.&nbsp;Aquatic Botany 86 (2007) 97–106&nbsp;</p>
+
+
+
+<p><strong>Aspects of methane flow from sediment through emergent cattail (<em>Typha latifolia</em>) plants</strong>&nbsp;BJ. B. YAVITT&nbsp;;&nbsp;A. K. KNAPP<em>&nbsp;New Phytol</em>. (1998),&nbsp;<strong>139</strong>, 495–503&nbsp;</p>
+
+
+
+<p><strong>Aerenchyma Carbon Dioxide Can Be Assimilated in&nbsp;<em>Typha latifolia</em>&nbsp;L. leaves&nbsp;</strong>JohnV. H.Constable&nbsp;and David J. Longstreth Plant Physiol. (1994) 106: 1065-1072&nbsp;</p>
+
+
+
+<p><strong>Seasonal decomposition of&nbsp;<em>Typha latifolia&nbsp;</em>in a free-water surface constructed wetland&nbsp;<em>Juan A. Alvarez et al.&nbsp;&nbsp;</em></strong>Ecological engineering 2 8 ( 2 0 0 6 ) 99–105&nbsp;&nbsp;</p>
+]]></content:encoded>
+										</item>
+		<item>
 		<title>Massettes : quenouilles ou queues-de-chats</title>
 		<link>https://www.zoom-nature.fr/massettes-quenouilles-ou-queues-de-chats/</link>
 				<pubDate>Sat, 04 Mar 2023 15:13:21 +0000</pubDate>
@@ -936,150 +1144,6 @@
 <p><strong>IS FOOT SQUEEZING PRESSURE BY TWO RAPTOR SPECIES SUFFICIENT TO SUBDUE THEIR PREY ? </strong>D. CSERMELY et al. The Condor 100&nbsp;: 757-763</p>
 ]]></content:encoded>
 										</item>
-		<item>
-		<title>Quand les buses vérotent</title>
-		<link>https://www.zoom-nature.fr/quand-les-buses-verotent/</link>
-				<pubDate>Sun, 12 Feb 2023 15:46:09 +0000</pubDate>
-		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
-				<category><![CDATA[Accipitriformes (Rapaces diurnes)]]></category>
-		<category><![CDATA[Accipitridé]]></category>
-		<category><![CDATA[Annélide]]></category>
-		<category><![CDATA[Empoisonnement]]></category>
-		<category><![CDATA[Lombric]]></category>
-		<category><![CDATA[Pesticide]]></category>
-		<category><![CDATA[Rapace diurne]]></category>
-		<category><![CDATA[Régime alimentaire]]></category>
-
-		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=28749</guid>
-				<description><![CDATA[12/02/2023 Ce jour, lors d’une courte balade dans la plaine agricole près de chez moi, [&#8230;]]]></description>
-								<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-champpan.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-champpan.jpg" alt="" class="wp-image-28751" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-champpan.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-champpan-300x154.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-champpan-768x395.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-champpan-600x309.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>12/02/2023 Champ cultivé où étaient posées dix buses (dérangées par un joggeur &#8230;St-Myon 63)</figcaption></figure></div>
-
-
-
-<p>12/02/2023 Ce jour, lors d’une courte balade dans la plaine agricole près de chez moi, je tombe en arrêt devant un champ emblavé sur lequel sont posées dix … buses variables. En hiver, on ne croise guère les buses que solitaires ou par deux (certaines commencent alors à recomposer les couples). Un rapide coup de jumelle confirme ce que je pensais : elles sont en train de chasser des … vers de terre. </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pan2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pan2.jpg" alt="" class="wp-image-28754" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pan2.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pan2-300x141.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pan2-768x360.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pan2-600x281.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Buse en pleine chasse aux vers &#8230; pour l&rsquo;instant, elle scrute &#8230;</figcaption></figure></div>
-
-
-
-<p>C’est un comportement classique des buses mais très largement ignoré ou passé sous silence : d’ailleurs, pour rédiger cette chronique, j’ai longuement cherché dans la bibliographie pour ne trouver que des bribes éparses dans quelques articles. L’hiver dernier, j’avais déjà assisté d’assez près à ce manège très particulier de trois buses et j’avais pu prendre pas mal de photos depuis ma voiture garée sur l’accotement. Je me suis dit que j’avais malgré tout assez de matière pour en faire une chronique, même assez courte. </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-panint.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-panint.jpg" alt="" class="wp-image-28755" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-panint.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-panint-300x141.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-panint-768x360.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-panint-600x281.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>08/02/2022 Trois buses en train de véroter dans une éteule de céréale (Effiat ; 63) au bord d&rsquo;une route </figcaption></figure></div>
-
-
-
-<h2>Vérotage&nbsp;</h2>
-
-
-
-<p>Le verbe véroter désigne l’action de chercher des vers pour la pêche mais a été repris dans le langage cynégétique pour décrire la prédation des vers par la bécasse qui pioche avec son bec dans le sol mou et humide pour en extraire des vers.&nbsp;</p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-ver.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-ver.jpg" alt="" data-id="28761" data-link="https://www.zoom-nature.fr/?attachment_id=28761" class="wp-image-28761" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-ver.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-ver-300x119.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-ver-768x305.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-ver-600x238.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Lombric : une belle proie même pour une buse </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-turr.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-turr.jpg" alt="" data-id="28759" data-link="https://www.zoom-nature.fr/?attachment_id=28759" class="wp-image-28759" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-turr.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-turr-300x199.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-turr-768x509.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-turr-600x398.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Turricule ou déjection émise quand le lombric remonte vers la surface </figcaption></figure></li></ul>
-
-
-
-<p>Les buses variables chassent les vers de terre essentiellement en hiver, quand ils sont en activité et très proches de la surface. Normalement, les gros vers de terre ou lombrics ne sortent que la nuit : j’ai souvenir d’avoir « chassé » les vers à la lampe dans les allées du jardin familial avec mon père la veille d’une journée de pêche. Mais en hiver, par temps humide, dans les sols un peu gorgés d’eau ou très humides, ils s’activent de jour et restent près de la surface sans doute pour trouver de l’oxygène.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-consopan.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-consopan.jpg" alt="" class="wp-image-28753" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-consopan.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-consopan-300x155.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-consopan-768x396.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-consopan-600x309.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Cette buse vient de capturer un ver qu&rsquo;elle est en train d&rsquo;avaler </figcaption></figure></div>
-
-
-
-<p> Mes quelques observations ont toutes été faites dans des champs labourés dans la grande plaine agricole ; selon l’étude anglaise citée en bibliographie, la seule qui aborde vraiment ce sujet, les buses le font encore plus dans les prairies permanentes à végétation rase en hiver et bien plus riches en vers de terre (les travaux agricoles dérangent les vers). </p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas.jpg" alt="" data-id="28756" data-link="https://www.zoom-nature.fr/?attachment_id=28756" class="wp-image-28756" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas-300x184.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas-768x471.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas-600x368.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Buse en train de « courir » pour se jeter sur un ver : on voit bien que ce n&rsquo;est pas vraiment dans son ADN &#8230;</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas2.jpg" alt="" data-id="28757" data-link="https://www.zoom-nature.fr/?attachment_id=28757" class="wp-image-28757" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas2-300x193.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas2-768x493.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-pas2-600x386.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li></ul>
-
-
-
-<p>La technique de chasse des buses est bien rodée. Tout se passe au sol&nbsp;: la buse reste immobile et scrute attentivement autour d’elle en tournant la tête&nbsp;; brusquement, soit elle se met à courir en se dandinant comme une poule et se précipite sur la proie repérée qu’elle saisit avec son bec&nbsp;; on la voit alors tirer en étirant son cou vers le haut pour extirper le ver qui cherche à s’enfoncer. Aussitôt sorti, le ver est avalé&nbsp;: tout va très vite. D’autres fois, elle s’envole à peine ou écarte ses ailes pour se jeter sur le ver repéré. Ainsi, quand elles sont plusieurs, on assiste à un ballet du plus bel effet. J’en ai ainsi observé jusqu’à quinze ensemble ce qui laisse à penser qu’il doit y avoir un effet attractif quand l’une se met à véroter&nbsp;: son comportement typique doit attirer l’attention d’autres buses plus ou moins loin qui, avec leur vue perçante, doivent détecter de tels mouvements inhabituels.&nbsp;</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpan3.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpan3.jpg" alt="" class="wp-image-28765" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpan3.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpan3-300x146.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpan3-768x373.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpan3-600x291.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Court envol très bas pour tomber sur le ver </figcaption></figure></div>
-
-
-
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol1.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol1.jpg" alt="" data-id="28762" data-link="https://www.zoom-nature.fr/?attachment_id=28762" class="wp-image-28762" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol1-300x191.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol1-768x490.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol1-600x383.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Brefs envols pour retomber sur un ver aperçu </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol2.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol2.jpg" alt="" data-id="28763" data-link="https://www.zoom-nature.fr/?attachment_id=28763" class="wp-image-28763" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol2-300x210.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol2-768x537.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol2-600x419.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol3.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol3.jpg" alt="" data-id="28764" data-link="https://www.zoom-nature.fr/?attachment_id=28764" class="wp-image-28764" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol3-300x214.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol3-768x548.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vol3-600x428.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li></ul>
-
-
-
-<h2>Complément alimentaire</h2>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-taup.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-taup.jpg" alt="" class="wp-image-28758" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-taup.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-taup-300x212.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-taup-768x543.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-taup-600x425.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Buse avec une taupe, une proie assez fréquente à la belle saison (diorama du Musée Lecoq, Clermont-Ferrand)</figcaption></figure></div>
-
-
-
-<p>La littérature sur le régime alimentaire de la buse dit classiquement qu’il se compose à 90% de petits mammifères dont des petits rongeurs du type campagnols très communs dans les champs cultivés et sujets à des pullulations régulières. Généralement, on ajoute qu’elle « chasse aussi des invertébrés dont des vers » mais sans guère en dire plus. Ceci tient avant tout au fait que la détermination du régime alimentaire se fait avant tout à partir des analyses des restes alimentaires trouvés dans les pelotes de régurgitation. Compte tenu de leur consistance molle, les vers une fois avalés sont pratiquement entièrement digérés et on n’en retrouve aucune trace dans les pelotes qui concentrent les restes animaux non digestibles (os, poils, écailles, dents,  ..). </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-airepan.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-airepan.jpg" alt="" class="wp-image-28750" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-airepan.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-airepan-300x192.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-airepan-768x492.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-airepan-600x384.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Aire de buse : une source de restes alimentaires (pour les naturalistes grimpeurs &#8230;) mais en dehors de l&rsquo;hiver</figcaption></figure></div>
-
-
-
-<p>D’autre part, comme cette chasse ne se pratique apparemment qu’en hiver si bien que l’on ne trouve pas plus de restes de vers au niveau des nids (aires), une autre source de données pour établir le régime. Tout ceci indique que la consommation des vers de terre doit donc être très largement sous-estimée et passe complètement « sous les radars » des analyses. En Angleterre, Newton qui a publié en 1982 une grosse synthèse sur le régime alimentaire de la buse variable n’en a trouvé qu’une fois l trace dans des pelotes ; et pourtant, cet auteur ajoute avoir souvent observer lui aussi des buses entrain de véroter en hiver. </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-chasse.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-chasse.jpg" alt="" class="wp-image-28752" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-chasse.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-chasse-300x144.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-chasse-768x369.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-chasse-600x288.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Cette buse à l&rsquo;affût en été sur un piquet chasse des petits rongeurs ou de gros insectes mais pas des vers</figcaption></figure></div>
-
-
-
-<p>Vu la richesse en protéines des lombrics et leur haute valeur énergétique, ils doivent constituer en plein hiver une ressource majeure qui en plus ne demande aps une dépense énergétique excessive à part courir un peu. Mis, cette ressource n’est accessible que par des conditions météorologiques favorables&nbsp;: un temps doux et humide&nbsp;; peut-être que le réchauffement climatique en cours favorise cette activité en réduisant les jours de gel défavorables&nbsp;?</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpano.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpano.jpg" alt="" class="wp-image-28766" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpano.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpano-300x114.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpano-768x291.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-volpano-600x227.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>La buse ne chasse pas du tout en vol : elle se déplace ou parade et défend son territoire</figcaption></figure></div>
-
-
-
-<h2>Risqué&nbsp;?&nbsp;</h2>
-
-
-
-<p>On sait que les vers de terre se trouvent en première ligne des victimes directes des épandages de pesticides qui se retrouvent dans les sols, vu qu’ils se nourrissent des débris végétaux en surface. Ils tendent donc à concentrer de nombreux polluants présents dans le sol. On peut donc s’interroger sur les risques d’exposition indirecte à ces polluants pour les buses qui en consomment beaucoup.&nbsp;</p>
-
-
-
-<p>Une étude allemande réalisée en 1995 confirme largement ces craintes suite à la découverte de buses mortes près de champs de betteraves fourragères traitées avec un insecticide du groupe des carbamates, le carbofuran et épandu sous forme de granulés. Les chercheurs ont analysé les vers des parcelles traitées et les contenus stomacaux des buses récupérées mortes. Les lombrics contenaient des doses de carbofuran allant jusqu’à 3,2mg/kg&nbsp;; les restes de vers trouvés dans les estomacs des buses étaient aussi contaminés mais avec des concentrations encore supérieures. Les chercheurs expliquent cette surconcentration au fait que les buses doivent ingérer un peu de terre qui colle aux vers extirpés et renfermerait des granulés non dissous de ce pesticide. Sur la base d’une consommation estimée à 100 grammes de vers par jour, contaminés avec des doses moyennes de 2 mg/kg on arrive à une exposition indirecte des buses de l’ordre de 0,2mg/kg en ne comptant que les vers eux-mêmes.&nbsp;</p>
-
-
-
-<p>Certes, le carbofuran est interdit en France depuis 2008 compte tenu de sa haute toxicité (il aura eu le temps de sévir ….), mais on sait trop le nombre élevé d’autres pesticides tout aussi toxiques (et souvent rémanents, i.e. persistant très longtemps dans le sols) qui sont toujours utilisés avec sans cesse de nouvelles formules (voir<a href="https://www.zoom-nature.fr/les-effets-largement-sous-evalues-des-pesticides-sur-lenvironnement-agricole/"> la chronique sur la sous-estimation </a>de l’impact des pesticides). </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vue.jpg"><img src="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vue.jpg" alt="" class="wp-image-28767" srcset="https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vue.jpg 700w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vue-300x261.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2023/02/but-vue-600x522.jpg 600w" sizes="(max-width: 700px) 100vw, 700px" /></a><figcaption>Regard fixe, cou relevé : la frappe ne va pas tarder &#8230;</figcaption></figure></div>
-
-
-
-<p>Donc, si en hiver en circulant dans les zones cultivées, vous voyez plusieurs buses posées dans un champs, arrêtez-vous à distance et observez-les&nbsp;: vous aurez la chance de les voir véroter à votre tour.&nbsp;</p>
-
-
-
-<h2>Bibliographie&nbsp;</h2>
-
-
-
-<p><strong>THE COMMON BUZZARD IN LOWLAND UK: RELATIONSHIPS BETWEEN FOOD AVAILABILITY, HABITAT USE AND DEMOGRAPHY&nbsp;</strong>Kathryn H. Hodder A thesis submitted for the degree of Doctor of Philosophy 2001&nbsp;</p>
-
-
-
-<p><strong>Mortality of Birds of Prey Following Field Application of Granular Carbofuran: A Case Study</strong>&nbsp;D. R. Dietrich et al. Archives of environnemental Contamination and Toxicology 29 (1995) 140-145</p>
-]]></content:encoded>
-										</item>
 	</channel>
 </rss>
 
@@ -1089,5 +1153,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/pro
 Page Caching using disk: enhanced (Page is feed) 
 Mibnifié utilisant disk
 
-Served from: www.zoom-nature.fr @ 2023-03-04 16:17:27 by W3 Total Cache
+Served from: www.zoom-nature.fr @ 2023-03-04 19:18:24 by W3 Total Cache
 -->
