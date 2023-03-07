@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Plusieurs quêtes INPN Espèces proposées au sein de la Ville de la Roche-sur-Yon</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14722/plusieurs-quetes-inpn-especes-proposees-au-sein-de-la-ville-de-la-roche-sur-yon</link>
+                    <description>
+                        &#034;Des quêtes sur un arbre, un lichen, une plante, une grenouille et un papillon sont lancées par la Ville de la Roche-sur-Yon pour partir à la découverte du bocage vendéen.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inpn-especes">INPN Espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14722/</guid>        
+                    <pubDate>    
+                        Tue, 07 Mar 2023 11:22:19 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Cartographies de croisement des enjeux de biodiversité et des pressions</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14701/cartographies-de-croisement-des-enjeux-de-biodiversite-et-des-pressions</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14662/</guid>        
                     <pubDate>    
                         Fri, 24 Feb 2023 09:50:40 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>La cartographie interactive des espaces naturels ou protégés de l’INPN fait peau neuve</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14661/la-cartographie-interactive-des-espaces-naturels-ou-proteges-de-l-inpn-fait-peau-neuve</link>
-                    <description>
-                        &#034;L’interface de cartographie interactive pour les espaces naturels ou protégés a été repensée pour faciliter la recherche et optimiser l’affichage des différents types de zonages gérés par l’INPN sur l’ensemble du territoire national continental et marin.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/espaces-proteges">Espaces protégés</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14661/</guid>        
-                    <pubDate>    
-                        Thu, 23 Feb 2023 12:05:42 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
