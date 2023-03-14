@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Mise à jour des données des sites Natura 2000</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14741/mise-a-jour-des-donnees-des-sites-natura-2000</link>
+                    <description>
+                        &#034;Une nouvelle mise à jour des données (FSD) et de la cartographie des sites Natura 2000 est en ligne sur l’INPN, suite à l’envoi officiel à la Commission européenne de décembre 2022.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/natura2000">Natura 2000</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14741/</guid>        
+                    <pubDate>    
+                        Tue, 14 Mar 2023 09:07:00 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Plusieurs quêtes INPN Espèces proposées au sein de la Ville de la Roche-sur-Yon</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14722/plusieurs-quetes-inpn-especes-proposees-au-sein-de-la-ville-de-la-roche-sur-yon</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14663/</guid>        
                     <pubDate>    
                         Mon, 27 Feb 2023 10:47:12 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Colloque des 40 ans de l'inventaire des Znieff : les vidéos sont disponibles</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14662/colloque-des-40-ans-de-l-inventaire-des-znieff-les-videos-sont-disponibles</link>
-                    <description>
-                        &#034;Retrouvez les interventions et les échanges des 30 novembre et 1er décembre 2022 de cet évènement national dédié aux Znieff, en vidéos.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/znieff">ZNIEFF</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14662/</guid>        
-                    <pubDate>    
-                        Fri, 24 Feb 2023 09:50:40 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
