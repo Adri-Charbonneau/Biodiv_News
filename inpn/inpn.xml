@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Appel à manifestations d'intérêt sur l’efficacité des mesures Natura 2000</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14761/appel-a-manifestations-d-interet-sur-l-efficacite-des-mesures-natura-2000</link>
+                    <description>
+                        &#034;L&#039;OFB et le MNHN lancent une nouvelle publication du 5e AMI co-finançant des suivis standardisés pour évaluer l’efficacité de mesures de gestion mises en œuvre dans les sites.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/natura2000">Natura 2000</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14761/</guid>        
+                    <pubDate>    
+                        Thu, 16 Mar 2023 12:08:34 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Diffusion de nouveaux sites géologiques protégés</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14742/diffusion-de-nouveaux-sites-geologiques-proteges</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14722/</guid>        
                     <pubDate>    
                         Tue, 07 Mar 2023 11:22:19 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Cartographies de croisement des enjeux de biodiversité et des pressions</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14701/cartographies-de-croisement-des-enjeux-de-biodiversite-et-des-pressions</link>
-                    <description>
-                        &#034;Croisement des points chauds de biodiversité et pressions pour une double approche de conservation préventive et réactive dans le cadre du renforcement du réseau d’aires protégées&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/espaces-proteges">Espaces protégés</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14701/</guid>        
-                    <pubDate>    
-                        Wed, 01 Mar 2023 09:18:57 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
