@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Enquête nationale sur l'utilisation des méthodes sites</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14781/enquete-nationale-sur-l-utilisation-des-methodes-sites</link>
+                    <description>
+                        &#034;Répondez à l&#039;enquête en ligne sur les méthodes d&#039;évaluation d&#039;état de conservation des habitats à l&#039;échelle des sites Natura 2000 élaborées par PatriNat&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/natura2000">Natura 2000</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14781/</guid>        
+                    <pubDate>    
+                        Wed, 22 Mar 2023 12:38:00 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Appel à manifestations d'intérêt sur l’efficacité des mesures Natura 2000</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14761/appel-a-manifestations-d-interet-sur-l-efficacite-des-mesures-natura-2000</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14741/</guid>        
                     <pubDate>    
                         Tue, 14 Mar 2023 09:07:00 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Plusieurs quêtes INPN Espèces proposées au sein de la Ville de la Roche-sur-Yon</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14722/plusieurs-quetes-inpn-especes-proposees-au-sein-de-la-ville-de-la-roche-sur-yon</link>
-                    <description>
-                        &#034;Des quêtes sur un arbre, un lichen, une plante, une grenouille et un papillon sont lancées par la Ville de la Roche-sur-Yon pour partir à la découverte du bocage vendéen.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inpn-especes">INPN Espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14722/</guid>        
-                    <pubDate>    
-                        Tue, 07 Mar 2023 11:22:19 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
