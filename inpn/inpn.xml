@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Retour sur le colloque de restitution du projet de cartographie nationale des milieux humides</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14801/retour-sur-le-colloque-de-restitution-du-projet-de-cartographie-nationale-des-milieux-humides</link>
+                    <description>
+                        &#034;Les vidéos du webinaire qui s&#039;est tenu le 16 février 2023 sont en ligne et un livret avec des informations-clés sur la cartographie nationale des milieux humides a été publié.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/actualites-generales">Actualité générale</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14801/</guid>        
+                    <pubDate>    
+                        Tue, 28 Mar 2023 15:49:45 +0200</pubDate>            
+               </item>                
+            <item>
                     <title>Enquête nationale sur l'utilisation des méthodes sites</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14781/enquete-nationale-sur-l-utilisation-des-methodes-sites</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14721/</guid>        
                     <pubDate>    
                         Tue, 14 Mar 2023 15:10:59 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Mise à jour des données des sites Natura 2000</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14741/mise-a-jour-des-donnees-des-sites-natura-2000</link>
-                    <description>
-                        &#034;Une nouvelle mise à jour des données (FSD) et de la cartographie des sites Natura 2000 est en ligne sur l’INPN, suite à l’envoi officiel à la Commission européenne de décembre 2022.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/natura2000">Natura 2000</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14741/</guid>        
-                    <pubDate>    
-                        Tue, 14 Mar 2023 09:07:00 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
