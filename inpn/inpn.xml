@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Webinaire de présentation des données CarHab et lancement d’un AMI</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/14822/webinaire-de-presentation-des-donnees-carhab-et-lancement-d-un-ami</link>
+                    <description>
+                        &#034;Rendez-vous le 20 avril 2023 à 9h30 pour le webinaire de présentation CarHab et le lancement d’un appel à manifestation d’intérêt (AMI).&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/actualites-generales">Actualité générale</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14822/</guid>        
+                    <pubDate>    
+                        Thu, 06 Apr 2023 18:09:08 +0200</pubDate>            
+               </item>                
+            <item>
                     <title>Le risque d'extinction des araignées de métropole évalué pour la première fois</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/14802/le-risque-d-extinction-des-araignees-de-metropole-evalue-pour-la-premiere-fois</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14761/</guid>        
                     <pubDate>    
                         Thu, 16 Mar 2023 12:08:34 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Diffusion de nouveaux sites géologiques protégés</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/14742/diffusion-de-nouveaux-sites-geologiques-proteges</link>
-                    <description>
-                        &#034;L&#039;INPN diffuse depuis peu des arrêtés préfectoraux qui protègent spécifiquement des sites d’intérêt géologique. Ils viennent enrichir la base de données Espaces protégés de l&#039;INPN.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inpg">INPG</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/14742/</guid>        
-                    <pubDate>    
-                        Wed, 15 Mar 2023 09:56:37 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
