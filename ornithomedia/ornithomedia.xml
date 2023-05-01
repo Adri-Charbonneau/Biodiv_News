@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sat, 29 Apr 2023 21:38:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Apr 2023 18:32:59 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Où observer les oiseaux sur l&#8217;île Maurice ?</title>
+		<link>https://www.ornithomedia.com/magazine/voyages/observer-oiseaux-ile-maurice-01161/</link>
+					<comments>https://www.ornithomedia.com/magazine/voyages/observer-oiseaux-ile-maurice-01161/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Mon, 01 May 2023 06:00:00 +0000</pubDate>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Voyages]]></category>
+		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/observer-oiseaux-ile-maurice-01161/</guid>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/observer-oiseaux-ile-maurice-01161/">Où observer les oiseaux sur l&rsquo;île Maurice ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/observer-oiseaux-ile-maurice-01161/">Où observer les oiseaux sur l&rsquo;île Maurice ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/observer-oiseaux-ile-maurice-01161/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Comptage national printanier des oiseaux des jardins en France métropolitaine les 27 et 28 mai 2023</title>
 		<link>https://www.ornithomedia.com/breves/comptage-national-printanier-des-oiseaux-des-jardins-en-france-metropolitaine-les-27-et-28-mai-2023/</link>
@@ -196,26 +217,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/de-lespoir-pour-leutrichome-de-rowley-sur-lile-indonesienne-de-sangihe-grace-a-la-permaculture/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Des martins-pêcheurs et des hérons suivent des loutres pour se nourrir</title>
-		<link>https://www.ornithomedia.com/breves/des-martins-pecheurs-et-des-herons-suivent-des-loutres-pour-se-nourrir/</link>
-					<comments>https://www.ornithomedia.com/breves/des-martins-pecheurs-et-des-herons-suivent-des-loutres-pour-se-nourrir/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Wed, 12 Apr 2023 06:00:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=226340</guid>
-
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/des-martins-pecheurs-et-des-herons-suivent-des-loutres-pour-se-nourrir/">Des martins-pêcheurs et des hérons suivent des loutres pour se nourrir</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/breves/des-martins-pecheurs-et-des-herons-suivent-des-loutres-pour-se-nourrir/">Des martins-pêcheurs et des hérons suivent des loutres pour se nourrir</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/des-martins-pecheurs-et-des-herons-suivent-des-loutres-pour-se-nourrir/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
