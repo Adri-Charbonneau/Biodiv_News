@@ -12,7 +12,7 @@
 	<atom:link href="http://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>http://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 May 2023 13:49:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jun 2023 09:46:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,10 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Publication d&#8217;un ouvrage de référence sur les tortues terrestres et d&#8217;eau douce, autochtones et introduites en France métropolitaine !</title>
+		<link>http://lashf.org/non-classe/publication-dun-ouvrage-de-reference-sur-les-tortues-terrestres-et-deau-douce-autochtones-et-introduites-en-france-metropolitaine/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=publication-dun-ouvrage-de-reference-sur-les-tortues-terrestres-et-deau-douce-autochtones-et-introduites-en-france-metropolitaine</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 09:42:11 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://lashf.org/?p=5664</guid>
+
+					<description><![CDATA[La SHF est très fière de vous présenter le cinquième numéro de sa revue HERP me !, consacré aux tortues terrestres et d’eau douce, autochtones et introduites, de France métropolitaine. Écrit par Jérôme Maran et Thierry Frétey, cet ouvrage de référence dresse un état des connaissances sur ces espèces et met à disposition une clé de [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>La SHF est très fière de vous présenter le cinquième numéro de sa revue <em>HERP me !</em>, <strong>consacré aux tortues terrestres et d’eau douce, autochtones et introduites, de France métropolitaine</strong>. Écrit par Jérôme Maran et Thierry Frétey, cet ouvrage de référence dresse un état des connaissances sur ces espèces et met à disposition une clé de détermination richement illustrée. Bien que la France métropolitaine compte seulement trois espèces autochtones (en dehors des tortues marines), ce sont près de quarante espèces et sous-espèces qui y sont décrites, toutes susceptibles d’être rencontrées actuellement en milieu naturel. Grâce à cet ouvrage, il sera désormais possible de déterminer l’espèce observée et si elle vit naturellement sur notre territoire ou si elle y a été introduite.</p>
+<p>Nous félicitons les auteurs pour la qualité de leur travail et remercions Maël Dewynter, en charge de la mise en page de ce numéro exceptionnel, et Matthieu Berroneau pour ses photographies.</p>
+<p>Disponible immédiatement et gratuitement en version numérique, nous vous proposerons très prochainement une version papier, dont le tarif reste à définir !</p>
+
+
+<div style="height:36px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="http://lashf.org/wp-content/uploads/2023/06/HERP-ME-05-Tortues-de-France-WEB.pdf" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener">Télécharger la version web (34 Mo)</a></div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="http://lashf.org/wp-content/uploads/2023/06/HERP-ME-05-Tortues-de-France-HD.pdf" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener">Télécharger la version haute définition (117 Mo)</a></div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Congrès 2023 : Ouverture de l&#8217;appel à communications !</title>
 		<link>http://lashf.org/non-classe/congres-2023-ouverture-de-lappel-a-communications/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-ouverture-de-lappel-a-communications</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 17 May 2023 13:48:18 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=5610</guid>
@@ -57,7 +94,7 @@
 		<title>La SHF recherche un prestataire dans le cadre du projet POP en Outre-Mer !</title>
 		<link>http://lashf.org/non-classe/la-shf-recherche-un-prestataire-dans-le-cadre-du-projet-pop-en-outre-mer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-shf-recherche-un-prestataire-dans-le-cadre-du-projet-pop-en-outre-mer</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 May 2023 12:05:49 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=5601</guid>
@@ -84,7 +121,7 @@
 		<title>Enquête adhérents lancée en 2022 : résultats !</title>
 		<link>http://lashf.org/non-classe/enquete-adherents-lancee-en-2022-resultats/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=enquete-adherents-lancee-en-2022-resultats</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 30 Jan 2023 14:38:06 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=5367</guid>
@@ -108,7 +145,7 @@
 		<title>Pré-commandez l&#8217;atlas des amphibiens du Loiret !</title>
 		<link>http://lashf.org/non-classe/precommandez-latlas-des-amphibiens-du-loiret/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=precommandez-latlas-des-amphibiens-du-loiret</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 14:03:58 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=5010</guid>
@@ -131,7 +168,7 @@
 		<title>Publication d&#8217;un outil d&#8217;aide à l&#8217;identification de l&#8217;herpétofaune de Martinique</title>
 		<link>http://lashf.org/non-classe/publication-dun-outil-daide-a-lidentification-de-lherpetofaune-de-martinique/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=publication-dun-outil-daide-a-lidentification-de-lherpetofaune-de-martinique</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 26 Oct 2022 07:51:28 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=4997</guid>
@@ -158,7 +195,7 @@
 		<title>Les amphibiens et la SHF à l&#8217;honneur sur Europe 1</title>
 		<link>http://lashf.org/non-classe/les-amphibiens-et-la-shf-a-lhonneur-sur-europe-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=les-amphibiens-et-la-shf-a-lhonneur-sur-europe-1</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 21 Oct 2022 08:28:04 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=4959</guid>
@@ -181,7 +218,7 @@
 		<title>La SHF recrute un·e chargé·e de mission PNA</title>
 		<link>http://lashf.org/non-classe/la-shf-recrute-un%c2%b7e-charge%c2%b7e-de-mission-pna/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-shf-recrute-un%25c2%25b7e-charge%25c2%25b7e-de-mission-pna</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 23 Sep 2022 11:37:11 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=4681</guid>
@@ -210,7 +247,7 @@
 		<title>[Congrès 2022 ] Programme et ouverture des inscriptions</title>
 		<link>http://lashf.org/non-classe/congres-2022-programme-et-ouverture-des-inscriptions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2022-programme-et-ouverture-des-inscriptions</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 09 Sep 2022 14:24:11 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=4650</guid>
@@ -238,7 +275,7 @@
 		<title>Appel à candidatures au conseil d&#8217;administration</title>
 		<link>http://lashf.org/non-classe/appel-a-candidatures-au-conseil-dadministration/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=appel-a-candidatures-au-conseil-dadministration</link>
 		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 05 Sep 2022 21:02:26 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
 		<guid isPermaLink="false">http://lashf.org/?p=4635</guid>
@@ -248,83 +285,6 @@
 <p>Nous lançons aujourd&rsquo;hui un appel à candidatures pour le conseil d&rsquo;administration. Comme vous le savez, la SHF ne cesse de se développer. Les administrateurs et l&rsquo;équipe salariée ont besoin de vous pour les aider à continuer de faire évoluer la SHF. Nous serions ravis de vous compter parmi nous pour mener à bien les différents chantiers en cours et vous faire vivre l&rsquo;expérience et l&rsquo;aventure associatives.</p>
 <p>Faites-nous vite parvenir votre candidature en suivant les instructions disponibles dans le document téléchargeable ci-dessous !</p>
 <h4 style="text-align: center;"><a href="http://lashf.org/wp-content/uploads/2022/09/SHF_AGO_2022_appel__candidatures.pdf">Télécharger l&rsquo;appel à candidatures 2022</a></h4>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Gestion des amphibiens exotiques envahissants : un guide technique dédié au Xénope lisse et à la Grenouille taureau</title>
-		<link>http://lashf.org/lifecroaa/gestion-des-amphibiens-exotiques-envahissants-un-guide-technique-dedie-au-xenope-lisse-et-a-la-grenouille-taureau/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gestion-des-amphibiens-exotiques-envahissants-un-guide-technique-dedie-au-xenope-lisse-et-a-la-grenouille-taureau</link>
-		
-		<dc:creator><![CDATA[agnes]]></dc:creator>
-		<pubDate>Mon, 29 Aug 2022 10:05:21 +0000</pubDate>
-				<category><![CDATA[LIFE CROAA]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=4556</guid>
-
-					<description><![CDATA[À l’issue de 6 années de projet, les équipes du programme européen LIFE CROAA ont synthétisé, dans un guide de gestion, les meilleures techniques pour le suivi et la gestion de la Grenouille taureau (Lithobates catesbeianus) et du Xénope lisse (Xenopus laevis). La Grenouille taureau et le Xénope lisse sont deux espèces exotiques envahissantes d’amphibiens [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p><strong>À l’issue de 6 années de projet, les équipes du programme européen LIFE CROAA ont synthétisé, dans un guide de gestion, les meilleures techniques pour le suivi et la gestion de la Grenouille taureau (<em>Lithobates catesbeianus</em>) et du Xénope lisse (<em>Xenopus laevis</em>).</strong></p>
-
-
-
-<p>La Grenouille taureau et le Xénope lisse sont deux espèces exotiques envahissantes d’amphibiens présentes en France depuis plusieurs dizaines d’années. Essentiellement localisées en régions Nouvelle-Aquitaine et Centre Val-de-Loire, elles se sont adaptées à leur nouvel environnement, se sont reproduites et dispersées, engendrant un impact négatif sur les écosystèmes et les espèces locales.</p>
-
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column"></div>
-</div>
-
-
-
-<h4>Accompagner et partager les apprentissages de terrain…</h4>
-
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<p>À travers le LIFE CROAA, la Société Herpétologique de France et ses sept partenaires se sont donnés pour objectif d’améliorer l’état de conservation des populations locales d’amphibiens, affaiblies par la présence de ces deux espèces exotiques envahissantes. </p>
-
-
-
-<p><strong>Soucieuses d’accompagner les gestionnaires d’espaces naturels, les techniciens des collectivités et les institutions dans l’amélioration des connaissances et la gestion de la Grenouille taureau et du Xénope lisse, les équipes de ce projet européen ont conçu un guide technique visant à identifier et à maîtriser ces populations introduites.</strong><br></p>
-
-
-
-<p>Cet ouvrage propose notamment des protocoles d’inventaire, des techniques de capture en fonction du stade de développement, ou encore des méthodes de limitation des événements de dispersion. Ce support propose ainsi des actions clés en main, qui sont le reflet des opérations de terrain menées dans le cadre du LIFE CROAA. Il met également en valeur les outils et méthodes de sensibilisation pour lutter contre le relâcher d’espèces exotiques dans la nature et faire connaître le principe d’espèce exotique envahissante. </p>
-
-
-
-<p>Le guide technique a été co-conçu avec des experts techniques et scientifiques de la thématique issus de l’Office français de la biodiversité, du Centre de Ressources Espèces Exotiques Envahissantes / UICN Comité français, de la DREAL Nouvelle-Aquitaine, ou encore du CNRS.</p>
-</div>
-
-
-
-<div class="wp-block-column">
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://lashf.org/wp-content/uploads/2022/08/miniature-couv-GTR.jpg" alt="" class="wp-image-4559" width="297" height="419" srcset="http://lashf.org/wp-content/uploads/2022/08/miniature-couv-GTR.jpg 593w, http://lashf.org/wp-content/uploads/2022/08/miniature-couv-GTR-212x300.jpg 212w" sizes="(max-width: 297px) 100vw, 297px" /><figcaption>Conception graphique : Sébastien Ripoll</figcaption></figure>
-</div>
-</div>
-
-
-
-<div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link has-background" href="http://lashf.org/wp-content/uploads/2022/08/Life-CROAA_Guide-technique_AEE_web_annexe1.pdf" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener"><strong>Accéder au Guide de gestion de la Grenouille taureau et du Xénope lisse</strong></a></div>
-</div>
-
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column"></div>
-</div>
-
-
-
-<p>Dans la continuité de ce guide, la Société Herpétologique de France décline les techniques d’inventaire et de capture au format de fiches techniques. Ces fiches également traduites en anglais permettront de diffuser les techniques développées en France, auprès de nos collègues européens confrontés à ces mêmes espèces. </p>
-
-
-
-<p><strong>Découvrez prochainement l’intégralité de ces fiches sur : <a href="http://lashf.org/fiches-techniques/">http://lashf.org/fiches-techniques/</a></strong></p>
 ]]></content:encoded>
 					
 		
