@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Thu, 09 Feb 2023 06:53:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Aug 2023 08:45:15 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>4ème Congrès européen sur la conservation des Orthoptères (ECOC IV)</title>
+		<link>https://ascete.org/4eme-congre-europeen-sur-la-conservation-des-orthopteres-ecoc-iv/</link>
+		
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 08:36:21 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Appel à participation]]></category>
+		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3166</guid>
+
+					<description><![CDATA[Le 4e Congrès européen sur la conservation des Orthoptères (ECOC IV) se tiendra en Italie à la Fondazione Museo Civico di Rovereto du 4 au 6 juillet 2024. Ce musée conserve la collection d&#8217;Orthoptères Antonio Galvagni (32 000 spécimens) et Paolo Fontana (25 000 spécimens ), couvrant notamment la région méditerranéenne. Le congrès sera une [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Parution de la liste rouge des orthoptères d’Occitanie</title>
 		<link>https://ascete.org/parution-de-la-liste-rouge-des-orthopteres-doccitanie/</link>
 		
@@ -160,21 +176,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=2968</guid>
 
 					<description><![CDATA[J&#8217;ai le plaisir de vous présenter ici les vœux du conseil d&#8217;administration de l&#8217;Ascete pour cette année 2022. Vous trouverez ici le bulletin de liaison contenant les comptes rendus de réunion de la dernière assemblée générale et des derniers conseils d&#8217;administration. Celles et ceux d&#8217;entre vous qui le souhaitent ou qui ne l&#8217;ont pas encore [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zoom sur… (1) l&#8217;association Locusta et le référentiel des orthoptères d&#8217;Aquitaine</title>
-		<link>https://ascete.org/zoom-sur-1-lassociation-locusta-et-le-referentiel-des-orthopteres-daquitaine/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Mon, 17 Jan 2022 06:57:16 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Organisations - associations]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=2765</guid>
-
-					<description><![CDATA[L&#8217;association LOCUSTA (groupe d&#8217;étude des orthoptères et des invertébrés d&#8217;Aquitaine) a été créée en 2014. Son territoire d&#8217;action couvre les cinq départements de l&#8217;ancienne région Aquitaine : Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques. L&#8217;association vise à rassembler les personnes qui souhaitent œuvrer pour la connaissance et la conservation des arthropodes d&#8217;Aquitaine, tout particulièrement des orthoptères. Elle [&#8230;]]]></description>
 		
 		
 		
