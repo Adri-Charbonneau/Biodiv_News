@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 09 Aug 2023 18:45:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Aug 2023 06:25:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Comment distinguer les Puffins cendré (ou boréal) et de Scopoli ?</title>
+		<link>https://www.ornithomedia.com/pratique/identification/distinguer-puffins-cendre-scopoli-boreal-01430/</link>
+					<comments>https://www.ornithomedia.com/pratique/identification/distinguer-puffins-cendre-scopoli-boreal-01430/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 06:20:00 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Pratique]]></category>
+		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/distinguer-puffins-cendre-scopoli-boreal-01430/</guid>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/identification/distinguer-puffins-cendre-scopoli-boreal-01430/">Comment distinguer les Puffins cendré (ou boréal) et de Scopoli ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/pratique/identification/distinguer-puffins-cendre-scopoli-boreal-01430/">Comment distinguer les Puffins cendré (ou boréal) et de Scopoli ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/distinguer-puffins-cendre-scopoli-boreal-01430/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>La réserve de Cambounet-sur-le-Sor (Tarn), une zone humide « mise en avant » par un Robin à flancs roux</title>
 		<link>https://www.ornithomedia.com/magazine/observer-france/la-reserve-de-cambounet-sur-le-sor-tarn-une-zone-humide-revelee-par-un-robin-a-flancs-roux/</link>
@@ -197,27 +218,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/deux-possibles-jeunes-hirondelles-rustiques-siamoises-trouvees-dans-laube-en-juillet-2023/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Olivier Lequeux : quand faut-il et comment assurer son matériel optique ou photographique ?</title>
-		<link>https://www.ornithomedia.com/magazine/interviews/olivier-lequeux-faut-il-et-comment-assurer-son-materiel-optique-ou-photographique/</link>
-					<comments>https://www.ornithomedia.com/magazine/interviews/olivier-lequeux-faut-il-et-comment-assurer-son-materiel-optique-ou-photographique/#comments</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Wed, 26 Jul 2023 06:20:00 +0000</pubDate>
-				<category><![CDATA[Interviews]]></category>
-		<category><![CDATA[Magazine]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=229975</guid>
-
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/olivier-lequeux-faut-il-et-comment-assurer-son-materiel-optique-ou-photographique/">Olivier Lequeux : quand faut-il et comment assurer son matériel optique ou photographique ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/interviews/olivier-lequeux-faut-il-et-comment-assurer-son-materiel-optique-ou-photographique/">Olivier Lequeux : quand faut-il et comment assurer son matériel optique ou photographique ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/olivier-lequeux-faut-il-et-comment-assurer-son-materiel-optique-ou-photographique/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
 		
 		
 			</item>
