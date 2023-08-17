@@ -12,7 +12,7 @@
 	<atom:link href="http://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>http://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Mon, 24 Jul 2023 15:18:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Aug 2023 15:08:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Congrès 2023 &#8211; Le programme est disponible !</title>
+		<link>http://lashf.org/non-classe/congres-2023-le-programme-est-disponible/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-le-programme-est-disponible</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 15:07:19 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://lashf.org/?p=5774</guid>
+
+					<description><![CDATA[Nous avons le plaisir de vous informer que le programme est désormais disponible ! &#62; Retrouvez-le ici : http://lashf.org/congres/ Et n&#8217;oubliez pas de vous inscrire, vous avez jusqu&#8217;au 15 septembre.]]></description>
+										<content:encoded><![CDATA[<p>Nous avons le plaisir de vous informer que le programme est désormais disponible !</p>
+<p>&gt; Retrouvez-le ici : <a href="http://lashf.org/congres/">http://lashf.org/congres/</a></p>
+<p>Et n&rsquo;oubliez pas de vous inscrire, vous avez jusqu&rsquo;au 15 septembre.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Congrès 2023 &#8211; Ouverture des inscriptions !</title>
 		<link>http://lashf.org/non-classe/congres-2023-ouverture-des-inscriptions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-ouverture-des-inscriptions</link>
 		
@@ -250,35 +268,6 @@
 
 <div class="wp-block-buttons is-content-justification-center">
 <div class="wp-block-button"><a class="wp-block-button__link" href="https://www.europe1.fr/emissions/linterview-de-5h40/biodiversite-quand-les-amphibiens-ne-sont-plus-la-ou-mal-representer-cest-quil-y-a-une-atteinte-a-lenvironnement-4141662?fbclid=IwAR2Th-6ev9MeE-Pxj89-y0fQfWP8KLpGVEZugcWDNlg_himvzLZBZV7y_Bc" target="_blank" rel="noreferrer noopener">(Ré)écouter l&rsquo;émission</a></div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>La SHF recrute un·e chargé·e de mission PNA</title>
-		<link>http://lashf.org/non-classe/la-shf-recrute-un%c2%b7e-charge%c2%b7e-de-mission-pna/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-shf-recrute-un%25c2%25b7e-charge%25c2%25b7e-de-mission-pna</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 23 Sep 2022 11:37:11 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=4681</guid>
-
-					<description><![CDATA[La SHF porte ou contribue à plusieurs Plans Nationaux d’Actions (PNA) en faveur de différentes espèces d’amphibiens ou de reptiles : Animation du PNA Cistude d’Europe et du PNA Lézard ocellé ; Participation à la rédaction du PNA Anomaloglossus et Harttiella (Guyane) ; Accompagnement de l’ONF dans la mise en œuvre des PNA Sonneur à [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>La SHF porte ou contribue à plusieurs Plans Nationaux d’Actions (PNA) en faveur de différentes espèces d’amphibiens ou de reptiles :</p>
-<ul>
-<li>Animation du PNA Cistude d’Europe et du PNA Lézard ocellé ;</li>
-<li>Participation à la rédaction du PNA Anomaloglossus et Harttiella (Guyane) ;</li>
-<li>Accompagnement de l’ONF dans la mise en œuvre des PNA Sonneur à ventre jaune, Crapaud vert et Pélobate brun.</li>
-</ul>
-<p>Dans ce cadre, elle recherche un·e chargé·e de mission qui sera en charge de coordonner le travail autour de ces PNA. L&rsquo;offre d&#8217;emploi est disponible ci-dessous.</p>
-<p>Les candidatures sont attendues pour le <strong>20/10/2022 au plus tard.</strong></p>
-<p></p>
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background" href="http://lashf.org/wp-content/uploads/2022/09/SHF-Offre-demploi-2022-Charg-de-mission-PNA.pdf" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener"><strong>Offre de poste</strong></a></div>
 </div>
 ]]></content:encoded>
 					
