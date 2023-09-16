@@ -12,7 +12,7 @@
 	<atom:link href="http://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>http://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Aug 2023 15:08:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Sep 2023 06:19:00 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Congrès 2023 &#8211; Prolongation des inscriptions !</title>
+		<link>http://lashf.org/non-classe/congres-2023-prolongation-des-inscriptions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-prolongation-des-inscriptions</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Sep 2023 06:18:51 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://lashf.org/?p=5796</guid>
+
+					<description><![CDATA[La clôture des inscriptions est décalée d&#8217;une semaine ! Vous pouvez vous inscrire jusqu&#8217;au 22 septembre. Toutes les informations ici : http://lashf.org/congres/ &#160;]]></description>
+										<content:encoded><![CDATA[<p>La clôture des inscriptions est décalée d&rsquo;une semaine ! <strong>Vous pouvez vous inscrire jusqu&rsquo;au 22 septembre.</strong></p>
+<p>Toutes les informations ici : <a href="http://lashf.org/congres/">http://lashf.org/congres/</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Congrès 2023 &#8211; Le programme est disponible !</title>
 		<link>http://lashf.org/non-classe/congres-2023-le-programme-est-disponible/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-le-programme-est-disponible</link>
 		
@@ -246,29 +264,6 @@
 
 
 <p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Les amphibiens et la SHF à l&#8217;honneur sur Europe 1</title>
-		<link>http://lashf.org/non-classe/les-amphibiens-et-la-shf-a-lhonneur-sur-europe-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=les-amphibiens-et-la-shf-a-lhonneur-sur-europe-1</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 21 Oct 2022 08:28:04 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=4959</guid>
-
-					<description><![CDATA[Notre Président , Claude Miaud, est intervenu dans l&#8217;émission Europe Matin d&#8217;Europe 1 et a répondu aux questions d&#8217;Alexandre Le Mer au sujet du déclin des amphibiens. Pour (ré)écouter l’émission, cliquez sur le lien ci-dessous !  ]]></description>
-										<content:encoded><![CDATA[<p>Notre Président , Claude Miaud, est intervenu dans l&rsquo;émission Europe Matin d&rsquo;Europe 1 et a répondu aux questions d&rsquo;Alexandre Le Mer au sujet du déclin des amphibiens.</p>
-<p>Pour (ré)écouter l’émission, cliquez sur le lien ci-dessous !</p>
-<p> </p>
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.europe1.fr/emissions/linterview-de-5h40/biodiversite-quand-les-amphibiens-ne-sont-plus-la-ou-mal-representer-cest-quil-y-a-une-atteinte-a-lenvironnement-4141662?fbclid=IwAR2Th-6ev9MeE-Pxj89-y0fQfWP8KLpGVEZugcWDNlg_himvzLZBZV7y_Bc" target="_blank" rel="noreferrer noopener">(Ré)écouter l&rsquo;émission</a></div>
-</div>
 ]]></content:encoded>
 					
 		
