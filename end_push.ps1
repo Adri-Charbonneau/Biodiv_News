@@ -1,6 +1,6 @@
 # git and create tag
-git config --local user.email "bi.alive@outlook.fr"
-git config --local user.name "JACK"
+git config --local user.email "101048108+bi-alive@users.noreply.github.com"
+git config --local user.name "github-actions[bot]"
 git add .
 git commit -m "[Bot] Mise à jour $name"
 git push -f
