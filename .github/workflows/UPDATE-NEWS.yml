@@ -18,7 +18,7 @@ jobs:
   Update-news:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@main
       - name: Ascete
         if: always()
         run:  ./ascete.ps1
