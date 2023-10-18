@@ -12,19 +12,40 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 16 Oct 2023 19:56:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Oct 2023 11:54:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 		<item>
+		<title>Observation en Belgique en octobre 2023 de deux Oies de Ross, dont une baguée au Canada</title>
+		<link>https://www.ornithomedia.com/magazine/analyses/observation-en-belgique-en-octobre-2023-de-deux-oies-de-ross-dont-une-baguee-au-canada/</link>
+					<comments>https://www.ornithomedia.com/magazine/analyses/observation-en-belgique-en-octobre-2023-de-deux-oies-de-ross-dont-une-baguee-au-canada/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 06:20:00 +0000</pubDate>
+				<category><![CDATA[Analyses]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=233379</guid>
+
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/analyses/observation-en-belgique-en-octobre-2023-de-deux-oies-de-ross-dont-une-baguee-au-canada/">Observation en Belgique en octobre 2023 de deux Oies de Ross, dont une baguée au Canada</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/analyses/observation-en-belgique-en-octobre-2023-de-deux-oies-de-ross-dont-une-baguee-au-canada/">Observation en Belgique en octobre 2023 de deux Oies de Ross, dont une baguée au Canada</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/analyses/observation-en-belgique-en-octobre-2023-de-deux-oies-de-ross-dont-une-baguee-au-canada/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Le Lierre grimpant, une plante utile pour les oiseaux toute l&#8217;année</title>
 		<link>https://www.ornithomedia.com/pratique/conseils/laissez-lierre-grimper-troncs-pour-aider-oiseaux-02722/</link>
 					<comments>https://www.ornithomedia.com/pratique/conseils/laissez-lierre-grimper-troncs-pour-aider-oiseaux-02722/#comments</comments>
 		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Mon, 16 Oct 2023 19:56:09 +0000</pubDate>
+		<pubDate>Tue, 17 Oct 2023 06:35:53 +0000</pubDate>
 				<category><![CDATA[Conseils]]></category>
 		<category><![CDATA[Pratique]]></category>
 		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/laissez-lierre-grimper-troncs-pour-aider-oiseaux-02722/</guid>
@@ -199,27 +220,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/amenager-son-jardin-pour-oiseaux-00399/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Où et comment observer les labbes sur le lac Léman (France &#8211; Suisse) ?</title>
-		<link>https://www.ornithomedia.com/magazine/voyages/observer-labbes-lac-leman-01464/</link>
-					<comments>https://www.ornithomedia.com/magazine/voyages/observer-labbes-lac-leman-01464/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Sat, 30 Sep 2023 06:30:00 +0000</pubDate>
-				<category><![CDATA[Magazine]]></category>
-		<category><![CDATA[Voyages]]></category>
-		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/observer-labbes-lac-leman-01464/</guid>
-
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/observer-labbes-lac-leman-01464/">Où et comment observer les labbes sur le lac Léman (France &#8211; Suisse) ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a rel="nofollow" href="https://www.ornithomedia.com/magazine/voyages/observer-labbes-lac-leman-01464/">Où et comment observer les labbes sur le lac Léman (France &#8211; Suisse) ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/observer-labbes-lac-leman-01464/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
