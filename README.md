@@ -1,13 +1,13 @@
 # Biodiv News
 
-Aggrégateur RSS de différents sites internet sur le sujet de la biodiversité, science, ... et publication sur : 
+Aggrégateur RSS de différents sites internet sur le sujet de la biodiversité, science, ... et publication sur :
 
- * [Telegram](https://t.me/biodiv_news)
- * [Twitter](https://twitter.com/Biodiv_News)
- * [Mastodon](https://piaille.fr/@Biodiv_News)
- * [Bluesky](https://bsky.app/profile/biodiv-news.bsky.social)
+<a href="https://t.me/biodiv_news"><img src="https://img.shields.io/badge/Biodiv__News-28a5e5.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://piaille.fr/@Biodiv_News"><img src="https://img.shields.io/badge/Biodiv__News-5d53e6.svg?style=for-the-badge&logo=mastodon&logoColor=white"></a>
+<a href="https://twitter.com/Biodiv_News"><img src="https://img.shields.io/badge/Biodiv__News-28a5e5.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://bsky.app/profile/biodiv-news.bsky.social"><img src="https://img.shields.io/badge/Bluesky-Biodiv--News-006bff.svg?style=for-the-badge&logoColor=white"></a> 
 
-
+### Description des sites
 | Nom | Description | Source |
 |:---:|:---:|:---:|
 | **AntArea** | Etude, identification, répartition, localisation des fourmis françaises métropolitaines | https://antarea.fr/ |
