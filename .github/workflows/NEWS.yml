@@ -19,15 +19,15 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@main
-	  
+      
       - name: Antarea
         if: always()
         run:  ./antarea.ps1
 
       #- name: Ar Gaouenn
-       # if: always()
+        #if: always()
         #run: ./ar_gaouenn.ps1
-	  
+	
       - name: Ascete
         if: always()
         run:  ./ascete.ps1
@@ -49,7 +49,7 @@ jobs:
         run: ./faunepaca_publication.ps1
         
       #- name: INPN
-       # if: always()
+        #if: always()
         #run:  ./inpn.ps1
         
       - name: La Pie Bavarde
@@ -57,7 +57,7 @@ jobs:
         run:  ./lapiebavarde.ps1
         
       #- name: LPO Rapaces
-       # if: always()
+        #if: always()
         #run:  ./lporapaces.ps1
         
       - name: Martinia
@@ -85,7 +85,7 @@ jobs:
         run: ./plumedenaturalistes.ps1
 
       #- name: Réseau CEN
-       # if: always()
+        #if: always()
         #run: ./reseau_cen.ps1
 
       - name: SHF
