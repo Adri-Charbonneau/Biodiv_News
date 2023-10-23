@@ -1,17 +1,16 @@
-# git and create tag
+# GIT
 git config --local user.email "github-actions[bot]@users.noreply.github.com"
 git config --local user.name "github-actions[bot]"
 git add .
 git commit -m "[Bot] Mise à jour $name"
 git push -f
 
-# correct characters
+# CORRECTION
 $title = $title -replace '&#233;','é'
 $title = $title -replace '&nbsp;',' '
 $title = $title -replace '&rsquo;',"'"
 
-# post tweet
-## length of tweet
+## length of title for twitter
 if ( $title.Length -ge 110 )
 { 
 	$titletweet = $title.Substring(0, 110)
@@ -33,7 +32,7 @@ $tmtitle = $tmtitle -replace '&','%26'
 $tmlink = $link
 $tmlink = $tmlink -replace '&','%26'
 
-## resume
+## RESUME
 echo "Valeurs de $name :"
 echo "------------------"
 echo "title = $link"
@@ -44,10 +43,23 @@ echo "link = $title"
 echo "tmlink = $tmlink"
 echo "------------------"
 
-## post twitter tweet
+# TELEGRAM
+$tmtext = "Nouvel article de $tmname : $tmtitle - $tmlink"
+$tmtoken = "$env:TELEGRAM"
+$tmchatid = "$env:CHAT_ID"
+Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&text=$tmtext"
+
+# MASTODON
+$mastodonheaders = @{Authorization = "Bearer $env:MASTODON"}
+$mastodonform = @{status = "Nouvel article de $name ! $titletweet
+	
+Lien : $link
+$tags"}
+Invoke-WebRequest -Uri "https://piaille.fr/api/v1/statuses" -Headers $mastodonheaders -Method Post -Form $mastodonform
+
+# TWITTER
 $twitter = (Select-String -Path "config.txt" -Pattern "twitter=(.*)").Matches.Groups[1].Value
-if ( $twitter -eq "y" )
-{
+if ( $twitter -eq "y" ) {
 	Install-Module PSTwitterAPI -Force
 	Import-Module PSTwitterAPI
 	$OAuthSettings = @{
@@ -64,17 +76,3 @@ if ( $twitter -eq "y" )
 	$tags
 	"
 }
-
-# send telegram notification
-$tmtext = "Nouvel article de $tmname : $tmtitle - $tmlink"
-$tmtoken = "$env:TELEGRAM"
-$tmchatid = "$env:CHAT_ID"
-Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&text=$tmtext"
-
-# post mastodon toot
-$mastodonheaders = @{Authorization = "Bearer $env:MASTODON"}
-$mastodonform = @{status = "Nouvel article de $name ! $titletweet
-	
-	Lien : $link
-	$tags"}
-Invoke-WebRequest -Uri "https://piaille.fr/api/v1/statuses" -Headers $mastodonheaders -Method Post -Form $mastodonform
