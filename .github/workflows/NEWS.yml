@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@main
 	  
-	  - name: Antarea
+      - name: Antarea
         if: always()
         run:  ./antarea.ps1
 
