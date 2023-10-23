@@ -76,3 +76,60 @@ if ( $twitter -eq "y" ) {
 	$tags
 	"
 }
+
+## BLUESKY
+$session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
+
+$session_body = @{
+    "identifier" = "$env:BSKY_mail"
+    "password" = "$env:BSKY_pass"
+} | ConvertTo-Json
+
+$session_headers = @{
+    "Content-Type" = "application/json"
+}
+
+$session_response = Invoke-RestMethod -Uri $session_url -Method Post -Headers $session_headers -Body $session_body
+
+## Post message
+$post_url = "https://bsky.social/xrpc/com.atproto.repo.createRecord"
+$token = $session_response.accessJwt
+$did = $session_response.did
+$text = "Nouvel article de $name ! $titletweet
+	
+Lien : $link
+"
+$start = $text.IndexOf($link)
+$end = $start + $link.Length
+
+$post_body = @{
+	"collection" = "app.bsky.feed.post"
+	"repo" = $did
+	"record" = @{
+		"text" = "$text"
+		"`$type" = "app.bsky.feed.post"
+		"createdAt" = Get-Date (Get-Date).ToUniversalTime() -UFormat '+%Y-%m-%dT%H:%M:%S.000Z'
+		"facets" = @( 
+			@{
+				"index" = @{
+					"byteStart" = $start
+					"byteEnd" = $end
+				}
+				"features" = @(
+					@{
+						"`$type" = "app.bsky.richtext.facet#link"
+						"uri" = "$link"
+					}
+				)
+			}
+		)
+	}
+} | ConvertTo-Json -Depth 5
+
+$post_headers = @{
+	"Authorization" = "Bearer $token"
+    "Content-Type" = "application/json"
+}
+
+# Envoi de la requête POST
+Invoke-RestMethod -Uri $post_url -Method Post -Headers $post_headers -Body $post_body
