@@ -18,7 +18,18 @@
         <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
-        </skipDays>               
+        </skipDays>
+
+        <item>
+                    <title>De nouvelles données d’observation d’espèces sont accessibles sur OpenObs</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15163/de-nouvelles-donnees-d-observation-d-especes-sont-accessibles-sur-openobs</link>
+                    <description>
+                        &#034;Plus de 6 millions de nouvelles données sont mises à disposition de tous grâce à la mobilisation des réseaux de partenaires dans le cadre du SINP&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15163/</guid>        
+                    <pubDate>    
+                        Fri, 20 Oct 2023 12:44:34 +0200</pubDate>            
+               </item>                
             <item>
                     <title>Plus de 3,1 millions de données CardObs diffusées sur l’INPN en septembre 2023</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15162/plus-de-31-millions-de-donnees-cardobs-diffusees-sur-l-inpn-en-septembre-2023</link>
