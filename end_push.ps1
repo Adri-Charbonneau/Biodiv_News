@@ -78,6 +78,15 @@ if ( $twitter -eq "y" ) {
 }
 
 ## BLUESKY
+# suppression des accents en attendant une meilleure solution
+function Remove-StringLatinCharacters
+{
+    PARAM ([string]$String)
+    [Text.Encoding]::ASCII.GetString([Text.Encoding]::GetEncoding("Cyrillic").GetBytes($String))
+}
+
+$bsky_title = Remove-StringLatinCharacters -String $titletweet
+
 $session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
 
 $session_body = @{
@@ -95,7 +104,7 @@ $session_response = Invoke-RestMethod -Uri $session_url -Method Post -Headers $s
 $post_url = "https://bsky.social/xrpc/com.atproto.repo.createRecord"
 $token = $session_response.accessJwt
 $did = $session_response.did
-$text = "Nouvel article de $name ! $titletweet
+$text = "Nouvel article de $name ! $bsky_title
 	
 Lien : $link
 "
