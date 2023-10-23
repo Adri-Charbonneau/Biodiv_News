@@ -19,94 +19,95 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@main
+	  
+	  - name: Antarea
+        if: always()
+        run:  ./antarea.ps1
+
+      #- name: Ar Gaouenn
+       # if: always()
+        #run: ./ar_gaouenn.ps1
+	  
       - name: Ascete
         if: always()
         run:  ./ascete.ps1
-        
-      - name: Naturae
-        if: always()
-        run:  ./naturae.ps1
-        
-      - name: Antarea
-        if: always()
-        run:  ./antarea.ps1
-        
-      - name: Zoom-Nature
-        if: always()
-        run:  ./zoom-nature.ps1
-        
-      - name: Martinia
-        if: always()
-        run:  ./martinia.ps1
-        
-      #- name: INPN
-       # if: always()
-        #run:  ./inpn.ps1
-        
-      #- name: UICN-FR
-        #if: always()
-        #run:  ./uicnfr.ps1
-        
-      - name: Faune-France
-        if: always()
-        run:  ./faune-france.ps1
-        
-      - name: La Pie Bavarde
-        if: always()
-        run:  ./lapiebavarde.ps1
         
       - name: CRBPO
         if: always()
         run:  ./crbpoinfo.ps1
         
-      - name: SHF
+      - name: Faune-France
         if: always()
-        run:  ./shf.ps1
-        
-      - name: Ornithomedia
-        if: always()
-        run:  ./ornithomedia.ps1
-        
-      - name: Oiseaux de France
-        if: always()
-        run:  ./odf.ps1
-        
-      - name: VigiNature
-        if: always()
-        run:  ./viginature.ps1
-        
-      #- name: LPO Rapaces
-       # if: always()
-        #run:  ./lporapaces.ps1
-
-      - name: Plume de Naturalistes
-        if: always()
-        run: ./plumedenaturalistes.ps1
-
-      - name: Nature France
-        if: always()
-        run: ./naturefrance.ps1
-
-      - name: Tour du Valat
-        if: always()
-        run: ./tourduvalat.ps1
-
-      - name: Faune-PACA Publication
-        if: always()
-        run: ./faunepaca_publication.ps1
+        run:  ./faune-france.ps1
 
       - name: Faune & Nature
         if: always()
         run: ./faunenature.ps1
 
+      - name: Faune-PACA Publication
+        if: always()
+        run: ./faunepaca_publication.ps1
+        
+      #- name: INPN
+       # if: always()
+        #run:  ./inpn.ps1
+        
+      - name: La Pie Bavarde
+        if: always()
+        run:  ./lapiebavarde.ps1
+        
+      #- name: LPO Rapaces
+       # if: always()
+        #run:  ./lporapaces.ps1
+        
+      - name: Martinia
+        if: always()
+        run:  ./martinia.ps1
+        
+      - name: Naturae
+        if: always()
+        run:  ./naturae.ps1
+
+      - name: Nature France
+        if: always()
+        run: ./naturefrance.ps1
+        
+      - name: Oiseaux de France
+        if: always()
+        run:  ./odf.ps1
+        
+      - name: Ornithomedia
+        if: always()
+        run:  ./ornithomedia.ps1
+
+      - name: Plume de Naturalistes
+        if: always()
+        run: ./plumedenaturalistes.ps1
+
       #- name: Réseau CEN
        # if: always()
         #run: ./reseau_cen.ps1
 
-      #- name: Ar Gaouenn
-       # if: always()
-        #run: ./ar_gaouenn.ps1
+      - name: SHF
+        if: always()
+        run:  ./shf.ps1
+
+      - name: Tour du Valat
+        if: always()
+        run: ./tourduvalat.ps1
+   
+      #- name: UICN-FR
+        #if: always()
+        #run:  ./uicnfr.ps1
+
+      - name: VigiNature
+        if: always()
+        run:  ./viginature.ps1
 
       - name: Xeno-Canto
         if: always()
         run: ./xeno-canto.ps1
+        
+      - name: Zoom-Nature
+        if: always()
+        run:  ./zoom-nature.ps1
