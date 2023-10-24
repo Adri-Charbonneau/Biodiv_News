@@ -59,7 +59,8 @@ echo "tmlink = $tmlink"
 echo "------------------"
 
 # TELEGRAM
-$tmtext = "**$tmname** : $tmtitle \\- $tmlink"
+$tmtext = "**$tmname** \- $tmtitle
+$tmlink"
 $tmtoken = "$env:TELEGRAM"
 $tmchatid = "$env:CHAT_ID"
 Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&parse_mode=MarkdownV2&text=$tmtext"
