@@ -59,7 +59,7 @@ echo "tmlink = $tmlink"
 echo "------------------"
 
 # TELEGRAM
-$tmtext = "**$tmname** \- $tmtitle
+$tmtext = "**$tmname** : $tmtitle
 $tmlink"
 $tmtoken = "$env:TELEGRAM"
 $tmchatid = "$env:CHAT_ID"
