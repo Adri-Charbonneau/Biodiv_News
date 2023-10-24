@@ -2,9 +2,9 @@
 
 Aggrégateur RSS de différents sites internet sur le sujet de la biodiversité, science, ... et publication sur :
 
-<a href="https://t.me/biodiv_news"><img src="https://img.shields.io/badge/Biodiv__News-28a5e5.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/biodiv_news"><img src="https://img.shields.io/badge/Biodiv__News-2799d1.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://piaille.fr/@Biodiv_News"><img src="https://img.shields.io/badge/Biodiv__News-5d53e6.svg?style=for-the-badge&logo=mastodon&logoColor=white"></a>
-<a href="https://twitter.com/Biodiv_News"><img src="https://img.shields.io/badge/Biodiv__News-28a5e5.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://twitter.com/Biodiv_News"><img src="https://img.shields.io/badge/Biodiv__News-1c9ceb.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://bsky.app/profile/biodiv-news.bsky.social"><img src="https://img.shields.io/badge/Bluesky-Biodiv--News-006bff.svg?style=for-the-badge&logoColor=white"></a> 
 
 ### Description des sites
