@@ -59,11 +59,11 @@ echo "tmlink = $tmlink"
 echo "------------------"
 
 # TELEGRAM
-$tmtext = "**$tmname** : $tmtitle
+$tmtext = "[$tmname] - $tmtitle
 $tmlink"
 $tmtoken = "$env:TELEGRAM"
 $tmchatid = "$env:CHAT_ID"
-Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&parse_mode=MarkdownV2&text=$tmtext"
+Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&text=$tmtext"
 
 # MASTODON
 $mastodonheaders = @{Authorization = "Bearer $env:MASTODON"}
