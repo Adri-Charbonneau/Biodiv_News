@@ -10,13 +10,23 @@ $title = $title -replace '&#233;','é'
 $title = $title -replace '&nbsp;',' '
 $title = $title -replace '&rsquo;',"'"
 
-## length of title for twitter
+## length of title for Twitter
 if ( $title.Length -ge 110 )
 { 
 	$titletweet = $title.Substring(0, 110)
 	$titletweet = -join($titletweet,"...")
 	}else{
 	$titletweet = $title
+}
+
+## length of title for Bluesky
+if ( ($title.Length + $link.Length + 11) -ge 300 ) #11 = others characters in $text
+{ 
+	$other_length = 300 - ($link.Length + 11)
+	$title_blue = $title.Substring(0, $other_length)
+	$title_blue = -join($title_blue,"...")
+	}else{
+	$title_blue = $title
 }
 
 ## replace character
@@ -35,11 +45,11 @@ $tmlink = $tmlink -replace '&','%26'
 ## RESUME
 echo "Valeurs de $name :"
 echo "------------------"
-echo "title = $link"
+echo "title = $title"
 echo "tmtitle = $tmtitle"
 echo "titletweet = $titletweet"
 echo "------------------"
-echo "link = $title"
+echo "link = $link"
 echo "tmlink = $tmlink"
 echo "------------------"
 
@@ -85,7 +95,7 @@ function Remove-StringLatinCharacters
     [Text.Encoding]::ASCII.GetString([Text.Encoding]::GetEncoding("Cyrillic").GetBytes($String))
 }
 
-$bsky_title = Remove-StringLatinCharacters -String $titletweet
+$bsky_title = Remove-StringLatinCharacters -String $title_blue
 
 $session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
 
