@@ -20,9 +20,9 @@ if ( $title.Length -ge 110 )
 }
 
 ## length of title for Bluesky
-if ( ($title.Length + $link.Length + 11) -ge 300 ) #11 = others characters in $text
+if ( ($name.Length + $title.Length + $link.Length + 35) -ge 300 ) #35 = others characters in $text
 { 
-	$other_length = 300 - ($link.Length + 11)
+	$other_length = 300 - ($name.Length + $link.Length + 35)
 	$title_blue = $title.Substring(0, $other_length)
 	$title_blue = -join($title_blue,"...")
 	}else{
@@ -48,6 +48,7 @@ echo "------------------"
 echo "title = $title"
 echo "tmtitle = $tmtitle"
 echo "titletweet = $titletweet"
+echo "title_blue = $title_blue"
 echo "------------------"
 echo "link = $link"
 echo "tmlink = $tmlink"
