@@ -6,9 +6,13 @@ git commit -m "[Bot] Mise à jour $name"
 git push -f
 
 # CORRECTION
+## Title
 $title = $title -replace '&#233;','é'
 $title = $title -replace '&nbsp;',' '
 $title = $title -replace '&rsquo;',"'"
+
+## Link
+$link = $link -replace "\/\?utm(.*?)$"
 
 ## length of title for Twitter
 if ( $title.Length -ge 110 )
