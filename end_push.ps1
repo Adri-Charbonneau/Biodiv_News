@@ -24,9 +24,9 @@ if ( $title.Length -ge 110 )
 }
 
 ## length of title for Bluesky
-if ( ($name.Length + $title.Length + $link.Length + 35) -ge 300 ) #35 = others characters in $text
+if ( ($name.Length + $title.Length + $link.Length + 10) -ge 300 ) #10 = others characters in $text
 { 
-	$other_length = 300 - ($name.Length + $link.Length + 35)
+	$other_length = 300 - ($name.Length + $link.Length + 10)
 	$title_blue = $title.Substring(0, $other_length)
 	$title_blue = -join($title_blue,"...")
 	}else{
@@ -59,10 +59,10 @@ echo "tmlink = $tmlink"
 echo "------------------"
 
 # TELEGRAM
-$tmtext = "Nouvel article de $tmname : $tmtitle - $tmlink"
+$tmtext = "**$tmname** : $tmtitle - $tmlink"
 $tmtoken = "$env:TELEGRAM"
 $tmchatid = "$env:CHAT_ID"
-Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&text=$tmtext"
+Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&parse_mode=MarkdownV2&text=$tmtext"
 
 # MASTODON
 $mastodonheaders = @{Authorization = "Bearer $env:MASTODON"}
@@ -84,7 +84,7 @@ if ( $twitter -eq "y" ) {
 		AccessTokenSecret = "$env:PST_TOKEN_SECRET"
 	}
 	Set-TwitterOAuthSettings @OAuthSettings
-	Send-TwitterStatuses_Update -status "Nouvel article de $name ! $titletweet
+	Send-TwitterStatuses_Update -status "[$name] - $titletweet
 	
 	Lien : $link
 	$accounts
@@ -119,10 +119,9 @@ $session_response = Invoke-RestMethod -Uri $session_url -Method Post -Headers $s
 $post_url = "https://bsky.social/xrpc/com.atproto.repo.createRecord"
 $token = $session_response.accessJwt
 $did = $session_response.did
-$text = "Nouvel article de $name ! $bsky_title
-	
-Lien : $link
-"
+$text = "[$name] - $bsky_title
+$link"
+
 $start = $text.IndexOf($link)
 $end = $start + $link.Length
 
