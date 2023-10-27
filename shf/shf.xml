@@ -12,13 +12,13 @@
 	<atom:link href="http://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>http://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 16 Sep 2023 06:19:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Oct 2023 12:37:42 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.9</generator>
+	<generator>https://wordpress.org/?v=5.7.10</generator>
 
 <image>
 	<url>http://lashf.org/wp-content/uploads/2019/10/cropped-LOGO_SHF_detoure_vf-32x32.png</url>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Offre d&#8217;emploi &#8211; La SHF recherche un·e géomaticien·ne</title>
+		<link>http://lashf.org/non-classe/offre-demploi-la-shf-recherche-un%c2%b7e-geomaticien%c2%b7ne/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=offre-demploi-la-shf-recherche-un%25c2%25b7e-geomaticien%25c2%25b7ne</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 12:35:51 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://lashf.org/?p=5882</guid>
+
+					<description><![CDATA[Dans le cadre de la convention que la SHF partage avec PatriNat, et de la stratégie de validation des données herpétologiques à l’échelle nationale, la SHF souhaite recruter un·e géomaticien·ne pour le développement, la maintenance de la base de données SHF administrée sous GeoNature et la valorisation des informations produites par l’ensemble des salarié.es. Il/elle [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Dans le cadre de la convention que la SHF partage avec PatriNat, et de la stratégie de validation des données herpétologiques à l’échelle nationale, la SHF souhaite recruter un·e géomaticien·ne pour le développement, la maintenance de la base de données SHF administrée sous GeoNature et la valorisation des informations produites par l’ensemble des salarié.es. Il/elle sera également en charge de gérer les données protocolées compilées par la SHF dans le cadre du programme national de surveillance des amphibiens et des reptiles de France.</p>
+
+
+
+<p><strong>Pour en savoir plus sur les missions et les conditions d&#8217;emploi, téléchargez l&rsquo;offre d&#8217;emploi ci-dessous ! Envoyez-nous votre candidature au plus tard le 1/12/2023 à l&rsquo;adresse : recrutement@lashf.org</strong></p>
+
+
+
+<h4 class="has-text-align-center"><a rel="noreferrer noopener" href="http://lashf.org/wp-content/uploads/2023/10/SHF_geomaticien.pdf" target="_blank"><strong><span style="color:#5c8727" class="has-inline-color"><i class="fas fa-download " ></i> Télécharger l&rsquo;offre d&#8217;emploi</span></strong></a></h4>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Congrès 2023 &#8211; Prolongation des inscriptions !</title>
 		<link>http://lashf.org/non-classe/congres-2023-prolongation-des-inscriptions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-prolongation-des-inscriptions</link>
 		
@@ -237,33 +266,6 @@
 <div class="wp-block-buttons is-content-justification-center">
 <div class="wp-block-button"><a class="wp-block-button__link has-background" href="http://lashf.org/wp-content/uploads/2022/10/Bulletin_souscription-Atlas_Amphibiens_Loiret.pdf" style="background-color:#5c8727"><strong>Bulletin de souscription</strong></a></div>
 </div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Publication d&#8217;un outil d&#8217;aide à l&#8217;identification de l&#8217;herpétofaune de Martinique</title>
-		<link>http://lashf.org/non-classe/publication-dun-outil-daide-a-lidentification-de-lherpetofaune-de-martinique/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=publication-dun-outil-daide-a-lidentification-de-lherpetofaune-de-martinique</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 26 Oct 2022 07:51:28 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=4997</guid>
-
-					<description><![CDATA[La SHF a lancé il y a plusieurs mois le projet CLEF, dont l&#8217;objectif est de proposer un ensemble d’outils d’aide à l’identification des amphibiens et des reptiles de France métropolitaine et des territoires d&#8217;Outre-mer. Ces outils formeront une collection Good ID (Bonne IDentification) ayant pour objectif d’améliorer la qualité des données saisies par les [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>La SHF a lancé il y a plusieurs mois le projet CLEF, dont l&rsquo;objectif est de proposer un ensemble d’outils d’aide à l’identification des amphibiens et des reptiles de France métropolitaine et des territoires d&rsquo;Outre-mer. Ces outils formeront une collection Good ID (Bonne IDentification) ayant pour objectif d’améliorer la qualité des données saisies par les observateurs. Des clefs d&rsquo;identification détaillées et illustrées seront publiées gratuitement au format numérique dans notre revue HERP me !. Elles s&rsquo;accompagneront d&rsquo;un « Petit guide illustré des amphibiens et reptiles », présenté sous la forme d’un mémo adapté aux smartphones.</p>
-<p>La première collection est consacrée aux Antilles françaises : La Martinique, La Guadeloupe et ses dépendances, Saint-Barthélemy et Saint-Martin, et bénéficie du soutien financier de l&rsquo;OFB.</p>
-<p>Nous avons le plaisir de vous annoncer aujourd&rsquo;hui la parution du <strong>Petit Guide illustré des amphibiens et reptiles de Martinique</strong>. Vous pouvez le retrouver sur la page dédiée à notre revue HERP me !.</p>
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link has-background" href="http://lashf.org/herp-me/" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener"><strong>Aller sur la page de la revue HERP me !</strong></a></div>
-</div>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		
