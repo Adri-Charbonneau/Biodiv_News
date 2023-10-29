@@ -67,7 +67,7 @@ Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id
 
 # MASTODON
 $mastodonheaders = @{Authorization = "Bearer $env:MASTODON"}
-$mastodonform = @{status = "[$name] - $titletweet
+$mastodonform = @{status = "[$name] $titletweet
 	
 Lien : $link
 $tags"}
@@ -85,12 +85,12 @@ if ( $twitter -eq "y" ) {
 		AccessTokenSecret = "$env:PST_TOKEN_SECRET"
 	}
 	Set-TwitterOAuthSettings @OAuthSettings
-	Send-TwitterStatuses_Update -status "[$name] - $titletweet
+	Send-TwitterStatuses_Update -status "[$name] $titletweet
 	
-	Lien : $link
-	$accounts
-	$tags
-	"
+Lien : $link
+$accounts
+$tags
+"
 }
 
 ## BLUESKY
@@ -101,6 +101,7 @@ function Remove-StringLatinCharacters
     [Text.Encoding]::ASCII.GetString([Text.Encoding]::GetEncoding("Cyrillic").GetBytes($String))
 }
 
+$bsky_name = Remove-StringLatinCharacters -String $name
 $bsky_title = Remove-StringLatinCharacters -String $title_blue
 
 $session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
@@ -120,7 +121,7 @@ $session_response = Invoke-RestMethod -Uri $session_url -Method Post -Headers $s
 $post_url = "https://bsky.social/xrpc/com.atproto.repo.createRecord"
 $token = $session_response.accessJwt
 $did = $session_response.did
-$text = "[$name] - $bsky_title
+$text = "[$bsky_name] $bsky_title
 $link"
 
 $start = $text.IndexOf($link)
