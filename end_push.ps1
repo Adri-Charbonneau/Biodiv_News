@@ -95,14 +95,14 @@ $tags
 
 ## BLUESKY
 # suppression des accents en attendant une meilleure solution
-function Remove-StringLatinCharacters
-{
-    PARAM ([string]$String)
-    [Text.Encoding]::ASCII.GetString([Text.Encoding]::GetEncoding("Cyrillic").GetBytes($String))
-}
+#function Remove-StringLatinCharacters
+#{
+#    PARAM ([string]$String)
+#    [Text.Encoding]::ASCII.GetString([Text.Encoding]::GetEncoding("Cyrillic").GetBytes($String))
+#}
 
-$bsky_name = Remove-StringLatinCharacters -String $name
-$bsky_title = Remove-StringLatinCharacters -String $title_blue
+#$bsky_name = Remove-StringLatinCharacters -String $name
+#$bsky_title = Remove-StringLatinCharacters -String $title_blue
 
 $session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
 
@@ -152,9 +152,9 @@ $post_body = @{
 } | ConvertTo-Json -Depth 5
 
 $post_headers = @{
-	"Authorization" = "Bearer $token"
-    "Content-Type" = "application/json"
+    "Authorization" = "Bearer $token"
+    "Content-Type" = "application/json;charset=UTF-8"
 }
 
 # Envoi de la requête POST
-Invoke-RestMethod -Uri $post_url -Method Post -Headers $post_headers -Body $post_body
+Invoke-RestMethod -Uri $post_url -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
