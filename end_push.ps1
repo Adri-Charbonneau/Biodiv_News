@@ -153,7 +153,7 @@ $post_body = @{
 
 $post_headers = @{
     "Authorization" = "Bearer $token"
-    "Content-Type" = "application/json;charset=UTF-8"
+    "Content-Type" = "application/json"
 }
 
 # Envoi de la requête POST
