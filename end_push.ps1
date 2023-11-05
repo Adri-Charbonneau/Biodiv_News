@@ -1,11 +1,11 @@
-# GIT
+##### GIT #####
 git config --local user.email "github-actions[bot]@users.noreply.github.com"
 git config --local user.name "github-actions[bot]"
 git add .
 git commit -m "[Bot] Mise à jour $name"
 git push -f
 
-# CORRECTION
+##### CORRECTION #####
 ## Title
 $title = $title -replace '&#233;','é'
 $title = $title -replace '&nbsp;',' '
@@ -58,14 +58,14 @@ echo "link = $link"
 echo "tmlink = $tmlink"
 echo "------------------"
 
-# TELEGRAM
+##### TELEGRAM #####
 $tmtext = "[<b>$tmname</b>] $tmtitle
 $tmlink"
 $tmtoken = "$env:TELEGRAM"
 $tmchatid = "$env:CHAT_ID"
 Invoke-RestMethod -Uri "https://api.telegram.org/bot$tmtoken/sendMessage?chat_id=$tmchatid&parse_mode=html&text=$tmtext"
 
-# MASTODON
+##### MASTODON #####
 $mastodonheaders = @{Authorization = "Bearer $env:MASTODON"}
 $mastodonform = @{status = "[$name] $titletweet
 	
@@ -73,7 +73,7 @@ Lien : $link
 $tags"}
 Invoke-WebRequest -Uri "https://piaille.fr/api/v1/statuses" -Headers $mastodonheaders -Method Post -Form $mastodonform
 
-# TWITTER
+##### TWITTER #####
 $twitter = (Select-String -Path "config.txt" -Pattern "twitter=(.*)").Matches.Groups[1].Value
 if ( $twitter -eq "y" ) {
 	Install-Module PSTwitterAPI -Force
@@ -93,7 +93,7 @@ $tags
 "
 }
 
-## BLUESKY
+##### BLUESKY #####
 
 $session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
 
@@ -108,7 +108,7 @@ $session_headers = @{
 
 $session_response = Invoke-RestMethod -Uri $session_url -Method Post -Headers $session_headers -Body $session_body
 
-## Post message
+## Création du message pour l'API
 $post_url = "https://bsky.social/xrpc/com.atproto.repo.createRecord"
 $token = $session_response.accessJwt
 $did = $session_response.did
@@ -147,5 +147,96 @@ $post_headers = @{
     "Content-Type" = "application/json;charset=UTF-8"
 }
 
-# Envoi de la requête POST
+## Envoi de la requête POST
 Invoke-RestMethod -Uri $post_url -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
+
+##### SITE #####
+## Edition des tags
+$tags = $tags -replace '#',''
+$tags = $tags.Split(' ')
+
+## Fonction de création de token
+function Generate-JWT (
+[Parameter(Mandatory = $True)]
+[ValidateSet("HS256", "HS384", "HS512")]
+$Algorithm = $null,
+[Parameter(Mandatory = $True)]
+$SecretKey = $null
+){
+	
+    $iat = [int][double]::parse((Get-Date -Date $((Get-Date).ToUniversalTime()) -UFormat %s)) # Grab Unix Epoch Timestamp
+	
+    [hashtable]$header = @{alg = $Algorithm; typ = "JWT"}
+    [hashtable]$payload = @{iat = $iat}
+	
+    $headerjson = $header | ConvertTo-Json -Compress
+    $payloadjson = $payload | ConvertTo-Json -Compress
+    
+    $headerjsonbase64 = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes($headerjson)).Split('=')[0].Replace('+', '-').Replace('/', '_')
+    $payloadjsonbase64 = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes($payloadjson)).Split('=')[0].Replace('+', '-').Replace('/', '_')
+	
+    $ToBeSigned = $headerjsonbase64 + "." + $payloadjsonbase64
+	
+    $SigningAlgorithm = switch ($Algorithm) {
+        "HS256" {New-Object System.Security.Cryptography.HMACSHA256}
+        "HS384" {New-Object System.Security.Cryptography.HMACSHA384}
+        "HS512" {New-Object System.Security.Cryptography.HMACSHA512}
+	}
+	
+    $SigningAlgorithm.Key = [System.Text.Encoding]::UTF8.GetBytes($SecretKey)
+    $Signature = [Convert]::ToBase64String($SigningAlgorithm.ComputeHash([System.Text.Encoding]::UTF8.GetBytes($ToBeSigned))).Split('=')[0].Replace('+', '-').Replace('/', '_')
+    
+    $token = "$headerjsonbase64.$payloadjsonbase64.$Signature"
+    $token
+}
+
+## Génération du token + variable d'authentification
+$token = Generate-JWT -Algorithm 'HS512' -SecretKey "$env:BN_API_KEY"
+$auth_header = @{Authorization = "Bearer $token"}
+
+## Vérification du lien
+$data = Invoke-WebRequest -Uri "https://biodivnews.ddns.net/api/v1/links?searchterm=$link" -Headers $auth_header | ConvertFrom-Json
+
+if ([string]::IsNullOrEmpty($data)) {
+	# Création du lien car inexistant
+    Write-Host "Création du lien car inexistant"
+	$post_body = @{
+		"url" = "$link"
+		"title" = "$title"
+		#"description" = ""
+		"private" = "false"
+		"tags" = @(
+			$tags
+		)
+	} | ConvertTo-Json
+	
+	$post_headers = @{
+		"Authorization" = "Bearer $token"
+		"Content-Type" = "application/json;charset=UTF-8"
+	}
+	
+	Invoke-RestMethod -Uri "https://biodivnews.ddns.net/api/v1/links" -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
+	
+	} else {
+	# Mise à jour des détails du lien car existant
+    Write-Host "Mise à jour des détails du lien car existant"
+	
+	$id = $data.id
+	
+	$post_body = @{
+		"url" = "$link"
+		"title" = "$title"
+		#"description" = ""
+		"private" = "false"
+		"tags" = @(
+			$tags
+		)
+	} | ConvertTo-Json
+	
+	$post_headers = @{
+		"Authorization" = "Bearer $token"
+		"Content-Type" = "application/json;charset=UTF-8"
+	}
+	
+	Invoke-RestMethod -Uri "https://biodivnews.ddns.net/api/v1/links/$id" -Method Put -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
+}

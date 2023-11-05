@@ -15,6 +15,7 @@ env:
     PST_TOKEN_SECRET: ${{ secrets.PST_TOKEN_SECRET }}
     BSKY_mail: ${{ secrets.BSKY_mail }}
     BSKY_pass: ${{ secrets.BSKY_pass }}
+    BN_API_KEY: ${{ secrets.BN_API_KEY }}
 
 jobs:
   Update-news:
