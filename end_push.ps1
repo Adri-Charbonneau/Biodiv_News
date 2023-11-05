@@ -94,7 +94,6 @@ $tags
 }
 
 ##### BLUESKY #####
-
 $session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
 
 $session_body = @{
@@ -149,6 +148,9 @@ $post_headers = @{
 
 ## Envoi de la requête POST
 Invoke-RestMethod -Uri $post_url -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
+
+##### ARCHIVE.ORG #####
+Invoke-WebRequest -Uri "https://web.archive.org/save/$link"
 
 ##### SITE #####
 ## Edition des tags
