@@ -2,7 +2,7 @@
 $id = "faune-france"
 $name = "Faune-France"
 $accounts = "@biolovision @LPOFrance"
-$tags ="#faunefrance #biodiversity #ornithology #science"
+$tags ="#faunefrance #biodiversité #ornithologie #science"
 
 # compare two title
 $old = (Get-Content ./$id/$id.json | ConvertFrom-Json).data[0].title

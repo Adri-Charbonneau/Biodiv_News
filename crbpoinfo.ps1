@@ -2,7 +2,7 @@
 $id = "crbpoinfo"
 $name = "CRBPO Info"
 $accounts = "@Le_Museum"
-$tags ="#crbpo #news #biodiversity #science #ornithology"
+$tags ="#crbpo #biodiversité #science #ornithologie"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

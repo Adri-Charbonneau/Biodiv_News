@@ -2,7 +2,7 @@
 $id = "ornithomedia"
 $name = "Ornithomedia"
 $accounts = "@Ornithomedia"
-$tags ="#ornithomedia #news #biodiversity #science #ornithology"
+$tags ="#ornithomedia #biodiversité #science #ornithologie #actualité"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

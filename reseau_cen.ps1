@@ -2,7 +2,7 @@
 $id = "reseau_cen"
 $name = "Réseau CEN"
 $accounts = "@RESEAU_CEN"
-$tags ="#cen #news #biodiversity #science"
+$tags ="#cen #biodiversité #science"
 
 # delete some item
 [xml]$download = (invoke-webrequest -Uri "https://reseau-cen.org/rss").Content

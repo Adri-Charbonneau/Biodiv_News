@@ -2,7 +2,7 @@
 $id = "faunepaca_publication"
 $name = "Faune-PACA Publication"
 $accounts = "@lpo_paca"
-$tags ="#faunepaca #news #biodiversity #science #nature"
+$tags ="#faunepaca #biodiversité #science #nature"
 
 # compare two title
 $old = (Select-String -Path "./$id/$id.txt" -Pattern "(.*)").Matches.Groups[1].Value

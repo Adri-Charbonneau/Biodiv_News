@@ -2,7 +2,7 @@
 $id = "odf"
 $name = "Oiseaux de France"
 $accounts = "@biolovision @LPOFrance"
-$tags ="#oiseauxdefrance #odf #biodiversity #ornithology #science"
+$tags ="#oiseauxdefrance #odf #biodiversité #ornithologie #science"
 
 # download json
 Invoke-WebRequest -Uri "https://oiseauxdefrance.org/_content/fr/actualites" -OutFile "./$id/$id.json"

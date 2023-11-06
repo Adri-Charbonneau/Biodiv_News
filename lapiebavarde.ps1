@@ -2,7 +2,7 @@
 $id = "lapiebavarde"
 $name = "La Pie Bavarde"
 $accounts = ""
-$tags ="#lapiebavarde #news #revue #biodiversity #science #environnement"
+$tags ="#lapiebavarde #revue #biodiversité #science #environnement"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

@@ -2,7 +2,7 @@
 $id = "martinia"
 $name = "Martinia"
 $accounts = ""
-$tags ="#martinia #news #biodiversity #libellules #odonatology"
+$tags ="#martinia #biodiversité #libellules #odonatologie #entomologie"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

@@ -2,7 +2,7 @@
 $id = "tourduvalat"
 $name = "Tour du Valat"
 $accounts = "@tourduvalat"
-$tags ="#tourduvalat #news #biodiversity #science"
+$tags ="#tourduvalat #biodiversité #science"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

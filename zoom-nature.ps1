@@ -2,7 +2,7 @@
 $id = "zoom-nature"
 $name = "Zoom-Nature"
 $accounts = ""
-$tags ="#zoomnature #news #biodiversity #science"
+$tags ="#zoomnature #biodiversité #science #histoirenaturelle"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

@@ -2,7 +2,7 @@
 $id = "uicnfr"
 $name = "UICN France"
 $accounts = "@UICNfrance"
-$tags ="#uicn #news #biodiversity #conservation"
+$tags ="#uicn #biodiversité #conservation"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

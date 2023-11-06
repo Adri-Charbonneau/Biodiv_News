@@ -2,7 +2,7 @@
 $id = "lporapaces"
 $name = "LPO Mission Rapaces"
 $accounts = "@LPOFrance"
-$tags ="#lpo #rapaces #biodiversity #science #birdsofprey"
+$tags ="#lpo #rapaces #biodiversité #science"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

@@ -2,7 +2,7 @@
 $id = "shf"
 $name = "La Société Herpétologique de France"
 $accounts = "@LaSHF_Officiel"
-$tags ="#shf #news #biodiversity #science #herpetology"
+$tags ="#shf #biodiversité #science #herpétologie"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8

@@ -2,7 +2,7 @@
 $id = "viginature"
 $name = "VigieNature"
 $accounts = "@vigienature @Le_Museum"
-$tags ="#viginature #news #biodiversity #science"
+$tags ="#viginature #biodiversité #science"
 
 # compare two title
 [xml]$old_title = Get-Content ./$id/$id.xml -Encoding UTF8
