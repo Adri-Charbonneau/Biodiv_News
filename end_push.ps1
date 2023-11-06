@@ -196,8 +196,9 @@ $SecretKey = $null
 $token = Generate-JWT -Algorithm 'HS512' -SecretKey "$env:BN_API_KEY"
 $auth_header = @{Authorization = "Bearer $token"}
 
-## Vérification du lien
-$data = Invoke-WebRequest -Uri "https://biodivnews.ddns.net/api/v1/links?searchterm=$link" -Headers $auth_header | ConvertFrom-Json
+## Encodage de l'url + Vérification du lien
+$encodeurl = [System.Web.HttpUtility]::UrlEncode($link)
+$data = Invoke-WebRequest -Uri "https://biodivnews.ddns.net/api/v1/links?searchterm=$encodeurl" -Headers $auth_header | ConvertFrom-Json
 
 if ([string]::IsNullOrEmpty($data)) {
 	# Création du lien car inexistant
