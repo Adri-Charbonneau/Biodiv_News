@@ -91,10 +91,10 @@ jobs:
         #if: always()
         #run: ./reseau_cen.ps1
       
-      - name: Société Botanique d'Occitanie
-        if: always()
-        shell: powershell
-        run: ./sbocc.ps1
+      #- name: Société Botanique d'Occitanie
+        #if: always()
+        #shell: powershell
+        #run: ./sbocc.ps1
 
       - name: SHF
         if: always()
