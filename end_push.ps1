@@ -6,13 +6,21 @@ git commit -m "[Bot] Mise à jour $name"
 git push -f
 
 ##### CORRECTION #####
+## Name
+$tmname = $name -replace '&','&amp;'
+
 ## Title
+$title_html = $title # Telegram
+$title = $title -replace "<(.*?)>",""
 $title = $title -replace '&#233;','é'
 $title = $title -replace '&nbsp;',' '
 $title = $title -replace '&rsquo;',"'"
 
-## Link
-$link = $link -replace "\/\?utm(.*?)$"
+$tmtitle = $title_html
+#$tmtitle = $tmtitle -replace '&nbsp;',' '
+$tmtitle = $tmtitle -replace '&','%26'
+#$tmtitle = $tmtitle -replace '<','&lt;'
+#$tmtitle = $tmtitle -replace '>','&gt;'
 
 ## length of title for Twitter
 if ( $title.Length -ge 110 )
@@ -33,15 +41,8 @@ if ( ($name.Length + $title.Length + $link.Length + 10) -ge 300 ) #10 = others c
 	$title_blue = $title
 }
 
-## replace character
-$tmname = $name
-$tmname = $tmname -replace '&','&amp;'
-
-$tmtitle = $title
-#$tmtitle = $tmtitle -replace '&nbsp;',' '
-$tmtitle = $tmtitle -replace '&','%26'
-#$tmtitle = $tmtitle -replace '<','&lt;'
-#$tmtitle = $tmtitle -replace '>','&gt;'
+## Link
+$link = $link -replace "\/\?utm(.*?)$"
 
 $tmlink = $link
 $tmlink = $tmlink -replace '&','%26'
@@ -112,6 +113,7 @@ $post_url = "https://bsky.social/xrpc/com.atproto.repo.createRecord"
 $token = $session_response.accessJwt
 $did = $session_response.did
 $text = "[$name] $title_blue
+
 $link"
 
 $start = $text.IndexOf($link)

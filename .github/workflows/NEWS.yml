@@ -90,6 +90,10 @@ jobs:
       #- name: Réseau CEN
         #if: always()
         #run: ./reseau_cen.ps1
+      
+      - name: SBOCC
+        if: always()
+        run: ./sbocc.ps1
 
       - name: SHF
         if: always()
