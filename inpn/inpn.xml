@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Contribuez à l'inventaire du patrimoine naturel avec vos observations d'habitats</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15181/contribuez-a-l-inventaire-du-patrimoine-naturel-avec-vos-observations-d-habitats</link>
+                    <description>
+                        &#034;Vous souhaitez partager vos données sur les habitats dans le SINP et connaître les outils ? Suivez le guide !&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/referentiel-habitats">Référentiel HabRef - Habitats</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15181/</guid>        
+                    <pubDate>    
+                        Thu, 09 Nov 2023 08:52:56 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>De nouvelles données d’observation d’espèces sont accessibles sur OpenObs</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15163/de-nouvelles-donnees-d-observation-d-especes-sont-accessibles-sur-openobs</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15142/</guid>        
                     <pubDate>    
                         Tue, 17 Oct 2023 09:07:44 +0200</pubDate>            
-               </item>                
-            <item>
-                    <title>Actualisation des fiches génériques des Cahiers d'habitats</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/15161/actualisation-des-fiches-generiques-des-cahiers-d-habitats</link>
-                    <description>
-                        &#034;Une notice générale expliquant la démarche et les concepts, ainsi qu&#039;un premier fascicule consacré aux habitats des eaux douces (UE 3110 à UE 3290) sont désormais disponibles.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/referentiel-habitats">Référentiel Habitats HabRef</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15161/</guid>        
-                    <pubDate>    
-                        Mon, 16 Oct 2023 15:29:00 +0200</pubDate>            
                </item>                
             </channel>
 </rss>
