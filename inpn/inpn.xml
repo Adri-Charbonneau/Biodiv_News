@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>La biodiversité dans les territoires fait peau neuve</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15201/la-biodiversite-dans-les-territoires-fait-peau-neuve</link>
+                    <description>
+                        &#034;Pour faciliter la recherche à toutes les échelles administratives et améliorer l’affichage des résultats, le module de recherche « Biodiversité dans les territoires » et ses pages de résultats évoluent.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/nouveaute-inpn">Nouveauté de l'INPN</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15201/</guid>        
+                    <pubDate>    
+                        Mon, 13 Nov 2023 12:24:05 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Contribuez à l'inventaire du patrimoine naturel avec vos observations d'habitats</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15181/contribuez-a-l-inventaire-du-patrimoine-naturel-avec-vos-observations-d-habitats</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15063/</guid>        
                     <pubDate>    
                         Wed, 18 Oct 2023 14:33:55 +0200</pubDate>            
-               </item>                
-            <item>
-                    <title>Plus d’un million de données d’observation d’espèces transmises par le Pôle Invertébrés Auvergne Rhône-Alpes rejoignent l’INPN</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/15142/plus-d-un-million-de-donnees-d-observation-d-especes-transmises-par-le-pole-invertebres-auvergne-rhone-alpes-rejoignent-l-inpn</link>
-                    <description>
-                        &#034;Le Pôle Invertébrés d’Auvergne-Rhône-Alpes est une démarche animée par l’association Flavia APE qui s’intègre dans le cadre de l’Observatoire régional de la biodiversité.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15142/</guid>        
-                    <pubDate>    
-                        Tue, 17 Oct 2023 09:07:44 +0200</pubDate>            
                </item>                
             </channel>
 </rss>
