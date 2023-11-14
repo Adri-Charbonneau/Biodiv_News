@@ -151,9 +151,6 @@ $post_headers = @{
 ## Envoi de la requête POST
 Invoke-RestMethod -Uri $post_url -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
 
-##### ARCHIVE.ORG #####
-Invoke-WebRequest -Uri "https://web.archive.org/save/$link"
-
 ##### SITE #####
 ## Edition des tags
 $tags = $tags -replace '#',''
@@ -245,3 +242,6 @@ if ([string]::IsNullOrEmpty($data)) {
 	
 	Invoke-RestMethod -Uri "https://biodivnews.ddns.net/api/v1/links/$id" -Method Put -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
 }
+
+##### ARCHIVE.ORG #####
+Invoke-WebRequest -Uri "https://web.archive.org/save/$link"
