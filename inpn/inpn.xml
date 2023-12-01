@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Mises à jour de l’inventaire des Znieff : bilan 2023</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15261/mises-a-jour-de-l-inventaire-des-znieff-bilan-2023</link>
+                    <description>
+                        &#034;En 2023, presque un quart des Znieff existantes ont été actualisées et 55 zones ont été créées&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/znieff">Znieff</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15261/</guid>        
+                    <pubDate>    
+                        Fri, 01 Dec 2023 10:48:31 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Plus de 100 000 nouvelles données d’observations subaquatiques partagées par l’association Les amis de BioObs</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15241/plus-de-100-000-nouvelles-donnees-d-observations-subaquatiques-partagees-par-l-association-les-amis-de-bioobs</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15201/</guid>        
                     <pubDate>    
                         Mon, 13 Nov 2023 12:24:05 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Contribuez à l'inventaire du patrimoine naturel avec vos observations d'habitats</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/15181/contribuez-a-l-inventaire-du-patrimoine-naturel-avec-vos-observations-d-habitats</link>
-                    <description>
-                        &#034;Vous souhaitez partager vos données sur les habitats dans le SINP et connaître les outils ? Suivez le guide !&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/referentiel-habitats">Référentiel HabRef - Habitats</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15181/</guid>        
-                    <pubDate>    
-                        Thu, 09 Nov 2023 08:52:56 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
