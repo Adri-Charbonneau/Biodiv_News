@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Un insecte exotique envahissant détecté grâce à INPN Espèces</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15281/un-insecte-exotique-envahissant-detecte-grace-a-inpn-especes</link>
+                    <description>
+                        &#034;L&#039;Aleurode du citronnier (&lt;i&gt;Aleurocanthus spiniferus&lt;/i&gt;) a été détecté en France hexagonale grâce à une observation transmise via INPN Espèces.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/especes-invasives">Espèces invasives EEE</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15281/</guid>        
+                    <pubDate>    
+                        Wed, 06 Dec 2023 16:58:14 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Mises à jour de l’inventaire des Znieff : bilan 2023</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15261/mises-a-jour-de-l-inventaire-des-znieff-bilan-2023</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15222/</guid>        
                     <pubDate>    
                         Mon, 20 Nov 2023 15:28:20 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>La biodiversité dans les territoires fait peau neuve</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/15201/la-biodiversite-dans-les-territoires-fait-peau-neuve</link>
-                    <description>
-                        &#034;Pour faciliter la recherche à toutes les échelles administratives et améliorer l’affichage des résultats, le module de recherche « Biodiversité dans les territoires » et ses pages de résultats évoluent.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/nouveaute-inpn">Nouveauté de l'INPN</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15201/</guid>        
-                    <pubDate>    
-                        Mon, 13 Nov 2023 12:24:05 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
