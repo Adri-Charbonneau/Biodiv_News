@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>La faune de Corse revisitée : plus de 150 espèces nouvelles pour l’île ajoutées dans l’inventaire du patrimoine naturel</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15301/la-faune-de-corse-revisitee-plus-de-150-especes-nouvelles-pour-l-ile-ajoutees-dans-l-inventaire-du-patrimoine-naturel</link>
+                    <description>
+                        &#034;Dans le cadre du programme d’exploration scientifique La Planète Revisitée, des campagnes d’inventaires de la biodiversité ont été organisées en Corse de 2019 à 2021. Résultat : plus de 3 900 espèces d’arthropodes terrestres recensées, dont 12 espèces sont décrites comme nouvelles pour la science et 148 constituent des premiers signalements pour l’île de Beauté.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15301/</guid>        
+                    <pubDate>    
+                        Fri, 15 Dec 2023 10:56:40 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Un insecte exotique envahissant détecté grâce à INPN Espèces</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15281/un-insecte-exotique-envahissant-detecte-grace-a-inpn-especes</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15221/</guid>        
                     <pubDate>    
                         Tue, 21 Nov 2023 09:49:45 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Comment contribuer à l’inventaire du patrimoine naturel en transmettant vos observations d’espèces</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/15222/comment-contribuer-a-l-inventaire-du-patrimoine-naturel-en-transmettant-vos-observations-d-especes</link>
-                    <description>
-                        &#034;Comment contribuer ? Quelles informations transmettre ? Quel outil utiliser ?  PatriNat propose un guide d’accompagnement pour les acteurs souhaitant partager leurs données d’observation sur les espèces.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15222/</guid>        
-                    <pubDate>    
-                        Mon, 20 Nov 2023 15:28:20 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
