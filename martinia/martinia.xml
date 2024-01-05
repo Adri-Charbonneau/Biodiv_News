@@ -9,27 +9,56 @@
 
 <channel>
 	<title>Martinia</title>
-	<atom:link href="https://www.martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.martinia.insectes.org</link>
+	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Mon, 20 Feb 2023 13:22:54 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Jan 2024 10:42:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.10</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>https://www.martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
+	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
 	<title>Martinia</title>
-	<link>https://www.martinia.insectes.org</link>
+	<link>https://martinia.insectes.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nomenclature française des appendices anaux des imagos et larves d’odonates : pour l’abandon du terme « cercoïdes »</title>
+		<link>https://martinia.insectes.org/nomenclature-francaise-des-appendices-anaux-des-imagos-et-larves-dodonates-pour-labandon-du-terme-cercoides/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Fri, 05 Jan 2024 08:00:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[appendages]]></category>
+		<category><![CDATA[appendices]]></category>
+		<category><![CDATA[cercoid]]></category>
+		<category><![CDATA[cercoïde]]></category>
+		<category><![CDATA[cercus]]></category>
+		<category><![CDATA[cerque]]></category>
+		<category><![CDATA[epiproct]]></category>
+		<category><![CDATA[épiprocte]]></category>
+		<category><![CDATA[French words]]></category>
+		<category><![CDATA[paraproct]]></category>
+		<category><![CDATA[paraprocte]]></category>
+		<category><![CDATA[pièces terminales]]></category>
+		<category><![CDATA[terminalia]]></category>
+		<category><![CDATA[terminologie]]></category>
+		<category><![CDATA[terminology]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4465</guid>
+
+					<description><![CDATA[Auteur(s) :Piney Bertrand &#038; Krieg-Jacquier Régis Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Distribution et éléments d’écologie de Sympetrum depressiusculum (Libellulidae) dans le pays avignonnais (Vaucluse et Bouches-du-Rhône)</title>
-		<link>https://www.martinia.insectes.org/distribution-et-elements-decologie-de-sympetrum-depressiusculum-libellulidae-dans-le-pays-avignonnais-vaucluse-et-bouches-du-rhone/</link>
+		<link>https://martinia.insectes.org/distribution-et-elements-decologie-de-sympetrum-depressiusculum-libellulidae-dans-le-pays-avignonnais-vaucluse-et-bouches-du-rhone/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Mon, 20 Feb 2023 13:22:54 +0000</pubDate>
@@ -54,7 +83,7 @@
 			</item>
 		<item>
 		<title>Première mention d’Aeshna isoceles (Odonata : Aeshnidae) dans le Territoire de Belfort</title>
-		<link>https://www.martinia.insectes.org/premiere-mention-daeshna-isoceles-odonata-aeshnidae-dans-le-territoire-de-belfort/</link>
+		<link>https://martinia.insectes.org/premiere-mention-daeshna-isoceles-odonata-aeshnidae-dans-le-territoire-de-belfort/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Fri, 28 Oct 2022 11:46:17 +0000</pubDate>
@@ -76,7 +105,7 @@
 			</item>
 		<item>
 		<title>Plus de 72 minutes : à propos d’une durée record de ponte immergée chez Coenagrion mercuriale (Odonata : Coenagrionidae)</title>
-		<link>https://www.martinia.insectes.org/plus-de-72-minutes-a-propos-dune-duree-record-de-ponte-immergee-chez-coenagrion-mercuriale-odonata-coenagrionidae/</link>
+		<link>https://martinia.insectes.org/plus-de-72-minutes-a-propos-dune-duree-record-de-ponte-immergee-chez-coenagrion-mercuriale-odonata-coenagrionidae/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Mon, 19 Sep 2022 17:46:26 +0000</pubDate>
@@ -98,7 +127,7 @@
 			</item>
 		<item>
 		<title>Reproduction d’Oxygastra curtisii (Odonata : incertae sedis) sur un étang de pêche de loisir en Bresse (Ain – France)</title>
-		<link>https://www.martinia.insectes.org/reproduction-doxygastra-curtisii-odonata-incertae-sedis-sur-un-etang-de-peche-de-loisir-en-bresse-ain-france/</link>
+		<link>https://martinia.insectes.org/reproduction-doxygastra-curtisii-odonata-incertae-sedis-sur-un-etang-de-peche-de-loisir-en-bresse-ain-france/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Mon, 23 May 2022 18:46:36 +0000</pubDate>
@@ -117,7 +146,7 @@
 			</item>
 		<item>
 		<title>Lestes barbarus en Bourgogne-Franche-Comté : dynamique spatio-temporelle de l’espèce entre 2001 et 2020 et premières mentions d’émergence</title>
-		<link>https://www.martinia.insectes.org/lestes-barbarus-en-bourgogne-franche-comte-dynamique-spatio-temporelle-de-lespece-entre-2001-et-2020-et-premieres-mentions-demergence/</link>
+		<link>https://martinia.insectes.org/lestes-barbarus-en-bourgogne-franche-comte-dynamique-spatio-temporelle-de-lespece-entre-2001-et-2020-et-premieres-mentions-demergence/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Sat, 14 May 2022 13:22:47 +0000</pubDate>
@@ -137,7 +166,7 @@
 			</item>
 		<item>
 		<title>Nouveaux éléments sur la durée du cycle larvaire de Leucorrhinia pectoralis (Charpentier, 1825) en France (Odonata, Anisoptera : Libellulidae)</title>
-		<link>https://www.martinia.insectes.org/nouveaux-elements-sur-la-duree-du-cycle-larvaire-de-leucorrhinia-pectoralis-charpentier-1825-en-france-odonata-anisoptera-libellulidae/</link>
+		<link>https://martinia.insectes.org/nouveaux-elements-sur-la-duree-du-cycle-larvaire-de-leucorrhinia-pectoralis-charpentier-1825-en-france-odonata-anisoptera-libellulidae/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 10:02:59 +0000</pubDate>
@@ -161,7 +190,7 @@
 			</item>
 		<item>
 		<title>Somatochlora arctica (Odonata : Corduliidae) dans le Massif du Morvan : découverte d’une station majeure pour la Bourgogne-Franche-Comté et comparaison avec d’autres stations</title>
-		<link>https://www.martinia.insectes.org/somatochlora-arctica-odonata-corduliidae-dans-le-massif-du-morvan-decouverte-dune-station-majeure-pour-la-bourgogne-franche-comte-et-comparaison-avec-dautres-stations/</link>
+		<link>https://martinia.insectes.org/somatochlora-arctica-odonata-corduliidae-dans-le-massif-du-morvan-decouverte-dune-station-majeure-pour-la-bourgogne-franche-comte-et-comparaison-avec-dautres-stations/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Fri, 28 Jan 2022 13:34:45 +0000</pubDate>
@@ -182,7 +211,7 @@
 			</item>
 		<item>
 		<title>Capacités de dispersion chez Leucorrhinia pectoralis (Charpentier, 1825) erratum (Odonata : Libellulidae)</title>
-		<link>https://www.martinia.insectes.org/capacites-de-dispersion-chez-leucorrhinia-pectoralis-charpentier-1825-erratum-odonata-libellulidae/</link>
+		<link>https://martinia.insectes.org/capacites-de-dispersion-chez-leucorrhinia-pectoralis-charpentier-1825-erratum-odonata-libellulidae/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Fri, 12 Nov 2021 12:42:48 +0000</pubDate>
@@ -203,7 +232,7 @@
 			</item>
 		<item>
 		<title>Liste de référence des Odonates de France métropolitaine</title>
-		<link>https://www.martinia.insectes.org/liste-de-reference-des-odonates-de-france-metropolitaine/</link>
+		<link>https://martinia.insectes.org/liste-de-reference-des-odonates-de-france-metropolitaine/</link>
 		
 		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
 		<pubDate>Fri, 29 Oct 2021 17:13:03 +0000</pubDate>
@@ -211,25 +240,6 @@
 		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4193</guid>
 
 					<description><![CDATA[L’Odonatologie, comme toutes les disciplines des sciences de la nature, est en constante évolution. Les découvertes de nouveaux taxons ou l’observation de taxons sur des aires géographiques où ils n’étaient pas connus, les progrès de la génétique et de la phylogénie imposent la mise à jour régulière des listes d’espèces. Dans ce contexte, l’Opie-odonates a [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Suivi de Leucorrhinia dubia et Somatochlora arctica par relevé des exuvies : résultats sur trois tourbières Auvergnates en 2015 (Odonata : Libellulidae, Corduliidae)</title>
-		<link>https://www.martinia.insectes.org/suivi-de-leucorrhinia-dubia-et-somatochlora-arctica-par-releve-des-exuvies-resultats-sur-trois-tourbieres-auvergnates-en-2015-odonata-libellulidae-corduliidae/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Tue, 13 Jul 2021 09:06:21 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Auvergne]]></category>
-		<category><![CDATA[Exuviae]]></category>
-		<category><![CDATA[Exuvies]]></category>
-		<category><![CDATA[Monitoring]]></category>
-		<category><![CDATA[Suivi]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4090</guid>
-
-					<description><![CDATA[Auteur(s) :Luc Belenguier Numérotation : Type de publication : Article]]></description>
 		
 		
 		
