@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Thu, 10 Aug 2023 08:45:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jan 2024 19:04:33 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Adhésion 2024</title>
+		<link>https://ascete.org/adhesion-2024/</link>
+		
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<pubDate>Wed, 10 Jan 2024 19:04:33 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3395</guid>
+
+					<description><![CDATA[L&#8217;ASCETE vous souhaite une belle année 2024. Les adhésions sont ouvertes. Pour le faire en ligne sur Hello Asso, veuillez cliquer sur le lien ci dessous. via HelloAsso Vous pouvez également régler votre cotisation par virement ou chèque. Les informations sont disponibles dans le bulletin d&#8217;adhésion en cliquant sur la photo ci-dessous. &#160;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>4ème Congrès européen sur la conservation des Orthoptères (ECOC IV)</title>
 		<link>https://ascete.org/4eme-congre-europeen-sur-la-conservation-des-orthopteres-ecoc-iv/</link>
 		
@@ -161,21 +175,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=2960</guid>
 
 					<description><![CDATA[Dans le bulletin de la SEA (Sociedad Entomológica Aragonesa) de décembre 2021, l&#8217;orthoptériste catalan David Llucià-Pomares décrit un Ephippigerini nouveau pour la science aussi bien par l&#8217;espèce que par le genre. Ce taxon se distingue entre autre par la présence, unique chez les Ephippigerini, de trois dents apicales chez les cerques des mâles. Cette extraordinaire [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bonne année 2022 &#8211; Felice anno nuovo &#8211; Feliç any nou &#8211; Feliz ano novo &#8211; Feliz año nuevo &#8211; Frohes neues Jahr &#8211; Gelukkig nieuwjaar &#8211; Happy new year</title>
-		<link>https://ascete.org/bonne-annee-2022-felice-anno-nuovo-felic-any-nou-feliz-ano-novo-feliz-ano-nuevo-frohes-neues-jahr-gelukkig-nieuwjaar-happy-new-year/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Tue, 18 Jan 2022 06:22:23 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Vie associative de l'Ascete]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=2968</guid>
-
-					<description><![CDATA[J&#8217;ai le plaisir de vous présenter ici les vœux du conseil d&#8217;administration de l&#8217;Ascete pour cette année 2022. Vous trouverez ici le bulletin de liaison contenant les comptes rendus de réunion de la dernière assemblée générale et des derniers conseils d&#8217;administration. Celles et ceux d&#8217;entre vous qui le souhaitent ou qui ne l&#8217;ont pas encore [&#8230;]]]></description>
 		
 		
 		
