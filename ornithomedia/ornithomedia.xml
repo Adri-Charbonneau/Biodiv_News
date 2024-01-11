@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 09 Jan 2024 18:46:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Jan 2024 18:53:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Les oiseaux préfèrent-ils vraiment le tournesol noir au tournesol strié dans les jardins en hiver ?</title>
+		<link>https://www.ornithomedia.com/magazine/etudes/les-oiseaux-granivores-preferent-ils-vraiment-le-tournesol-noir-au-tournesol-strie/</link>
+					<comments>https://www.ornithomedia.com/magazine/etudes/les-oiseaux-granivores-preferent-ils-vraiment-le-tournesol-noir-au-tournesol-strie/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 18:44:34 +0000</pubDate>
+				<category><![CDATA[Études]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=237181</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/les-oiseaux-granivores-preferent-ils-vraiment-le-tournesol-noir-au-tournesol-strie/">Les oiseaux préfèrent-ils vraiment le tournesol noir au tournesol strié dans les jardins en hiver ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/les-oiseaux-granivores-preferent-ils-vraiment-le-tournesol-noir-au-tournesol-strie/">Les oiseaux préfèrent-ils vraiment le tournesol noir au tournesol strié dans les jardins en hiver ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/les-oiseaux-granivores-preferent-ils-vraiment-le-tournesol-noir-au-tournesol-strie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Il faut laisser au maximum les feuilles mortes dans les parcs et les jardins pour les oiseaux</title>
 		<link>https://www.ornithomedia.com/pratique/conseils/souffleurs-feuilles-sont-parfois-nefastes-pour-oiseaux-jardins-01950/</link>
@@ -198,26 +219,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/un-dortoir-de-plus-dun-million-de-pinsons-du-nord-pres-de-langenthal-suisse-en-decembre-2023/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Un possible début de formation d&#8217;une population férale de Tourterelles orientales en Tchéquie</title>
-		<link>https://www.ornithomedia.com/breves/un-possible-debut-dinstallation-dune-population-ferale-de-tourterelles-orientales-en-tchequie/</link>
-					<comments>https://www.ornithomedia.com/breves/un-possible-debut-dinstallation-dune-population-ferale-de-tourterelles-orientales-en-tchequie/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Wed, 27 Dec 2023 08:19:47 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=236401</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-possible-debut-dinstallation-dune-population-ferale-de-tourterelles-orientales-en-tchequie/">Un possible début de formation d&rsquo;une population férale de Tourterelles orientales en Tchéquie</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-possible-debut-dinstallation-dune-population-ferale-de-tourterelles-orientales-en-tchequie/">Un possible début de formation d&rsquo;une population férale de Tourterelles orientales en Tchéquie</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/un-possible-debut-dinstallation-dune-population-ferale-de-tourterelles-orientales-en-tchequie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
