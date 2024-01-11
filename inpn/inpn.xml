@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Plus de 57 000 données sur la macrofaune benthique intègrent l'INPN</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15321/plus-de-57-000-donnees-sur-la-macrofaune-benthique-integrent-l-inpn</link>
+                    <description>
+                        &#034;Fournies par Créocéan et le LECOB, ces données sont issues du projet BADG dont l’objectif est de fusionner les données des études concernant la macrofaune benthique des substrats meubles du Golfe du Lion.&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15321/</guid>        
+                    <pubDate>    
+                        Thu, 11 Jan 2024 11:58:51 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>La faune de Corse revisitée : plus de 150 espèces nouvelles pour l’île ajoutées dans l’inventaire du patrimoine naturel</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15301/la-faune-de-corse-revisitee-plus-de-150-especes-nouvelles-pour-l-ile-ajoutees-dans-l-inventaire-du-patrimoine-naturel</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15241/</guid>        
                     <pubDate>    
                         Mon, 27 Nov 2023 10:43:27 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Alerte rouge pour la flore vasculaire de La Réunion</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/15221/alerte-rouge-pour-la-flore-vasculaire-de-la-reunion</link>
-                    <description>
-                        &#034;Les plantes à fleurs, fougères et lycophytes de La Réunion sont évaluées pour la 2e fois dans le cadre de la Liste rouge nationale des espèces menacées : 41 % des espèces sont aujourd’hui menacées contre 30 % en 2010.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/listes-rouges-especes">Listes rouges</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15221/</guid>        
-                    <pubDate>    
-                        Tue, 21 Nov 2023 09:49:45 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
