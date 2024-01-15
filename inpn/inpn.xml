@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Plus de 3 millions de données transmises via CardObs sont diffusées sur l’INPN</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15322/plus-de-3-millions-de-donnees-transmises-via-cardobs-sont-diffusees-sur-l-inpn</link>
+                    <description>
+                        &#034;Nous remercions vivement l’ensemble des utilisateurs de CardObs pour le partage de leurs observations qui participent à une meilleure connaissance de notre patrimoine naturel !&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15322/</guid>        
+                    <pubDate>    
+                        Mon, 15 Jan 2024 09:52:55 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Plus de 57 000 données sur la macrofaune benthique intègrent l'INPN</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15321/plus-de-57-000-donnees-sur-la-macrofaune-benthique-integrent-l-inpn</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15261/</guid>        
                     <pubDate>    
                         Fri, 01 Dec 2023 10:48:31 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Plus de 100 000 nouvelles données d’observations subaquatiques partagées par l’association Les amis de BioObs</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/15241/plus-de-100-000-nouvelles-donnees-d-observations-subaquatiques-partagees-par-l-association-les-amis-de-bioobs</link>
-                    <description>
-                        &#034;La contribution de BioObs (Base pour l’inventaire des observations subaquatiques) s’élève à plus de 490 000 données d’observation d’espèces de métropole et d’outre-mer.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/inventaires-especes">Inventaires d'espèces</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15241/</guid>        
-                    <pubDate>    
-                        Mon, 27 Nov 2023 10:43:27 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
