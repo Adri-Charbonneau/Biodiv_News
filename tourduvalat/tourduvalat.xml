@@ -12,7 +12,7 @@
 	<atom:link href="https://tourduvalat.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tourduvalat.org</link>
 	<description>Institut de recherche pour la conservation des zones humides méditerranéennes</description>
-	<lastBuildDate>Fri, 02 Feb 2024 11:04:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Feb 2024 09:37:58 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,38 @@
 	1	</sy:updateFrequency>
 	
 	<item>
+		<title>Nouvel article – Large-scale mapping of existing and lost wetlands: Earth Observation data and tools to support restoration in the Sebou and Medjerda river basins</title>
+		<link>https://tourduvalat.org/publications/nouvel-article-large-scale-mapping-of-existing-and-lost-wetlands-earth-observation-data-and-tools-to-support-restoration-in-the-sebou-and-medjerda-river-basins/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nouvel-article-large-scale-mapping-of-existing-and-lost-wetlands-earth-observation-data-and-tools-to-support-restoration-in-the-sebou-and-medjerda-river-basins</link>
+					<comments>https://tourduvalat.org/publications/nouvel-article-large-scale-mapping-of-existing-and-lost-wetlands-earth-observation-data-and-tools-to-support-restoration-in-the-sebou-and-medjerda-river-basins/#respond</comments>
+		
+		<dc:creator><![CDATA[comtdv]]></dc:creator>
+		<pubDate>Tue, 06 Feb 2024 09:36:42 +0000</pubDate>
+				<category><![CDATA[Publications]]></category>
+		<category><![CDATA[bassin Sebou]]></category>
+		<category><![CDATA[Medjerda]]></category>
+		<category><![CDATA[zones humides]]></category>
+		<guid isPermaLink="false">https://tourduvalat.org/?p=40627</guid>
+
+					<description><![CDATA[<p>Cet article a été récemment publié dans la revue Euro-Mediterranean Journal for Environmental Integration. Il dévoile la manière dont les outils d&#8217;Observation de la Terre (OT) peuvent servir à pré-identifier des sites propices à la restauration des zones humides à grande échelle. Cela s&#8217;effectue par la cartographie et la délimitation des habitats humides existants et [&#8230;]</p>
+<p>L’article <a rel="nofollow" href="https://tourduvalat.org/publications/nouvel-article-large-scale-mapping-of-existing-and-lost-wetlands-earth-observation-data-and-tools-to-support-restoration-in-the-sebou-and-medjerda-river-basins/">Nouvel article – Large-scale mapping of existing and lost wetlands: Earth Observation data and tools to support restoration in the Sebou and Medjerda river basins</a> est apparu en premier sur <a rel="nofollow" href="https://tourduvalat.org">Tour du Valat</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Cet article a été récemment publié dans la revue <a href="https://doi.org/10.1007/s41207-023-00443-6" target="_blank" rel="noopener">Euro-Mediterranean Journal for Environmental Integration</a>. Il dévoile la manière dont les outils d&rsquo;Observation de la Terre (OT) peuvent servir à pré-identifier des sites propices à la restauration des zones humides à grande échelle. Cela s&rsquo;effectue par la cartographie et la délimitation des habitats humides existants et disparus, tout en analysant leur utilisation actuelle. De plus, il offre une estimation des efforts requis pour régénérer les zones qui ont subi des altérations ou des pertes.</p>
+<p>Vous pouvez le retrouver sur <a href="https://tourduvalat.centredoc.fr/index.php?lvl=notice_display&id=62531" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://tourduvalat.centredoc.fr/index.php?lvl%3Dnotice_display%26id%3D62437&source=gmail&ust=1701866149848000&usg=AOvVaw2Py7WSONJ4qvQclHupIpT9">le portail documentaire de la Tour du Valat</a>.</p>
+<p>&nbsp;</p>
+<figure id="attachment_40853"  class="wp-caption alignleft"><img class="wp-image-40853 size-medium" src="https://tourduvalat.org/wp-content/uploads/2024/01/Sebou-Basin-Morocco-photo-©O.Belloulid-LPM-300x200.jpg" alt="" width="300" height="200" srcset="https://tourduvalat.org/wp-content/uploads/2024/01/Sebou-Basin-Morocco-photo-©O.Belloulid-LPM-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2024/01/Sebou-Basin-Morocco-photo-©O.Belloulid-LPM-1024x683.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2024/01/Sebou-Basin-Morocco-photo-©O.Belloulid-LPM-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2024/01/Sebou-Basin-Morocco-photo-©O.Belloulid-LPM-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2024/01/Sebou-Basin-Morocco-photo-©O.Belloulid-LPM-120x80.jpg 120w, https://tourduvalat.org/wp-content/uploads/2024/01/Sebou-Basin-Morocco-photo-©O.Belloulid-LPM.jpg 1200w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 300px" /><figcaption class="wp-caption-text"><span>Sebou, Maroc. Photo: © O.Belloulid | LPM</span> </figcaption></figure>
+<p><strong>Résumé:</strong></p>
+<p><i>Les zones humides méditerranéennes sont les écosystèmes les plus riches et les plus productifs de la région et sont essentielles pour l&rsquo;adaptation au changement climatique et l&rsquo;atténuation de ses effets. Cependant, malgré leur importance, elles ont subi une destruction importante au fil du temps. On estime qu’environ la moitié des zones humides naturelles ont disparu depuis les années 1970, et la tendance régionale ne montre aucun signe de ralentissement. Il est donc urgent de mettre en œuvre des solutions concrètes pour préserver les zones humides restantes et restaurer celles qui ont disparu. La disponibilité croissante de données d&rsquo;Observation de la Terre (OT) libres et gratuits a permis de cartographier ces écosystèmes et de suivre leur état et leurs tendances. Dans cet article, nous démontrons comment ces outils peuvent aider à la pré-identification des sites candidats pour la restauration des zones humides à grande échelle, à travers la cartographie et la délimitation des habitats humides existants et perdus, leur usage actuel et l&rsquo;estimation des efforts nécessaires pour recréer ceux ayant été perdus et transformés. L’approche a été testée dans le bassin versant du Sebou, au Maroc, ainsi que celui de la Medjerda, transfrontalier entre l&rsquo;Algérie et la Tunisie. Les produits cartographiques obtenus ont permis d&rsquo;identifier une superficie de zones humides perdues potentiellement restaurables de plus de 7000 km² et 1700 km², dans les deux bassins respectivement. Ces résultats présentent une grande valeur pour la gestion des ressources en eau et l&rsquo;aménagement du territoire car ils peuvent améliorer et aider les efforts de priorisation pour la restauration des zones humides aux échelles locales, nationales et régionale. Ils peuvent servir de données de base pour identifier les sites candidats à la mise en œuvre d&rsquo;actions de restauration des zones humides en tant que Solutions fondées sur la Nature, régénérer leurs habitats et réhabiliter les services écosystémiques qu&rsquo;elles fournissent à la société.</i></p>
+<p>&nbsp;</p>
+<p><strong>Référence bibliographique</strong><em>: </em>Guelmami, A. Large-scale mapping of existing and lost wetlands: Earth Observation data and tools to support restoration in the Sebou and Medjerda river basins. <i>Euro-Mediterr J Environ Integr</i> (2023). <a href="https://doi.org/10.1007/s41207-023-00443-6" target="_blank" rel="noopener">https://doi.org/10.1007/s41207-023-00443-6</a></p>
+<p>L’article <a rel="nofollow" href="https://tourduvalat.org/publications/nouvel-article-large-scale-mapping-of-existing-and-lost-wetlands-earth-observation-data-and-tools-to-support-restoration-in-the-sebou-and-medjerda-river-basins/">Nouvel article – Large-scale mapping of existing and lost wetlands: Earth Observation data and tools to support restoration in the Sebou and Medjerda river basins</a> est apparu en premier sur <a rel="nofollow" href="https://tourduvalat.org">Tour du Valat</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tourduvalat.org/publications/nouvel-article-large-scale-mapping-of-existing-and-lost-wetlands-earth-observation-data-and-tools-to-support-restoration-in-the-sebou-and-medjerda-river-basins/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Jocelyn Champagnon a obtenu son habilitation à diriger des recherches (HDR)</title>
 		<link>https://tourduvalat.org/actualites/jocelyn-champagnon-a-obtenu-son-habilitation-a-diriger-des-recherches/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jocelyn-champagnon-a-obtenu-son-habilitation-a-diriger-des-recherches</link>
 					<comments>https://tourduvalat.org/actualites/jocelyn-champagnon-a-obtenu-son-habilitation-a-diriger-des-recherches/#respond</comments>
@@ -367,47 +399,6 @@ Jean Jalbert est partie prenante dans la gouvernance de diverses organisations, 
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://tourduvalat.org/dossier-newsletter/lusage-de-la-modelisation-numerique-pour-soutenir-les-programmes-de-restauration-et-de-gestion-des-zones-humides-questions-a-annie-fiandrino/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>« Learning from Ospreys » &#8211; par Alan Poole (2023, conférence Heinz Hafner)</title>
-		<link>https://tourduvalat.org/actualites/learning-from-ospreys-par-alan-poole-2023-conference-heinz-hafner/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=learning-from-ospreys-par-alan-poole-2023-conference-heinz-hafner</link>
-					<comments>https://tourduvalat.org/actualites/learning-from-ospreys-par-alan-poole-2023-conference-heinz-hafner/#respond</comments>
-		
-		<dc:creator><![CDATA[mgevrey]]></dc:creator>
-		<pubDate>Fri, 24 Nov 2023 16:59:21 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Evénements]]></category>
-		<category><![CDATA[balbuzard]]></category>
-		<category><![CDATA[biodiversité]]></category>
-		<category><![CDATA[conservation]]></category>
-		<guid isPermaLink="false">https://tourduvalat.org/?p=40347</guid>
-
-					<description><![CDATA[<p>Le cycle de conférences annuelles sur le thème de la biologie de la conservation, initié par la Tour du Valat pour rendre hommage au travail de Heinz Hafner pour la conservation des oiseaux d’eau et des zones humides, a été l’occasion d’accueillir le 9 novembre 2023, Alan Poole. Ornithologue formé à Princeton, Yale et Woods [&#8230;]</p>
-<p>L’article <a rel="nofollow" href="https://tourduvalat.org/actualites/learning-from-ospreys-par-alan-poole-2023-conference-heinz-hafner/">« Learning from Ospreys » &#8211; par Alan Poole (2023, conférence Heinz Hafner)</a> est apparu en premier sur <a rel="nofollow" href="https://tourduvalat.org">Tour du Valat</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Le cycle de conférences annuelles sur le thème de la biologie de la conservation, initié par la Tour du Valat pour rendre hommage au travail de Heinz Hafner pour la conservation des oiseaux d’eau et des zones humides, a été l’occasion d’accueillir le 9 novembre 2023, <strong>Alan Poole</strong>.</p>
-<p>Ornithologue formé à Princeton, Yale et Woods Hole, Alan Poole a mené une longue carrière dans le monde de la recherche et de l&rsquo;édition. Il est un associé du Cornell Lab of Ornithology, membre de l&rsquo;American Ornithological Society et rédacteur en chef récemment retraité de la revue Birds of North America (BNA).</p>
-<p><strong><em>La conférence Heinz Hafner 2023 a été organisée en partenariat avec l&rsquo;association Pro Pandion, à l&rsquo;occasion du 100ème anniversaire de la naissance de Luc Hoffmann</em>.</strong></p>
-<p>Sa conférence intitulée <em>« Learning from Ospreys » </em>est désormais visible ci-dessous en anglais.</p>
-<p><a href="https://vimeo.com/887937274"><img loading="lazy" class="aligncenter wp-image-40382 size-thumbnail" src="https://tourduvalat.org/wp-content/uploads/2023/11/ecran-Video-HH2023-640x362.jpg" alt="" width="640" height="362" srcset="https://tourduvalat.org/wp-content/uploads/2023/11/ecran-Video-HH2023-640x362.jpg 640w, https://tourduvalat.org/wp-content/uploads/2023/11/ecran-Video-HH2023-300x170.jpg 300w, https://tourduvalat.org/wp-content/uploads/2023/11/ecran-Video-HH2023-768x434.jpg 768w, https://tourduvalat.org/wp-content/uploads/2023/11/ecran-Video-HH2023-120x68.jpg 120w, https://tourduvalat.org/wp-content/uploads/2023/11/ecran-Video-HH2023.jpg 996w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 640px" /></a></p>
-<hr />
-<p><em><strong>Résumé : </strong></em><em>The Osprey is a fish-eating bird of prey with a broad, near global distribution, and a dedicated human following in both the professional and citizen science communities. The past half century has given us an unparalleled wealth of information on this charismatic bird, covering a broad range of topics: contaminant impacts, population dynamics, migration, foraging ecology, breeding behavior, and conservation &#8211; to name the most prominent. It seems an appropriate time to step back and assess what we have learned from these many decades of Osprey research.</em></p>
-<p><em>This talk will highlight key findings from European and North American Osprey populations, on both their breeding and wintering grounds, with an emphasis on conservation and on what this bird can tell us about the widely varied habitats that support it. In addition, no look at Ospreys today can fail to spotlight the human connections — how people have nurtured the extraordinary resurgence in Osprey numbers seen in many parts of its range. In an era when many of earth’s natural systems are unraveling, and birds in particular are struggling to maintain numbers, the Osprey “revival” is a phenomenon deserving a closer look.</em></p>
-<hr />
-<h3>Suivez l&rsquo;actualité de la Tour du Valat sur les réseaux sociaux :</h3>
-<ul>
-<li><a href="https://fr-fr.facebook.com/Tour-du-Valat-130643517091392">Facebook de la Tour du Valat</a></li>
-<li><a href="https://twitter.com/TourduValat">Twitter de la Tour du Valat</a></li>
-<li><a href="https://www.instagram.com/tour_du_valat/">Instagram de la Tour du Valat</a></li>
-<li><a href="https://www.linkedin.com/company/tour-du-valat">LinkedIn de la Tour du Valat</a></li>
-</ul>
-<p>L’article <a rel="nofollow" href="https://tourduvalat.org/actualites/learning-from-ospreys-par-alan-poole-2023-conference-heinz-hafner/">« Learning from Ospreys » &#8211; par Alan Poole (2023, conférence Heinz Hafner)</a> est apparu en premier sur <a rel="nofollow" href="https://tourduvalat.org">Tour du Valat</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://tourduvalat.org/actualites/learning-from-ospreys-par-alan-poole-2023-conference-heinz-hafner/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
