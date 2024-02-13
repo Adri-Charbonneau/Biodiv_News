@@ -21,6 +21,16 @@
         </skipDays>
 
         <item>
+                    <title>Pré-Appel à Manifestation d’intérêt : développement et amélioration de la surveillance de la biodiversité terrestre en France</title>
+                    <link>https://inpn.mnhn.fr/actualites/lire/15381/pre-appel-a-manifestation-d-interet-developpement-et-amelioration-de-la-surveillance-de-la-biodiversite-terrestre-en-france</link>
+                    <description>
+                        &#034;À vos agendas : l’OFB lancera en mars 2024 un appel à manifestations d’intérêt pour développer la surveillance de la biodiversité terrestre en France&#034;</description>    
+                    <category domain="https://inpn.mnhn.fr/actualites/categorie/actualites-generales">Actualité générale</category>
+                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15381/</guid>        
+                    <pubDate>    
+                        Tue, 13 Feb 2024 16:30:40 +0100</pubDate>            
+               </item>                
+            <item>
                     <title>Un nouveau cadre pour surveiller l’état de la biodiversité</title>
                     <link>https://inpn.mnhn.fr/actualites/lire/15361/un-nouveau-cadre-pour-surveiller-l-etat-de-la-biodiversite</link>
                     <description>
@@ -59,16 +69,6 @@
                     <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15301/</guid>        
                     <pubDate>    
                         Fri, 15 Dec 2023 10:56:40 +0100</pubDate>            
-               </item>                
-            <item>
-                    <title>Un insecte exotique envahissant détecté grâce à INPN Espèces</title>
-                    <link>https://inpn.mnhn.fr/actualites/lire/15281/un-insecte-exotique-envahissant-detecte-grace-a-inpn-especes</link>
-                    <description>
-                        &#034;L&#039;Aleurode du citronnier (&lt;i&gt;Aleurocanthus spiniferus&lt;/i&gt;) a été détecté en France hexagonale grâce à une observation transmise via INPN Espèces.&#034;</description>    
-                    <category domain="https://inpn.mnhn.fr/actualites/categorie/especes-invasives">Espèces invasives EEE</category>
-                    <guid isPermaLink="false">https://inpn.mnhn.fr/actualites/lire/15281/</guid>        
-                    <pubDate>    
-                        Wed, 06 Dec 2023 16:58:14 +0100</pubDate>            
                </item>                
             </channel>
 </rss>
