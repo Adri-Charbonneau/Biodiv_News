@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 26 Feb 2024 22:09:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Feb 2024 20:29:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Pourquoi le mâle du Merle noir est-il noir ?</title>
+		<link>https://www.ornithomedia.com/magazine/analyses/pourquoi-merle-noir-est-noir-02129/</link>
+					<comments>https://www.ornithomedia.com/magazine/analyses/pourquoi-merle-noir-est-noir-02129/#comments</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Wed, 28 Feb 2024 07:20:00 +0000</pubDate>
+				<category><![CDATA[Analyses]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/pourquoi-merle-noir-est-noir-02129/</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/analyses/pourquoi-merle-noir-est-noir-02129/">Pourquoi le mâle du Merle noir est-il noir ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/analyses/pourquoi-merle-noir-est-noir-02129/">Pourquoi le mâle du Merle noir est-il noir ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/analyses/pourquoi-merle-noir-est-noir-02129/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Découverte en 2023 d&#8217;un nouveau site de nidification du Guillemot du Japon sur une petite île dans la préfecture de Nagasaki</title>
 		<link>https://www.ornithomedia.com/breves/decouverte-en-2023-dun-nouveau-site-de-nidification-du-guillemot-du-japon-sur-une-petite-ile-dans-la-prefecture-de-nagasaki/</link>
@@ -197,27 +218,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/cinq-secteurs-forestiers-du-nord-est-du-bresil-pourraient-accueillir-des-populations-importantes-de-dryades-de-waterton/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Une boîte de conserve fixée au plafond peut servir de support original de nid pour les Hirondelles rustiques</title>
-		<link>https://www.ornithomedia.com/pratique/conseils/une-boite-de-conserve-fixee-au-plafond-peut-servir-de-support-original-de-nid-pour-les-hirondelles-rustiques/</link>
-					<comments>https://www.ornithomedia.com/pratique/conseils/une-boite-de-conserve-fixee-au-plafond-peut-servir-de-support-original-de-nid-pour-les-hirondelles-rustiques/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Sat, 10 Feb 2024 07:48:51 +0000</pubDate>
-				<category><![CDATA[Conseils]]></category>
-		<category><![CDATA[Pratique]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=238228</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/conseils/une-boite-de-conserve-fixee-au-plafond-peut-servir-de-support-original-de-nid-pour-les-hirondelles-rustiques/">Une boîte de conserve fixée au plafond peut servir de support original de nid pour les Hirondelles rustiques</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/conseils/une-boite-de-conserve-fixee-au-plafond-peut-servir-de-support-original-de-nid-pour-les-hirondelles-rustiques/">Une boîte de conserve fixée au plafond peut servir de support original de nid pour les Hirondelles rustiques</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/une-boite-de-conserve-fixee-au-plafond-peut-servir-de-support-original-de-nid-pour-les-hirondelles-rustiques/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
