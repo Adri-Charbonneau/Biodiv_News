@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 27 Feb 2024 20:29:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Feb 2024 20:55:03 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Identifier les oiseaux des jardins et des villes d&#8217;Europe en hiver</title>
+		<link>https://www.ornithomedia.com/pratique/identification/identifier-oiseaux-dans-son-jardin-hiver-00432/</link>
+					<comments>https://www.ornithomedia.com/pratique/identification/identifier-oiseaux-dans-son-jardin-hiver-00432/#comments</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Thu, 29 Feb 2024 07:20:00 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Pratique]]></category>
+		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/identifier-oiseaux-dans-son-jardin-hiver-00432/</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/identifier-oiseaux-dans-son-jardin-hiver-00432/">Identifier les oiseaux des jardins et des villes d&rsquo;Europe en hiver</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/identifier-oiseaux-dans-son-jardin-hiver-00432/">Identifier les oiseaux des jardins et des villes d&rsquo;Europe en hiver</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/identifier-oiseaux-dans-son-jardin-hiver-00432/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Pourquoi le mâle du Merle noir est-il noir ?</title>
 		<link>https://www.ornithomedia.com/magazine/analyses/pourquoi-merle-noir-est-noir-02129/</link>
@@ -199,26 +220,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/le-glaucope-cendre-une-espece-neo-zelandaise-consideree-comme-eteinte-a-peut-etre-ete-vu-en-janvier-2024/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cinq secteurs forestiers du nord-est du Brésil pourraient accueillir des populations « importantes » de Dryades de Waterton</title>
-		<link>https://www.ornithomedia.com/breves/cinq-secteurs-forestiers-du-nord-est-du-bresil-pourraient-accueillir-des-populations-importantes-de-dryades-de-waterton/</link>
-					<comments>https://www.ornithomedia.com/breves/cinq-secteurs-forestiers-du-nord-est-du-bresil-pourraient-accueillir-des-populations-importantes-de-dryades-de-waterton/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Tue, 13 Feb 2024 07:27:37 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=238323</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/cinq-secteurs-forestiers-du-nord-est-du-bresil-pourraient-accueillir-des-populations-importantes-de-dryades-de-waterton/">Cinq secteurs forestiers du nord-est du Brésil pourraient accueillir des populations « importantes » de Dryades de Waterton</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/cinq-secteurs-forestiers-du-nord-est-du-bresil-pourraient-accueillir-des-populations-importantes-de-dryades-de-waterton/">Cinq secteurs forestiers du nord-est du Brésil pourraient accueillir des populations « importantes » de Dryades de Waterton</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/cinq-secteurs-forestiers-du-nord-est-du-bresil-pourraient-accueillir-des-populations-importantes-de-dryades-de-waterton/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
