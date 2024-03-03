@@ -51,9 +51,9 @@ jobs:
         if: always()
         run: ./faunepaca_publication.ps1
 
-      - name: INPN
-        if: always()
-        run:  ./inpn.ps1
+      #- name: INPN
+        #if: always()
+        #run:  ./inpn.ps1
         
       #- name: La Pie Bavarde
         #if: always()
