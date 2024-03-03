@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 10 Jan 2024 19:21:49 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Mar 2024 08:57:47 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rencontres Naturalistes d&#8217;Occitanie (15 au 17/03/2024 à Gruissan)</title>
+		<link>https://ascete.org/rencontres-naturalistes-doccitanie-15-au-17-03-2024-a-gruissan/</link>
+		
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<pubDate>Sun, 03 Mar 2024 08:57:47 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3411</guid>
+
+					<description><![CDATA[La deuxième édition des Rencontres Naturalistes d&#8217;Occitanie se tiendra les 15, 16 et 17 mars 2024 au Palais des Congrès de Gruissan (Aude). Cet évènement est organisé par OcNat, l&#8217;Union des Associations Naturalistes d&#8217;Occitanie, et rassemblera plusieurs centaines de participants professionnels ou amateurs, issus des milieux associatifs, institutionnels, universitaires ou bureau d’études. Ces rencontres seront [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Adhésion 2024 et mise à disposition des publications de l&#8217;association</title>
 		<link>https://ascete.org/adhesion-2024/</link>
 		
@@ -159,22 +173,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3025</guid>
 
 					<description><![CDATA[Créée en 1986, la Société entomologique du Limousin (SEL) œuvre pour la connaissance de l&#8217;entomofaune de cette région et pour la préservation de leurs habitats naturels : elle dresse des inventaires, étudie la biologie et l&#8217;écologie des espèces, centralise les observations, publie des rapports ; elle assure une mission de sensibilisation et d&#8217;éducation en organisant [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Baratia sari Llucia-Pomares, 2021, nouveau genre et nouvelle espèce d&#8217;Ephippigerini découverte en Andorre</title>
-		<link>https://ascete.org/baratia-sari-llucia-pomares-2021-nouveau-genre-et-nouvelle-espece-dephippigerini-decouverte-en-andorre/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Thu, 20 Jan 2022 06:10:40 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Publications]]></category>
-		<category><![CDATA[taxonomie -- taxinomie]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=2960</guid>
-
-					<description><![CDATA[Dans le bulletin de la SEA (Sociedad Entomológica Aragonesa) de décembre 2021, l&#8217;orthoptériste catalan David Llucià-Pomares décrit un Ephippigerini nouveau pour la science aussi bien par l&#8217;espèce que par le genre. Ce taxon se distingue entre autre par la présence, unique chez les Ephippigerini, de trois dents apicales chez les cerques des mâles. Cette extraordinaire [&#8230;]]]></description>
 		
 		
 		
