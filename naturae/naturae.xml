@@ -6,6 +6,14 @@
     <language>fr</language>
      <atom:link href="https://sciencepress.mnhn.fr/fr/periodique/rss/17836/Naturae" rel="self" type="application/rss+xml" />
         	<item>
+		<title><![CDATA[Hommage du conseil national de la Protection de la Nature à Vincent Boullet (1956-2024)]]></title>
+		<link>https://sciencepress.mnhn.fr/fr/periodiques/naturae/2024/5</link>
+		<description><![CDATA[<img src="https://sciencepress.mnhn.fr/sites/default/files/articles/visuels/visuelnaturae2024a5_1.jpg" alt="" height="100" width="200"/><br>Serge MULLER<br><p>Vincent Boullet nous a récemment brutalement quittés le 13 février 2024. Il était membre du Comité scientifique de Naturae dès son origine et a contribué activement à nos travaux. Afin de lui rendre hommage, nous publions, ci-dessous, un texte rédigé par trois de ses collègues du Conseil national de la Protection de la Nature (CNPN) dont il a été Président du Comité permanent de 2015 à 2017 et Président du Groupe de travail Flore, Fonge, Habitats et Conservatoires botaniques nationaux (GT FFH-CBN) du CNPN, de 2019 à 2022.</p><a href="https://sciencepress.mnhn.fr/fr/periodiques/naturae/2024/5" title="Lire la suite">Lire la suite</a>]]></description>
+        <pubDate>Fri, 08 Mar 2024 00:00:00 +0100</pubDate>
+        <dc:creator>sfiguet</dc:creator>
+        <guid isPermaLink="false">26639 at https://sciencepress.mnhn.fr</guid>	
+	</item>
+    	<item>
 		<title><![CDATA[Analyse de la terminologie relative aux plantes vasculaires exogènes : application à l’inventaire des archéophytes et néophytes de France hexagonale]]></title>
 		<link>https://sciencepress.mnhn.fr/fr/periodiques/naturae/2024/4</link>
 		<description><![CDATA[<img src="https://sciencepress.mnhn.fr/sites/default/files/articles/visuels/vignettea4_0.jpg" alt="" height="100" width="200"/><br>Guillaume FRIED, Laurence AFFRE, Arnaud ALBERT, Philippe ANTONETTI, François BRETAGNOLLE, Aurélien CAILLON, Laurent CHABROL, Cyril COTTAZ, Jérôme DAO, Benoît DELANGUE, Fabien DORTEL, Guillaume DECOCQ, Fanny DOMMANGET, Julien GESLIN, Christophe GIROD, Johan GOURVIL, Francis KESSLER, James MOLINA, Yohan PETIT, Fabrice PERRIAT, Jean-Marc TISON, Benoît TOUSSAINT, Jérémie VAN ES, Marc VUILLEMENOT, Véronique ZECH-MATTERNE & Cécile BRUN<br><p>L&rsquo;étude des plantes vasculaires introduites par les humains hors de leur aire de répartition naturelle a généré une terminologie très prolifique qui est souvent devenue absconse et inutilement complexe. Durant les dernières décennies, l&rsquo;écologie des invasions a cherché, au contraire, à replacer les processus d&rsquo;introduction, de naturalisation et d&rsquo;invasion des taxons au sein d&rsquo;un cadre théorique unifié. Dès lors, la terminologie qui décrit le statut d&rsquo;un taxon le long de la séquence introduction-naturalisation-invasion peut être clarifiée et simplifiée. Dans le cadre du projet d&rsquo;inventaire des plantes vasculaires exogènes de France hexagonale, nous proposons de moderniser et d&rsquo;harmoniser la terminologie française avec celle de la littérature internationale en se fondant, autant que possible, sur des processus écologiques. Ce travail a conduit à approfondir des notions telles que néotaxon, ainsi qu&rsquo;à préciser le sens de &laquo;&thinsp;plante invasive&thinsp;&raquo; et de &laquo;&thinsp;plante exotique envahissante&thinsp;&raquo; en fonction des abondances locale (au niveau d&rsquo;une population) et régionale (au niveau d&rsquo;un territoire) et de la prise en compte ou non de leurs impacts. Une terminologie clarifiée devrait aussi permettre aux gestionnaires de mieux cibler et optimiser leurs stratégies de gestion.</p><a href="https://sciencepress.mnhn.fr/fr/periodiques/naturae/2024/4" title="Lire la suite">Lire la suite</a>]]></description>
@@ -396,14 +404,6 @@
         <pubDate>Wed, 28 Apr 2021 00:00:00 +0200</pubDate>
         <dc:creator>sfiguet</dc:creator>
         <guid isPermaLink="false">23093 at https://sciencepress.mnhn.fr</guid>	
-	</item>
-    	<item>
-		<title><![CDATA[Les Psilidae de France (Diptera : Acalyptrata) : checklist  et clés de détermination des genres et des espèces]]></title>
-		<link>https://sciencepress.mnhn.fr/fr/periodiques/naturae/2021/9</link>
-		<description><![CDATA[<img src="https://sciencepress.mnhn.fr/sites/default/files/articles/visuels/vignette_19.jpg" alt="" height="100" width="200"/><br> <br><div>L&rsquo;examen de plus de 1300 spécimens actualise la situation à propos des Diptères de la famille des Psilidae. Une liste de la faune française (continentale) est proposée, accompagnée de clés de détermination illustrées des six genres et des 37 espèces françaises (avec cinq autres espèces potentielles). Pour le genre<em> Chamaepsila</em>, la clé présentée est provisoire. L&rsquo;illustration des pièces génitales du mâle de <em>Chamaepsila villosula</em> est cependant inédite. Quelques éléments d&rsquo;écologie (chorologie et habitats larvaire notamment) des espèces citées sont également détaillés à partir des éléments rassemblés dans la littérature.</div><div>&nbsp;</div><a href="https://sciencepress.mnhn.fr/fr/periodiques/naturae/2021/9" title="Lire la suite">Lire la suite</a>]]></description>
-        <pubDate>Wed, 14 Apr 2021 00:00:00 +0200</pubDate>
-        <dc:creator>sfiguet</dc:creator>
-        <guid isPermaLink="false">23050 at https://sciencepress.mnhn.fr</guid>	
 	</item>
       </channel>
 </rss>
