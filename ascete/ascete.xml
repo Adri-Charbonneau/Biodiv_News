@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Sun, 03 Mar 2024 08:57:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Mar 2024 07:47:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Convocation à l&#8217;Assemblée Générale Ordinaire les 21 et 22 septembre 2024 dans le Vercors</title>
+		<link>https://ascete.org/convocation-a-lassemblee-generale-ordinaire-les-21-et-22-septembre-2024-dans-le-vercors/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2024 07:47:18 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3436</guid>
+
+					<description><![CDATA[L&#8217;Assemblée Générale Ordinaire de l&#8217;Ascete se tiendra cette année le samedi 21 septembre 2024 dans le Vercors, au gîte de Bénevise à Châtillon en Diois. Voici le programme du week-end qui, comme chaque année, fait la part belles aux sorties de terrain : Vendredi 20 septembre 18h : arrivée au gîte Bénevise, 2 rue du [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rencontres Naturalistes d&#8217;Occitanie (15 au 17/03/2024 à Gruissan)</title>
 		<link>https://ascete.org/rencontres-naturalistes-doccitanie-15-au-17-03-2024-a-gruissan/</link>
 		
@@ -158,21 +172,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3035</guid>
 
 					<description><![CDATA[Les 1er et 2 avril 2022, le troisième congrès européen sur la conservation des orthoptères (ECOC III) aura lieu à Leyde (Pays-Bas). Les orthoptéristes sont invités à rejoindre la réunion à Leyde, mais il est également possible d&#8217;y assister en ligne. La participation en ligne est gratuite, mais vous devez vous inscrire. Veuillez consulter les [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zoom sur… (2) la Société entomologique du Limousin et le référentiel des orthoptères du Limousin</title>
-		<link>https://ascete.org/zoom-sur-2-la-societe-entomologique-du-limousin-et-le-referentiel-des-orthopteres-du-limousin/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Fri, 21 Jan 2022 14:29:17 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Organisations - associations]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3025</guid>
-
-					<description><![CDATA[Créée en 1986, la Société entomologique du Limousin (SEL) œuvre pour la connaissance de l&#8217;entomofaune de cette région et pour la préservation de leurs habitats naturels : elle dresse des inventaires, étudie la biologie et l&#8217;écologie des espèces, centralise les observations, publie des rapports ; elle assure une mission de sensibilisation et d&#8217;éducation en organisant [&#8230;]]]></description>
 		
 		
 		
