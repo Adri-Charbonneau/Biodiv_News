@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Fri, 05 Jan 2024 10:42:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2024 17:12:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Premières observations de Sympetrum vulgatum ibericum Ocharan, 1985 (Odonata : Libellulidae) dans les Pyrénées-Atlantiques</title>
+		<link>https://martinia.insectes.org/premieres-observations-de-sympetrum-vulgatum-ibericum-ocharan-1985-odonata-libellulidae-dans-les-pyrenees-atlantiques/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 17:12:26 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[découverte]]></category>
+		<category><![CDATA[discovery]]></category>
+		<category><![CDATA[Distribution]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[French western Pyrenees]]></category>
+		<category><![CDATA[Nouvelle-Aquitaine]]></category>
+		<category><![CDATA[répartition]]></category>
+		<category><![CDATA[sous-espèce]]></category>
+		<category><![CDATA[Southwestern France]]></category>
+		<category><![CDATA[subspecies]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4509</guid>
+
+					<description><![CDATA[Sympetrum vulgatum (Linnaeus, 1758) est un taxon ouest-paléarctique composé de trois sous-espèces : S.&#160;vulgatum vulgatum (Linnaeus, 1758)largement distribué de l&#8217;Europe de l&#8217;Ouest au Japon, S. vulgatum decoloratum (Selys, 1884) en Turquie et Asie centrale et S. vulgatum ibericum (Ocharan, 1985) endémique de la Péninsule ibérique. L&#8217;étude moléculaire de Hinojosa et al. (2017) a confirmé la [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nomenclature française des appendices anaux des imagos et larves d’odonates : pour l’abandon du terme « cercoïdes »</title>
 		<link>https://martinia.insectes.org/nomenclature-francaise-des-appendices-anaux-des-imagos-et-larves-dodonates-pour-labandon-du-terme-cercoides/</link>
 		
@@ -74,7 +98,7 @@
 		<category><![CDATA[stormwater pond]]></category>
 		<category><![CDATA[Sympétrum déprimé]]></category>
 		<category><![CDATA[zone humide artificielle]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4438</guid>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4438</guid>
 
 					<description><![CDATA[Auteur(s) :Durand Eric Numérotation : Type de publication : Article]]></description>
 		
@@ -96,7 +120,7 @@
 		<category><![CDATA[France]]></category>
 		<category><![CDATA[habitat larvaire]]></category>
 		<category><![CDATA[larval habitat]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4407</guid>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4407</guid>
 
 					<description><![CDATA[Aeshna isoceles (O.F. Müller, 1767) est une espèce ouest-paléarctique que l’on trouve depuis l’Europe de l’ouest jusqu’en Asie centrale (Kalkman et al., 2015). Son biotope de prédilection correspond à un milieu stagnant à légèrement courant, bien ensoleillé, riche en végétation, notamment en roselière (Heidemann &#38; Seidenbusch, 2002), préférentiellement à basse altitude en dessous de 600 [&#8230;]]]></description>
 		
@@ -118,7 +142,7 @@
 		<category><![CDATA[reproductive behaviour]]></category>
 		<category><![CDATA[Zygoptera]]></category>
 		<category><![CDATA[Zygoptère]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4387</guid>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4387</guid>
 
 					<description><![CDATA[Trois types de comportements de ponte sont connus chez les Odonates&#160;: (1) la ponte endophytique,&#160; réalisée par tous les Zygoptères et les Anisoptères Aeshnidés, avec insertion des œufs dans des tissus végétaux, morts ou vivants, chez les espèces ayant un ovipositeur, complet et fonctionnel&#160;; (2) la ponte exophytique, réalisée par les Anisoptères des autres familles, [&#8230;]]]></description>
 		
@@ -137,7 +161,7 @@
 		<category><![CDATA[habitat lentique]]></category>
 		<category><![CDATA[lentic habitat]]></category>
 		<category><![CDATA[water supply]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4336</guid>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4336</guid>
 
 					<description><![CDATA[L’habitat larvaire d’Oxygastra curtisii (Dale, 1834), est ordinairement décrit comme des zones lentes des cours d’eau à ripisylve fonctionnelle (avec un système racinaire atteignant l’eau). Toutefois Herbrecht &#38; Dommanget (2006) nous avaient rapporté le cas d’émergence de l’espèce en milieu lentique (lacs, gravières, étangs tourbeux oligotrophes), puis entre autres Doucet (2009) sur un étang du [&#8230;]]]></description>
 		
@@ -157,7 +181,7 @@
 		<category><![CDATA[Exuviae]]></category>
 		<category><![CDATA[Exuvies]]></category>
 		<category><![CDATA[Saône-et-Loire]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4322</guid>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4322</guid>
 
 					<description><![CDATA[Auteur(s) :Doucet Guillaume, Jacquot Perrine &#038; Gayet Philippe Numérotation : Type de publication : Article]]></description>
 		
@@ -181,7 +205,7 @@
 		<category><![CDATA[pond-fishing]]></category>
 		<category><![CDATA[voltinism]]></category>
 		<category><![CDATA[voltinisme]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4302</guid>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4302</guid>
 
 					<description><![CDATA[Le cycle larvaire de Leucorrhinia pectoralis est donné pour deux à trois ans dans la littérature (Boudot et al. 2017, Wildermuth &#38; Martens 2019), mais pourrait être réduit au moins pour une partie d’une population à un an (Brauner, 2006). En 2019, des indices dans le département de l’Ain (région Auvergne-Rhône-Alpes) nous conduisent à supposer [&#8230;]]]></description>
 		
@@ -202,7 +226,7 @@
 		<category><![CDATA[peat bog]]></category>
 		<category><![CDATA[Saône-et-Loire]]></category>
 		<category><![CDATA[tourbière]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4276</guid>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4276</guid>
 
 					<description><![CDATA[Auteur(s) :Itrac-Bruneau Raphaëlle &#038; Doucet Guillaume Numérotation : Type de publication : Article]]></description>
 		
@@ -223,23 +247,9 @@
 		<category><![CDATA[Dispersion]]></category>
 		<category><![CDATA[Distance de vol maximale]]></category>
 		<category><![CDATA[Maximal flying distance]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4220</guid>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4220</guid>
 
 					<description><![CDATA[Une référence concernant le déplacement de plus 100 km d’un mâle de L. pectoralis en Allemagne est citée à plusieurs reprises dans la littérature comme prouvant le déplacement à grande distance de l’espèce, il s’agit de Ott (1989). Grand (2010, p. 164) précise qu’il s’agit d’un «&#160;individu retrouvé à plus de 100 km de son [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Liste de référence des Odonates de France métropolitaine</title>
-		<link>https://martinia.insectes.org/liste-de-reference-des-odonates-de-france-metropolitaine/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Fri, 29 Oct 2021 17:13:03 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://www.martinia.insectes.org/?p=4193</guid>
-
-					<description><![CDATA[L’Odonatologie, comme toutes les disciplines des sciences de la nature, est en constante évolution. Les découvertes de nouveaux taxons ou l’observation de taxons sur des aires géographiques où ils n’étaient pas connus, les progrès de la génétique et de la phylogénie imposent la mise à jour régulière des listes d’espèces. Dans ce contexte, l’Opie-odonates a [&#8230;]]]></description>
 		
 		
 		
