@@ -12,12 +12,32 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Fri, 26 Apr 2024 20:04:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Apr 2024 21:23:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>16ème Festival de la Camargue et du Delta du Rhône (Bouches-du-Rhône) du 8 au 12 mai 2024</title>
+		<link>https://www.ornithomedia.com/breves/16eme-festival-de-la-camargue-et-du-delta-du-rhone-bouches-du-rhone-du-8-au-12-mai-2024/</link>
+					<comments>https://www.ornithomedia.com/breves/16eme-festival-de-la-camargue-et-du-delta-du-rhone-bouches-du-rhone-du-8-au-12-mai-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Sun, 28 Apr 2024 06:20:00 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=241090</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/16eme-festival-de-la-camargue-et-du-delta-du-rhone-bouches-du-rhone-du-8-au-12-mai-2024/">16ème Festival de la Camargue et du Delta du Rhône (Bouches-du-Rhône) du 8 au 12 mai 2024</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/16eme-festival-de-la-camargue-et-du-delta-du-rhone-bouches-du-rhone-du-8-au-12-mai-2024/">16ème Festival de la Camargue et du Delta du Rhône (Bouches-du-Rhône) du 8 au 12 mai 2024</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/16eme-festival-de-la-camargue-et-du-delta-du-rhone-bouches-du-rhone-du-8-au-12-mai-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Découverte en Tanzanie d&#8217;une nouvelle colonie du rare et localisé Tisserin du Ruvu</title>
 		<link>https://www.ornithomedia.com/breves/decouverte-en-tanzanie-dune-nouvelle-colonie-du-rare-et-localise-tisserin-du-ruvu/</link>
@@ -199,27 +219,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/une-femelle-de-pygargue-a-queue-blanche-couve-des-oeufs-doies-cendrees-en-norvege/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Les mystérieux Aras hyacinthes « nains » du Pantanal brésilien</title>
-		<link>https://www.ornithomedia.com/magazine/etudes/les-mysterieux-aras-hyacinthes-nains-du-pantanal-bresilien/</link>
-					<comments>https://www.ornithomedia.com/magazine/etudes/les-mysterieux-aras-hyacinthes-nains-du-pantanal-bresilien/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Sat, 13 Apr 2024 06:20:00 +0000</pubDate>
-				<category><![CDATA[Études]]></category>
-		<category><![CDATA[Magazine]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=240560</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/les-mysterieux-aras-hyacinthes-nains-du-pantanal-bresilien/">Les mystérieux Aras hyacinthes « nains » du Pantanal brésilien</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/les-mysterieux-aras-hyacinthes-nains-du-pantanal-bresilien/">Les mystérieux Aras hyacinthes « nains » du Pantanal brésilien</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/les-mysterieux-aras-hyacinthes-nains-du-pantanal-bresilien/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
