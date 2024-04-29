@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Fri, 26 Apr 2024 21:23:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Apr 2024 21:14:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Aurélie Torres (LPO) : recenser les Râles des genêts « montagnards » méconnus des Alpes méridionales françaises</title>
+		<link>https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/</link>
+					<comments>https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/#respond</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 21:12:37 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=241179</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/">Aurélie Torres (LPO) : recenser les Râles des genêts « montagnards » méconnus des Alpes méridionales françaises</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/">Aurélie Torres (LPO) : recenser les Râles des genêts « montagnards » méconnus des Alpes méridionales françaises</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>16ème Festival de la Camargue et du Delta du Rhône (Bouches-du-Rhône) du 8 au 12 mai 2024</title>
 		<link>https://www.ornithomedia.com/breves/16eme-festival-de-la-camargue-et-du-delta-du-rhone-bouches-du-rhone-du-8-au-12-mai-2024/</link>
@@ -39,7 +60,7 @@
 		
 			</item>
 		<item>
-		<title>Découverte en Tanzanie d&#8217;une nouvelle colonie du rare et localisé Tisserin du Ruvu</title>
+		<title>Découverte en Tanzanie d&#8217;une nouvelle colonie du rare et localisé Malimbe (ou Tisserin) du Ruvu</title>
 		<link>https://www.ornithomedia.com/breves/decouverte-en-tanzanie-dune-nouvelle-colonie-du-rare-et-localise-tisserin-du-ruvu/</link>
 					<comments>https://www.ornithomedia.com/breves/decouverte-en-tanzanie-dune-nouvelle-colonie-du-rare-et-localise-tisserin-du-ruvu/#respond</comments>
 		
@@ -48,9 +69,9 @@
 				<category><![CDATA[Brèves]]></category>
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=241078</guid>
 
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/decouverte-en-tanzanie-dune-nouvelle-colonie-du-rare-et-localise-tisserin-du-ruvu/">Découverte en Tanzanie d&rsquo;une nouvelle colonie du rare et localisé Tisserin du Ruvu</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/decouverte-en-tanzanie-dune-nouvelle-colonie-du-rare-et-localise-tisserin-du-ruvu/">Découverte en Tanzanie d&rsquo;une nouvelle colonie du rare et localisé Malimbe (ou Tisserin) du Ruvu</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/decouverte-en-tanzanie-dune-nouvelle-colonie-du-rare-et-localise-tisserin-du-ruvu/">Découverte en Tanzanie d&rsquo;une nouvelle colonie du rare et localisé Tisserin du Ruvu</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/decouverte-en-tanzanie-dune-nouvelle-colonie-du-rare-et-localise-tisserin-du-ruvu/">Découverte en Tanzanie d&rsquo;une nouvelle colonie du rare et localisé Malimbe (ou Tisserin) du Ruvu</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/decouverte-en-tanzanie-dune-nouvelle-colonie-du-rare-et-localise-tisserin-du-ruvu/feed/</wfw:commentRss>
@@ -96,7 +117,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/semez-laissez-pousser-fleurs-qui-produisent-graines-pour-oiseaux-00595/feed/</wfw:commentRss>
-			<slash:comments>5</slash:comments>
+			<slash:comments>6</slash:comments>
 		
 		
 			</item>
@@ -199,26 +220,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/angelique-pagenaud-bird-conservation-new-caledonia-nous-en-dit-plus-sur-la-protection-des-oiseaux-marins-neo-caledoniens/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Une femelle de Pygargue à queue blanche couve des œufs d&#8217;Oies cendrées en Norvège</title>
-		<link>https://www.ornithomedia.com/breves/une-femelle-de-pygargue-a-queue-blanche-couve-des-oeufs-doies-cendrees-en-norvege/</link>
-					<comments>https://www.ornithomedia.com/breves/une-femelle-de-pygargue-a-queue-blanche-couve-des-oeufs-doies-cendrees-en-norvege/#comments</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Mon, 15 Apr 2024 19:24:43 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=240647</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/une-femelle-de-pygargue-a-queue-blanche-couve-des-oeufs-doies-cendrees-en-norvege/">Une femelle de Pygargue à queue blanche couve des œufs d&rsquo;Oies cendrées en Norvège</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/une-femelle-de-pygargue-a-queue-blanche-couve-des-oeufs-doies-cendrees-en-norvege/">Une femelle de Pygargue à queue blanche couve des œufs d&rsquo;Oies cendrées en Norvège</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/une-femelle-de-pygargue-a-queue-blanche-couve-des-oeufs-doies-cendrees-en-norvege/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
