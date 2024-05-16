@@ -12,19 +12,40 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 14 May 2024 20:11:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 May 2024 21:08:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 		<item>
-		<title>Edward Mayer (Swift Conservation) nous en dit plus sur les briques-nichoirs pour martinets</title>
-		<link>https://www.ornithomedia.com/magazine/interviews/edward-mayer-swift-conservation-nous-en-dit-plus-sur-les-briques-nichoirs-pour-martinets/</link>
-					<comments>https://www.ornithomedia.com/magazine/interviews/edward-mayer-swift-conservation-nous-en-dit-plus-sur-les-briques-nichoirs-pour-martinets/#respond</comments>
+		<title>Le plus grand colibri du monde est une nouvelle espèce : le Colibri géant du Nord ou Patagon chaski</title>
+		<link>https://www.ornithomedia.com/magazine/etudes/le-plus-grand-colibri-du-monde-est-une-nouvelle-espece-le-colibri-geant-du-nord/</link>
+					<comments>https://www.ornithomedia.com/magazine/etudes/le-plus-grand-colibri-du-monde-est-une-nouvelle-espece-le-colibri-geant-du-nord/#respond</comments>
 		
 		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Tue, 14 May 2024 20:08:56 +0000</pubDate>
+		<pubDate>Thu, 16 May 2024 20:26:12 +0000</pubDate>
+				<category><![CDATA[Études]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=241896</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/le-plus-grand-colibri-du-monde-est-une-nouvelle-espece-le-colibri-geant-du-nord/">Le plus grand colibri du monde est une nouvelle espèce : le Colibri géant du Nord ou Patagon chaski</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/le-plus-grand-colibri-du-monde-est-une-nouvelle-espece-le-colibri-geant-du-nord/">Le plus grand colibri du monde est une nouvelle espèce : le Colibri géant du Nord ou Patagon chaski</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/le-plus-grand-colibri-du-monde-est-une-nouvelle-espece-le-colibri-geant-du-nord/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Edward Mayer (Swift Conservation) nous en dit plus sur les briques-nichoirs pour martinets</title>
+		<link>https://www.ornithomedia.com/magazine/interviews/edward-mayer-swift-conservation-nous-en-dit-plus-sur-les-briques-nichoirs-pour-martinets/</link>
+					<comments>https://www.ornithomedia.com/magazine/interviews/edward-mayer-swift-conservation-nous-en-dit-plus-sur-les-briques-nichoirs-pour-martinets/#comments</comments>
+		
+		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
+		<pubDate>Wed, 15 May 2024 06:24:28 +0000</pubDate>
 				<category><![CDATA[Interviews]]></category>
 		<category><![CDATA[Magazine]]></category>
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=241798</guid>
@@ -35,7 +56,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/edward-mayer-swift-conservation-nous-en-dit-plus-sur-les-briques-nichoirs-pour-martinets/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
@@ -199,27 +220,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/premiers-cas-documentes-de-vautours-fauves-se-nourrissant-durant-la-nuit/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Aurélie Torres (LPO) : recenser les Râles des genêts « montagnards » mal connus des Alpes du Sud</title>
-		<link>https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/</link>
-					<comments>https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/#respond</comments>
-		
-		<dc:creator><![CDATA[Ornithomedia]]></dc:creator>
-		<pubDate>Mon, 29 Apr 2024 21:12:37 +0000</pubDate>
-				<category><![CDATA[Interviews]]></category>
-		<category><![CDATA[Magazine]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=241179</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/">Aurélie Torres (LPO) : recenser les Râles des genêts « montagnards » mal connus des Alpes du Sud</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/">Aurélie Torres (LPO) : recenser les Râles des genêts « montagnards » mal connus des Alpes du Sud</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/magazine/interviews/aurelie-torres-lpo-recenser-les-rales-des-genets-montagnards-meconnus-des-alpes-meridionales-francaises/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
