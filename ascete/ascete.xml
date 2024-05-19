@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Sat, 16 Mar 2024 07:47:18 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 May 2024 09:33:02 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Colloques acoustiques des orthoptères en 2024 en Italie et en Espagne</title>
+		<link>https://ascete.org/colloques-acoustiques-des-orthopteres-en-2024-en-italie-et-en-espagne/</link>
+		
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<pubDate>Sun, 19 May 2024 09:33:02 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3449</guid>
+
+					<description><![CDATA[Une série de colloques sur l&#8217;acoustique des Orthoptères aura lieu cet été (et d&#8217;autres suivront l&#8217;été prochain) : &#8211; en Italie du 8 au 12 juillet à Verona, juste après le Congrès européen. &#8211; en Espagne du 7 au 11 août dans le Sierra de la Demanda. Une vingtaine de places sont disponibles à chacun [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Convocation à l&#8217;Assemblée Générale Ordinaire les 21 et 22 septembre 2024 dans le Vercors</title>
 		<link>https://ascete.org/convocation-a-lassemblee-generale-ordinaire-les-21-et-22-septembre-2024-dans-le-vercors/</link>
 		
@@ -36,7 +50,7 @@
 				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3436</guid>
 
-					<description><![CDATA[L&#8217;Assemblée Générale Ordinaire de l&#8217;Ascete se tiendra cette année le samedi 21 septembre 2024 dans le Vercors, au gîte de Bénevise à Châtillon en Diois. Voici le programme du week-end qui, comme chaque année, fait la part belles aux sorties de terrain : Vendredi 20 septembre 18h : arrivée au gîte Bénevise, 2 rue du [&#8230;]]]></description>
+					<description><![CDATA[Prospections orthoptérologiques lors de l&#8217;AG 2023 en Andorre (cliché L. Ton). L&#8217;Assemblée Générale Ordinaire de l&#8217;Ascete se tiendra cette année le samedi 21 septembre 2024 dans le Vercors, au gîte de Bénevise à Châtillon en Diois. Voici le programme du week-end qui, comme chaque année, fait la part belles aux sorties de terrain : Vendredi [&#8230;]]]></description>
 		
 		
 		
@@ -157,21 +171,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3048</guid>
 
 					<description><![CDATA[Le 26 février dernier a été annoncée sur le site de l&#8217;agence régionale de la biodiversité en Île-de-France la publication de la Liste rouge régionale des Orthoptéroïdes d&#8217;Île-de-France : à l&#8217;évaluation des orthoptères sont ajoutées celles de la mante religieuse et du phasme gaulois, soit en tout 63 taxons évalués. Le rapport a été réalisé [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Troisième congrès européen sur la conservation des orthoptères (mise à jour)</title>
-		<link>https://ascete.org/troisieme-congres-europeen-sur-la-conservation-des-orthopteres-mise-a-jour/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Wed, 23 Feb 2022 10:11:20 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3035</guid>
-
-					<description><![CDATA[Les 1er et 2 avril 2022, le troisième congrès européen sur la conservation des orthoptères (ECOC III) aura lieu à Leyde (Pays-Bas). Les orthoptéristes sont invités à rejoindre la réunion à Leyde, mais il est également possible d&#8217;y assister en ligne. La participation en ligne est gratuite, mais vous devez vous inscrire. Veuillez consulter les [&#8230;]]]></description>
 		
 		
 		
