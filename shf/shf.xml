@@ -12,13 +12,13 @@
 	<atom:link href="https://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Jun 2024 09:52:24 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Jun 2024 10:09:36 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.11</generator>
+	<generator>https://wordpress.org/?v=5.7.12</generator>
 
 <image>
 	<url>https://lashf.org/wp-content/uploads/2019/10/cropped-LOGO_SHF_detoure_vf-32x32.png</url>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Congrès 2024 &#8211; Appel à communications : relance et délai supplémentaire</title>
+		<link>https://lashf.org/non-classe/congres-2024-appel-a-communications-relance-et-delai-supplementaire/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2024-appel-a-communications-relance-et-delai-supplementaire</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Jun 2024 10:05:44 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lashf.org/?p=6201</guid>
+
+					<description><![CDATA[Notre prochain congrès se tiendra du 23 au 26 octobre, à Carcassonne. L&#8217;appel à communications a été diffusé fin mai, mais nous n&#8217;avons reçu à l&#8217;heure actuelle que très peu de propositions de communications orales et de posters. Par conséquent, l&#8217;équipe organisatrice a pris la décision de repousser la date limite de soumission au 20 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Notre prochain congrès se tiendra du 23 au 26 octobre, à Carcassonne. L&rsquo;appel à communications a été diffusé fin mai, mais nous n&rsquo;avons reçu à l&rsquo;heure actuelle que très peu de propositions de communications orales et de posters. Par conséquent, l&rsquo;équipe organisatrice a pris la décision de repousser la date limite de soumission au <strong><span class="has-inline-color has-vivid-red-color">20 juillet</span></strong> (au lieu du 5 juillet). Nous attendons avec impatience vos propositions !</p>
+
+
+
+<p>Retrouvez toute la procédure de soumission dans le document ci-dessous.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2024/06/Congrs-2024_Appel-communications-V1-delai-supp.pdf" style="background-color:#5c8727"><strong>Télécharger l&rsquo;appel à communications</strong></a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Un webinaire pour vous accompagner dans la mise en oeuvre des protocoles POPAmphibien et POPReptile</title>
 		<link>https://lashf.org/non-classe/un-webinaire-pour-vous-accompagner-dans-la-mise-en-oeuvre-des-protocoles-popamphibien-et-popreptile/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=un-webinaire-pour-vous-accompagner-dans-la-mise-en-oeuvre-des-protocoles-popamphibien-et-popreptile</link>
 		
@@ -38,12 +65,47 @@
 
 					<description><![CDATA[Vous avez besoin d&#8217;aide pour mettre en place les protocoles POPAmphibien/POPReptile ?La SHF organise le 17 septembre prochain, de 9h à 12h, un webinaire pour vous accompagner dans la mise en place des protocoles de suivi de l&#8217;herpétofaune.&#160; Au programme : mise en place des protocoles, saisie des données allégée, retours d&#8217;expérience. L&#8217;inscription est gratuite [&#8230;]]]></description>
 										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-724x1024.jpg" alt="" class="wp-image-6187" width="331" height="468" srcset="https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-724x1024.jpg 724w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-212x300.jpg 212w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-768x1086.jpg 768w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-1086x1536.jpg 1086w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-958x1355.jpg 958w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1.jpg 1414w" sizes="(max-width: 331px) 100vw, 331px" /></figure></div>
+
+
+
 <p><em><strong><span style="font-family: Calibri;">Vous avez besoin d&rsquo;aide pour mettre en place les protocoles POPAmphibien/POPReptile ?</span></strong></em><br><span style="font-family: Calibri;">La SHF organise le <strong>17 septembre prochain, de 9h à 12h</strong>, un webinaire pour vous accompagner dans la mise en place des protocoles de suivi de l&rsquo;herpétofaune.&nbsp;</span><br><br><span style="font-family: Calibri;">Au programme : mise en place des protocoles, saisie des données allégée, retours d&rsquo;expérience.</span><br><br><span style="font-family: Calibri;">L&rsquo;inscription est gratuite mais nécessaire pour recevoir le lien Zoom et le replay du webinaire.</span></p>
 
 
 
 <div class="wp-block-buttons is-content-justification-center">
 <div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://forms.gle/vqwkAYLDsmJ1USjw6" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener"><strong>Je m&rsquo;inscris</strong></a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Congrès 2024 : Appel à communications</title>
+		<link>https://lashf.org/non-classe/congres-2024-appel-a-communications/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2024-appel-a-communications</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 27 May 2024 07:36:27 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lashf.org/?p=6196</guid>
+
+					<description><![CDATA[Co-organisé avec la Fédération Aude Claire et l&#8217;Office national des forêts, notre 51ème congrès se tiendra du 23 au 26 octobre 2024, au Lycée Charlemagne de Carcassonne. L&#8217;appel à communications est désormais disponible ! Si vous souhaitez présenter vos travaux et études, soumettez-nous vos propositions de communications orales ou de posters. Vous avez jusqu&#8217;au 5 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Co-organisé avec la Fédération Aude Claire et l&rsquo;Office national des forêts, notre 51ème congrès se tiendra du 23 au 26 octobre 2024, au Lycée Charlemagne de Carcassonne.</p>
+
+
+
+<p>L&rsquo;appel à communications est désormais disponible ! Si vous souhaitez présenter vos travaux et études, soumettez-nous vos propositions de communications orales ou de posters. Vous avez jusqu&rsquo;au 5 juillet.</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2024/05/Congrs-2024_Appel-communications-VF.pdf" style="background-color:#5c8727">Télécharger l&rsquo;appel à communications</a></div>
 </div>
 ]]></content:encoded>
 					
@@ -197,69 +259,6 @@
 
 
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3-1024x683.jpg" alt="" class="wp-image-5687" width="533" height="355" srcset="https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3-1024x683.jpg 1024w, https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3-300x200.jpg 300w, https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3-768x512.jpg 768w, https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3-958x639.jpg 958w, https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3-800x534.jpg 800w, https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3-600x400.jpg 600w, https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3-272x182.jpg 272w, https://lashf.org/wp-content/uploads/2023/07/Vipre_aspic_CMaxime_BRIOLA-3.jpg 1200w" sizes="(max-width: 533px) 100vw, 533px" /><figcaption>Vipère aspic ©Maxime Briola</figcaption></figure></div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Publication d&#8217;un ouvrage de référence sur les tortues terrestres et d&#8217;eau douce, autochtones et introduites en France métropolitaine !</title>
-		<link>https://lashf.org/non-classe/publication-dun-ouvrage-de-reference-sur-les-tortues-terrestres-et-deau-douce-autochtones-et-introduites-en-france-metropolitaine/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=publication-dun-ouvrage-de-reference-sur-les-tortues-terrestres-et-deau-douce-autochtones-et-introduites-en-france-metropolitaine</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 09:42:11 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=5664</guid>
-
-					<description><![CDATA[La SHF est très fière de vous présenter le cinquième numéro de sa revue HERP me !, consacré aux tortues terrestres et d’eau douce, autochtones et introduites, de France métropolitaine. Écrit par Jérôme Maran et Thierry Frétey, cet ouvrage de référence dresse un état des connaissances sur ces espèces et met à disposition une clé de [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>La SHF est très fière de vous présenter le cinquième numéro de sa revue <em>HERP me !</em>, <strong>consacré aux tortues terrestres et d’eau douce, autochtones et introduites, de France métropolitaine</strong>. Écrit par Jérôme Maran et Thierry Frétey, cet ouvrage de référence dresse un état des connaissances sur ces espèces et met à disposition une clé de détermination richement illustrée. Bien que la France métropolitaine compte seulement trois espèces autochtones (en dehors des tortues marines), ce sont près de quarante espèces et sous-espèces qui y sont décrites, toutes susceptibles d’être rencontrées actuellement en milieu naturel. Grâce à cet ouvrage, il sera désormais possible de déterminer l’espèce observée et si elle vit naturellement sur notre territoire ou si elle y a été introduite.</p>
-<p>Nous félicitons les auteurs pour la qualité de leur travail et remercions Maël Dewynter, en charge de la mise en page de ce numéro exceptionnel, et Matthieu Berroneau pour ses photographies.</p>
-<p>Disponible immédiatement et gratuitement en version numérique, nous vous proposerons très prochainement une version papier, dont le tarif reste à définir !</p>
-
-
-<div style="height:36px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2023/06/HERP-ME-05-Tortues-de-France-WEB.pdf" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener">Télécharger la version web (34 Mo)</a></div>
-</div>
-
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2023/06/HERP-ME-05-Tortues-de-France-HD.pdf" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener">Télécharger la version haute définition (117 Mo)</a></div>
-</div>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Congrès 2023 : Ouverture de l&#8217;appel à communications !</title>
-		<link>https://lashf.org/non-classe/congres-2023-ouverture-de-lappel-a-communications/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-ouverture-de-lappel-a-communications</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 17 May 2023 13:48:18 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=5610</guid>
-
-					<description><![CDATA[Co-organisé par VivArmor Nature et Bretagne Vivante, notre prochain congrès se tiendra du 11 au 14 octobre prochains, à Erquy (22).   Nous lançons aujourd&#8217;hui l&#8217;appel à communications ! Si vous souhaitez partager le résultats de vos études et suivis, à travers une communication orale ou un poster, vous avez jusqu&#8217;au 7 juillet pour soumettre [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>Co-organisé par VivArmor Nature et Bretagne Vivante, notre prochain congrès se tiendra du 11 au 14 octobre prochains, à Erquy (22).</div>
-<div> </div>
-<div><strong>Nous lançons aujourd&rsquo;hui l&rsquo;appel à communications ! </strong>Si vous souhaitez partager le résultats de vos études et suivis, à travers une communication orale ou un poster, vous avez jusqu&rsquo;au 7 juillet pour soumettre vos propositions.</div>
-<div><strong>Pour en savoir plus, téléchargez le document de l&rsquo;appel à communications !</strong></div>
-<div> </div>
-<h4 style="text-align: center;"><strong> </strong></h4>
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2023/05/CongresSHF2023_Appel-communications_VF.pdf" style="background-color:#5e8727"><strong>Télécharger l&rsquo;appel à communications</strong></a></div>
-</div>
 ]]></content:encoded>
 					
 		
