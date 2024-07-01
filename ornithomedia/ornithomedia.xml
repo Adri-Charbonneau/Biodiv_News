@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sun, 30 Jun 2024 06:13:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Jul 2024 14:53:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Comment protéger les oiseaux des chats ?</title>
+		<link>https://www.ornithomedia.com/pratique/conseils/proteger-oiseaux-chats-00031/</link>
+					<comments>https://www.ornithomedia.com/pratique/conseils/proteger-oiseaux-chats-00031/#comments</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2024 14:53:09 +0000</pubDate>
+				<category><![CDATA[Conseils]]></category>
+		<category><![CDATA[Pratique]]></category>
+		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/proteger-oiseaux-chats-00031/</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/conseils/proteger-oiseaux-chats-00031/">Comment protéger les oiseaux des chats ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/conseils/proteger-oiseaux-chats-00031/">Comment protéger les oiseaux des chats ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/proteger-oiseaux-chats-00031/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Sortie ornithologique guidée dans les prairies de fauche inondables du Val de Saône (Côte-d&#8217;Or) le 13 juillet 2024</title>
 		<link>https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-dans-les-prairies-de-fauche-inondables-du-val-de-saone-cote-dor-le-13-juillet-2024/</link>
@@ -198,26 +219,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/premiere-observation-dun-vautour-de-lhimalaya-dans-le-palearctique-occidental-en-avril-2024/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Description d&#8217;une nouvelle espèce de passereau dans les Andes, le Tangara (ou Lanion) à dos gris</title>
-		<link>https://www.ornithomedia.com/breves/description-dune-nouvelle-espece-de-passereau-dans-les-andes-le-tangara-ou-lanion-a-dos-gris/</link>
-					<comments>https://www.ornithomedia.com/breves/description-dune-nouvelle-espece-de-passereau-dans-les-andes-le-tangara-ou-lanion-a-dos-gris/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sat, 15 Jun 2024 06:20:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=242814</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/description-dune-nouvelle-espece-de-passereau-dans-les-andes-le-tangara-ou-lanion-a-dos-gris/">Description d&#8217;une nouvelle espèce de passereau dans les Andes, le Tangara (ou Lanion) à dos gris</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/description-dune-nouvelle-espece-de-passereau-dans-les-andes-le-tangara-ou-lanion-a-dos-gris/">Description d&#8217;une nouvelle espèce de passereau dans les Andes, le Tangara (ou Lanion) à dos gris</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/description-dune-nouvelle-espece-de-passereau-dans-les-andes-le-tangara-ou-lanion-a-dos-gris/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
