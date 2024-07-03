@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 01 Jul 2024 14:53:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Jul 2024 19:01:09 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>La station d&#8217;épuration du Barcarès (Pyrénées-Orientales), un nouveau site de nidification du Fuligule nyroca en France</title>
+		<link>https://www.ornithomedia.com/magazine/observer-france/la-station-depuration-du-barcares-pyrenees-orientales-un-nouveau-site-de-nidification-du-fuligule-nyroca-en-france/</link>
+					<comments>https://www.ornithomedia.com/magazine/observer-france/la-station-depuration-du-barcares-pyrenees-orientales-un-nouveau-site-de-nidification-du-fuligule-nyroca-en-france/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Wed, 03 Jul 2024 18:39:13 +0000</pubDate>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Observer en France]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=243402</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/la-station-depuration-du-barcares-pyrenees-orientales-un-nouveau-site-de-nidification-du-fuligule-nyroca-en-france/">La station d&#8217;épuration du Barcarès (Pyrénées-Orientales), un nouveau site de nidification du Fuligule nyroca en France</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/la-station-depuration-du-barcares-pyrenees-orientales-un-nouveau-site-de-nidification-du-fuligule-nyroca-en-france/">La station d&#8217;épuration du Barcarès (Pyrénées-Orientales), un nouveau site de nidification du Fuligule nyroca en France</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/la-station-depuration-du-barcares-pyrenees-orientales-un-nouveau-site-de-nidification-du-fuligule-nyroca-en-france/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Comment protéger les oiseaux des chats ?</title>
 		<link>https://www.ornithomedia.com/pratique/conseils/proteger-oiseaux-chats-00031/</link>
@@ -36,26 +57,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/proteger-oiseaux-chats-00031/feed/</wfw:commentRss>
 			<slash:comments>7</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Sortie ornithologique guidée dans les prairies de fauche inondables du Val de Saône (Côte-d&#8217;Or) le 13 juillet 2024</title>
-		<link>https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-dans-les-prairies-de-fauche-inondables-du-val-de-saone-cote-dor-le-13-juillet-2024/</link>
-					<comments>https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-dans-les-prairies-de-fauche-inondables-du-val-de-saone-cote-dor-le-13-juillet-2024/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sun, 30 Jun 2024 06:20:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=243328</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-dans-les-prairies-de-fauche-inondables-du-val-de-saone-cote-dor-le-13-juillet-2024/">Sortie ornithologique guidée dans les prairies de fauche inondables du Val de Saône (Côte-d&#8217;Or) le 13 juillet 2024</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-dans-les-prairies-de-fauche-inondables-du-val-de-saone-cote-dor-le-13-juillet-2024/">Sortie ornithologique guidée dans les prairies de fauche inondables du Val de Saône (Côte-d&#8217;Or) le 13 juillet 2024</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/sortie-ornithologique-guidee-dans-les-prairies-de-fauche-inondables-du-val-de-saone-cote-dor-le-13-juillet-2024/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
