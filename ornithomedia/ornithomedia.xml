@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 16 Jul 2024 16:05:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Jul 2024 17:34:46 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Le secteur de Minerve (Hérault), un bon coin pour observer les oiseaux méditerranéens et le Martinet cafre</title>
+		<link>https://www.ornithomedia.com/magazine/observer-france/minerve-herault-un-village-des-falaises-et-un-martinet-cafre-decouvert-en-juillet-2020/</link>
+					<comments>https://www.ornithomedia.com/magazine/observer-france/minerve-herault-un-village-des-falaises-et-un-martinet-cafre-decouvert-en-juillet-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Wed, 17 Jul 2024 06:20:00 +0000</pubDate>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Observer en France]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=182002</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/minerve-herault-un-village-des-falaises-et-un-martinet-cafre-decouvert-en-juillet-2020/">Le secteur de Minerve (Hérault), un bon coin pour observer les oiseaux méditerranéens et le Martinet cafre</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/minerve-herault-un-village-des-falaises-et-un-martinet-cafre-decouvert-en-juillet-2020/">Le secteur de Minerve (Hérault), un bon coin pour observer les oiseaux méditerranéens et le Martinet cafre</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/minerve-herault-un-village-des-falaises-et-un-martinet-cafre-decouvert-en-juillet-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Ascension printanière du mont Kazbek (Géorgie), à la recherche des oiseaux montagnards du Grand Caucase</title>
 		<link>https://www.ornithomedia.com/magazine/voyages/ascension-du-mont-kazbek-georgie-au-printemps-2024-a-la-recherche-des-oiseaux-montagnards-du-grand-caucase/</link>
@@ -200,26 +221,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/proteger-oiseaux-chats-00031/feed/</wfw:commentRss>
 			<slash:comments>7</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Un rare cas de prédation de guêpes sur un oisillon en Amérique du Sud</title>
-		<link>https://www.ornithomedia.com/breves/un-rare-cas-de-predation-de-guepes-sur-un-oisillon-en-amerique-du-sud/</link>
-					<comments>https://www.ornithomedia.com/breves/un-rare-cas-de-predation-de-guepes-sur-un-oisillon-en-amerique-du-sud/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Fri, 28 Jun 2024 19:58:03 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=243316</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-rare-cas-de-predation-de-guepes-sur-un-oisillon-en-amerique-du-sud/">Un rare cas de prédation de guêpes sur un oisillon en Amérique du Sud</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-rare-cas-de-predation-de-guepes-sur-un-oisillon-en-amerique-du-sud/">Un rare cas de prédation de guêpes sur un oisillon en Amérique du Sud</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/un-rare-cas-de-predation-de-guepes-sur-un-oisillon-en-amerique-du-sud/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
