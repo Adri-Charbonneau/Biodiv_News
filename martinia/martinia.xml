@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Tue, 26 Mar 2024 17:12:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Jul 2024 10:14:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un comportement rare : prédation d’une femelle ténérale d’&#060;em&gt;Aeshna juncea&#060;/em&gt; par une larve du genre Aeshna (Odonata : Aeshnidae)</title>
+		<link>https://martinia.insectes.org/un-comportement-rare-predation-dune-femelle-tenerale-demaeshna-juncea-em-par-une-larve-du-genre-aeshna-odonata-aeshnidae/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Fri, 26 Jul 2024 10:00:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Aeschne]]></category>
+		<category><![CDATA[alimentation]]></category>
+		<category><![CDATA[Auvergne-Rhône-Alpes]]></category>
+		<category><![CDATA[emergence]]></category>
+		<category><![CDATA[émergence]]></category>
+		<category><![CDATA[feeding]]></category>
+		<category><![CDATA[hawker]]></category>
+		<category><![CDATA[imago]]></category>
+		<category><![CDATA[Isère]]></category>
+		<category><![CDATA[Isère department]]></category>
+		<category><![CDATA[larva]]></category>
+		<category><![CDATA[larve]]></category>
+		<category><![CDATA[peat bog]]></category>
+		<category><![CDATA[predation]]></category>
+		<category><![CDATA[prédation]]></category>
+		<category><![CDATA[tourbière]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4541</guid>
+
+					<description><![CDATA[Les odonates sont de redoutables prédateurs dont le régime alimentaire a été étudié par de nombreux auteurs (Corbet, 1962 ; Pritchard, 1964, 1965 ; Lawton, 1970 ; Chovet, 1976 ; Alzmann et al., 1999). L’étude du régime alimentaire des imagos s’est faite jusqu’à récemment principalement par des observations in-natura mais, depuis peu, l’étude des fèces par la technique du [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Premières observations de Sympetrum vulgatum ibericum Ocharan, 1985 (Odonata : Libellulidae) dans les Pyrénées-Atlantiques</title>
 		<link>https://martinia.insectes.org/premieres-observations-de-sympetrum-vulgatum-ibericum-ocharan-1985-odonata-libellulidae-dans-les-pyrenees-atlantiques/</link>
 		
@@ -46,7 +76,7 @@
 		<category><![CDATA[subspecies]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4509</guid>
 
-					<description><![CDATA[Sympetrum vulgatum (Linnaeus, 1758) est un taxon ouest-paléarctique composé de trois sous-espèces : S.&#160;vulgatum vulgatum (Linnaeus, 1758)largement distribué de l&#8217;Europe de l&#8217;Ouest au Japon, S. vulgatum decoloratum (Selys, 1884) en Turquie et Asie centrale et S. vulgatum ibericum (Ocharan, 1985) endémique de la Péninsule ibérique. L&#8217;étude moléculaire de Hinojosa et al. (2017) a confirmé la [&#8230;]]]></description>
+					<description><![CDATA[Sympetrum vulgatum (Linnaeus, 1758) est un taxon ouest-paléarctique composé de trois sous-espèces : S. vulgatum vulgatum (Linnaeus, 1758) largement distribué de l&#8217;Europe de l&#8217;Ouest au Japon, S. vulgatum decoloratum (Selys, 1884) en Turquie et Asie centrale et S. vulgatum ibericum Ocharan, 1985 endémique de la Péninsule ibérique. L&#8217;étude moléculaire de Hinojosa et al. (2017) a confirmé [&#8230;]]]></description>
 		
 		
 		
@@ -229,27 +259,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4276</guid>
 
 					<description><![CDATA[Auteur(s) :Itrac-Bruneau Raphaëlle &#038; Doucet Guillaume Numérotation : Type de publication : Article]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Capacités de dispersion chez Leucorrhinia pectoralis (Charpentier, 1825) erratum (Odonata : Libellulidae)</title>
-		<link>https://martinia.insectes.org/capacites-de-dispersion-chez-leucorrhinia-pectoralis-charpentier-1825-erratum-odonata-libellulidae/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Fri, 12 Nov 2021 12:42:48 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Capture-marquage-recapture]]></category>
-		<category><![CDATA[Capture-recapture]]></category>
-		<category><![CDATA[Citation]]></category>
-		<category><![CDATA[Compilation]]></category>
-		<category><![CDATA[Dispersion]]></category>
-		<category><![CDATA[Distance de vol maximale]]></category>
-		<category><![CDATA[Maximal flying distance]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4220</guid>
-
-					<description><![CDATA[Une référence concernant le déplacement de plus 100 km d’un mâle de L. pectoralis en Allemagne est citée à plusieurs reprises dans la littérature comme prouvant le déplacement à grande distance de l’espèce, il s’agit de Ott (1989). Grand (2010, p. 164) précise qu’il s’agit d’un «&#160;individu retrouvé à plus de 100 km de son [&#8230;]]]></description>
 		
 		
 		
