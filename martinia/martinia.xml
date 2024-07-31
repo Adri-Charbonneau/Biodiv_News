@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Fri, 26 Jul 2024 10:14:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Jul 2024 10:20:21 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Étude de la reproduction d’&#060;em&gt;Oxygastra curtisii&#060;/em&gt; (Odonata : &#060;em&gt;Incertae sedis&#060;/em&gt;) sur deux étangs en Mayenne (France)</title>
+		<link>https://martinia.insectes.org/etude-de-la-reproduction-demoxygastra-curtisii-em-odonata-emincertae-sedis-em-sur-deux-etangs-en-mayenne-france/</link>
+		
+		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
+		<pubDate>Wed, 31 Jul 2024 07:00:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[dynamique d’émergence]]></category>
+		<category><![CDATA[emergence dynamics]]></category>
+		<category><![CDATA[Exuviae]]></category>
+		<category><![CDATA[Exuvies]]></category>
+		<category><![CDATA[sex-ratio]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4571</guid>
+
+					<description><![CDATA[Auteur(s) :Csutoros Antoine Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un comportement rare : prédation d’une femelle ténérale d’&#060;em&gt;Aeshna juncea&#060;/em&gt; par une larve du genre Aeshna (Odonata : Aeshnidae)</title>
 		<link>https://martinia.insectes.org/un-comportement-rare-predation-dune-femelle-tenerale-demaeshna-juncea-em-par-une-larve-du-genre-aeshna-odonata-aeshnidae/</link>
 		
@@ -238,27 +257,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4302</guid>
 
 					<description><![CDATA[Le cycle larvaire de Leucorrhinia pectoralis est donné pour deux à trois ans dans la littérature (Boudot et al. 2017, Wildermuth &#38; Martens 2019), mais pourrait être réduit au moins pour une partie d’une population à un an (Brauner, 2006). En 2019, des indices dans le département de l’Ain (région Auvergne-Rhône-Alpes) nous conduisent à supposer [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Somatochlora arctica (Odonata : Corduliidae) dans le Massif du Morvan : découverte d’une station majeure pour la Bourgogne-Franche-Comté et comparaison avec d’autres stations</title>
-		<link>https://martinia.insectes.org/somatochlora-arctica-odonata-corduliidae-dans-le-massif-du-morvan-decouverte-dune-station-majeure-pour-la-bourgogne-franche-comte-et-comparaison-avec-dautres-stations/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Fri, 28 Jan 2022 13:34:45 +0000</pubDate>
-				<category><![CDATA[Article]]></category>
-		<category><![CDATA[conservation]]></category>
-		<category><![CDATA[Exuviae]]></category>
-		<category><![CDATA[Exuvies]]></category>
-		<category><![CDATA[Nièvre]]></category>
-		<category><![CDATA[peat bog]]></category>
-		<category><![CDATA[Saône-et-Loire]]></category>
-		<category><![CDATA[tourbière]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4276</guid>
-
-					<description><![CDATA[Auteur(s) :Itrac-Bruneau Raphaëlle &#038; Doucet Guillaume Numérotation : Type de publication : Article]]></description>
 		
 		
 		
