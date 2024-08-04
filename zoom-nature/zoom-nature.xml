@@ -12,7 +12,7 @@
 	<atom:link href="https://www.zoom-nature.fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.zoom-nature.fr</link>
 	<description>Chroniques Nature &#038; Sciences</description>
-	<lastBuildDate>Wed, 31 Jul 2024 17:46:05 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Aug 2024 17:37:38 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,322 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
+		<title>Le guêpier d’Europe mérite-t-il son nom ? </title>
+		<link>https://www.zoom-nature.fr/le-guepier-deurope-merite-t-il-son-nom/</link>
+		
+		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
+		<pubDate>Sun, 04 Aug 2024 17:37:36 +0000</pubDate>
+				<category><![CDATA[Coraciiformes s.l.]]></category>
+		<category><![CDATA[Coraciiforme]]></category>
+		<category><![CDATA[Insectivore]]></category>
+		<category><![CDATA[Méropidé]]></category>
+		<category><![CDATA[Pelote de réjection]]></category>
+		<category><![CDATA[Régime alimentaire]]></category>
+		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=33114</guid>
+
+					<description><![CDATA[<p>Avec son plumage vivement coloré, le guêpier d’Europe a tout d’un oiseau exotique et pourtant [&#8230;]</p>
+<p>The post <a href="https://www.zoom-nature.fr/le-guepier-deurope-merite-t-il-son-nom/">Le guêpier d’Europe mérite-t-il son nom ? </a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Avec son plumage vivement coloré, le guêpier d’Europe a tout d’un oiseau exotique et pourtant cette espèce est assez répandue dans notre pays. Jusque dans les années 1950, il était cantonné dans le Midi avant d’entreprendre une remontée générale vers le nord qui l’a vu s’installer dans tout le pays mais de manière de plus en plus clairsemée en allant vers le nord. On peut l’observer assez facilement en train de chasser les insectes, sa nourriture en période de nidification (c’est un migrateur total absent en hiver). Mais qu’en est-il dans le détail&nbsp;: de quels insectes se compose son régime alimentaire&nbsp;? Comment chasse-t-il ses proies&nbsp;? S’il se nourrit réellement de guêpes, comment les consomme-t-il&nbsp;?</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep15.jpg"><img fetchpriority="high" decoding="async" width="230" height="300" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep15-230x300.jpg" alt="" class="wp-image-33130" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep15-230x300.jpg 230w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep15-600x784.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep15.jpg 612w" sizes="(max-width: 230px) 100vw, 230px" /></a><figcaption class="wp-element-caption">Gravure J Gerrard ; Pub. dom. </figcaption></figure></div>
+
+
+<h2 class="wp-block-heading">Guêpes ou abeilles&nbsp;?</h2>
+
+
+
+<p>Son nom populaire explicite de Guêpier laisse entendre qu’il se nourrit préférentiellement de guêpes. Mais son nom latin, <em>Merops apiaster</em> suggère une autre version. <em>Merops</em>, le nom de genre, vient d’un mot grec utilisé par Aristote pour désigner un oiseau mangeur d’abeilles. L’épithète spécifique, <em>apiaster</em>, est construit sur la racine <em>Apis</em>, le nom de genre des abeilles avec l’abeille domestique <em>Apis mellifica</em>&nbsp;; il désigne lui aussi un oiseau mangeur d’abeilles. Par ailleurs, chez les Romains, <em>apiastrum</em> désignait une plante médicinale bien connue, la mélisse officinale ou citronnelle, réputée pour ses propriétés mellifères (<em>melissa</em> désigne aussi les abeilles).</p>
+
+
+
+<p>Les anglo-saxons le nomment <em>bee-eater</em>, que d’aucuns traduisent par «&nbsp;mangeur d’abeilles&nbsp;». Sauf que cette traduction est restrictive car, pour les Anglo-saxons, <em>bee</em> désigne en fait toutes sortes d’hyménoptères (voir la chronique) de la famille des Apidés dont, outre l’abeille domestique, les bourdons ou les innombrables abeilles solitaires. Donc, dans leur esprit, <em>bee-eater</em> va bien au-delà du simple mangeur d’abeilles. En espagnol, on le nomme <em>abejaruco</em> ce qui, là aussi, veut dire «&nbsp;mangeur d’abeilles&nbsp;».</p>
+
+
+
+<p>Alors qui dit vrai ou bien est-ce que tout le monde se trompe&nbsp;?</p>
+
+
+
+<h2 class="wp-block-heading">Techniques d’étude</h2>
+
+
+
+<p>Connaître précisément le régime alimentaire d’une espèce d’oiseau reste souvent une tâche délicate. Cette connaissance comporte deux axes&nbsp;: le qualitatif, c’est-à-dire quelles espèces ou types d’insectes consomme-t-il&nbsp;; le quantitatif&nbsp;: dans quelles proportions consomme-t-il telle ou telle proie. S’y ajoute un troisième volet&nbsp;: les adultes nourrissent-il ses jeunes avec les mêmes proies qu’ils consomment au quotidien&nbsp;? Pour répondre à toutes ses questions, on dispose d’au moins quatre techniques qui ne s’excluent pas mais se complètent.</p>
+
+
+
+<p>La plus évidente, mais aussi peut-être la plus laborieuse, se base sur les observations directes de guêpiers en chasse avec des jumelles ou, de plus en plus, à partir de photos. La pose de piège photos à l’entrée du nid permet notamment d’identifier ce qui est destiné à l’alimentation des jeunes.</p>
+
+
+
+<p>L’analyse des contenus d’estomacs d’oiseaux morts était très utilisée autrefois, à une époque où les scientifiques ne se posaient pas de questions d’éthique et de conservation des espèces et où on abattait des oiseaux uniquement dans ce but&nbsp;! &nbsp;Les temps ont bien changé, heureusement&nbsp;!&nbsp;</p>
+
+
+
+<p>L’analyse des pelotes de régurgitation récupérées sous les perchoirs d’affût utilisés par ces oiseaux (voir la technique de chasse ci-dessous et les pelotes à la fin de la chronique) ou celles rejetées par les jeunes au nid apportent une masse considérable d’informations et permettent notamment d’identifier précisément les espèces consommées. Les pelotes ne sont pas, comme le croient beaucoup de gens, l’apanage des seuls rapaces diurnes ou nocturnes. Tous les oiseaux insectivores consommant des insectes de taille moyenne rejettent de telles boulettes regroupant les parties dures non digestes des insectes consommés.</p>
+
+
+
+<p>Pour les jeunes au nid, on utilise aussi la technique dite des colliers&nbsp;: une bague est placée autour du cou d’un oisillon qui ne peut plus alors avaler ce que les parents lui apportent&nbsp;; on recueille la nourriture enfournée au bout de quelques nourrissages. On aura perçu que cette dernière technique pose elle aussi quelques questions d’éthique&nbsp;: bien-être des oisillons, dérangements au nid, …&nbsp;!</p>
+
+
+
+<p>Pour autant ces techniques disparates ne fournissent pas forcément des données concordantes. Ainsi, l’analyse des pelotes et l’observation directe donnent des résultats assez divergents&nbsp;: avec les pelotes, les hyménoptères représentent 90% des proies alors qu’en observation directe, sur les mêmes sites, leur pourcentage se situe autour de 60 à 70% seulement. Ceci s’explique par le fait que les insectes avec des parties externes peu durcies sont presque entièrement digérés sans laisser de traces dans les pelotes&nbsp;! Ainsi, libellules, papillons, mouches ne laissent presque aucune trace dans les pelotes alors qu’on a plein de photos de guêpiers en tenant dans leur bec&nbsp;!</p>
+
+
+
+<h2 class="wp-block-heading">Apivore</h2>
+
+
+
+<p>Sur l’ensemble de l’aire de répartition mondiale de l’espèce (Europe, Russie et Afrique), pas moins de 56 études ont exploré le régime du guêpier totalisant plus de 130 000 proies. Au-delà des très fortes variations selon les contextes régionaux, il en ressort une nette dominance des <strong><a href="https://www.zoom-nature.fr/les-ailes-mariees-un-ordre-mega-divers/" title="">Hyménoptères</a></strong> dont la part dans le régime varie de 13 à … 100% ; seules 5 études sur les 56 ont trouvé une part des Hyménoptères inférieure à 33%. Donc, oui les anglais ont bien raison de les nommer <em>bee-eaters</em> (voir ci-dessus) !</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep6.jpg"><img decoding="async" width="800" height="533" data-id="33121" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep6.jpg" alt="" class="wp-image-33121" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep6.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep6-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep6-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep6-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Guêpier tenant une abeille (Cliché Isiwal ; C.C. 4.0)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep4.jpg"><img decoding="async" width="800" height="588" data-id="33119" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep4.jpg" alt="" class="wp-image-33119" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep4.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep4-300x221.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep4-768x564.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep4-600x441.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Un bourdon qu&rsquo;il relance avant de l&rsquo;avaler ((Cliché Isiwal ; C.C. 4.0)</figcaption></figure>
+</figure>
+
+
+
+<p>Parmi ces hyménoptères, les bourdons et les «&nbsp;abeilles&nbsp;» représentent chacun 25% du total du régime. Les abeilles domestiques figurent toujours dans son régime. Les oiseaux de colonies nicheuses à proximité de ruchers peuvent en consommer jusqu’à deux fois plus que ceux de colonies éloignées de ruchers. Ils préfèrent les faux-bourdons (mâles), plus gros et plus riches en protéines, aux ouvrières et les réservent plutôt pour leurs poussins Une étude tchèque a trouvé 53% de faux-bourdons contre 47% d’ouvrières alors que les premiers sont infiniment plus rares (2/100) Selon les conditions météorologiques, la part des abeilles domestiques varie énormément&nbsp;: ils les chassent surtout par temps nuageux ou pluvieux, sous des températures plus fraîches.</p>
+
+
+
+<p>La part des bourdons est en général moindre (égale à celle des abeilles au sens large) chez les adultes par rapport au régime des jeunes avec un pic en août. Plus on se trouve sous des climats arrosés (type atlantique), plus la part des bourdons est grande et ils sont pratiquement absents du régime en Europe méditerranéenne. Ceci traduit en fait la répartition principale des bourdons, espèces adaptées à des climats froids et capables de s’activer tôt le matin.</p>
+
+
+
+<p>Et les guêpes&nbsp;? Seules quelques études donnent une part de plus de 20% pour les guêpes parmi les hyménoptères. Donc, clairement, guêpier n’était pas vraiment le meilleur choix pour nommer cet oiseau&nbsp;! A noter qu’un autre oiseau indigène, grand amateur d’Hyménoptères, a été tout aussi mal nommé mais en sens inverse&nbsp;: la bondrée apivore, un rapace diurne répandu qui ressemble à une buse, se nourrit presque exclusivement de «&nbsp;nids&nbsp;» de … guêpes et frelons (cire, larves ou couvain et adultes) qu’elle déterre.</p>
+
+
+
+<h2 class="wp-block-heading">Pour le reste …</h2>
+
+
+
+<p>Après les Hyménoptères dominants dans le régime, viennent les <a href="https://www.zoom-nature.fr/coleopteres-to-be-or-no-to-be-a-beetle/" title="">Coléoptères</a> qui représentent en moyenne 17% du régime. Leurs restes très durs se retrouvent bien dans les pelotes. Les adultes en consomment plus qu’ils n’en apportent à leurs poussins (20,4% versus 14,9%). Au Portugal, en Europe de l’Est, les études révèlent de 25 à 33% de Coléoptères. Dans sept études seulement (Allemagne, Pays-Bas, Russie, Italie et France), les Coléoptères étaient complètement absents. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep12.jpg"><img loading="lazy" decoding="async" width="300" height="195" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep12-300x195.jpg" alt="" class="wp-image-33127" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep12-300x195.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep12-768x500.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep12-600x391.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep12.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-element-caption">Libellule (Zeynel Cebeci ; C.C. 4.0)</figcaption></figure></div>
+
+
+<p>Chez les populations installées près ou dans des zones humides (rivières, deltas, étangs ou lacs), les libellules occupent une place importante dans le régime. Ainsi en Camargue, leur part atteint 50% du régime&nbsp;; de même dans vallée du Danube, les libellules sont à part égale avec les Hyménoptères.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep3.jpg"><img loading="lazy" decoding="async" width="800" height="544" data-id="33118" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep3.jpg" alt="" class="wp-image-33118" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep3-300x204.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep3-768x522.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep3-600x408.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Papillon de jour (Luiz lapa ; C.C. 2.0)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep7.jpg"><img loading="lazy" decoding="async" width="800" height="505" data-id="33122" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep7.jpg" alt="" class="wp-image-33122" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep7.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep7-300x189.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep7-768x485.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep7-600x379.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Cigale (Bernard Dupont. ; C.C. 2.0)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep8.jpg"><img loading="lazy" decoding="async" width="800" height="533" data-id="33123" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep8.jpg" alt="" class="wp-image-33123" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep8.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep8-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep8-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep8-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Taon (Diptère) (Bernard Dupont. ; C.C. 2.0)</figcaption></figure>
+</figure>
+
+
+
+<p>Les <a href="https://www.zoom-nature.fr/randonnee-evolutive-sur-le-sentier-des-orthopteres/" title="">Orthoptères</a> (criquets, sauterelles, courtilières, grillons) occupent localement une part essentielle comme en Afrique (Kenya, Malawi) avec les criquets migrateurs lors des épisodes de pullulations.</p>
+
+
+
+<p>Enfin les Papillons (Lépidoptères) apparaissent ponctuellement en quantités significatives&nbsp;: 13% du régime en seconde position derrière les Hyménoptères sur la côte allemande de la Mer du Nord, 20% au Danemark (et 26% de Libellules) ou en Camargue où les jeunes sont régulièrement nourris avec des papillons.</p>
+
+
+
+<p>En Afrique, on trouve aussi des termites (lors des essaimages des adultes volants)&nbsp;; les Diptères occupent une place marginale même si localement ils peuvent être temporairement exploités&nbsp;: syrphes et taons essentiellement.</p>
+
+
+
+<p>On aura compris que ce régime varie considérablement selon les types d’habitats près des colonies servant de terrains de chasse ou à la faveur de pullulations locales d’insectes ou d’essaimages (dont les ruchers qui sont pour le guêpier une forme de concentration de proies). En Ukraine et en Hongrie, on a observé une consommation très importante d’une seule espèce de Coléoptère ravageur des cultures de blé lors des pullulations. En Allemagne, lors d’une journée début août, les parents ont apporté massivement des noctuelles gammas, papillons nocturnes (qui volent de jour)&nbsp;: elles ont alors représenté un quart des proies apportées ce jour-là&nbsp;! Quelques jours plus tard, c’était le tour de petits <strong>bousiers</strong> (<em>Aphodius</em>), en seconde position en nombre cet autre jour.</p>
+
+
+
+<p>Cette adaptabilité aux ressources locales, que l’on peut qualifier d’opportunisme alimentaire, se retrouve dans les variations du régime au cours de la saison de reproduction. En Camargue par exemple, les guêpiers chassent essentiellement des coléoptères en mai avant d’y ajouter les libellules à partir de juin.</p>
+
+
+
+<h2 class="wp-block-heading">Mal aimé</h2>
+
+
+
+<p>La consommation active d’abeilles (voir ci-dessus) vaut au guêpier une réputation très négative de la part des apiculteurs. Dès l’Antiquité, on trouve des mentions de ces rapports tendus&nbsp;: dans le poème Les Géorgiques (les travaux de la terre) le poète Virgile (- 70&nbsp;; &#8211; 19) écrit qu’il faut écarter guêpiers des ruches. On leur reproche de capturer sélectivement les faux-bourdons ce qui empêche la fécondation des reines ou de piller certaines ruches en y chassant de manière prolongée. Dans de nombreux pays, on les catalogue donc comme des ravageurs à détruire par tous moyens.</p>
+
+
+
+<p>Diverses études démontrent qu’en fait leur impact reste très limité numériquement. De plus, ils capturent par ailleurs des frelons ou des philanthes apivores (sortes de guêpes) considérés comme des prédateurs des abeilles ce qui compenserait largement les pertes infligées. Le frelon asiatique si décrié par les apiculteurs fait partie de ses captures. Les pertes ont été estimées entre 0,3 et 5,5% de la population locale d’abeilles domestiques soit 3 à 7% du nombre d’individus produits par mois. En Espagne, la consommation individuelle a été évaluée autour de 1300 abeilles pour une saison alors qu’une reine pond 1500 œufs … par jour. La part des abeilles augmente pendant la période d’élevage des jeunes.</p>
+
+
+
+<p>Parmi les parades, on conseille d’éloigner les ruches du site où est installé une colonie de guêpiers d’au moins un kilomètre, de bien les espacer au lieu de les regrouper (mais pas très pratique&nbsp;!) et de les couvrir par temps pluvieux ou très nuageux. Les ruches installées dans des environnements très riches en divers insectes sauvages voient aussi la prédation diminuer nettement.</p>
+
+
+
+<p>En fait, c’est plutôt en dehors de la période de reproduction que les guêpiers impactent le plus les abeilles, notamment quand ils sont en migration en groupes parfois nombreux, lors de haltes près de ruchers.</p>
+
+
+
+<h2 class="wp-block-heading">Venimeux&nbsp;?!</h2>
+
+
+
+<p>Les insectes, tous capturés en vol, ont une taille minimum de 1-1,5cm avec des maximums allant à 7,5cm voire des records au-dessus de 8cm&nbsp;!&nbsp; Les petites proies de moins de 1cm sont rarement exploitées.</p>
+
+
+
+<p>Ces gros insectes sont «&nbsp;traités&nbsp;» avant d’être avalés. L’oiseau qui a capturé sa proie revient sur un perchoir, la proie tenue avec la pointe du bec. Il frappe à plusieurs reprises l’insecte saisi pour le tuer. Plus la proie est grosse, plus le nombre de coups est élevé. Son bec et son crâne présentent des adaptations particulières (fusion d’os, renforcement) pour résister aux forces ainsi générées. Les grandes libellules sont aussi estourbies par des mouvements de la tête et offertes ainsi aux jeunes.</p>
+
+
+
+<p>Les Hyménoptères posent un problème avec leur dard venimeux. En effet, le guêpier n’est pas immunisé contre le venin&nbsp;: des piqûres multiples (notamment autour de l’œil à la peau dénudée) peuvent tuer un adulte. C’est d’ailleurs sans doute ce qui explique leur préférence envers les faux-bourdons des abeilles domestiques dépourvus de dard.</p>
+
+
+
+<p>On pense souvent que le guêpier enlève le dard avant de consommer une abeille, une guêpe ou frelon mais ce n’est pas le cas. On retrouve les dards dans les pelotes, preuve qu’ils ont été avalés. Dans la paroi de l’estomac de guêpiers morts, on a trouvé pas moins de 27 dards&nbsp;: on suppose que la cuticule épaisse qui tapisse la paroi gastrique le protège de cette agression.</p>
+
+
+
+<p>Il procède de la même manière qu’avec les autres insectes (voir ci-dessus) pour les tuer. Ensuite il les presse avec la pointe du bec et, parfois, les jette en l’air avant de les recapturer. Les bourdons sont parfois seulement légèrement triturés sans les tuer avant d’être avalés donc encore vivants.</p>
+
+
+
+<p>Occasionnellement, il insiste sur le bout de l’abdomen et le frotte vigoureusement sur le perchoir pour extraire le venin de la glande à venin. Mais le plus souvent, le venin n’est pas extrait et passe donc dans l’estomac.</p>
+
+
+
+<p>Un fait divers étonnant en Turquie suggère que le venin ainsi avalé se retrouve dans la chair du guêpier&nbsp;! Un chasseur de 52 ans avait tué et mangé un guêpier&nbsp;; une semaine plus tard, il était admis dans une clinique pour œdème laryngé avec tous les symptômes d’une forte réaction allergique au venin d’abeille&nbsp;: difficultés à respirer apparues 30 minutes après le repas, urticaire de la muqueuse buccale. Or, il avait par le passé à trois reprises été piqué par des abeilles et avec des réactions allergiques (la dernière fois quatre mois auparavant). Reste à démontrer que les allergènes toxiques du venin se retrouvent bien dans le sang du guêpier. Si vraiment ces toxines sont stockées dans la chair du guêpier, alors on pourrait interpréter ses couleurs vives très voyantes comme un signal d’avertissement envers les prédateurs (aposématisme).</p>
+
+
+
+<p>En captivité, on a pu tester diverses proies dont celles connues pour leur toxicité relative. Ainsi, les papillons écailles, les tenthrèdes, les chrysomèles, les coccinelles et les vers luisants sont rejetés. Par contre, les zygènes ou les cantharides officinales réputées pour leur extrême toxicité peuvent être consommés en petit nombre&nbsp;!</p>
+
+
+
+<h2 class="wp-block-heading">Chasseur aérien</h2>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep1.jpg"><img loading="lazy" decoding="async" width="900" height="600" data-id="33116" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep1.jpg" alt="" class="wp-image-33116" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep1.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep1-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep1-600x400.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption class="wp-element-caption">3 étapes du vol réunies (Giles Laurent ; C.C.4.0)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep2.jpg"><img loading="lazy" decoding="async" width="800" height="533" data-id="33117" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep2.jpg" alt="" class="wp-image-33117" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep2-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep2-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep2-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">(Giles Laurent ; C.C.4.0)</figcaption></figure>
+</figure>
+
+
+
+<p>Le guêpier ne chasse donc que des gros insectes en vol dans des espaces ouverts grâce à ses capacités voilières remarquables qui s’apparentent à celles des hirondelles. Une proie de la taille d’un bourdon peut être ciblée à 60m de distance et attaquée par en dessous avant d’être saisie par la pointe du bec. Si la proie esquive, il plonge derrière et cherche à la rattraper.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep9.jpg"><img loading="lazy" decoding="async" width="790" height="511" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep9.jpg" alt="" class="wp-image-33124" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep9.jpg 790w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep9-300x194.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep9-768x497.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep9-600x388.jpg 600w" sizes="(max-width: 790px) 100vw, 790px" /></a><figcaption class="wp-element-caption">Attitudes (Richard Crossley ; C.C. 3.0)</figcaption></figure></div>
+
+
+<p>Selon les conditions météorologiques, la structure de l’habitat de chasse et la période du cycle de reproduction (selon la nourriture destinée aux jeunes) il peut adopter trois grandes techniques de chasse qu’il utilise de manière très opportuniste&nbsp;: il choisit celle qui va lui offrir le plus grand succès.</p>
+
+
+
+<p>1)L’affût depuis un perchoir élevé&nbsp;: arbre ou arbuste dépassant de la végétation, tas de terre, lignes électriques ou téléphoniques, systèmes d’irrigation, clôtures, … Le perchoir bien dégagé doit donner accès à l’espace aérien autour. Le taux de succès avec cette méthode est 45% de réussites. Le guêpier peut réitérer une attaque s’il a raté le premier essai. Il revient généralement à son perchoir initial mais peut aussi en changer.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep10.jpg"><img loading="lazy" decoding="async" width="300" height="200" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep10-300x200.jpg" alt="" class="wp-image-33125" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep10-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep10-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep10-600x400.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep10.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-element-caption">Perchoir pour la chasse aux libellules (C. J. Sharp ; C.C. 3.0)</figcaption></figure></div>
+
+
+<p>2) La chasse «&nbsp;thermique&nbsp;» en vol dans le ciel&nbsp;: adoptée quand l’activité des insectes est élevée (beau temps chaud et calme)&nbsp;; le guêpier pourchasse ses proies en vol, isolément ou en groupes, jusqu’à 150m d’altitude pendant plusieurs minutes d’affilée. Les groupes en migration adoptent souvent cette technique, parfois en compagnie des hirondelles&nbsp;! Les plus grosses captures nécessitent un retour vers un perchoir pour être traitées (voir ci-dessus)&nbsp;; les plus petites sont consommées en vol.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep14.jpg"><img loading="lazy" decoding="async" width="800" height="450" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep14.jpg" alt="" class="wp-image-33129" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep14.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep14-300x169.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep14-768x432.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep14-600x338.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Envol depuis perchoir (Pierre Dalous C.C. 3.0)</figcaption></figure></div>
+
+
+<p>3) vols de chasse près du sol&nbsp;: depuis un perchoir ou depuis le terrier servant de site de nid&nbsp;; ceci concerne surtout les libellules, papillons, bourdons et autres gros insectes volants. Ces vols durent plusieurs minutes permettant d’accéder non seulement aux insectes volant au-dessus de la végétation mais aussi à ceux qui se déplacent d’herbe en herbe sur de petites distances comme des sauterelles. Les guêpiers peuvent même effrayer des insectes posés au sol comme des gros criquets qui s’envolent.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep13.jpg.jpg"><img loading="lazy" decoding="async" width="900" height="314" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep13.jpg.jpg" alt="" class="wp-image-33128" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep13.jpg.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep13.jpg-300x105.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep13.jpg-768x268.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep13.jpg-600x209.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption class="wp-element-caption">Groupe en migration à l&rsquo;affût sur une ligne électrique </figcaption></figure></div>
+
+
+<p>Très rarement, ils capturent des proies au sol sans se poser dont des coléoptères non volants, des araignées voire des escargots ou des vers de terre. Parfois aussi, ils volent sur place au-dessus de la cime d’arbres pour cueillir des proies posées.</p>
+
+
+
+<p>De très rares observations concernent aussi des guêpiers en train de … pêcher à la manière du martin-pêcheur (voir la parenté relative à la fin de la chronique) ou de sternes&nbsp;!</p>
+
+
+
+<h2 class="wp-block-heading">Chasseur optimal</h2>
+
+
+
+<p>En période de nidification, le guêpier va chasser au maximum jusqu’à 2km de la colonie mais le plus souvent il reste dans un rayon de 1km. Quand les jeunes sont nés, il restreint ses mouvements dans un rayon de 400m au plus. Compte tenu du coût énergétique de sa chasse en vol, le guêpier se trouve très contraint et doit mettre en œuvre des stratégies optimales pour assurer son activité et le nourrissage de sa nichée.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep11.jpg.jpg"><img loading="lazy" decoding="async" width="300" height="200" src="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep11.jpg-300x200.jpg" alt="" class="wp-image-33126" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep11.jpg-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep11.jpg-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep11.jpg-600x400.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2024/08/guep11.jpg.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-element-caption">Colonie installée sur un talus de terre (Val d&rsquo;Allier)</figcaption></figure></div>
+
+
+<p>Il ne ramène qu’une proie à la fois et doit donc choisir à chaque fois une proie «&nbsp;valable&nbsp;», apportant le minimum calorique couvrant ses besoins. Il va passer plus de temps pour capturer des proies plus grosses mais donc moins souvent. Le choix des proies dépend aussi de la distance à parcourir pour revenir au nid. S’il est proche du nid, il n’aura pas à faire de choix et chassera les proies en fonction de leur abondance. S’il est loin, il va sélectionner des proies plus grosses quitte à y passer plus de temps. La distance de vol critique entre le site de chasse et le nid se situe autour de 40 à 60 s de vol soit un rayon de 400-600m vu sa vitesse de vol (10m/s). De toutes façons, les proies rapportées aux jeunes sont globalement plus grosses que celles qu’il consomme pour lui-même.</p>
+
+
+
+<p>Plus l’élevage des jeunes avance, plus les adultes tendent à rester près de la colonie pour chasser et les apports sont très rapprochés même si ce sont de petites proies nombreuses.</p>
+
+
+
+<p>La taille de la colonie importe aussi car ils gagnent du temps pour trouver les ressources optimales. Le taux de nourrissage d’un couple augmente d’autant qu’il est proche d’autres couples nicheurs confirmant ainsi un échange d’informations. Le choix du site d’implantation de la colonie&nbsp;importe donc : ceci explique pourquoi parfois les nids sont creusés dans des substrats peu adaptés qui n’auraient pas autrement été retenus s’il n’y avait pas des ressources abondantes autour.</p>
+
+
+
+<h2 class="wp-block-heading">&nbsp;Pelotes</h2>
+
+
+
+<p>Terminons ce tour d’horizon de l’alimentation du guêpier par les pelotes de régurgitation mentionnées en début de chronique. Elles renferment toutes les parties dures des insectes consommés, ce qu’on appelle l’exosquelette, enduit d’une substance durcissante, la chitine, non digérable. Outre les élytres (ailes durcies), les pattes, on y trouve les capsules céphaliques et les segments thoraciques. Même les ailes fines des Hyménoptères s’y retrouvent en sus des dards déjà cités.</p>
+
+
+
+<p>Les espèces d’insectes à exosquelette moins durci laissent moins de traces comme les libellules et les papillons&nbsp;; de plus, les guêpiers enlèvent parfois les grandes ailes de ces insectes (indigestes de toutes façons) pour les avaler plus facilement.</p>
+
+
+
+<p>Les pelotes sont rejetées toutes les 1,5 à 4 heures soit environ six fois par jour. Si au moment d’émettre une pelote, l’oiseau tient une proie en son bec, il la garde de côté le temps d’évacuer la pelote. Les pelotes sont fragiles, lâches et noir brillant&nbsp;; longues de 2,5 à 3,5cm, elles pèsent entre 0,15 et 0,30 gr. On peut parfois y trouver des grains de sable, des fragments de coquilles d’œuf et même des débris de céramique, collectés au sol.</p>
+
+
+
+<p>Ne pas confondre les pelotes avec les excréments issus de la digestion complète des proies consommées&nbsp;: ce sont comme chez les autres oiseaux des fientes liquides. Contrairement à ce qui se passe chez les passereaux dont les parents évacuent les fientes des oisillons, les jeunes guêpiers défèquent au fond de leur nid, une chambre au bout d’une tunnel creusé dans un substrat meuble. Ils se tournent vers le fond pour projeter leurs fientes contre les parois de la chambre ce qui permet de conserver la coupe centrale assez propre. Il n’y a pas non plus de membrane autour des fientes des jeunes qui permettent leur transport hors du nid par les adultes.</p>
+
+
+
+<p>Rappelons que les guêpiers ne sont pas du tout apparentés aux Passereaux&nbsp;: leur famille (Méropidés) se situe dans un ordre éloigné, les Coraciiformes où ils côtoient les Rolliers (Coraciidés), les Martins-Pêcheurs (Alcédinidés) et des familles entièrement exotiques comme les Todiers ou les Motmots.</p>
+
+
+
+<h2 class="wp-block-heading">Bibliographie</h2>
+
+
+
+<p>Bastian, H.-V. and A. Bastian (2024). <strong>European Bee-eater (<em>Merops apiaster</em>)</strong>, version 3.0. In Birds of the World (S. M. Billerman and B. K. Keeney, Editors). Cornell Lab of Ornithology, Ithaca, NY, USA.</p>
+
+
+
+<p>Gulbahar, O., N. Mete, O. Ardeniz, K. Onbasi, A. Kokuludag, A. Sin, and F. Sebik (2003). <strong>Laryngeal edema due to European bee-eater (Merops apiaster) in a patient allergic to honeybee. </strong>Allergy 58:453</p><p>The post <a href="https://www.zoom-nature.fr/le-guepier-deurope-merite-t-il-son-nom/">Le guêpier d’Europe mérite-t-il son nom ? </a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Faucheurs de prairies : agents de dispersion au long cours</title>
 		<link>https://www.zoom-nature.fr/faucheurs-de-prairies-agents-de-dispersion-au-long-cours/</link>
 		
@@ -39,12 +355,12 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2.jpg"><img fetchpriority="high" decoding="async" width="800" height="575" data-id="33102" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2.jpg" alt="" class="wp-image-33102" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2-300x216.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2-768x552.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2-600x431.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Fruits d&rsquo;aigremoine accrochés sur un pantalon </figcaption></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2.jpg"><img loading="lazy" decoding="async" width="800" height="575" data-id="33102" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2.jpg" alt="" class="wp-image-33102" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2-300x216.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2-768x552.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anthr1-2-600x431.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Fruits d&rsquo;aigremoine accrochés sur un pantalon </figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1.jpg"><img decoding="async" width="800" height="612" data-id="33103" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1.jpg" alt="" class="wp-image-33103" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1-300x230.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1-768x588.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1-600x459.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Graines de plantain majeur : hydratées, elles deviennent collantes et adhèrent aux semelles des chaussures </figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1.jpg"><img loading="lazy" decoding="async" width="800" height="612" data-id="33103" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1.jpg" alt="" class="wp-image-33103" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1-300x230.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1-768x588.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans6-1-600x459.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Graines de plantain majeur : hydratées, elles deviennent collantes et adhèrent aux semelles des chaussures </figcaption></figure>
 </figure>
 
 
@@ -65,8 +381,8 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1.jpg"><img decoding="async" width="900" height="530" data-id="33105" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1.jpg" alt="" class="wp-image-33105" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1-300x177.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1-768x452.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1-600x353.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption class="wp-element-caption">Faneuse et tracteur en action : les roues peuvent collecter de nombreuses graines </figcaption></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1.jpg"><img loading="lazy" decoding="async" width="900" height="530" data-id="33105" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1.jpg" alt="" class="wp-image-33105" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1-300x177.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1-768x452.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-trans1-1-600x353.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption class="wp-element-caption">Faneuse et tracteur en action : les roues peuvent collecter de nombreuses graines </figcaption></figure>
 
 
 
@@ -87,7 +403,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr0-2.jpg"><img loading="lazy" decoding="async" width="900" height="515" data-id="33106" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr0-2.jpg" alt="" class="wp-image-33106" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr0-2.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr0-2-300x172.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr0-2-768x439.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr0-2-600x343.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption class="wp-element-caption">Diversité de la flore des prairies semi naturelles </figcaption></figure>
 
 
@@ -101,7 +417,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr2-1.jpg"><img loading="lazy" decoding="async" width="800" height="534" data-id="33108" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr2-1.jpg" alt="" class="wp-image-33108" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr2-1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr2-1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr2-1-768x513.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-pr2-1-600x401.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
 
 
@@ -126,7 +442,7 @@
 <figure class="aligncenter size-full is-resized"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc.liste_-1.jpg"><img loading="lazy" decoding="async" width="900" height="615" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc.liste_-1.jpg" alt="" class="wp-image-33070" style="width:900px;height:auto" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc.liste_-1.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc.liste_-1-300x205.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc.liste_-1-768x525.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc.liste_-1-600x410.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption class="wp-element-caption">ESPECES DISPERSEES PAR DES HUMAINS DANS CETTE EXPERIMENTATION (source : biblio)<br><em>Nous n’avons retenu que les espèces dont on a retrouvé des graines dans au moins dix prairies .<br><strong>Epizoochorie</strong> : mode de dispersion par accrochage soit via des dispositifs particuliers (crochets, pointes) ou par la forme des graines/fruits comme les épillets des graminées.<br>Anémochorie : par le vent ; mais souvent, les appendices plumeux s’accrochent aussi sur les vêtements </em></figcaption></figure></div>
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-gram5-2.jpg"><img loading="lazy" decoding="async" width="800" height="578" data-id="33073" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-gram5-2.jpg" alt="" class="wp-image-33073" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-gram5-2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-gram5-2-300x217.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-gram5-2-768x555.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-gram5-2-600x434.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Exemples d&rsquo;épillets de graminées transportables : Houlque </figcaption></figure>
 
 
@@ -144,7 +460,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-geum1-1.jpg"><img loading="lazy" decoding="async" width="800" height="598" data-id="33090" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-geum1-1.jpg" alt="" class="wp-image-33090" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-geum1-1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-geum1-1-300x224.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-geum1-1-768x574.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-geum1-1-600x449.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Benoîte des ruisseaux </figcaption></figure>
 
 
@@ -162,7 +478,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-10 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anem1-3.jpg"><img loading="lazy" decoding="async" width="800" height="576" data-id="33110" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anem1-3.jpg" alt="" class="wp-image-33110" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anem1-3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anem1-3-300x216.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anem1-3-768x553.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-anem1-3-600x432.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Fruits anémochores qui peuvent s&rsquo;accrocher aux pelages et vêtements : Epervière </figcaption></figure>
 
 
@@ -199,7 +515,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-11 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-mout1-1.jpg"><img loading="lazy" decoding="async" width="800" height="600" data-id="33101" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-mout1-1.jpg" alt="" class="wp-image-33101" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-mout1-1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-mout1-1-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-mout1-1-768x576.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/fauc-mout1-1-600x450.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Dans les montagnes du Midi, les troupeaux viennent souvent de régions plus au nord (Roland Guillot)</figcaption></figure>
 
 
@@ -250,7 +566,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-12 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud0-1.jpg"><img loading="lazy" decoding="async" width="800" height="532" data-id="33043" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud0-1.jpg" alt="" class="wp-image-33043" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud0-1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud0-1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud0-1-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud0-1-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
 
 
@@ -279,7 +595,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-10 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-13 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-diu1.jpg"><img loading="lazy" decoding="async" width="900" height="621" data-id="33038" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-diu1.jpg" alt="" class="wp-image-33038" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-diu1.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-diu1-300x207.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-diu1-768x530.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-diu1-600x414.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption class="wp-element-caption">Papillons diurnes pollinisateurs : Piéride </figcaption></figure>
 
 
@@ -297,7 +613,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-11 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-14 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-noc1.jpg"><img loading="lazy" decoding="async" width="800" height="558" data-id="33039" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-noc1.jpg" alt="" class="wp-image-33039" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-noc1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-noc1-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-noc1-768x536.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud1-noc1-600x419.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Deux exemples de papillons de nuit pollinisateurs : phalène blanche </figcaption></figure>
 
 
@@ -323,7 +639,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-12 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-15 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-1.jpg"><img loading="lazy" decoding="async" width="800" height="584" data-id="33033" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-1.jpg" alt="" class="wp-image-33033" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-1-300x219.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-1-768x561.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-1-600x438.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Lavande : fleur bleue, épi dense, longue corolle en tube </figcaption></figure>
 
 
@@ -371,7 +687,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-13 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-16 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-fle.jpg"><img loading="lazy" decoding="async" width="800" height="562" data-id="33031" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-fle.jpg" alt="" class="wp-image-33031" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-fle.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-fle-300x211.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-fle-768x540.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud2-fle-600x422.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Lilas : fleurs odorantes mauves en groupes serrés ; corolle en tube étroit </figcaption></figure>
 
 
@@ -389,7 +705,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-14 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-17 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-col1.jpg"><img loading="lazy" decoding="async" width="800" height="532" data-id="33029" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-col1.jpg" alt="" class="wp-image-33029" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-col1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-col1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-col1-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-col1-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Forme violet foncé </figcaption></figure>
 
 
@@ -415,7 +731,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-15 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-18 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-fl2.jpg"><img loading="lazy" decoding="async" width="800" height="592" data-id="33025" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-fl2.jpg" alt="" class="wp-image-33025" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-fl2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-fl2-300x222.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-fl2-768x568.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-fl2-600x444.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Tache colorée au centre de la corolle en tube </figcaption></figure>
 
 
@@ -429,7 +745,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-16 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-19 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-inf1.jpg"><img loading="lazy" decoding="async" width="800" height="558" data-id="33028" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-inf1.jpg" alt="" class="wp-image-33028" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-inf1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-inf1-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-inf1-768x536.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud3-inf1-600x419.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Inflorescences très denses et légèrement arquées offrant une facilité d&rsquo;atterrissage </figcaption></figure>
 
 
@@ -478,7 +794,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-17 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-20 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud5-3.jpg"><img loading="lazy" decoding="async" width="800" height="557" data-id="33020" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud5-3.jpg" alt="" class="wp-image-33020" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud5-3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud5-3-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud5-3-768x535.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud5-3-600x418.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
 
 
@@ -516,7 +832,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-18 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-21 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud6-2.jpg"><img loading="lazy" decoding="async" width="800" height="536" data-id="33018" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud6-2.jpg" alt="" class="wp-image-33018" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud6-2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud6-2-300x201.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud6-2-768x515.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/bud6-2-600x402.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Parmi les autres visiteurs réguliers figurent : les abeilles domestiques et &#8230;</figcaption></figure>
 
 
@@ -607,7 +923,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-19 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-22 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax0-1.jpg"><img loading="lazy" decoding="async" width="533" height="800" data-id="33010" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax0-1.jpg" alt="" class="wp-image-33010" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax0-1.jpg 533w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax0-1-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /></a><figcaption class="wp-element-caption">Frêne « libre » </figcaption></figure>
 
 
@@ -621,7 +937,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-20 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-23 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax0-li1.jpg"><img loading="lazy" decoding="async" width="477" height="800" data-id="33011" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax0-li1.jpg" alt="" class="wp-image-33011" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax0-li1.jpg 477w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax0-li1-179x300.jpg 179w" sizes="(max-width: 477px) 100vw, 477px" /></a></figure>
 
 
@@ -639,7 +955,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-21 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-24 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-cya1.jpg"><img loading="lazy" decoding="async" width="800" height="532" data-id="33006" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-cya1.jpg" alt="" class="wp-image-33006" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-cya1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-cya1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-cya1-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-cya1-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Deux cyanolichens sur frênes  : <em>Leptogium saturninum</em></figcaption></figure>
 
 
@@ -656,7 +972,7 @@
 <figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob.jpg"><img loading="lazy" decoding="async" width="225" height="300" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob-225x300.jpg" alt="" class="wp-image-33004" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob-225x300.jpg 225w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob-600x800.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob.jpg 675w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption class="wp-element-caption">Frêne porteur du lichen pulmonaire</figcaption></figure></div>
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-22 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-25 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob2.jpg"><img loading="lazy" decoding="async" width="800" height="691" data-id="33002" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob2.jpg" alt="" class="wp-image-33002" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob2-300x259.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob2-768x663.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax1-lob2-600x518.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Lichen pulmonaire </figcaption></figure>
 
 
@@ -678,7 +994,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-23 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-26 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-pay1.jpg"><img loading="lazy" decoding="async" width="533" height="800" data-id="32999" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-pay1.jpg" alt="" class="wp-image-32999" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-pay1.jpg 533w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-pay1-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /></a><figcaption class="wp-element-caption">Frênes en paysage bocager </figcaption></figure>
 
 
@@ -692,7 +1008,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-24 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-27 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-lic1.jpg"><img loading="lazy" decoding="async" width="800" height="532" data-id="33001" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-lic1.jpg" alt="" class="wp-image-33001" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-lic1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-lic1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-lic1-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax2-lic1-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
 
 
@@ -721,7 +1037,7 @@
 <figure class="aligncenter size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-tab.jpg"><img loading="lazy" decoding="async" width="900" height="376" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-tab.jpg" alt="" class="wp-image-32997" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-tab.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-tab-300x125.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-tab-768x321.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-tab-600x251.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a></figure></div>
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-25 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-28 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-lic1.jpg"><img loading="lazy" decoding="async" width="800" height="533" data-id="32989" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-lic1.jpg" alt="" class="wp-image-32989" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-lic1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-lic1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-lic1-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-lic1-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">3 ex. de lichens : <em>F. caperata </em></figcaption></figure>
 
 
@@ -739,7 +1055,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-26 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-29 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-mou-kind.jpg"><img loading="lazy" decoding="async" width="800" height="534" data-id="32996" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-mou-kind.jpg" alt="" class="wp-image-32996" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-mou-kind.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-mou-kind-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-mou-kind-768x513.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-mou-kind-600x401.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">3 mousses : <em>K. praelonga </em></figcaption></figure>
 
 
@@ -757,7 +1073,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-27 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-30 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-hep1.jpg"><img loading="lazy" decoding="async" width="800" height="533" data-id="32988" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-hep1.jpg" alt="" class="wp-image-32988" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-hep1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-hep1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-hep1-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-hep1-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">3 hépatiques : <em>M. furcata</em></figcaption></figure>
 
 
@@ -779,7 +1095,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-28 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-31 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-v1.jpg"><img loading="lazy" decoding="async" width="533" height="800" data-id="32992" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-v1.jpg" alt="" class="wp-image-32992" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-v1.jpg 533w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax3-v1-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /></a><figcaption class="wp-element-caption">Mousses et microhabitats </figcaption></figure>
 
 
@@ -805,7 +1121,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-29 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-32 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-evo1.jpg"><img loading="lazy" decoding="async" width="800" height="571" data-id="32983" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-evo1.jpg" alt="" class="wp-image-32983" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-evo1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-evo1-300x214.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-evo1-768x548.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-evo1-600x428.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
 
 
@@ -823,7 +1139,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-30 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-33 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-eco3.jpg"><img loading="lazy" decoding="async" width="487" height="800" data-id="32978" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-eco3.jpg" alt="" class="wp-image-32978" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-eco3.jpg 487w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-eco3-183x300.jpg 183w" sizes="(max-width: 487px) 100vw, 487px" /></a></figure>
 
 
@@ -845,7 +1161,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-31 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-34 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-br1.jpg"><img loading="lazy" decoding="async" width="800" height="532" data-id="32977" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-br1.jpg" alt="" class="wp-image-32977" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-br1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-br1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-br1-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax4-br1-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Les brindilles et petites branches sont aussi colonisées </figcaption></figure>
 
 
@@ -859,7 +1175,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-32 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-35 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-tap1.jpg"><img loading="lazy" decoding="async" width="466" height="800" data-id="32975" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-tap1.jpg" alt="" class="wp-image-32975" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-tap1.jpg 466w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-tap1-175x300.jpg 175w" sizes="(max-width: 466px) 100vw, 466px" /></a><figcaption class="wp-element-caption">Trognes âgées avec un fort recouvrement de mousses </figcaption></figure>
 
 
@@ -877,7 +1193,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-33 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-36 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-comp2.jpg"><img loading="lazy" decoding="async" width="800" height="614" data-id="32971" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-comp2.jpg" alt="" class="wp-image-32971" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-comp2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-comp2-300x230.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-comp2-768x589.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax5-comp2-600x461.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Compétition entre lichens (crustacé versus foliacé)</figcaption></figure>
 
 
@@ -895,7 +1211,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-34 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-37 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-pay1.jpg"><img loading="lazy" decoding="async" width="800" height="521" data-id="32969" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-pay1.jpg" alt="" class="wp-image-32969" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-pay1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-pay1-300x195.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-pay1-768x500.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-pay1-600x391.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Différentes situations d&rsquo;éclairage et d&rsquo;interactions </figcaption></figure>
 
 
@@ -913,7 +1229,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-35 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-38 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-amb1.jpg"><img loading="lazy" decoding="async" width="800" height="533" data-id="32965" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-amb1.jpg" alt="" class="wp-image-32965" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-amb1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-amb1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-amb1-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax6-amb1-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Trois ambiances microclimatiques très différentes </figcaption></figure>
 
 
@@ -931,7 +1247,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-36 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-39 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-eau1.jpg"><img loading="lazy" decoding="async" width="532" height="800" data-id="32962" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-eau1.jpg" alt="" class="wp-image-32962" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-eau1.jpg 532w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-eau1-200x300.jpg 200w" sizes="(max-width: 532px) 100vw, 532px" /></a><figcaption class="wp-element-caption">Proximité de l&rsquo;eau (Marais poitevin) très favorable</figcaption></figure>
 
 
@@ -953,7 +1269,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-37 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-40 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-mor3.jpg"><img loading="lazy" decoding="async" width="800" height="571" data-id="32954" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-mor3.jpg" alt="" class="wp-image-32954" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-mor3.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-mor3-300x214.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-mor3-768x548.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-mor3-600x428.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Dépérissement et mortalité en hausse en bocage </figcaption></figure>
 
 
@@ -971,7 +1287,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-38 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-41 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-em1.jpg"><img loading="lazy" decoding="async" width="533" height="800" data-id="32960" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-em1.jpg" alt="" class="wp-image-32960" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-em1.jpg 533w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/frax7-em1-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /></a><figcaption class="wp-element-caption">Emondage : taille et étêtage </figcaption></figure>
 
 
@@ -1009,7 +1325,7 @@
 
 					<description><![CDATA[<p>Quiconque s’intéresse aux vieux arbres et surtout aux trognes, ces arbres taillés et étêtés régulièrement, [&#8230;]</p>
 <p>The post <a href="https://www.zoom-nature.fr/epiphytes-accidentelles-des-plantes-perchees-dans-les-arbres/">Épiphytes accidentelles : des plantes perchées dans les arbres</a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></description>
-										<content:encoded><![CDATA[<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-39 is-layout-flex wp-block-gallery-is-layout-flex">
+										<content:encoded><![CDATA[<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-42 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-exo1.jpg"><img loading="lazy" decoding="async" width="531" height="800" data-id="32948" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-exo1.jpg" alt="" class="wp-image-32948" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-exo1.jpg 531w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-exo1-199x300.jpg 199w" sizes="(max-width: 531px) 100vw, 531px" /></a><figcaption class="wp-element-caption">Epiphytes tropicales : dans une serre </figcaption></figure>
 
 
@@ -1032,7 +1348,7 @@
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex">
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-40 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-43 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-1.jpg"><img loading="lazy" decoding="async" width="800" height="563" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-1.jpg" alt="" class="wp-image-32949" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-1-300x211.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-1-768x540.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi0-1-600x422.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Gaillet gratteron </figcaption></figure>
 
 
@@ -1059,7 +1375,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-41 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-44 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-rib2.jpg"><img loading="lazy" decoding="async" width="800" height="567" data-id="32941" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-rib2.jpg" alt="" class="wp-image-32941" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-rib2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-rib2-300x213.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-rib2-768x544.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-rib2-600x425.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Exemple classique : le groseillier à maquereaux sur saule têtard</figcaption></figure>
 
 
@@ -1080,7 +1396,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-42 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-45 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-mah1.jpg"><img loading="lazy" decoding="async" width="800" height="600" data-id="32935" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-mah1.jpg" alt="" class="wp-image-32935" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-mah1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-mah1-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-mah1-768x576.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-mah1-600x450.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Sur ce saule têtard, un cerisier de Sainte-Lucie (encadré en rouge) s&rsquo;est installé sur le côté de la tête </figcaption></figure>
 
 
@@ -1094,7 +1410,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-43 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-46 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-pol2.jpg"><img loading="lazy" decoding="async" width="800" height="557" data-id="32938" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-pol2.jpg" alt="" class="wp-image-32938" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-pol2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-pol2-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-pol2-768x535.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi1-pol2-600x418.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Polypode épiphyte sur un vieux chêne vert en forêt littorale </figcaption></figure>
 
 
@@ -1116,7 +1432,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-44 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-47 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epihem2.jpg"><img loading="lazy" decoding="async" width="529" height="800" data-id="32937" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epihem2.jpg" alt="" class="wp-image-32937" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epihem2.jpg 529w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epihem2-198x300.jpg 198w" sizes="(max-width: 529px) 100vw, 529px" /></a><figcaption class="wp-element-caption">Frêne installé dans une trogne de saule morte après son installation </figcaption></figure>
 
 
@@ -1134,7 +1450,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-45 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-48 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epihem-ter3.jpg"><img loading="lazy" decoding="async" width="458" height="800" data-id="32929" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epihem-ter3.jpg" alt="" class="wp-image-32929" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epihem-ter3.jpg 458w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epihem-ter3-172x300.jpg 172w" sizes="(max-width: 458px) 100vw, 458px" /></a><figcaption class="wp-element-caption">Saule éventré révélant son contenu de terreau </figcaption></figure>
 
 
@@ -1160,7 +1476,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-46 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-49 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-mic-plf.jpg"><img loading="lazy" decoding="async" width="800" height="532" data-id="32928" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-mic-plf.jpg" alt="" class="wp-image-32928" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-mic-plf.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-mic-plf-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-mic-plf-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-mic-plf-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Plate-forme sommitale (frêne) engendrée par le trognage </figcaption></figure>
 
 
@@ -1185,7 +1501,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-47 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-50 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-epi1.jpg"><img loading="lazy" decoding="async" width="800" height="551" data-id="32927" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-epi1.jpg" alt="" class="wp-image-32927" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-epi1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-epi1-300x207.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-epi1-768x529.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi2-epi1-600x413.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Lamier blanc dans une cavité (platane)</figcaption></figure>
 
 
@@ -1207,7 +1523,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-48 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-51 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-mous1.jpg"><img loading="lazy" decoding="async" width="800" height="532" data-id="32919" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-mous1.jpg" alt="" class="wp-image-32919" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-mous1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-mous1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-mous1-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-mous1-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Le tapis de mousse conserve de l&rsquo;humidité autour de cette grosse cavité propice</figcaption></figure>
 
 
@@ -1221,7 +1537,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-49 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-52 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-cavter.jpg"><img loading="lazy" decoding="async" width="800" height="533" data-id="32920" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-cavter.jpg" alt="" class="wp-image-32920" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-cavter.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-cavter-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-cavter-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-cavter-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Futur sol arboré </figcaption></figure>
 
 
@@ -1235,7 +1551,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-50 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-53 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi4-ecoul.jpg"><img loading="lazy" decoding="async" width="533" height="800" data-id="32916" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi4-ecoul.jpg" alt="" class="wp-image-32916" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi4-ecoul.jpg 533w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi4-ecoul-200x300.jpg 200w" sizes="(max-width: 533px) 100vw, 533px" /></a><figcaption class="wp-element-caption">Creux avec suintement d&rsquo;eau favorable (sureau noir et moehringie)</figcaption></figure>
 
 
@@ -1249,7 +1565,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-51 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-54 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-ter2.jpg"><img loading="lazy" decoding="async" width="800" height="629" data-id="32915" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-ter2.jpg" alt="" class="wp-image-32915" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-ter2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-ter2-300x236.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-ter2-768x604.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi3-ter2-600x472.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Accumulation de litière = futur terreau riche </figcaption></figure>
 
 
@@ -1295,7 +1611,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-52 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-55 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi5-1.jpg"><img loading="lazy" decoding="async" width="447" height="800" data-id="32910" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi5-1.jpg" alt="" class="wp-image-32910" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi5-1.jpg 447w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi5-1-168x300.jpg 168w" sizes="(max-width: 447px) 100vw, 447px" /></a><figcaption class="wp-element-caption">Jeune épicéa dans la tête d&rsquo;une trogne de frêne</figcaption></figure>
 
 
@@ -1364,7 +1680,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-53 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-56 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-ane1.jpg"><img loading="lazy" decoding="async" width="800" height="532" data-id="32907" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-ane1.jpg" alt="" class="wp-image-32907" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-ane1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-ane1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-ane1-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-ane1-600x399.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Epiphytes anémochores : laiteron potager sur saule </figcaption></figure>
 
 
@@ -1382,7 +1698,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-54 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-57 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-endo1.jpg"><img loading="lazy" decoding="async" width="800" height="562" data-id="32906" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-endo1.jpg" alt="" class="wp-image-32906" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-endo1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-endo1-300x211.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-endo1-768x540.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-endo1-600x422.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Epiphytes endozoochores : morelle douce-amère</figcaption></figure>
 
 
@@ -1400,7 +1716,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-55 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-58 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-epiz1.jpg"><img loading="lazy" decoding="async" width="800" height="600" data-id="32898" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-epiz1.jpg" alt="" class="wp-image-32898" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-epiz1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-epiz1-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-epiz1-768x576.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-epiz1-600x450.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Epiphytes épizoochores : benoîte (fruits crochus)</figcaption></figure>
 
 
@@ -1414,7 +1730,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-56 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-59 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-myrm1.jpg"><img loading="lazy" decoding="async" width="800" height="583" data-id="32904" src="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-myrm1.jpg" alt="" class="wp-image-32904" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-myrm1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-myrm1-300x219.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-myrm1-768x560.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/07/epi7-myrm1-600x437.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-element-caption">Epiphytes myrmécochores probables : Moehringie à trois nervures </figcaption></figure>
 
 
@@ -1471,333 +1787,6 @@
 		
 		
 			</item>
-		<item>
-		<title>Pucerons : des suceurs de sève</title>
-		<link>https://www.zoom-nature.fr/pucerons-des-suceurs-de-seve/</link>
-		
-		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
-		<pubDate>Thu, 20 Jun 2024 15:12:16 +0000</pubDate>
-				<category><![CDATA[Pucerons (Hémiptères)]]></category>
-		<category><![CDATA[Aphididé]]></category>
-		<category><![CDATA[Aphidien]]></category>
-		<category><![CDATA[Buchnera]]></category>
-		<category><![CDATA[Hémiptère]]></category>
-		<category><![CDATA[Homoptère]]></category>
-		<category><![CDATA[Insecte piqueur-suceur]]></category>
-		<category><![CDATA[Miellat]]></category>
-		<category><![CDATA[Mutualisme]]></category>
-		<category><![CDATA[Sève élaborée]]></category>
-		<category><![CDATA[Symbiose]]></category>
-		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=32878</guid>
-
-					<description><![CDATA[<p>20/06/2024 Les pucerons se démarquent des autres insectes par toute une série d’originalités et de [&#8230;]</p>
-<p>The post <a href="https://www.zoom-nature.fr/pucerons-des-suceurs-de-seve/">Pucerons : des suceurs de sève</a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>20/06/2024 Les pucerons se démarquent des autres insectes par toute une série d’originalités et de spécialisations extrêmes souvent inégalées qui en font un « monde à part ». Nous les avons découverts en tant que groupe au sein des Hémiptères dans la chronique <em><a href="https://www.zoom-nature.fr/pucerons-qui-etes-vous-vraiment/">Pucerons : qui êtes-vous vraiment ?</a></em> Nous avons, à cette occasion, commencé à aborder leur rapport avec les plantes hôtes, i.e. celles dont ils se nourrissent. Ici, nous allons détailler leur comportement alimentaire très spécifique. Nous évoquerons aussi deux effets collatéraux de leur mode de nutrition : la production de miellat et la transmission de virus. Nous découvrirons aussi plusieurs interactions remarquables avec d’autres organismes : fourmis, bactéries symbiotiques, …</p>
-
-
-
-<h2 class="wp-block-heading">Piqueur-suceur</h2>
-
-
-
-<p>Comme tous les insectes, les pucerons se nourrissent à l’aide d’appendices articulés, insérés autour de la bouche : les <strong>pièces buccales</strong>. Comme tous les Hémiptères, leur ordre de rattachement au sein des insectes <a href="https://www.zoom-nature.fr/pucerons-qui-etes-vous-vraiment/">(voir la chronique 1)</a>, les pièces buccales des pucerons sont très transformées, très loin du type ancestral broyeur comme chez les <a href="https://www.zoom-nature.fr/coleopteres-to-be-or-no-to-be-a-beetle/">coléoptères</a> : elles forment un <strong>rostre</strong> avec lequel ils piquent depuis la surface des plantes pour prélever la sève dans les vaisseaux où elle circule : on parle d’insecte <strong>piqueur-suceur</strong>. </p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-57 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-rostre.jpg"><img loading="lazy" decoding="async" width="900" height="518" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-rostre.jpg" alt="" data-id="32881" data-link="https://www.zoom-nature.fr/?attachment_id=32881" class="wp-image-32881" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-rostre.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-rostre-300x173.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-rostre-768x442.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-rostre-600x345.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Schémas extraits de Encycl&rsquo;Aphid (voir Biblio)</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-stylets.jpg"><img loading="lazy" decoding="async" width="900" height="594" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-stylets.jpg" alt="" data-id="32880" data-link="https://www.zoom-nature.fr/?attachment_id=32880" class="wp-image-32880" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-stylets.jpg 900w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-stylets-300x198.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-stylets-768x507.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-stylets-600x396.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" /></a></figure></li></ul>
-
-
-
-<p>Le rostre des pucerons se compose d’une pièce bien
-développée, le <strong>labre</strong> ou labium, en forme de fourreau avec une gouttière
-dans laquelle peuvent coulisser les unes par rapport aux autres deux paires de
-pièces buccales transformées en stylets&nbsp;: deux <strong>stylets mandibulaires</strong>
-externes encadrant deux <strong>stylets maxillaires</strong> internes à la morphologie
-intérieure très complexe (maxilles ou mâchoires). L’emboîtement très étroit des
-deux stylets maxillaires ménage deux canaux&nbsp;: un grand central, dit <strong>alimentaire</strong>
-et un plus petit, latéral, dit <strong>salivaire</strong>. A l’intérieur des deux stylets
-mandibulaires on trouve des <strong>dendrites</strong>, terminaisons nerveuses
-importantes lors de l’activité alimentaire (perception sensorielle). </p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-58 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros1.jpg"><img loading="lazy" decoding="async" width="800" height="600" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros1.jpg" alt="" data-id="32886" data-link="https://www.zoom-nature.fr/?attachment_id=32886" class="wp-image-32886" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros1-300x225.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros1-768x576.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros1-600x450.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Pucerons <em>Cinara</em> à long rostre bien visible </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros2.jpg"><img loading="lazy" decoding="async" width="800" height="564" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros2.jpg" alt="" data-id="32885" data-link="https://www.zoom-nature.fr/?attachment_id=32885" class="wp-image-32885" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros2-300x212.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros2-768x541.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-ros2-600x423.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure></li></ul>
-
-
-
-<p>Pour atteindre la sève, le puceron pique et enfonce ses stylets pointus ; sur les feuilles minces, il perce très peu profondément mais sur les tiges ou les grosses nervures des feuilles, il doit aller plus en profondeur avant de trouver les tissus du <strong>phloème</strong> avec les vaisseaux (<strong>tubes criblés</strong>) où circule la sève élaborée. Selon les espèces de pucerons, soit les stylets s’insinuent entre les cellules des couches à traverser avant d’atteindre les vaisseaux (trajet intercellulaire un peu sinueux), soit, plus rarement, en traversant ces cellules interposées (trajet intracellulaire plus direct mais plus coûteux en énergie). Pendant toute cette manœuvre, le labre (voir ci-dessus) fonctionne comme un guide, appuyé sur la surface de la plante, à l’intérieur duquel vont et viennent les stylets perceurs. </p>
-
-
-
-<h2 class="wp-block-heading">Étui stylaire </h2>
-
-
-
-<p>Les deux canaux ménagés entre les deux stylets maxillaires
-remplissent deux rôles distincts&nbsp;: le canal salivaire dirige les salives
-secrétées (voir ci-dessous) par le puceron vers la plante tandis que le canal
-alimentaire permet de récupérer la sève, une fois qu’un vaisseau a été atteint.
-En fait, le puceron n’a même pas besoin d’aspirer car le flux de sève sous
-pression dans la plante remonte spontanément, de manière passive du point de
-vue du puceron. </p>
-
-
-
-<p>Pendant la piqûre, le puceron dépose en surface puis injecte
-dans le vaisseau atteint une salive dense et chargée en protéines qui a
-tendance à se gélifier autour des stylets en action, se solidifiant en un <strong>étui</strong>
-rigide protéique&nbsp;; elle forme aussi une collerette autour du point de
-piqûre en surface. Cet étui «&nbsp;trace&nbsp;» le chemin entre les cellules et
-guide les stylets au fur et à mesure de leur progression&nbsp;; il prévient les
-pertes et fuites lors de la remontée de la sève&nbsp;; surtout, l’étui isole
-les stylets du puceron des liquides libérés par les cellules endommagées au
-passage avec leur charge éventuelle de substances défensives et
-immunitaires&nbsp;; il évite aussi au puceron d’aspirer ces liquides potentiellement
-nocifs, issus de la détérioration des tissus végétaux. </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-coupe.jpg"><img loading="lazy" decoding="async" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-coupe.jpg" alt="" class="wp-image-32884" width="345" height="438" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-coupe.jpg 690w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-coupe-236x300.jpg 236w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-coupe-600x762.jpg 600w" sizes="(max-width: 345px) 100vw, 345px" /></a><figcaption>Schéma d&rsquo;un puceron en train de se nourrir extrait de 1 Biblio<br><em>honeydew</em> = miellat ; en orange : faisceau de stylets ; se : tubes criblés de la sève élaborée ; en noir : étuis des stylets ; p = parenchyme  ; l = labre qui ne participe pas au perçage</figcaption></figure></div>
-
-
-
-<p>La vitesse relative avec laquelle la sève est atteinte via
-ce mode opératoire constitue un élément clé pour contrer les défenses des
-plantes&nbsp;: les chercheurs de l’INRA (voir le site Enclop’Aphid) qualifient
-à ce propos les pucerons de «&nbsp;furtifs&nbsp;». L’étui isolant et cette
-rapidité d’exécution représentent deux éléments clés pour expliquer la réussite
-des pucerons&nbsp;en tant qu’herbivores : les insectes «&nbsp;mâcheurs&nbsp;»
-de feuilles (comme des chenilles par exemple) qui broient les cellules et
-libèrent leur contenu subissent de plein fouet l’agression des substances chimiques
-défensives des plantes et leur relative lenteur laisse le temps aux plantes de
-réagir encore plus fort, voire de déclencher des signaux d’alarme ou des
-phéromones qui attirent des prédateurs. De ce point de vue, les pucerons ont
-exploité ainsi une nouvelle niche alimentaire, riche nutritivement (voir
-ci-dessous) et moins coûteuse à acquérir. En plus, grâce à ce dispositif, le
-puceron attablé peut sortir son rostre très vite en cas de danger en le faisant
-glisser dans l’étui. </p>
-
-
-
-<p>L’étui laisse une trace visible en surface (voir la
-collerette ci-dessus) via la salive solidifiée et on peut même y introduire des
-micropipettes pour aller prélever de la <strong>sève élaborée</strong> dans les vaisseaux,
-une fois le puceron enlevé, d’une manière ultraprécise. On peut suivre en
-radiographie le cheminement des stylets dans cet étui&nbsp;: on constate alors
-que le puceron a des ratés et s’y prend à plusieurs reprises. </p>
-
-
-
-<p>La sélection et l’identification de l’hôte se fait par
-introductions successives et progressives des stylets jusqu’à trouver un
-vaisseau, injecter de la salive fluide et analyser la sève&nbsp;: les dendrites
-des mandibules (voir ci-dessus) interviennent ici pour la perception
-sensorielle. Ceci implique par ailleurs que des pucerons peuvent ainsi piquer
-des plantes non hôtes. </p>
-
-
-
-<p>A propos des stylets, notons que quelques espèces arrivent même à percer … l’écorce des arbres. Ainsi, <em>Stomaphis quercus</em>, le puceron géant des chênes (géant car il fait 5mm …), tout noir, réussit à percer l’écorce des chênes avec son rostre trois à quatre fois plus long que son corps pour atteindre le phloème (voir <a href="https://www.zoom-nature.fr/au-pays-de-lecorce/">la chronique sur l’écorce</a>). </p>
-
-
-
-<h2 class="wp-block-heading">Sève élaborée </h2>
-
-
-
-<p>Quand le puceron a atteint un tube criblé du phloème, il
-injecte par le même canal salivaire une seconde <strong>salive liquide</strong>&nbsp;(par
-opposition à la précédente dite gélifiante), fluide&nbsp;; cette salive bloque
-des réactions chimiques en réponse à l’intrusion&nbsp;: elle empêche la
-coagulation des protéines et les dépôts d’une substance, la callose, destinée à
-obturer l’effraction. Cette seconde salive neutralise donc les défenses
-immédiates de la plante «&nbsp;agressée&nbsp;».</p>
-
-
-
-<p>Ce choix n’a rien d’anodin car la sève élaborée (<a href="https://www.zoom-nature.fr/la-seve-elaboree-des-sources-aux-puits/">voir la chronique</a>) renferme les produits fabriqués lors de la photosynthèse au niveau des feuilles (saccharose essentiellement), distribués vers l’ensemble des organes de la plantes. Rien à voir avec la sève brute qui circule dans les vaisseaux du xylème et issue du prélèvement de l’eau et des sels minéraux dans le sol par les racines : cette dernière n’a pratiquement aucune valeur nutritive (en tout cas nulle en apport énergétique). </p>
-
-
-
-<p>La sève élaborée est donc a priori nutritive mais sa
-composition est néanmoins très déséquilibrée&nbsp;: elle renferme
-essentiellement des sucres (source énergétique surtout) mais très peu de
-protéines&nbsp;; ainsi les pucerons disposent d’une source
-«&nbsp;infinie&nbsp;» d’énergie via les sucres abondants et en économisent en
-n’ayant pas à digérer les protéines de la sève. Par contre, cette sève a un
-gros défaut&nbsp;: elle ne contient que peu d’acides aminés libres, indispensables
-pour construire et maintenir les cellules et en plus elle est entièrement
-dépourvue de certains acides aminés dits essentiels non synthétisables. Enfin,
-la composition de la sève fluctue beaucoup selon les saisons, le moment de la
-journée (intensité de la photosynthèse), la position des organes piqués, …</p>
-
-
-
-<p>Faute de pouvoir trier au moment du prélèvement, les pucerons doivent donc ingérer beaucoup de sève pour arriver à en extraire suffisamment d’acides aminés libres à partir desquels ils pourront synthétiser leurs propres protéines. Ils se trouvent donc dans une situation assez curieuse où ils sont « inondés de sève avec beaucoup trop de sucres ». Pour résoudre ce dilemme, ils utilisent un dispositif anatomique original au niveau de leur tube digestif. Comme tous les insectes, leur intestin se compose de trois sections différenciées : antérieur, moyen (relié à l’appareil excréteur avec les tubes de Malpighi) et postérieur. Mais, chez eux, l’intestin moyen qui récupère les nutriments issus de la digestion décrit une boucle remontant jusque dans la tête et laisse entrer en contact l’intestin antérieur doté d’une <strong>chambre de filtration</strong> avec l’intestin postérieur. Ainsi, quand la sève arrive dans l’intestin antérieur, une partie sort via la chambre filtrante et passe dans l’intestin postérieur, court-circuitant l’intestin moyen qui arrive à assurer sa fonction. Cette « eau sucrée » en excès s’accumule dans le rectum terminal et est évacuée par l’anus, au niveau de la pointe ou cauda (<a href="https://www.zoom-nature.fr/pucerons-qui-etes-vous-vraiment/">voir la chronique 1)</a>, sous forme de gouttelettes qui perlent une après l’autre. </p>
-
-
-
-<h2 class="wp-block-heading">Miellat </h2>
-
-
-
-<p>Ces gouttelettes scintillantes au soleil et au goût douceâtre constituent le fameux <strong>miellat</strong> des pucerons que les anglo-saxons nomment poétiquement <em>honeydew</em> (rosée de miel). On notera que ce miellat n’est pas expulsé au niveau des cornicules (<a href="https://www.zoom-nature.fr/pucerons-qui-etes-vous-vraiment/">voir la chronique 1</a>) comme on le croyait autrefois. Les pucerons se débarrassent de ces gouttelettes en les expulsant ou en se dandinant : elles tombent ainsi sur le feuillage ou les tiges sur lesquelles ils se tiennent et forment au fil du temps un film collant poisseux qui sèche. Ce milieu sucré devient très favorable au développement de divers champignons microscopiques décomposeurs (saprophytes) ; ceux-ci donnent naissance à une « suie » noirâtre, la fumagine. Elle tend à obstruer les stomates, ouvertures utilisées pour les échanges gazeux liés à la respiration et la photosynthèse, ce qui entrave le bon fonctionnement du feuillage. </p>
-
-
-
-<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-59 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie1.jpg"><img loading="lazy" decoding="async" width="800" height="533" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie1.jpg" alt="" data-id="32883" data-link="https://www.zoom-nature.fr/?attachment_id=32883" class="wp-image-32883" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie1.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie1-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie1-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Gouttes de miellat tombées sur une feuille de ronce </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie2.jpg"><img loading="lazy" decoding="async" width="800" height="557" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie2.jpg" alt="" data-id="32882" data-link="https://www.zoom-nature.fr/?attachment_id=32882" class="wp-image-32882" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie2.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie2-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie2-768x535.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-mie2-600x418.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Idem sur feuille de chêne</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fuma.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fuma.jpg" alt="" data-id="32889" data-link="https://www.zoom-nature.fr/?attachment_id=32889" class="wp-image-32889" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fuma.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fuma-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fuma-768x513.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fuma-600x401.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Le miellat collé  devient un milieu de développement de champignons (fumagine)</figcaption></figure></li></ul>
-
-
-
-<p>Ce miellat déposé sur le feuillage sert aussi de nourriture très prisée pour toute une foule d’insectes butineurs pour qui ils représentent un très bon substitut du nectar des fleurs. Les abeilles savent le récolter quand il est abondant sur les feuillages ; ainsi, elles fabriquent du miel sans passer par les fleurs comme le miel de sapin (conifère dépourvu de fleurs : <a href="https://www.zoom-nature.fr/coniferes-qui-etes-vous-acte-2/">voir la chronique</a>). On parle de miellature pour désigner cette production indirecte de miellat par les plantes. D’autres insectes tels que les syrphes ou les guêpes parasitoïdes apprécient aussi cette manne nutritive qui favorise leur présence : or, ces insectes sont des prédateurs ou parasites indirects des pucerons par leurs larves. </p>
-
-
-
-<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-60 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fou.jpg"><img loading="lazy" decoding="async" width="800" height="484" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fou.jpg" alt="" data-id="32887" data-link="https://www.zoom-nature.fr/?attachment_id=32887" class="wp-image-32887" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fou.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fou-300x182.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fou-768x465.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-fou-600x363.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Fourmis en train de stimuler des pucerons pour les inciter à rejeter des gouttes de miellat </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-four.jpg"><img loading="lazy" decoding="async" width="800" height="528" src="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-four.jpg" alt="" data-id="32888" data-link="https://www.zoom-nature.fr/?attachment_id=32888" class="wp-image-32888" srcset="https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-four.jpg 800w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-four-300x198.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-four-768x507.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2024/06/pucnut-four-600x396.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>&#8230; sur le séneçon des bois </figcaption></figure></li></ul>
-
-
-
-<p>Mais, pour de nombreuses espèces de pucerons (mais pas tous), ces gouttelettes attirent activement certaines espèces de fourmis qui en sont friandes et viennent le récolter directement à la source en tapotant de leurs antennes l’anus des pucerons. Les colonies de pucerons productrices deviennent des « troupeaux de vaches à miellat » que les fourmis défendent activement en chassant leurs prédateurs dont les coccinelles ou les guêpes parasitoïdes. Bel exemple d’interaction de type <strong><a href="https://www.zoom-nature.fr/la-galaxie-des-mutualismes/">mutualisme</a></strong> « gagnant/gagnant ». Dans les cultures, cette garde des fourmis favorise alors les pucerons protégés des attaques ce qui amplifie les dégâts éventuels associés à leur présence. Nous aurons l’occasion de revenir bien plus en détail dans une chronique sur ces relations fourmis/pucerons passionnantes et bien plus complexes en réalité. </p>
-
-
-
-<h2 class="wp-block-heading">Virus </h2>
-
-
-
-<p>Ces relations des pucerons avec d’autres organismes ne sont
-qu’une partie de l’incroyable réseau d’interactions qui gravite autour d’eux.
-Parmi celles-ci, l’une d’elles concerne plus particulièrement les plantes
-cultivées&nbsp;: la transmission de maladies virales végétales. </p>
-
-
-
-<p>Quand les pucerons changent d’hôtes (voir ci-dessus) et
-passent sur des plantes cultivées (céréales, betteraves, tournesol, …), ils
-peuvent transporter avec eux des particules virales qu’ils ont collecté lors
-d’une prise de sève. En s’installant sur une nouvelle plante, ils peuvent alors
-inoculer ces particules avec leur salive, exactement comme les moustiques avec
-les animaux. Ainsi, le puceron du pêcher (<em>Myzus persicae</em>) peut
-transmettre une centaine d’espèces virales&nbsp;; plusieurs d’entre elles
-provoquent des maladies induisant divers symptômes délétères (jaunissement,
-nécroses, déformations, …).</p>
-
-
-
-<p>La transmission se fait souvent lors des piqûres
-exploratoires des pucerons qui atterrissent sur une plante (voir ci-dessus) si
-bien que même des plantes non hôtes peuvent être contaminées ou transmettre des
-virus aux pucerons. Selon le virus, soit il n’est viable que quelques heures
-dans le tube digestif du puceron et doit donc être transmis très vite, soit il
-persiste ou même il peut se multiplier dans les glandes salivaires du puceron. </p>
-
-
-
-<p>Si ces infections virales redoutées ont été très étudiées en
-agronomie, on ne sait pas trop a priori leur impact au niveau des plantes
-sauvages&nbsp;; il est clair que les conditions des monocultures favorisent
-grandement ce processus qui doit être bien plus dilué en situation
-naturelle&nbsp;? </p>
-
-
-
-<h2 class="wp-block-heading"><em>Buchnera </em></h2>
-
-
-
-<p>Nous avons vu que la sève élaborée fournit aux pucerons des
-acides aminés leur servant à fabriquer leurs propres protéines mais n’offre pas
-les acides aminés essentiels. Pour se les procurer malgré tout, ainsi que des
-vitamines, ils s’appuient sur la bactérie, <strong><em>Buchnera aphidicola</em></strong>,
-qu’ils hébergent dans le cytoplasme de cellules spécialisées réunies en amas
-appelés <strong>bactériocytes</strong>, répartis le long du tube digestif. Il s’agit donc
-d’une relation dite symbiotique (voir la chronique) et la bactérie est qualifiée
-de <strong>symbiote</strong>. Comme son nom scientifique le suggère, elle est spécifique
-des pucerons (<em>aphidicola</em>&nbsp;: «&nbsp;qui aime les pucerons&nbsp;»). Proche
-parente de la célèbre bactérie <em>E. coli</em>, elle n’a pas de forme libre et
-ne peut de son côté vivre en dehors des pucerons ce qui suggère une relation
-symbiotique installée depuis très longtemps au cours de l’évolution. </p>
-
-
-
-<p>La biomasse des cellules hébergeant ces bactéries peut
-représenter jusqu’à presque 5% du poids total du puceron. Une femelle de
-puceron du pois possède ainsi 90 amas cellulaires (bactériocytes) soit près de
-10 millions de cellules de <em>Buchnera</em> (les bactéries sont des
-unicellulaires).</p>
-
-
-
-<p>Si on traite un puceron avec des antibiotiques en éliminant
-ainsi sa bactérie symbiotique, il périclite, ne grandit plus, ne se reproduit
-pas et meurt précocement. Elle assure la synthèse des acides aminés essentiels
-mais aussi peut-être d’acides gras essentiels eux aussi absents de la sève
-consommée. </p>
-
-
-
-<p>La transmission du symbionte se fait de «&nbsp;mère à
-fille&nbsp;» lors des cycles de reproduction parthénogénétique (voir la
-chronique sur la reproduction)&nbsp;: dans le corps des femelles, dès leur
-naissance, un embryon se forme (génération suivante très rapide par viviparie)
-et reçoit dès son initiation des cellules de <em>Buchnera</em>. On parle donc de
-transmission verticale (d’une génération à l’autre). </p>
-
-
-
-<p>Des relations aussi étroites et vitales suggèrent une longue histoire de <strong>coévolution</strong>. Des reconstitutions phylogénétiques mettant en parallèle l’arbre de parentés des pucerons et celui des souches de <em>Buchnera</em> indique un début de la « liaison » remontant à au moins 150 Ma. De même, en comparant les ADN des <em>Buchnera</em> selon les espèces de pucerons, on a montré que la sous-famille des Lachninés était probablement la lignée la plus ancienne des Aphididés (<a href="https://www.zoom-nature.fr/pucerons-qui-etes-vous-vraiment/">voir la chronique 1</a>) ; or, ces pucerons partagent des caractères ancestraux comme des cornicules absents ou en forme de cône, une cauda abdominale courte et un cycle sans alternance sur des arbres ou des racines. </p>
-
-
-
-<h2 class="wp-block-heading">Cortège de symbiontes </h2>
-
-
-
-<p>La symbiose avec <em>Buchnera</em> a été mise en évidence au
-début des années 90. Depuis les années 2000, on a découvert qu’il existait en
-fait d’autres bactéries symbiotiques chez les pucerons. Contrairement à la
-symbiose avec <em>Buchnera</em> qui semble obligatoire chez tous les pucerons, ces
-autres symbiotes sont facultatifs, i.e. que pour une espèce donnée, tous les
-individus n’en possèdent pas (populations porteuses ou non porteuses). Leur
-rôle semble bien plus varié que celui de <em>Buchnera</em> limité à la seule
-nutrition. Ils peuvent intervenir dans la reproduction, le développement,
-l’immunité et même la couleur.</p>
-
-
-
-<p>Ces symbiotes facultatifs ont été particulièrement chez le puceron du pois avec au moins trois espèces de symbiotes identifiées. L’une d’elles (<em>Hamiltonella defensa</em>) s’attaque aux œufs que des guêpes parasitoïdes injectent dans ces pucerons pour les parasiter ; une autre change la couleur et la troisième rend ces pucerons plus résistants aux attaques de champignons pathogènes (Entomopthorales : <a href="https://www.zoom-nature.fr/le-champignon-mangeur-de-mouches/">voir la chronique</a>). Tout ceci suggère que ces symbiotes facultatifs peuvent avoir de profondes répercussions sur les réseaux alimentaires associés aux pucerons en améliorant leur protection vis-à-vis de leurs ennemis naturels. Il s’agit là d’un champ de recherches en pleine ébullition notamment pour comprendre comment les pucerons régulent ces populations de symbiotes et pourquoi tous n’en sont pas équipés. </p>
-
-
-
-<p>Cette chronique qui n’était consacrée qu’à la seule
-alimentation des pucerons nous a pourtant ouvert de nouvelles portes vers des
-interactions surprenantes&nbsp;; il en va ainsi avec les pucerons&nbsp;: on avance
-toujours de surprise en surprise comme par exemple avec leur cycle de
-reproduction ou dans leurs relations avec les plantes hôtes (chroniques à
-venir). </p>
-
-
-
-<p>Retrouvez l’ensemble des chroniques consacrées à ces insectes fascinants à la <a href="https://www.zoom-nature.fr/articles/chroniques/p/pucerons-hemipteres/">page Pucerons.</a></p>
-
-
-
-<h2 class="wp-block-heading">Bibliographie
-</h2>
-
-
-
-<p>1)<strong>Evolutionary history of aphid-plant associations and their role in aphid diversification</strong> Jean Peccoud et al. C. R. Biologies 333 (2010) 474–487 </p>
-
-
-
-<p><strong>Encyclop’Aphid: a
-website on aphids and their natural enemies.</strong> Entomologia generalis: Hullé M., Chaubet B., Turpeau
-E. and Simon J.C. 2020. <strong><a href="https://www6.inrae.fr/encyclopedie-pucerons">Encyclop’Aphid : le site des Aphicionados</a></strong> : site très complet, tenu à jour, remarquablement illustré, accessible à tout public : un must absolu … que j’ai beaucoup utilisé</p><p>The post <a href="https://www.zoom-nature.fr/pucerons-des-suceurs-de-seve/">Pucerons : des suceurs de sève</a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></content:encoded>
-					
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -1807,5 +1796,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Mise en cache de page à l’aide de Disk: Enhanced (Page is feed) 
 Mibnifié utilisant Disk
 
-Served from: www.zoom-nature.fr @ 2024-07-31 19:25:04 by W3 Total Cache
+Served from: www.zoom-nature.fr @ 2024-08-04 19:24:38 by W3 Total Cache
 -->
