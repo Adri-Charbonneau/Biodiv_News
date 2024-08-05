@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 22 May 2024 06:52:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Aug 2024 19:57:39 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Réédition et mise à jour du Cahier d&#8217;identification des Orthoptères de France, Belgique, Luxembourg et Suisse</title>
+		<link>https://ascete.org/reedition-et-mise-a-jour-du-cahier-didentification-des-orthopteres-de-france-belgique-luxembourg-et-suisse/</link>
+		
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<pubDate>Mon, 05 Aug 2024 19:57:39 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3471</guid>
+
+					<description><![CDATA[En 2015 paraissait le Cahier d&#8217;identification des Orthoptères de France, Belgique, Luxembourg et Suisse, ouvrage majeur ayant suscité de nombreuses vocations orthoptériques. Depuis, plusieurs nouvelles espèces ont été découvertes dans la zone couverte par ce guide (Stenonembobius gracilis, Gryllotalpa africana, Poecilimon amissus, Xya pfaendleri, Paramogoplistes novaki, etc.). Certaines sont nouvelles pour la sciences (Uromenus sp. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Week-end de recherches de la Decticelle languedocienne Amedegnatiana vicheti sur le Larzac du 5 au 7 juillet 2024</title>
 		<link>https://ascete.org/week-end-de-recherches-de-la-decticelle-languedocienne-amedegnatiana-vicheti-sur-le-larzac-du-5-au-7-juillet-2024/</link>
 		
@@ -154,21 +168,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3130</guid>
 
 					<description><![CDATA[Le troisième congrès européen sur la conservation des orthoptères (ECOC III) et la seizième conférence annuelle de la Deutsche Gesellschaft für Orthoptérologie (DGfO) ont eu lieu à Leyde (Pays-Bas) les 1er et 2 avril 2022. Au total, 138 participants de 31 pays se sont inscrits à cet événement. Vous trouverez ici des éléments de compte [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adhésion 2023</title>
-		<link>https://ascete.org/adhesion-3/</link>
-		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
-		<pubDate>Sun, 01 Jan 2023 08:17:39 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Vie associative de l'Ascete]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=1959</guid>
-
-					<description><![CDATA[Appel à cotisation 2023 Si vous souhaitez en savoir plus sur l&#8217;ASCETE, nous vous invitons à consulter la page Présentation. via HelloAsso Si  vous souhaitez télécharger le bulletin d&#8217;adhésion, c&#8217;est ici.]]></description>
 		
 		
 		
