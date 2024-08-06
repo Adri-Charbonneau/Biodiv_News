@@ -12,7 +12,7 @@
 	<atom:link href="https://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Sun, 30 Jun 2024 14:11:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Aug 2024 07:15:31 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le protocole de validation nationale de l&#8217;herpétofaune est en ligne</title>
+		<link>https://lashf.org/non-classe/le-protocole-de-validation-nationale-de-lherpetofaune-est-en-ligne/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-protocole-de-validation-nationale-de-lherpetofaune-est-en-ligne</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 06 Aug 2024 07:13:06 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lashf.org/?p=6228</guid>
+
+					<description><![CDATA[La SHF est en charge de la mise en place de la validation nationale du SINP pour les données d&#8217;herpétofaune depuis cette année. Dans ce cadre, elle a élaboré une stratégie de validation nationale en lien avec PatriNat.Celle-ci s&#8217;appuie, lorsqu&#8217;ils existent en région, sur les protocoles de validation régionaux.Si les protocoles régionaux sont suffisants, la [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>La SHF est en charge de la mise en place de la validation nationale du SINP pour les données d&rsquo;herpétofaune depuis cette année. Dans ce cadre, elle a élaboré une stratégie de validation nationale en lien avec PatriNat.<br>Celle-ci s&rsquo;appuie, lorsqu&rsquo;ils existent en région, sur les protocoles de validation régionaux.<br>Si les protocoles régionaux sont suffisants, la SHF applique uniquement l&rsquo;étape de validation automatique : c&rsquo;est souvent pour pouvoir disposer d&rsquo;un statut de validation ou d&rsquo;invalidation, dans l&rsquo;attente des transferts d&rsquo;informations depuis les niveaux locaux jusqu&rsquo;à l&rsquo;échelon national, puisqu&rsquo;il peut y avoir des délais dans les transferts de données vers le SINP. Si les protocoles régionaux sont incomplets pour l&rsquo;herpétofaune, l&rsquo;étape de validation automatique s&rsquo;applique et s&rsquo;y ajoute une étape de validation manuelle qui sollicite des experts en amphibiens et reptiles.<br>Ce protocole est bien sûr susceptible d&rsquo;évoluer avec le temps.</p>
+
+
+
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background" href="https://lashf.org/wp-content/uploads/2024/08/SHF_validation_nationale_SINP_v1.2.pdf" style="background-color:#5c8727"><strong>Télécharger le protocole de validation (v1.2)</strong></a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>De « nouvelles » espèces sur le territoire hexagonal</title>
 		<link>https://lashf.org/non-classe/de-nouvelles-especes-sur-le-territoire-hexagonal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=de-nouvelles-especes-sur-le-territoire-hexagonal</link>
 		
@@ -244,24 +271,6 @@
 										<content:encoded><![CDATA[<p>Nous avons le plaisir de vous informer que le programme est désormais disponible !</p>
 <p>&gt; Retrouvez-le ici : <a href="https://lashf.org/congres/">https://lashf.org/congres/</a></p>
 <p>Et n&rsquo;oubliez pas de vous inscrire, vous avez jusqu&rsquo;au 15 septembre.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Congrès 2023 &#8211; Ouverture des inscriptions !</title>
-		<link>https://lashf.org/non-classe/congres-2023-ouverture-des-inscriptions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-ouverture-des-inscriptions</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 24 Jul 2023 15:18:52 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=5746</guid>
-
-					<description><![CDATA[Les inscriptions pour notre prochain congrès sont désormais ouvertes ! &#62; Plus d&#8217;informations ici : https://lashf.org/congres/ Vous avez jusqu&#8217;au 15 septembre, ne perdez pas de temps !]]></description>
-										<content:encoded><![CDATA[<p><strong>Les inscriptions pour notre prochain congrès sont désormais ouvertes !</strong></p>
-<p>&gt; Plus d&rsquo;informations ici : <strong><a href="https://lashf.org/congres/">https://lashf.org/congres/</a></strong></p>
-<p>Vous avez jusqu&rsquo;au 15 septembre, ne perdez pas de temps !</p>
 ]]></content:encoded>
 					
 		
