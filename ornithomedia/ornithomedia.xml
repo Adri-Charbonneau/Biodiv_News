@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 08 Aug 2024 06:27:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Aug 2024 21:40:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Description au Chili d&#8217;une nouvelle espèce du genre Oceanicus, l&#8217;Océanite des Andes</title>
+		<link>https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-du-genre-oceanicus-loceanite-des-andes/</link>
+					<comments>https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-du-genre-oceanicus-loceanite-des-andes/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Fri, 09 Aug 2024 06:20:00 +0000</pubDate>
+				<category><![CDATA[Études]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=244854</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-du-genre-oceanicus-loceanite-des-andes/">Description au Chili d&#8217;une nouvelle espèce du genre Oceanicus, l&#8217;Océanite des Andes</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-du-genre-oceanicus-loceanite-des-andes/">Description au Chili d&#8217;une nouvelle espèce du genre Oceanicus, l&#8217;Océanite des Andes</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/description-au-chili-dune-nouvelle-espece-du-genre-oceanicus-loceanite-des-andes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Comment et pourquoi choisir des jumelles stabilisées pour observer les oiseaux ?</title>
 		<link>https://www.ornithomedia.com/pratique/equipement/comment-choisir-des-jumelles-stabilisees/</link>
@@ -198,26 +219,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/debuter/pourquoi-des-oiseaux-couvent-ils-parfois-dans-des-nids-vides/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Le beau bilan d&#8217;une expédition scientifique menée en 2023 dans la forêt de Makira (Madagascar)</title>
-		<link>https://www.ornithomedia.com/breves/le-beau-bilan-dune-expedition-scientifique-menee-en-2023-dans-la-foret-de-makira-madagascar/</link>
-					<comments>https://www.ornithomedia.com/breves/le-beau-bilan-dune-expedition-scientifique-menee-en-2023-dans-la-foret-de-makira-madagascar/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Fri, 26 Jul 2024 06:25:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=244286</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/le-beau-bilan-dune-expedition-scientifique-menee-en-2023-dans-la-foret-de-makira-madagascar/">Le beau bilan d&#8217;une expédition scientifique menée en 2023 dans la forêt de Makira (Madagascar)</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/le-beau-bilan-dune-expedition-scientifique-menee-en-2023-dans-la-foret-de-makira-madagascar/">Le beau bilan d&#8217;une expédition scientifique menée en 2023 dans la forêt de Makira (Madagascar)</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/le-beau-bilan-dune-expedition-scientifique-menee-en-2023-dans-la-foret-de-makira-madagascar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
