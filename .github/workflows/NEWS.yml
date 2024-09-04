@@ -67,6 +67,10 @@ jobs:
         if: always()
         run:  ./martinia.ps1
 
+      - name: Migratlane
+        if: always()
+        run:  ./migratlane.ps1
+
       - name: Naturae
         if: always()
         run:  ./naturae.ps1

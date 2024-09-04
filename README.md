@@ -21,6 +21,7 @@ Aggrégateur RSS de différents sites internet sur le sujet de la biodiversité,
 | **La Pie Bavarde** | Multiples sujets en lien avec l'environnement | https://www.la-pie-bavarde.com/articles |
 | **LPO Mission Rapaces** | Actualités de la LPO Mission Rapaces | https://rapaces.lpo.fr/mission-rapaces/actualites-rapaces |
 | **Martinia** | Revue scientifique de l'odonatologie française | https://www.martinia.insectes.org/ |
+| **Migratlane** | Suivre et étudier les oiseaux de l'arc Atlantique Nord-Est | https://migratlane-telemetrie.fr/ |
 | **Naturae** | Revue scientifique et technique du MNHN | https://sciencepress.mnhn.fr/fr/periodiques/naturae |
 | **Nature France** | Le service public d'information sur la biodiversité | https://naturefrance.fr/actualites |
 | **Oiseaux de France** | Actualités du projet Oiseaux de France | https://www.ornithomedia.com/breves/ |
