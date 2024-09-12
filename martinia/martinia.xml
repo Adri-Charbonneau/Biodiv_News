@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Fri, 26 Jul 2024 10:20:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Sep 2024 19:45:04 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Liste de référence des Odonates de France métropolitaine</title>
+		<link>https://martinia.insectes.org/liste-de-reference-des-odonates-de-france-metropolitaine-2/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2024 07:30:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=4648</guid>
+
+					<description><![CDATA[L’Odonatologie, comme toutes les disciplines des sciences de la nature, est en constante évolution. Les découvertes de nouveaux taxons ou l’observation de taxons sur des aires géographiques où ils n’étaient pas connus, les progrès de la génétique et de la phylogénie imposent la mise à jour régulière des listes d’espèces. L’Opie-odonates a publié en 2021 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Anax junius (Drury, 1773) : seconde mention pour la France métropolitaine (Odonata : Aeshnidae)</title>
 		<link>https://martinia.insectes.org/emanax-junius-em-drury-1773-seconde-mention-pour-la-france-metropolitaine-odonata-aeshnidae/</link>
 		
@@ -42,7 +56,7 @@
 		<category><![CDATA[Common Green Darner]]></category>
 		<category><![CDATA[Europe]]></category>
 		<category><![CDATA[migration]]></category>
-		<category><![CDATA[océan atlantique]]></category>
+		<category><![CDATA[océan Atlantique]]></category>
 		<category><![CDATA[Ouessant]]></category>
 		<category><![CDATA[Ushant]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4597</guid>
@@ -244,25 +258,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4387</guid>
 
 					<description><![CDATA[Trois types de comportements de ponte sont connus chez les Odonates&#160;: (1) la ponte endophytique,&#160; réalisée par tous les Zygoptères et les Anisoptères Aeshnidés, avec insertion des œufs dans des tissus végétaux, morts ou vivants, chez les espèces ayant un ovipositeur, complet et fonctionnel&#160;; (2) la ponte exophytique, réalisée par les Anisoptères des autres familles, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reproduction d’Oxygastra curtisii (Odonata : incertae sedis) sur un étang de pêche de loisir en Bresse (Ain – France)</title>
-		<link>https://martinia.insectes.org/reproduction-doxygastra-curtisii-odonata-incertae-sedis-sur-un-etang-de-peche-de-loisir-en-bresse-ain-france/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Mon, 23 May 2022 18:46:36 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[alimentation en eau]]></category>
-		<category><![CDATA[Auvergne-Rhône-Alpes]]></category>
-		<category><![CDATA[habitat lentique]]></category>
-		<category><![CDATA[lentic habitat]]></category>
-		<category><![CDATA[water supply]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4336</guid>
-
-					<description><![CDATA[L’habitat larvaire d’Oxygastra curtisii (Dale, 1834), est ordinairement décrit comme des zones lentes des cours d’eau à ripisylve fonctionnelle (avec un système racinaire atteignant l’eau). Toutefois Herbrecht &#38; Dommanget (2006) nous avaient rapporté le cas d’émergence de l’espèce en milieu lentique (lacs, gravières, étangs tourbeux oligotrophes), puis entre autres Doucet (2009) sur un étang du [&#8230;]]]></description>
 		
 		
 		
