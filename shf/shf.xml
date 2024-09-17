@@ -12,7 +12,7 @@
 	<atom:link href="https://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Tue, 06 Aug 2024 07:19:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Sep 2024 13:23:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,53 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Congrès 2024 &#8211; Ouverture des inscriptions !</title>
+		<link>https://lashf.org/non-classe/congres-2024-ouverture-des-inscriptions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2024-ouverture-des-inscriptions</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Sep 2024 13:18:51 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lashf.org/?p=6264</guid>
+
+					<description><![CDATA[Pour rappel, notre congrès est de retour en Occitanie ! La 51e édition se tiendra du 23 au 26 octobre 2024 au Lycée Charlemagne, à Carcassonne (Aude). Nous sommes heureux de vous annoncer l&#8217;ouverture des inscriptions ! Au regard du succès de l’édition 2023, nous réitérons le format de 3,5 jours et sommes fiers de [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Pour rappel, notre congrès est de retour en Occitanie ! La 51e édition se tiendra du 23 au 26 octobre 2024 au Lycée Charlemagne, à Carcassonne (Aude).</strong></p>
+
+
+
+<p>Nous sommes heureux de vous annoncer l&rsquo;ouverture des inscriptions !</p>
+
+
+
+<p>Au regard du succès de l’édition 2023, nous réitérons le format de 3,5 jours et sommes fiers de vous présenter cette année encore un programme très riche avec :</p>
+
+
+
+<ul><li><strong>deux lectures plénières</strong> réalisées par François Brischoux et Antoine Fouquet, deux chercheurs de renom ;</li><li>près de <strong>trente communications orales</strong> ;</li><li>de <strong>nombreux posters scientifiques</strong> ;</li><li><strong>quatre ateliers</strong> ;</li><li><strong>deux sorties terrain</strong>.</li></ul>
+
+
+
+<p>Retrouvez dans le document d&rsquo;inscription le programme détaillé ainsi que toutes les informations pratiques relatives aux sorties terrain, aux repas, aux hébergements et aux transports. Nous vous remercions par avance de bien en prendre connaissance lors de votre inscription.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2024/09/Congrs-2024_Programmeinscriptions-_VF.pdf" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener"><strong>Télécharger le document d&rsquo;inscription</strong></a></div>
+</div>
+
+
+
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><em>L&rsquo;édition 2024 est organisée en association avec la Fédération Aude Claire et l&rsquo;ONF, avec le soutien financier du Ministère de la Transition écologique et de la Cohésion des territoires, de l&rsquo;Agence de l&rsquo;Eau Rhône-Méditerranée-Corse, de l&rsquo;Office national des forêts, du fonds de dotation Nymphalis, de la Réserve africaine de Sigean, du Département de l&rsquo;Aude et de la DREAL Occitanie. </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Le protocole de validation nationale des données de l&#8217;herpétofaune est en ligne</title>
 		<link>https://lashf.org/non-classe/le-protocole-de-validation-nationale-de-lherpetofaune-est-en-ligne/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-protocole-de-validation-nationale-de-lherpetofaune-est-en-ligne</link>
 		
@@ -253,24 +300,6 @@
 										<content:encoded><![CDATA[<p>La clôture des inscriptions est décalée d&rsquo;une semaine ! <strong>Vous pouvez vous inscrire jusqu&rsquo;au 22 septembre.</strong></p>
 <p>Toutes les informations ici : <a href="https://lashf.org/congres/">https://lashf.org/congres/</a></p>
 <p>&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Congrès 2023 &#8211; Le programme est disponible !</title>
-		<link>https://lashf.org/non-classe/congres-2023-le-programme-est-disponible/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2023-le-programme-est-disponible</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 15:07:19 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://lashf.org/?p=5774</guid>
-
-					<description><![CDATA[Nous avons le plaisir de vous informer que le programme est désormais disponible ! &#62; Retrouvez-le ici : https://lashf.org/congres/ Et n&#8217;oubliez pas de vous inscrire, vous avez jusqu&#8217;au 15 septembre.]]></description>
-										<content:encoded><![CDATA[<p>Nous avons le plaisir de vous informer que le programme est désormais disponible !</p>
-<p>&gt; Retrouvez-le ici : <a href="https://lashf.org/congres/">https://lashf.org/congres/</a></p>
-<p>Et n&rsquo;oubliez pas de vous inscrire, vous avez jusqu&rsquo;au 15 septembre.</p>
 ]]></content:encoded>
 					
 		
