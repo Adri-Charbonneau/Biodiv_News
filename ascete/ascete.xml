@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 07 Aug 2024 20:28:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Dec 2024 20:49:59 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Relevés orthoptériques et entomocénotiques de B. Defaut</title>
+		<link>https://ascete.org/releves-orthopteriques-et-entomocenotique-de-b-defaut/</link>
+		
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 20:37:09 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3495</guid>
+
+					<description><![CDATA[Bernard Defaut met gracieusement à disposition l&#8217;ensemble de ses relevés orthoptériques et entomocénotiques en téléchargement sous forme de fiches. La présentation des fiches est expliquée ici. Les fichiers « zip » suivants comprennent la localisation des relevés au format « kmz » et les fichiers pdf des relevés pour les départements suivants : Ariège (09) Aude (11) Gard (30) [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Atlas des Orthoptères, Mantes et Phasmes du Loiret : lancement des souscriptions</title>
 		<link>https://ascete.org/atlas-des-orthopteres-mantes-et-phasmes-du-loiret-lancement-des-souscriptions/</link>
 		
@@ -153,20 +167,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3151</guid>
 
 					<description><![CDATA[Nature en Occitanie, association qui œuvre pour la connaissance et la conservation du patrimoine naturel, a piloté la réalisation d&#8217;une liste rouge des orthoptères de la région Occitanie, qui est parue en fin d&#8217;année 2022. « Parmi les 168 espèces que compte [la région Occitanie], 163 ont été évaluées. 40 d’entre elles sont menacées de [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Field course on Grasshopper Taxonomy and Conservation, by Axel Hochkirch</title>
-		<link>https://ascete.org/field-course-on-grasshopper-taxonomy-and-conservation-by-axel-hochkirch/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Wed, 08 Feb 2023 11:25:00 +0000</pubDate>
-				<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3143</guid>
-
-					<description><![CDATA[Axel is announcing a field course on Grasshopper Taxonomy and Conservation. The lectures and the field course itself will take place in July this year in and around the town of Konitsa in Northwestern Greece. The registration fee is 300 € and covers accommodation, transport during the summer school, subsistence costs, and the use of [&#8230;]]]></description>
 		
 		
 		
