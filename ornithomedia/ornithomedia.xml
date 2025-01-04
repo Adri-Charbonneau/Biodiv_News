@@ -12,12 +12,32 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 02 Jan 2025 18:10:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jan 2025 20:49:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Un mystérieux Pygargue à tête blanche séjourne en baie du Mont-Saint-Michel (Ille-et-Vilaine/Manche) depuis plusieurs mois</title>
+		<link>https://www.ornithomedia.com/breves/un-mysterieux-pygargue-a-tete-blanche-sejourne-en-baie-du-mont-saint-michel-depuis-plusieurs-mois/</link>
+					<comments>https://www.ornithomedia.com/breves/un-mysterieux-pygargue-a-tete-blanche-sejourne-en-baie-du-mont-saint-michel-depuis-plusieurs-mois/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sat, 04 Jan 2025 07:20:00 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=251037</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-mysterieux-pygargue-a-tete-blanche-sejourne-en-baie-du-mont-saint-michel-depuis-plusieurs-mois/">Un mystérieux Pygargue à tête blanche séjourne en baie du Mont-Saint-Michel (Ille-et-Vilaine/Manche) depuis plusieurs mois</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-mysterieux-pygargue-a-tete-blanche-sejourne-en-baie-du-mont-saint-michel-depuis-plusieurs-mois/">Un mystérieux Pygargue à tête blanche séjourne en baie du Mont-Saint-Michel (Ille-et-Vilaine/Manche) depuis plusieurs mois</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/un-mysterieux-pygargue-a-tete-blanche-sejourne-en-baie-du-mont-saint-michel-depuis-plusieurs-mois/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Un Rougequeue de Moussier découvert dans l&#8217;Hérault en décembre 2024, une donnée remarquable mais pas exceptionnelle dans le sud de l&#8217;Europe</title>
 		<link>https://www.ornithomedia.com/magazine/analyses/un-rougequeue-de-moussier-decouvert-dans-lherault-en-decembre-2024-une-donnee-remarquable-mais-pas-exceptionnelle-dans-le-sud-de-leurope/</link>
@@ -75,26 +95,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/lintroduction-de-rats-sur-les-iles-ogasawara-japon-semble-avoir-proite-a-une-sous-espece-endemique-de-la-buse-du-japon/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Douzième comptage hivernal national des oiseaux des jardins en France métropolitaine les 25 et 26 janvier 2025</title>
-		<link>https://www.ornithomedia.com/breves/douzieme-comptage-hivernal-national-des-oiseaux-des-jardins-en-france-metropolitaine-les-25-et-26-janvier-2025/</link>
-					<comments>https://www.ornithomedia.com/breves/douzieme-comptage-hivernal-national-des-oiseaux-des-jardins-en-france-metropolitaine-les-25-et-26-janvier-2025/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sun, 29 Dec 2024 07:20:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=250734</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/douzieme-comptage-hivernal-national-des-oiseaux-des-jardins-en-france-metropolitaine-les-25-et-26-janvier-2025/">Douzième comptage hivernal national des oiseaux des jardins en France métropolitaine les 25 et 26 janvier 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/douzieme-comptage-hivernal-national-des-oiseaux-des-jardins-en-france-metropolitaine-les-25-et-26-janvier-2025/">Douzième comptage hivernal national des oiseaux des jardins en France métropolitaine les 25 et 26 janvier 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/douzieme-comptage-hivernal-national-des-oiseaux-des-jardins-en-france-metropolitaine-les-25-et-26-janvier-2025/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -162,7 +162,7 @@
 		<item>
 		<title>Comment nourrir les oiseaux dans son jardin sans (trop) attirer les rats ?</title>
 		<link>https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/</link>
-					<comments>https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/#respond</comments>
+					<comments>https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/#comments</comments>
 		
 		<dc:creator><![CDATA[David]]></dc:creator>
 		<pubDate>Mon, 23 Dec 2024 18:00:00 +0000</pubDate>
@@ -176,7 +176,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
