@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Tue, 03 Dec 2024 20:49:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Jan 2025 21:18:26 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rétrospective 2024 et meilleurs vœux pour 2025</title>
+		<link>https://ascete.org/retrospective-2024-et-meilleurs-voeux-pour-2025/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Sun, 05 Jan 2025 21:18:26 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3510</guid>
+
+					<description><![CDATA[Chères adhérentes, chers adhérents, L&#8217;ASCETE vous souhaite une belle année 2025. L&#8217;occasion de retracer les temps forts de l&#8217;association en 2024 : En mars, l&#8217;ASCETE était présente aux 𝐫𝐞𝐧𝐜𝐨𝐧𝐭𝐫𝐞𝐬 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐢𝐬𝐭𝐞𝐬 𝐝&#8217;𝐎𝐜𝐜𝐢𝐭𝐚𝐧𝐢𝐞 𝐨𝐫𝐠𝐚𝐧𝐢𝐬𝐞́𝐞 𝐩𝐚𝐫 𝐎𝐂𝐍𝐀𝐓, l&#8217;Union des Associations Naturalistes d&#8217;Occitanie : vente de numéros, interventions sur quelques présentations comme l&#8217;effet de l&#8217;écobuage sur les communautés de [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Relevés orthoptériques et entomocénotiques de B. Defaut</title>
 		<link>https://ascete.org/releves-orthopteriques-et-entomocenotique-de-b-defaut/</link>
 		
@@ -151,22 +165,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3166</guid>
 
 					<description><![CDATA[Le 4e Congrès européen sur la conservation des Orthoptères (ECOC IV) se tiendra en Italie à la Fondazione Museo Civico di Rovereto du 4 au 6 juillet 2024. Ce musée conserve la collection d&#8217;Orthoptères Antonio Galvagni (32 000 spécimens) et Paolo Fontana (25 000 spécimens ), couvrant notamment la région méditerranéenne. Le congrès sera une [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Parution de la liste rouge des orthoptères d’Occitanie</title>
-		<link>https://ascete.org/parution-de-la-liste-rouge-des-orthopteres-doccitanie/</link>
-		
-		<dc:creator><![CDATA[David Morichon]]></dc:creator>
-		<pubDate>Thu, 09 Feb 2023 06:53:49 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Liste rouge]]></category>
-		<category><![CDATA[Publications]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3151</guid>
-
-					<description><![CDATA[Nature en Occitanie, association qui œuvre pour la connaissance et la conservation du patrimoine naturel, a piloté la réalisation d&#8217;une liste rouge des orthoptères de la région Occitanie, qui est parue en fin d&#8217;année 2022. « Parmi les 168 espèces que compte [la région Occitanie], 163 ont été évaluées. 40 d’entre elles sont menacées de [&#8230;]]]></description>
 		
 		
 		
