@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 06 Jan 2025 19:15:53 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jan 2025 18:34:03 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Comment identifier le Bécasseau minuscule, le plus petit limicole du monde ?</title>
+		<link>https://www.ornithomedia.com/pratique/identification/identification-becasseau-minuscule-camargue-aout-2016-02249/</link>
+					<comments>https://www.ornithomedia.com/pratique/identification/identification-becasseau-minuscule-camargue-aout-2016-02249/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 07:20:00 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Pratique]]></category>
+		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/identification-becasseau-minuscule-camargue-aout-2016-02249/</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/identification-becasseau-minuscule-camargue-aout-2016-02249/">Comment identifier le Bécasseau minuscule, le plus petit limicole du monde ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/identification-becasseau-minuscule-camargue-aout-2016-02249/">Comment identifier le Bécasseau minuscule, le plus petit limicole du monde ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/identification-becasseau-minuscule-camargue-aout-2016-02249/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Quelques idées pour recycler son sapin de Noël après les fêtes pour aider la faune sauvage, et notamment les oiseaux</title>
 		<link>https://www.ornithomedia.com/pratique/conseils/recycler-votre-sapin-noel-pour-aider-oiseaux-02020/</link>
@@ -197,27 +218,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/les-hibou-des-marais-forment-parfois-des-dortoirs-dans-les-plantations-de-sapins-de-noel/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Comment nourrir les oiseaux dans son jardin sans (trop) attirer les rats ?</title>
-		<link>https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/</link>
-					<comments>https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/#comments</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Mon, 23 Dec 2024 18:00:00 +0000</pubDate>
-				<category><![CDATA[Conseils]]></category>
-		<category><![CDATA[Pratique]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=250661</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/">Comment nourrir les oiseaux dans son jardin sans (trop) attirer les rats ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/">Comment nourrir les oiseaux dans son jardin sans (trop) attirer les rats ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/comment-nourrir-les-oiseaux-dans-son-jardin-sans-trop-attirer-les-rats/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
 		
 		
 			</item>
