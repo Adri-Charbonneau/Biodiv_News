@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 07 Jan 2025 18:34:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jan 2025 14:18:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Les lacs de l&#8217;Ove blanc (Drôme), une halte hivernale régulière pour le Fuligule nyroca</title>
+		<link>https://www.ornithomedia.com/magazine/observer-france/les-lacs-de-love-blanc-drome-une-halte-hivernale-reguliere-du-fuligule-nyroca/</link>
+					<comments>https://www.ornithomedia.com/magazine/observer-france/les-lacs-de-love-blanc-drome-une-halte-hivernale-reguliere-du-fuligule-nyroca/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 13:46:47 +0000</pubDate>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Observer en France]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=251282</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/les-lacs-de-love-blanc-drome-une-halte-hivernale-reguliere-du-fuligule-nyroca/">Les lacs de l&rsquo;Ove blanc (Drôme), une halte hivernale régulière pour le Fuligule nyroca</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/les-lacs-de-love-blanc-drome-une-halte-hivernale-reguliere-du-fuligule-nyroca/">Les lacs de l&rsquo;Ove blanc (Drôme), une halte hivernale régulière pour le Fuligule nyroca</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/les-lacs-de-love-blanc-drome-une-halte-hivernale-reguliere-du-fuligule-nyroca/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Comment identifier le Bécasseau minuscule, le plus petit limicole du monde ?</title>
 		<link>https://www.ornithomedia.com/pratique/identification/identification-becasseau-minuscule-camargue-aout-2016-02249/</link>
@@ -198,26 +219,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/le-nesospize-de-wilkins-va-t-il-etre-sauve-par-une-guepe-parasite/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Les Hiboux des marais forment parfois des dortoirs dans les plantations de sapins de Noël</title>
-		<link>https://www.ornithomedia.com/breves/les-hibou-des-marais-forment-parfois-des-dortoirs-dans-les-plantations-de-sapins-de-noel/</link>
-					<comments>https://www.ornithomedia.com/breves/les-hibou-des-marais-forment-parfois-des-dortoirs-dans-les-plantations-de-sapins-de-noel/#comments</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Wed, 25 Dec 2024 07:20:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=250645</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/les-hibou-des-marais-forment-parfois-des-dortoirs-dans-les-plantations-de-sapins-de-noel/">Les Hiboux des marais forment parfois des dortoirs dans les plantations de sapins de Noël</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/les-hibou-des-marais-forment-parfois-des-dortoirs-dans-les-plantations-de-sapins-de-noel/">Les Hiboux des marais forment parfois des dortoirs dans les plantations de sapins de Noël</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/les-hibou-des-marais-forment-parfois-des-dortoirs-dans-les-plantations-de-sapins-de-noel/feed/</wfw:commentRss>
-			<slash:comments>4</slash:comments>
 		
 		
 			</item>
