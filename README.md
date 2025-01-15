@@ -20,6 +20,7 @@ Aggrégateur RSS de différents sites internet sur le sujet de la biodiversité,
 | **INPN** | Les dernières actualités de l'Inventaire National du Patrimoine Naturel | https://inpn.mnhn.fr/actualites/sommaire-actualites |
 | **La Pie Bavarde** | Multiples sujets en lien avec l'environnement | https://www.la-pie-bavarde.com/articles |
 | **LPO Mission Rapaces** | Actualités de la LPO Mission Rapaces | https://rapaces.lpo.fr/mission-rapaces/actualites-rapaces |
+| **Marc Duquet** | Un blog pour les ornithos de terrain | https://marcduquet.com/ |
 | **Martinia** | Revue scientifique de l'odonatologie française | https://www.martinia.insectes.org/ |
 | **Migratlane** | Suivre et étudier les oiseaux de l'arc Atlantique Nord-Est | https://migratlane-telemetrie.fr/ |
 | **Naturae** | Revue scientifique et technique du MNHN | https://sciencepress.mnhn.fr/fr/periodiques/naturae |

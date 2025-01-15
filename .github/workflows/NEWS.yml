@@ -63,6 +63,10 @@ jobs:
         #if: always()
         #run:  ./lporapaces.ps1
 
+      - name: Marc Duquet
+        if: always()
+        run:  ./marcduquet.ps1
+
       - name: Martinia
         if: always()
         run:  ./martinia.ps1
