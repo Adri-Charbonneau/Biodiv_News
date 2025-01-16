@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Sun, 22 Dec 2024 18:08:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jan 2025 06:49:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cinétique d’émergence, sex-ratio, estimation de la taille des populations et éléments sur la phénologie d’Aeshna subarctica elisabethae Djakonov, 1922 sur deux tourbières de la Réserve Naturelle Nationale des Ballons-Comtois (Odonata : Aeshnidae)</title>
+		<link>https://martinia.insectes.org/cinetique-demergence-sex-ratio-estimation-de-la-taille-des-populations-et-elements-sur-la-phenologie-demaeshna-subarctica-elisabethae-em-djakonov-1922-sur-deux-tourbiere/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 07:48:00 +0000</pubDate>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Bog Hawker]]></category>
+		<category><![CDATA[Bourgogne-Franche-Comté]]></category>
+		<category><![CDATA[dynamic]]></category>
+		<category><![CDATA[dynamique]]></category>
+		<category><![CDATA[Exuviae]]></category>
+		<category><![CDATA[exuvie]]></category>
+		<category><![CDATA[Haute-Saône]]></category>
+		<category><![CDATA[Subarctic Darner]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=5845</guid>
+
+					<description><![CDATA[Auteur(s) :Doucet Guillaume &#038; Coulette Sébastien Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Répertoire 1985-2011 de la revue Martinia et des autres travaux publiés par la Société française d’Odonatologie.</title>
 		<link>https://martinia.insectes.org/repertoire-1985-2011-de-la-revue-martinia-et-des-autres-travaux-publies-par-la-societe-francaise-dodonatologie/</link>
 		
@@ -228,28 +250,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4438</guid>
 
 					<description><![CDATA[Auteur(s) :Durand Eric Numérotation : Type de publication : Article]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Première mention d’Aeshna isoceles (Odonata : Aeshnidae) dans le Territoire de Belfort</title>
-		<link>https://martinia.insectes.org/premiere-mention-daeshna-isoceles-odonata-aeshnidae-dans-le-territoire-de-belfort/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Fri, 28 Oct 2022 11:46:17 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Bourgogne-Franche-Comté]]></category>
-		<category><![CDATA[découverte]]></category>
-		<category><![CDATA[discovery]]></category>
-		<category><![CDATA[Exuviae]]></category>
-		<category><![CDATA[exuvie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[habitat larvaire]]></category>
-		<category><![CDATA[larval habitat]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4407</guid>
-
-					<description><![CDATA[Aeshna isoceles (O.F. Müller, 1767) est une espèce ouest-paléarctique que l’on trouve depuis l’Europe de l’ouest jusqu’en Asie centrale (Kalkman et al., 2015). Son biotope de prédilection correspond à un milieu stagnant à légèrement courant, bien ensoleillé, riche en végétation, notamment en roselière (Heidemann &#38; Seidenbusch, 2002), préférentiellement à basse altitude en dessous de 600 [&#8230;]]]></description>
 		
 		
 		
