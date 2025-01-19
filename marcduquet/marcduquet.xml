@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 13 Jan 2025 12:29:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Jan 2025 13:10:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bruant des neiges : quelle sous-espèce ?</title>
+		<link>https://marcduquet.com/bruant-des-neiges-quelle-sous-espece/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 19 Jan 2025 12:39:58 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[insulae]]></category>
+		<category><![CDATA[nivalis]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Plectrophenax nivalis]]></category>
+		<category><![CDATA[sous-espèce]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1750</guid>
+
+					<description><![CDATA[Cet article complète les deux précédents, consacrés à la détermination du sexe et de l’âge des Bruants des neiges observés en période internuptiale en France. Taxinomie du Bruant des neigesLe Bruant des neiges a une vaste répartition circumpolaire, qui couvre les régions boréales et arctiques d’Amérique du Nord, du Groenland, d’Europe et d’Asie (Byers&#160;et al.&#160;1995)....]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Bruant des neiges : 1re année ou adulte ?</title>
 		<link>https://marcduquet.com/bruant-des-neiges-1re-annee-ou-adulte/</link>
 		
@@ -55,7 +74,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=1439</guid>
 
-					<description><![CDATA[L’oiseau de ce début d’année est de toute évidence le&#160;Rougequeue de Moussier&#160;mâle de 2e année trouvé le 26 décembre à Frontignan (Hérault), qui est encore présent à ce jour, très peu farouche et démonstratif. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans l’Hérault à...]]></description>
+					<description><![CDATA[L’oiseau de ce début d’année est de toute évidence le Rougequeue de Moussier mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault), qui était encore présent le 18 janvier, très peu farouche et démonstratif. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans l’Hérault...]]></description>
 		
 		
 		
@@ -111,22 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=955</guid>
 
 					<description><![CDATA[Fin juillet 2024, Jean-Pierre Toumazet m’a envoyé le courrier suivant, accompagné de photos, dont certaines sont reprises ici.«Ayant retrouvé dans un ancien numéro d’Ornithos&#160;un courrier rapportant le cas d’un Tichodrome échelette qui prenait des bains de sable, je me suis souvenu avoir observé, à deux reprises et 5 ans d’intervalle, un comportement très similaire. Il...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oiseaux rares : les faits marquants de 2024</title>
-		<link>https://marcduquet.com/oiseaux-rares-les-faits-marquants-de-2024/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 05 Jan 2025 08:56:46 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1221</guid>
-
-					<description><![CDATA[Premières françaises Trois espèces nouvelles pour la France ont été observées en 2024&#160;&#160;&#160;&#160;&#160;:• un pétrel&#160;photographié par Guillaume Rey le 10 octobre à Lège-Cap-Ferret (Gironde), a été identifié comme&#160;Pétrel de Barau&#160;Pterodroma baraui&#160;par Hadoram Shirihai, identification confirmée par Bob Flood et Daniel López Velasco&#160;;&#160;cette donnée est également une première pour le Paléarctique occidental&#160;;•&#160;une&#160;Gallinule africaine&#160;Paragallinula angulata&#160;de 2e&#160;année trouvée...]]></description>
 		
 		
 		
