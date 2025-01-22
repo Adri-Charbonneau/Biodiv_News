@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 19 Jan 2025 13:10:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Jan 2025 11:17:02 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Des oiseaux sur des grues…</title>
+		<link>https://marcduquet.com/des-oiseaux-sur-des-grues/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 11:10:40 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Choucas]]></category>
+		<category><![CDATA[Grue de chantier]]></category>
+		<category><![CDATA[Insolite]]></category>
+		<category><![CDATA[Martinet]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<category><![CDATA[Pigeon]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=810</guid>
+
+					<description><![CDATA[Plusieurs cas de nidification d&#8217;oiseaux cavicoles dans les trous des contrepoids de grues de chantier ont été signalés en 2023 et 2024 dans Ornithos (Tissier 2023, Duquet 2023, 2024) :• Pigeon colombin à Lyon, Rhône, en 2022 (Dominique Tissier) et Gagny, Seine-Saint-Denis en 2021 et 2023 (Lucien Claivaz fide Olivier Laporte),• Pigeon biset urbain à...]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nouvelles ornithos : janvier 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-janvier-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 11:03:12 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1439</guid>
+
+					<description><![CDATA[L’oiseau de ce début d’année reste de toute évidence le&#160;Rougequeue de Moussier&#160;mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault) ; très peu farouche et démonstratif, il était toujours présent le 21 janvier. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Bruant des neiges : quelle sous-espèce ?</title>
 		<link>https://marcduquet.com/bruant-des-neiges-quelle-sous-espece/</link>
 		
@@ -59,22 +95,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1585</guid>
 
 					<description><![CDATA[Nous avons vu dans un précédent article comment déterminer le sexe d’un Bruant des neiges en plumage internuptial, c’est-à-dire à l’automne et en hiver, principalement en examinant la coloration de ses scapulaires. La question suivante que l’on peut se poser est de savoir s’il s’agit d’un adulte ou d’un oiseau de 1re&#160;année&#160;: c’est ce dont...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : janvier 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-janvier-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 12 Jan 2025 11:03:07 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1439</guid>
-
-					<description><![CDATA[L’oiseau de ce début d’année est de toute évidence le Rougequeue de Moussier mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault), qui était encore présent le 18 janvier, très peu farouche et démonstratif. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans l’Hérault...]]></description>
 		
 		
 		
@@ -112,24 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1543</guid>
 
 					<description><![CDATA[Le 26 décembre 2024, un Rougequeue de Moussier mâle de 2e année a été trouvé par Isabelle Cabirol à Frontignan (Hérault). Très peu farouche et démonstratif, il a été vu et photographié par près de 300 ornithos venus de toute la France ; il était toujours présent à la mi-janvier 2025.Il s’agit seulement de la deuxième mention française de...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les bains de soleil du Tichodrome</title>
-		<link>https://marcduquet.com/les-bains-de-soleil-du-tichodrome/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 12:04:25 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Allier]]></category>
-		<category><![CDATA[Comportement]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Tichodroma muraria]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=955</guid>
-
-					<description><![CDATA[Fin juillet 2024, Jean-Pierre Toumazet m’a envoyé le courrier suivant, accompagné de photos, dont certaines sont reprises ici.«Ayant retrouvé dans un ancien numéro d’Ornithos&#160;un courrier rapportant le cas d’un Tichodrome échelette qui prenait des bains de sable, je me suis souvenu avoir observé, à deux reprises et 5 ans d’intervalle, un comportement très similaire. Il...]]></description>
 		
 		
 		
