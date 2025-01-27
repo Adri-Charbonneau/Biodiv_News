@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 22 Jan 2025 11:17:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jan 2025 16:24:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un Eider à lunettes aux Pays-Bas !</title>
+		<link>https://marcduquet.com/un-eider-a-lunettes-aux-pays-bas/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 16:13:52 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Canard]]></category>
+		<category><![CDATA[Pays-Bas]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<category><![CDATA[Somateria fischeri]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1797</guid>
+
+					<description><![CDATA[Le 13 janvier 2025, un Eider à lunettes mâle subadulte (3e/4e année) a été découvert à IJzeren Kaap, sur la côte orientale de l’île de Texel (Pays-Bas), fournissant la première mention néerlandaise et ouest-européenne de l’espèce. Trois jours plus tard, il avait déjà été vu par plus d’un millier d’ornithologues européens ! Cet individu ne porte pas de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Des oiseaux sur des grues…</title>
 		<link>https://marcduquet.com/des-oiseaux-sur-des-grues/</link>
 		
@@ -58,7 +76,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=1439</guid>
 
-					<description><![CDATA[L’oiseau de ce début d’année reste de toute évidence le&#160;Rougequeue de Moussier&#160;mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault) ; très peu farouche et démonstratif, il était toujours présent le 21 janvier. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans...]]></description>
+					<description><![CDATA[L’oiseau de ce début d’année reste de toute évidence le Rougequeue de Moussier mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault) ; très peu farouche et démonstratif, il était toujours présent le 25 janvier. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans...]]></description>
 		
 		
 		
@@ -114,24 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1570</guid>
 
 					<description><![CDATA[Par Yves Blat Le 8 octobre 2024, les conditions météorologiques étant propices pour une séance de seawatching à la pointe du Vivier, à l’extrémité de la presqu’île de Quiberon (Morbihan), je m’y installe vers 8h30, notant les passages habituels en cette saison d’un peu plus de 200 Fous de Bassan, de quelques dizaines de Puffins...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Deuxième mention française du Rougequeue de Moussier</title>
-		<link>https://marcduquet.com/deuxieme-mention-francaise-du-rougequeue-de-moussier/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 11 Jan 2025 12:06:15 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Hérault]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Phoenicurus moussieri]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1543</guid>
-
-					<description><![CDATA[Le 26 décembre 2024, un Rougequeue de Moussier mâle de 2e année a été trouvé par Isabelle Cabirol à Frontignan (Hérault). Très peu farouche et démonstratif, il a été vu et photographié par près de 300 ornithos venus de toute la France ; il était toujours présent à la mi-janvier 2025.Il s’agit seulement de la deuxième mention française de...]]></description>
 		
 		
 		
