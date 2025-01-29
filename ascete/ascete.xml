@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Sun, 05 Jan 2025 21:18:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jan 2025 15:05:22 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Adhésion 2025 et mise à disposition des publications de l&#8217;association</title>
+		<link>https://ascete.org/adhesion-2025/</link>
+		
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 19:04:33 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3395</guid>
+
+					<description><![CDATA[L&#8217;ASCETE vous souhaite une belle année 2025. Les adhésions sont ouvertes. Pour le faire en ligne sur Hello Asso, veuillez cliquer sur le lien ci dessous. via HelloAsso Vous pouvez également régler votre cotisation par virement ou chèque. Les informations sont disponibles dans le bulletin d&#8217;adhésion en cliquant sur la photo ci-dessous. De plus, pour [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rétrospective 2024 et meilleurs vœux pour 2025</title>
 		<link>https://ascete.org/retrospective-2024-et-meilleurs-voeux-pour-2025/</link>
 		
@@ -135,20 +149,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3411</guid>
 
 					<description><![CDATA[La deuxième édition des Rencontres Naturalistes d&#8217;Occitanie se tiendra les 15, 16 et 17 mars 2024 au Palais des Congrès de Gruissan (Aude). Cet évènement est organisé par OcNat, l&#8217;Union des Associations Naturalistes d&#8217;Occitanie, et rassemblera plusieurs centaines de participants professionnels ou amateurs, issus des milieux associatifs, institutionnels, universitaires ou bureau d’études. Ces rencontres seront [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adhésion 2024 et mise à disposition des publications de l&#8217;association</title>
-		<link>https://ascete.org/adhesion-2024/</link>
-		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
-		<pubDate>Wed, 10 Jan 2024 19:04:33 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3395</guid>
-
-					<description><![CDATA[L&#8217;ASCETE vous souhaite une belle année 2024. Les adhésions sont ouvertes. Pour le faire en ligne sur Hello Asso, veuillez cliquer sur le lien ci dessous. via HelloAsso Vous pouvez également régler votre cotisation par virement ou chèque. Les informations sont disponibles dans le bulletin d&#8217;adhésion en cliquant sur la photo ci-dessous. De plus, pour [&#8230;]]]></description>
 		
 		
 		
