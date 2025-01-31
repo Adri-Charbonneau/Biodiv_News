@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 31 Jan 2025 10:20:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Jan 2025 11:24:00 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : janvier 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-janvier-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2025 11:03:00 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1439</guid>
+
+					<description><![CDATA[L’oiseau de ce début d’année reste de toute évidence le Rougequeue de Moussier mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault) ; très peu farouche et démonstratif, il était toujours présent le 29 janvier. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Plongeons d’hiver – (I) le Plongeon catmarin</title>
 		<link>https://marcduquet.com/plongeons-dhiver-i-le-plongeon-catmarin/</link>
 		
@@ -35,6 +51,7 @@
 		<pubDate>Fri, 31 Jan 2025 10:19:55 +0000</pubDate>
 				<category><![CDATA[Ornithologie]]></category>
 		<category><![CDATA[Gavia stellata]]></category>
+		<category><![CDATA[Identification]]></category>
 		<category><![CDATA[Plongeons]]></category>
 		<category><![CDATA[Statut]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=1863</guid>
@@ -51,13 +68,13 @@
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
 		<pubDate>Mon, 27 Jan 2025 16:13:52 +0000</pubDate>
 				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Canard]]></category>
+		<category><![CDATA[Canards]]></category>
 		<category><![CDATA[Pays-Bas]]></category>
 		<category><![CDATA[Raretés]]></category>
 		<category><![CDATA[Somateria fischeri]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=1797</guid>
 
-					<description><![CDATA[Le 13 janvier 2025, un Eider à lunettes mâle subadulte (3e/4e&#160;année) a été découvert à IJzeren Kaap, sur la côte orientale de l’île de Texel (Pays-Bas), fournissant la première&#160;mention néerlandaise et ouest-européenne de l’espèce. Trois jours plus tard, il avait déjà été vu par plus d’un millier d’ornithologues européens, et près de 6000 se sont...]]></description>
+					<description><![CDATA[Le 13 janvier 2025, un Eider à lunettes mâle subadulte (3e/4e année) a été découvert à IJzeren Kaap, sur la côte orientale de l’île de Texel (Pays-Bas), fournissant la première mention néerlandaise et ouest-européenne de l’espèce. Trois jours plus tard, il avait déjà été vu par plus d’un millier d’ornithologues européens, et près de 6000 se sont...]]></description>
 		
 		
 		
@@ -72,28 +89,12 @@
 		<category><![CDATA[Choucas]]></category>
 		<category><![CDATA[Grue de chantier]]></category>
 		<category><![CDATA[Insolite]]></category>
-		<category><![CDATA[Martinet]]></category>
+		<category><![CDATA[Martinets]]></category>
 		<category><![CDATA[Nidification]]></category>
-		<category><![CDATA[Pigeon]]></category>
+		<category><![CDATA[Pigeons]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=810</guid>
 
 					<description><![CDATA[Plusieurs cas de nidification d&#8217;oiseaux cavicoles dans les trous des contrepoids de grues de chantier ont été signalés en 2023 et 2024 dans Ornithos (Tissier 2023, Duquet 2023, 2024) :• Pigeon colombin à Lyon, Rhône, en 2022 (Dominique Tissier) et Gagny, Seine-Saint-Denis en 2021 et 2023 (Lucien Claivaz fide Olivier Laporte),• Pigeon biset urbain à...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : janvier 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-janvier-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 11:03:12 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1439</guid>
-
-					<description><![CDATA[L’oiseau de ce début d’année reste de toute évidence le Rougequeue de Moussier mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault) ; très peu farouche et démonstratif, il était toujours présent le 25 janvier. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans...]]></description>
 		
 		
 		
