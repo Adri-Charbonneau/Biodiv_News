@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 27 Jan 2025 16:24:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Jan 2025 10:20:26 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Plongeons d’hiver – (I) le Plongeon catmarin</title>
+		<link>https://marcduquet.com/plongeons-dhiver-i-le-plongeon-catmarin/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2025 10:19:55 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Gavia stellata]]></category>
+		<category><![CDATA[Plongeons]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1863</guid>
+
+					<description><![CDATA[Voici le premier volet d’une série d’articles consacrés au statut et à l’identification des quatre plongeons visibles en France en période hivernale. Je commencerai par les deux espèces les plus faciles à reconnaître, d’abord le Plongeon catmarin puis le Plongeon à bec blanc, pour lequel je dresserai la liste complète des données françaises, et enfin...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un Eider à lunettes aux Pays-Bas !</title>
 		<link>https://marcduquet.com/un-eider-a-lunettes-aux-pays-bas/</link>
 		
@@ -40,7 +57,7 @@
 		<category><![CDATA[Somateria fischeri]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=1797</guid>
 
-					<description><![CDATA[Le 13 janvier 2025, un Eider à lunettes mâle subadulte (3e/4e année) a été découvert à IJzeren Kaap, sur la côte orientale de l’île de Texel (Pays-Bas), fournissant la première mention néerlandaise et ouest-européenne de l’espèce. Trois jours plus tard, il avait déjà été vu par plus d’un millier d’ornithologues européens ! Cet individu ne porte pas de...]]></description>
+					<description><![CDATA[Le 13 janvier 2025, un Eider à lunettes mâle subadulte (3e/4e&#160;année) a été découvert à IJzeren Kaap, sur la côte orientale de l’île de Texel (Pays-Bas), fournissant la première&#160;mention néerlandaise et ouest-européenne de l’espèce. Trois jours plus tard, il avait déjà été vu par plus d’un millier d’ornithologues européens, et près de 6000 se sont...]]></description>
 		
 		
 		
@@ -113,25 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1585</guid>
 
 					<description><![CDATA[Nous avons vu dans un précédent article comment déterminer le sexe d’un Bruant des neiges en plumage internuptial, c’est-à-dire à l’automne et en hiver, principalement en examinant la coloration de ses scapulaires. La question suivante que l’on peut se poser est de savoir s’il s’agit d’un adulte ou d’un oiseau de 1re&#160;année&#160;: c’est ce dont...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Un Guillemot de Kittlitz en Bretagne ?</title>
-		<link>https://marcduquet.com/un-guillemot-de-kittlitz-en-bretagne/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 12 Jan 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Alcidés]]></category>
-		<category><![CDATA[Alle alle]]></category>
-		<category><![CDATA[Brachyramphus brevirostris]]></category>
-		<category><![CDATA[Morbihan]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1570</guid>
-
-					<description><![CDATA[Par Yves Blat Le 8 octobre 2024, les conditions météorologiques étant propices pour une séance de seawatching à la pointe du Vivier, à l’extrémité de la presqu’île de Quiberon (Morbihan), je m’y installe vers 8h30, notant les passages habituels en cette saison d’un peu plus de 200 Fous de Bassan, de quelques dizaines de Puffins...]]></description>
 		
 		
 		
