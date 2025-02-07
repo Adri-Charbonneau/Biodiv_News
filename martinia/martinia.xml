@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Tue, 14 Jan 2025 06:49:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 02 Feb 2025 20:11:02 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Plusieurs cas de reproduction de Boyeria irene (Fonscolombe, 1838) sur plan d’eau en France (Odonata : Aeshnidae)</title>
+		<link>https://martinia.insectes.org/plusieurs-cas-de-reproduction-de-emboyeria-irene-em-fonscolombe-1838-sur-plan-deau-en-france-odonata-aeshnidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 07:10:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[autochthony]]></category>
+		<category><![CDATA[autochtonie]]></category>
+		<category><![CDATA[Exuviae]]></category>
+		<category><![CDATA[Exuvies]]></category>
+		<category><![CDATA[habitat larvaire]]></category>
+		<category><![CDATA[larval habitat]]></category>
+		<category><![CDATA[lentic habitat]]></category>
+		<category><![CDATA[milieu lentique]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6001</guid>
+
+					<description><![CDATA[Boyeria irene (Fonscolombe, 1838) est un odonate considéré comme étant essentiellement inféodé aux cours d’eau (Dommanget, 1987 ; Wildermuth, 2005 ; Wildermuth &#38; Martens, 2019). Très peu d’observations en milieu lentique sont rapportées par les naturalistes. Des populations autochtones sont néanmoins connues sur plusieurs lacs préalpins et alpins en Suisse et en Allemagne depuis plusieurs [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cinétique d’émergence, sex-ratio, estimation de la taille des populations et éléments sur la phénologie d’Aeshna subarctica elisabethae Djakonov, 1922 sur deux tourbières de la Réserve Naturelle Nationale des Ballons-Comtois (Odonata : Aeshnidae)</title>
 		<link>https://martinia.insectes.org/cinetique-demergence-sex-ratio-estimation-de-la-taille-des-populations-et-elements-sur-la-phenologie-demaeshna-subarctica-elisabethae-em-djakonov-1922-sur-deux-tourbiere/</link>
 		
@@ -225,31 +247,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4465</guid>
 
 					<description><![CDATA[Auteur(s) :Piney Bertrand &#038; Krieg-Jacquier Régis Numérotation : Type de publication : Article]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Distribution et éléments d’écologie de Sympetrum depressiusculum (Libellulidae) dans le pays avignonnais (Vaucluse et Bouches-du-Rhône)</title>
-		<link>https://martinia.insectes.org/distribution-et-elements-decologie-de-sympetrum-depressiusculum-libellulidae-dans-le-pays-avignonnais-vaucluse-et-bouches-du-rhone/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Mon, 20 Feb 2023 13:22:54 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[bassin de rétention]]></category>
-		<category><![CDATA[habitat]]></category>
-		<category><![CDATA[irrigation network]]></category>
-		<category><![CDATA[man-made wetlands]]></category>
-		<category><![CDATA[odonata]]></category>
-		<category><![CDATA[réseau d’irrigation]]></category>
-		<category><![CDATA[status]]></category>
-		<category><![CDATA[statut]]></category>
-		<category><![CDATA[stormwater pond]]></category>
-		<category><![CDATA[Sympétrum déprimé]]></category>
-		<category><![CDATA[zone humide artificielle]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4438</guid>
-
-					<description><![CDATA[Auteur(s) :Durand Eric Numérotation : Type de publication : Article]]></description>
 		
 		
 		
