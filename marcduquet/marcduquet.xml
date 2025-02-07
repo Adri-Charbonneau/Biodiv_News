@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 31 Jan 2025 11:24:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 07:38:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Plongeons d’hiver – (II) le Plongeon à bec blanc</title>
+		<link>https://marcduquet.com/plongeons-dhiver-ii-le-plongeon-a-bec-blanc/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 07:38:56 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Gavia adamsii]]></category>
+		<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Plongeons]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1893</guid>
+
+					<description><![CDATA[Occasionnel très rare en France, le Plongeon à bec blanc n’a jamais fait l’objet de synthèse détaillée. Ce court article a donc pour objet de dresser un inventaire complet des mentions françaises connues à ce jour et de présenter la phénologie de l’espèce dans notre pays, même si le nombre réduit de données (un peu...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : janvier 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-janvier-2025/</link>
 		
@@ -114,23 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1750</guid>
 
 					<description><![CDATA[Cet article complète les deux précédents, consacrés à la détermination du sexe et de l’âge des Bruants des neiges observés en période internuptiale en France. Taxinomie du Bruant des neigesLe Bruant des neiges a une vaste répartition circumpolaire, qui couvre les régions boréales et arctiques d’Amérique du Nord, du Groenland, d’Europe et d’Asie (Byers&#160;et al.&#160;1995)....]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bruant des neiges : 1re année ou adulte ?</title>
-		<link>https://marcduquet.com/bruant-des-neiges-1re-annee-ou-adulte/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Âge]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Plectrophenax nivalis]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1585</guid>
-
-					<description><![CDATA[Nous avons vu dans un précédent article comment déterminer le sexe d’un Bruant des neiges en plumage internuptial, c’est-à-dire à l’automne et en hiver, principalement en examinant la coloration de ses scapulaires. La question suivante que l’on peut se poser est de savoir s’il s’agit d’un adulte ou d’un oiseau de 1re&#160;année&#160;: c’est ce dont...]]></description>
 		
 		
 		
