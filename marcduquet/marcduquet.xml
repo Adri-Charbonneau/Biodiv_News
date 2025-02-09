@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 07 Feb 2025 07:38:56 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Feb 2025 17:14:03 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Première mention française de la Talève violacée</title>
+		<link>https://marcduquet.com/premiere-mention-francaise-de-la-taleve-violacee/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 09 Feb 2025 17:10:10 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Porphyrio martinica]]></category>
+		<category><![CDATA[Rallidés]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1917</guid>
+
+					<description><![CDATA[Le 7 février 2025, une&#160;Talève violacée&#160;Porphyrio martinica&#160;a été trouvée morte enchevêtrée dans un tas de branchages dans un jardin à Châtelaillon-Plage (Charente-Maritime), fournissant la première mention française de cette espèce néarctique. Les photos postées par Paul Coiffard sur la liste Telegram « Oiseaux Rares France&#160;» ne laissent aucun doute sur l’identité de cet oiseau, son...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Plongeons d’hiver – (II) le Plongeon à bec blanc</title>
 		<link>https://marcduquet.com/plongeons-dhiver-ii-le-plongeon-a-bec-blanc/</link>
 		
@@ -113,25 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=810</guid>
 
 					<description><![CDATA[Plusieurs cas de nidification d&#8217;oiseaux cavicoles dans les trous des contrepoids de grues de chantier ont été signalés en 2023 et 2024 dans Ornithos (Tissier 2023, Duquet 2023, 2024) :• Pigeon colombin à Lyon, Rhône, en 2022 (Dominique Tissier) et Gagny, Seine-Saint-Denis en 2021 et 2023 (Lucien Claivaz fide Olivier Laporte),• Pigeon biset urbain à...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bruant des neiges : quelle sous-espèce ?</title>
-		<link>https://marcduquet.com/bruant-des-neiges-quelle-sous-espece/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 19 Jan 2025 12:39:58 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[insulae]]></category>
-		<category><![CDATA[nivalis]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Plectrophenax nivalis]]></category>
-		<category><![CDATA[sous-espèce]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1750</guid>
-
-					<description><![CDATA[Cet article complète les deux précédents, consacrés à la détermination du sexe et de l’âge des Bruants des neiges observés en période internuptiale en France. Taxinomie du Bruant des neigesLe Bruant des neiges a une vaste répartition circumpolaire, qui couvre les régions boréales et arctiques d’Amérique du Nord, du Groenland, d’Europe et d’Asie (Byers&#160;et al.&#160;1995)....]]></description>
 		
 		
 		
