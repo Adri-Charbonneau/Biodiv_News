@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 09 Feb 2025 17:14:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Feb 2025 18:25:20 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : février 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-fevrier-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 09 Feb 2025 18:25:20 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1941</guid>
+
+					<description><![CDATA[L’oiseau du mois de février sera sans doute cette Talève violacée trouvée morte le 7 février dans un jardin à Châtelaillon-Plage (Charente-Maritime), une espèce nouvelle pour la France ! Voir l’article que je lui ai consacré, qui fait le point sur l’ensemble des données européennes de ce rallidé néarctique. Depuis août 2024, des&#160;Cormorans pygmées&#160;immatures stationnent çà et là...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Première mention française de la Talève violacée</title>
 		<link>https://marcduquet.com/premiere-mention-francaise-de-la-taleve-violacee/</link>
 		
@@ -75,7 +91,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=1439</guid>
 
-					<description><![CDATA[L’oiseau de ce début d’année reste de toute évidence le Rougequeue de Moussier mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault) ; très peu farouche et démonstratif, il était toujours présent le 29 janvier. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans...]]></description>
+					<description><![CDATA[L’oiseau de ce début d’année reste de toute évidence le Rougequeue de Moussier mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault) ; très peu farouche et démonstratif, il était toujours présent le 31 janvier. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans...]]></description>
 		
 		
 		
@@ -112,26 +128,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1797</guid>
 
 					<description><![CDATA[Le 13 janvier 2025, un Eider à lunettes mâle subadulte (3e/4e année) a été découvert à IJzeren Kaap, sur la côte orientale de l’île de Texel (Pays-Bas), fournissant la première mention néerlandaise et ouest-européenne de l’espèce. Trois jours plus tard, il avait déjà été vu par plus d’un millier d’ornithologues européens, et près de 6000 se sont...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Des oiseaux sur des grues…</title>
-		<link>https://marcduquet.com/des-oiseaux-sur-des-grues/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 11:10:40 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Choucas]]></category>
-		<category><![CDATA[Grue de chantier]]></category>
-		<category><![CDATA[Insolite]]></category>
-		<category><![CDATA[Martinets]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<category><![CDATA[Pigeons]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=810</guid>
-
-					<description><![CDATA[Plusieurs cas de nidification d&#8217;oiseaux cavicoles dans les trous des contrepoids de grues de chantier ont été signalés en 2023 et 2024 dans Ornithos (Tissier 2023, Duquet 2023, 2024) :• Pigeon colombin à Lyon, Rhône, en 2022 (Dominique Tissier) et Gagny, Seine-Saint-Denis en 2021 et 2023 (Lucien Claivaz fide Olivier Laporte),• Pigeon biset urbain à...]]></description>
 		
 		
 		
