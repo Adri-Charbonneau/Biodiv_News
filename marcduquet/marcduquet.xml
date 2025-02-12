@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 09 Feb 2025 18:25:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Feb 2025 09:08:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Plongeons d’hiver : (III) le Plongeon arctique</title>
+		<link>https://marcduquet.com/plongeons-dhiver-iii-le-plongeon-arctique/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 09:06:18 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Gavia arctica]]></category>
+		<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Plongeons]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1979</guid>
+
+					<description><![CDATA[Ce troisième volet est consacré à l’un des deux plongeons les plus fréquents en hiver en France&#160;: le Plongeon arctique. Les informations sur la répartition mondiale et européenne de l’espèce proviennent de Cramp &#38; Simmons (2020), les données phénologiques et chronologiques relatives à la France sont issues de Deceuninck (2015) et de&#160;Dubois&#160;et al.&#160;(2008, 2018) et...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : février 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-fevrier-2025/</link>
 		
@@ -38,7 +56,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=1941</guid>
 
-					<description><![CDATA[L’oiseau du mois de février sera sans doute cette Talève violacée trouvée morte le 7 février dans un jardin à Châtelaillon-Plage (Charente-Maritime), une espèce nouvelle pour la France ! Voir l’article que je lui ai consacré, qui fait le point sur l’ensemble des données européennes de ce rallidé néarctique. Depuis août 2024, des&#160;Cormorans pygmées&#160;immatures stationnent çà et là...]]></description>
+					<description><![CDATA[L’oiseau du mois de février sera sans doute cette&#160;Talève violacée&#160;trouvée morte le 7 février dans un jardin à Châtelaillon-Plage (Charente-Maritime), une espèce nouvelle pour la France&#160;! Voir l’article que je lui ai consacré, qui fait le point sur l’ensemble des données européennes de ce rallidé néarctique. Depuis août 2024, des&#160;Cormorans pygmées&#160;immatures stationnent çà et là...]]></description>
 		
 		
 		
@@ -110,24 +128,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1863</guid>
 
 					<description><![CDATA[Voici le premier volet d’une série d’articles consacrés au statut et à l’identification des quatre plongeons visibles en France en période hivernale. Je commencerai par les deux espèces les plus faciles à reconnaître, d’abord le Plongeon catmarin puis le Plongeon à bec blanc, pour lequel je dresserai la liste complète des données françaises, et enfin...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Un Eider à lunettes aux Pays-Bas !</title>
-		<link>https://marcduquet.com/un-eider-a-lunettes-aux-pays-bas/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 16:13:52 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Canards]]></category>
-		<category><![CDATA[Pays-Bas]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<category><![CDATA[Somateria fischeri]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1797</guid>
-
-					<description><![CDATA[Le 13 janvier 2025, un Eider à lunettes mâle subadulte (3e/4e année) a été découvert à IJzeren Kaap, sur la côte orientale de l’île de Texel (Pays-Bas), fournissant la première mention néerlandaise et ouest-européenne de l’espèce. Trois jours plus tard, il avait déjà été vu par plus d’un millier d’ornithologues européens, et près de 6000 se sont...]]></description>
 		
 		
 		
