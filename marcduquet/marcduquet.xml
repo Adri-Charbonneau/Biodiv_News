@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 12 Feb 2025 09:08:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Feb 2025 12:27:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Plongeons d’hiver : (III) le Plongeon arctique</title>
+		<title>Plongeons d’hiver – (III) le Plongeon arctique</title>
 		<link>https://marcduquet.com/plongeons-dhiver-iii-le-plongeon-arctique/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
