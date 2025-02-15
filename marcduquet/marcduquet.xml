@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 12 Feb 2025 12:27:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Feb 2025 18:36:05 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Plongeons d’hiver – (IV) le Plongeon imbrin</title>
+		<link>https://marcduquet.com/plongeons-dhiver-iv-le-plongeon-imbrin/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2025 18:36:05 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Gavia immer]]></category>
+		<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Plongeons]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2009</guid>
+
+					<description><![CDATA[Voici le quatrième volet de la série d’articles sur le statut et l’identification des plongeons visibles en France en période hivernale. Celui-ci traite du Plongeon imbrin, et, finalement, ne sera pas le dernier… En effet, j’ai décidé de vous proposer un cinquième et ultime article consacré au Plongeon du Pacifique (une espèce potentielle pour la...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Plongeons d’hiver – (III) le Plongeon arctique</title>
 		<link>https://marcduquet.com/plongeons-dhiver-iii-le-plongeon-arctique/</link>
 		
@@ -110,24 +128,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1439</guid>
 
 					<description><![CDATA[L’oiseau de ce début d’année reste de toute évidence le Rougequeue de Moussier mâle de 2e année trouvé le 26 décembre 2024 à Frontignan (Hérault) ; très peu farouche et démonstratif, il était toujours présent le 31 janvier. Il s’agit de la deuxième donnée française de l’espèce, après celle d’un mâle le 7 mai 2013, déjà dans...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Plongeons d’hiver – (I) le Plongeon catmarin</title>
-		<link>https://marcduquet.com/plongeons-dhiver-i-le-plongeon-catmarin/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 10:19:55 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Gavia stellata]]></category>
-		<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Plongeons]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1863</guid>
-
-					<description><![CDATA[Voici le premier volet d’une série d’articles consacrés au statut et à l’identification des quatre plongeons visibles en France en période hivernale. Je commencerai par les deux espèces les plus faciles à reconnaître, d’abord le Plongeon catmarin puis le Plongeon à bec blanc, pour lequel je dresserai la liste complète des données françaises, et enfin...]]></description>
 		
 		
 		
