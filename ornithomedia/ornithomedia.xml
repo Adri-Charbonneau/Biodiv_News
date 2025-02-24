@@ -12,28 +12,28 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sat, 22 Feb 2025 10:39:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Feb 2025 20:47:00 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 		<item>
-		<title>Conférence sur le suivi et l&#8217;évolution des populations d’oiseaux à Châteauroux (Indre) le 4 mars 2025</title>
-		<link>https://www.ornithomedia.com/breves/conference-sur-le-suivi-et-levolution-des-populations-doiseaux-a-chateauroux-indre-le-4-mars-2025/</link>
-					<comments>https://www.ornithomedia.com/breves/conference-sur-le-suivi-et-levolution-des-populations-doiseaux-a-chateauroux-indre-le-4-mars-2025/#respond</comments>
+		<title>Les Fous brun et à pieds bleus sont en expansion vers le Nord et nichent désormais en Californie (États-Unis)</title>
+		<link>https://www.ornithomedia.com/breves/les-fous-brun-et-a-pieds-bleus-sont-en-expansion-vers-le-nord-et-nichent-desormais-en-californie-etats-unis/</link>
+					<comments>https://www.ornithomedia.com/breves/les-fous-brun-et-a-pieds-bleus-sont-en-expansion-vers-le-nord-et-nichent-desormais-en-californie-etats-unis/#respond</comments>
 		
 		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sun, 23 Feb 2025 08:00:00 +0000</pubDate>
+		<pubDate>Mon, 24 Feb 2025 20:46:59 +0000</pubDate>
 				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=253164</guid>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=253262</guid>
 
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/conference-sur-le-suivi-et-levolution-des-populations-doiseaux-a-chateauroux-indre-le-4-mars-2025/">Conférence sur le suivi et l&rsquo;évolution des populations d’oiseaux à Châteauroux (Indre) le 4 mars 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/les-fous-brun-et-a-pieds-bleus-sont-en-expansion-vers-le-nord-et-nichent-desormais-en-californie-etats-unis/">Les Fous brun et à pieds bleus sont en expansion vers le Nord et nichent désormais en Californie (États-Unis)</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/conference-sur-le-suivi-et-levolution-des-populations-doiseaux-a-chateauroux-indre-le-4-mars-2025/">Conférence sur le suivi et l&rsquo;évolution des populations d’oiseaux à Châteauroux (Indre) le 4 mars 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/les-fous-brun-et-a-pieds-bleus-sont-en-expansion-vers-le-nord-et-nichent-desormais-en-californie-etats-unis/">Les Fous brun et à pieds bleus sont en expansion vers le Nord et nichent désormais en Californie (États-Unis)</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/conference-sur-le-suivi-et-levolution-des-populations-doiseaux-a-chateauroux-indre-le-4-mars-2025/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.ornithomedia.com/breves/les-fous-brun-et-a-pieds-bleus-sont-en-expansion-vers-le-nord-et-nichent-desormais-en-californie-etats-unis/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -81,7 +81,7 @@
 		<item>
 		<title>La Chevêchette d&#8217;Europe confirme son installation dans les Pyrénées espagnoles et a été découverte récemment en Catalogne</title>
 		<link>https://www.ornithomedia.com/breves/la-chevechette-deurope-confirme-son-installation-dans-les-pyrenees-espagnoles-et-a-ete-decouverte-recemment-en-catalogne/</link>
-					<comments>https://www.ornithomedia.com/breves/la-chevechette-deurope-confirme-son-installation-dans-les-pyrenees-espagnoles-et-a-ete-decouverte-recemment-en-catalogne/#respond</comments>
+					<comments>https://www.ornithomedia.com/breves/la-chevechette-deurope-confirme-son-installation-dans-les-pyrenees-espagnoles-et-a-ete-decouverte-recemment-en-catalogne/#comments</comments>
 		
 		<dc:creator><![CDATA[David]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2025 08:00:00 +0000</pubDate>
@@ -94,7 +94,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/la-chevechette-deurope-confirme-son-installation-dans-les-pyrenees-espagnoles-et-a-ete-decouverte-recemment-en-catalogne/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
@@ -182,7 +182,7 @@
 		<item>
 		<title>La progression spectaculaire du Zostérops de Swinhoe en Californie (États-Unis) depuis 2006</title>
 		<link>https://www.ornithomedia.com/breves/la-progression-spectaculaire-du-zosterops-de-swinhoe-en-californie-etats-unis-depuis-2006/</link>
-					<comments>https://www.ornithomedia.com/breves/la-progression-spectaculaire-du-zosterops-de-swinhoe-en-californie-etats-unis-depuis-2006/#respond</comments>
+					<comments>https://www.ornithomedia.com/breves/la-progression-spectaculaire-du-zosterops-de-swinhoe-en-californie-etats-unis-depuis-2006/#comments</comments>
 		
 		<dc:creator><![CDATA[David]]></dc:creator>
 		<pubDate>Mon, 10 Feb 2025 18:00:00 +0000</pubDate>
@@ -195,7 +195,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/la-progression-spectaculaire-du-zosterops-de-swinhoe-en-californie-etats-unis-depuis-2006/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
