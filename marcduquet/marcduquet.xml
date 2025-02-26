@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 23 Feb 2025 17:07:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Feb 2025 12:41:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Protégé : Les jumelles Swarovski NL Pure 14&#215;52 prennent la mer !</title>
+		<link>https://marcduquet.com/les-jumelles-swarovski-nl-pure-14x52-prennent-la-mer/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 12:41:18 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Jumelles]]></category>
+		<category><![CDATA[Test]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2131</guid>
+
+					<description><![CDATA[Il n’y a pas d’extrait, car cette publication est protégée.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : février 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-fevrier-2025/</link>
 		
@@ -113,24 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1917</guid>
 
 					<description><![CDATA[Le 7 février 2025, une&#160;Talève violacée&#160;Porphyrio martinica&#160;a été trouvée morte enchevêtrée dans un tas de branchages dans un jardin à Châtelaillon-Plage (Charente-Maritime), fournissant la première mention française de cette espèce néarctique. Les photos postées par Paul Coiffard sur la liste Telegram « Oiseaux Rares France&#160;» ne laissent aucun doute sur l’identité de cet oiseau, son...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Plongeons d’hiver – (II) le Plongeon à bec blanc</title>
-		<link>https://marcduquet.com/plongeons-dhiver-ii-le-plongeon-a-bec-blanc/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 07 Feb 2025 07:38:56 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Gavia adamsii]]></category>
-		<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Plongeons]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1893</guid>
-
-					<description><![CDATA[Occasionnel très rare en France, le Plongeon à bec blanc Gavia adamsii n’a jamais fait l’objet de synthèse détaillée. Ce court article a donc pour objet de dresser un inventaire complet des mentions françaises connues à ce jour et de présenter la phénologie de l’espèce dans notre pays, même si le nombre réduit de données...]]></description>
 		
 		
 		
