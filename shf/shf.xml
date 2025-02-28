@@ -12,7 +12,7 @@
 	<atom:link href="https://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 13 Feb 2025 10:04:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Feb 2025 10:44:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>[Save the date !] Webinaire POP</title>
+		<link>https://lashf.org/non-classe/save-the-date-webinaire-pop/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=save-the-date-webinaire-pop</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2025 10:44:02 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lashf.org/?p=6670</guid>
+
+					<description><![CDATA[Les programmes POPAmphibien et POPReptile pour la surveillance nationale des populations d’amphibiens et de reptiles reposent sur un réseau de participants motivés et compétents. Pour faciliter la compréhension des protocoles de suivis associés, expliquer les analyses faites sur les données et la meilleure manière de les collecter, la SHF organise un nouveau webinaire en compagnie [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Les programmes POPAmphibien et POPReptile pour la surveillance nationale des populations d’amphibiens et de reptiles reposent sur un réseau de participants motivés et compétents. Pour faciliter la compréhension des protocoles de suivis associés, expliquer les analyses faites sur les données et la meilleure manière de les collecter, la SHF organise un nouveau webinaire en compagnie de Florèn Hugon (biostatisticienne indépendante) le <strong>mardi 18 mars de 14h à 17h</strong>.</p>
+<p>Accessible à tous.</p>
+<p><em><strong>Lien de connexion à venir</strong>, restez connectés !</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Motion de la SHF : Soutien à l&#8217;OFB</title>
 		<link>https://lashf.org/non-classe/motion-de-la-shf-soutien-a-lofb/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=motion-de-la-shf-soutien-a-lofb</link>
 		
@@ -308,24 +326,6 @@
 <div class="wp-block-buttons is-content-justification-center">
 <div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2024/05/Congrs-2024_Appel-communications-VF.pdf" style="background-color:#5c8727">Télécharger l&rsquo;appel à communications</a></div>
 </div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Congrès 2024 : à vos agendas !</title>
-		<link>https://lashf.org/non-classe/congres-2024-a-vos-agendas/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2024-a-vos-agendas</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 12:41:54 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://lashf.org/?p=6162</guid>
-
-					<description><![CDATA[Nous avons le plaisir de vous informer que notre prochain congrès se tiendra au Lycée Charlemagne de Carcassonne, du 23 au 26 octobre 2024. Cette 51ème édition est co-organisée avec la Fédération Aude Claire et l&#8217;Office national des forêts, que nous remercions pour leur implication ! L&#8217;appel à communications sera bientôt diffusé ; restez connecté·e·s [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><strong>Nous avons le plaisir de vous informer que notre prochain congrès se tiendra au Lycée Charlemagne de Carcassonne, du 23 au 26 octobre 2024.</strong></p>
-<p>Cette 51ème édition est co-organisée avec la <a href="https://www.audeclaire.org/">Fédération Aude Claire</a> et l&rsquo;<a href="https://www.onf.fr/">Office national des forêts</a>, que nous remercions pour leur implication !</p>
-<p>L&rsquo;appel à communications sera bientôt diffusé ; restez connecté·e·s pour suivre nos actualités !</p>
 ]]></content:encoded>
 					
 		
