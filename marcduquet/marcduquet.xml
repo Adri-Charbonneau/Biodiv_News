@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 26 Feb 2025 18:29:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Mar 2025 15:01:38 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Première mention de la Gygis blanche dans le Paléarctique occidental</title>
+		<link>https://marcduquet.com/premiere-mention-de-la-gygis-blanche-dans-le-palearctique-occidental/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 01 Mar 2025 14:21:04 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Grande-Bretagne]]></category>
+		<category><![CDATA[Gygis alba]]></category>
+		<category><![CDATA[Laridés]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Première]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2170</guid>
+
+					<description><![CDATA[Le gag européen du moment est une&#160;Gygis blanche&#160;Gygis alba&#160;trouvée le 28 février 2025 à Llanberis, région de Gwynedd, sur la côte nord-ouest du Pays de Galles&#160;; il s’agit de la première mention ouest-paléarctique de cette petite sterne pantropicale (info Rare Bird Alert). Aire de reproductionLa Gygis blanche se reproduit sur de petites îles des régions...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les jumelles Swarovski NL Pure 14&#215;52 prennent la mer !</title>
 		<link>https://marcduquet.com/les-jumelles-swarovski-nl-pure-14x52-prennent-la-mer/</link>
 		
@@ -110,25 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1979</guid>
 
 					<description><![CDATA[Ce troisième volet est consacré à l’un des deux plongeons les plus fréquents en hiver en France : le Plongeon arctique Gavia arctica. Les informations sur la répartition mondiale et européenne de l’espèce proviennent de Cramp &#38; Simmons (2020), les données phénologiques et chronologiques relatives à la France sont issues de Deceuninck (2015) et de Dubois et al. (2008,...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Première mention française de la Talève violacée</title>
-		<link>https://marcduquet.com/premiere-mention-francaise-de-la-taleve-violacee/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 09 Feb 2025 17:10:10 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Porphyrio martinica]]></category>
-		<category><![CDATA[Rallidés]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1917</guid>
-
-					<description><![CDATA[Le 7 février 2025, une&#160;Talève violacée&#160;Porphyrio martinica&#160;a été trouvée morte enchevêtrée dans un tas de branchages dans un jardin à Châtelaillon-Plage (Charente-Maritime), fournissant la première mention française de cette espèce néarctique. Les photos postées par Paul Coiffard sur la liste Telegram « Oiseaux Rares France&#160;» ne laissent aucun doute sur l’identité de cet oiseau, son...]]></description>
 		
 		
 		
