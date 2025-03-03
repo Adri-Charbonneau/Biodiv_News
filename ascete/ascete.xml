@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 29 Jan 2025 15:05:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Mar 2025 21:32:49 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Liste Rouge des Orthoptères des Pays de la Loire : parution du rapport synthétique</title>
+		<link>https://ascete.org/liste-rouge-des-orthopteres-des-pays-de-la-loire-parution-du-rapport-synthetique/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 21:26:03 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3595</guid>
+
+					<description><![CDATA[Après la publication du rapport technique complet en 2023, le GRETIA (Groupe d&#8217;Etude des Invertébrés Armoricains) vient de publier un rapport synthétique. Il contient notamment la liste d&#8217;espèces évaluées, des focus sur certaines espèces et dresse un état des lieux de l&#8217;état de conservation de l&#8217;orthoptérofaune de cette vaste région. Bonne lecture et bravo pour [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Adhésion 2025 et mise à disposition des publications de l&#8217;association</title>
 		<link>https://ascete.org/adhesion-2025/</link>
 		
@@ -149,22 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3411</guid>
 
 					<description><![CDATA[La deuxième édition des Rencontres Naturalistes d&#8217;Occitanie se tiendra les 15, 16 et 17 mars 2024 au Palais des Congrès de Gruissan (Aude). Cet évènement est organisé par OcNat, l&#8217;Union des Associations Naturalistes d&#8217;Occitanie, et rassemblera plusieurs centaines de participants professionnels ou amateurs, issus des milieux associatifs, institutionnels, universitaires ou bureau d’études. Ces rencontres seront [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>4ème Congrès européen sur la conservation des Orthoptères (ECOC IV)</title>
-		<link>https://ascete.org/4eme-congre-europeen-sur-la-conservation-des-orthopteres-ecoc-iv/</link>
-		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
-		<pubDate>Thu, 10 Aug 2023 08:36:21 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<category><![CDATA[Appel à participation]]></category>
-		<category><![CDATA[Congrès - Symposiums - Expositions - Conférences - Formations]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3166</guid>
-
-					<description><![CDATA[Le 4e Congrès européen sur la conservation des Orthoptères (ECOC IV) se tiendra en Italie à la Fondazione Museo Civico di Rovereto du 4 au 6 juillet 2024. Ce musée conserve la collection d&#8217;Orthoptères Antonio Galvagni (32 000 spécimens) et Paolo Fontana (25 000 spécimens ), couvrant notamment la région méditerranéenne. Le congrès sera une [&#8230;]]]></description>
 		
 		
 		
