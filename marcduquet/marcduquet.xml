@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 01 Mar 2025 15:01:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Mar 2025 18:58:41 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : mars 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-mars-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 18:41:28 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2190</guid>
+
+					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Semaine du 1er&#160;au 7 mars Les nouveautésUn&#160;Robin à flancs roux a été...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Première mention de la Gygis blanche dans le Paléarctique occidental</title>
 		<link>https://marcduquet.com/premiere-mention-de-la-gygis-blanche-dans-le-palearctique-occidental/</link>
 		
@@ -112,24 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2009</guid>
 
 					<description><![CDATA[Voici le quatrième volet de la série d’articles sur le statut et l’identification des plongeons visibles en France en période hivernale. Celui-ci traite du Plongeon imbrin Gavia immer, et, finalement, ne sera pas le dernier… En effet, j’ai décidé de vous proposer un cinquième et ultime article consacré au Plongeon du Pacifique (une espèce potentielle...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Plongeons d’hiver – (III) le Plongeon arctique</title>
-		<link>https://marcduquet.com/plongeons-dhiver-iii-le-plongeon-arctique/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 09:06:18 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Gavia arctica]]></category>
-		<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Plongeons]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1979</guid>
-
-					<description><![CDATA[Ce troisième volet est consacré à l’un des deux plongeons les plus fréquents en hiver en France : le Plongeon arctique Gavia arctica. Les informations sur la répartition mondiale et européenne de l’espèce proviennent de Cramp &#38; Simmons (2020), les données phénologiques et chronologiques relatives à la France sont issues de Deceuninck (2015) et de Dubois et al. (2008,...]]></description>
 		
 		
 		
