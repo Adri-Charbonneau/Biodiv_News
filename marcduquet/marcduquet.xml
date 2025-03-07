@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 04 Mar 2025 18:58:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Mar 2025 16:06:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Deux livres essentiels</title>
+		<link>https://marcduquet.com/deux-livres-essentiels/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2025 16:02:12 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Comportement]]></category>
+		<category><![CDATA[Livres]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2247</guid>
+
+					<description><![CDATA[1°) Le comportement des oiseaux d’EuropeCet ouvrage remarquable publié par les éditions La Salamandre n’est pas une nouveauté, loin s’en faut, car la 4e&#160;édition date de 2018. Mais je ne l’ai découvert que récemment et j’ai été tellement emballé par son contenu que je tenais à vous le conseiller. C’est un grand ouvrage de 576...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : mars 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-mars-2025/</link>
 		
@@ -39,7 +55,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=2190</guid>
 
-					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Semaine du 1er&#160;au 7 mars Les nouveautésUn&#160;Robin à flancs roux a été...]]></description>
+					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Semaine du 1er&#160;au 7 mars Les nouveautésUn Robin à flancs roux a été...]]></description>
 		
 		
 		
@@ -111,24 +127,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2037</guid>
 
 					<description><![CDATA[Considéré jusqu’en 1985 (American Ornithologists’ Union 1985) comme une sous-espèce du Plongeon arctique, et très semblable à celui-ci en tous plumages (voir plus loin), le Plongeon du Pacifique Gavia pacifica a déjà fait l’objet de près de 70 mentions en Europe, pour l’essentiel au nord-ouest de la France (îles Britanniques), mais il n’a encore jamais été...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Plongeons d’hiver – (IV) le Plongeon imbrin</title>
-		<link>https://marcduquet.com/plongeons-dhiver-iv-le-plongeon-imbrin/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 15 Feb 2025 18:36:05 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Gavia immer]]></category>
-		<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Plongeons]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2009</guid>
-
-					<description><![CDATA[Voici le quatrième volet de la série d’articles sur le statut et l’identification des plongeons visibles en France en période hivernale. Celui-ci traite du Plongeon imbrin Gavia immer, et, finalement, ne sera pas le dernier… En effet, j’ai décidé de vous proposer un cinquième et ultime article consacré au Plongeon du Pacifique (une espèce potentielle...]]></description>
 		
 		
 		
