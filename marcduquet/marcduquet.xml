@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 10 Mar 2025 12:31:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Mar 2025 18:50:25 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Protégé : OrnithoScience : taxonomie des Ardéidés, Accipitridés et Hirundinidés</title>
+		<title>OrnithoScience : taxonomie des Ardéidés, Accipitridés et Hirundinidés</title>
 		<link>https://marcduquet.com/ornithoscience-taxonomie-des-ardeides-accipitrides-et-hirundinides/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
@@ -40,7 +40,24 @@
 		<category><![CDATA[Taxonomie]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=2278</guid>
 
-					<description><![CDATA[Il n’y a pas d’extrait, car cette publication est protégée.]]></description>
+					<description><![CDATA[Par Jean-Louis Grangé Voici quelques propositions de changements taxonomiques trouvées dans des publications scientifiques récentes et concernant des espèces ouest-paléarctiques, dont la plupart nichent en France. Hérons (famille des Ardéidés)Des arbres phylogénétiques minutieusement échantillonnés et bien étayés sont essentiels pour la taxonomie et pour guider les études sur l&#8217;évolution et l&#8217;écologie. Malgré des recherches préalables...]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nouvelles ornithos : 1–7 mars 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-mars-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2025 18:41:28 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2190</guid>
+
+					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Les nouveautés de la semaineUn Robin à flancs roux a été photographié le...]]></description>
 		
 		
 		
@@ -57,23 +74,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2247</guid>
 
 					<description><![CDATA[1°) Le comportement des oiseaux d’EuropeCet ouvrage remarquable publié par les éditions La Salamandre n’est pas une nouveauté, loin s’en faut, car la 4e&#160;édition date de 2018. Mais je ne l’ai découvert que récemment et j’ai été tellement emballé par son contenu que je tenais à vous le conseiller. C’est un grand ouvrage de 576...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-7 mars 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-mars-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 18:41:28 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2190</guid>
-
-					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Les nouveautés de la semaineUn Robin à flancs roux a été photographié le...]]></description>
 		
 		
 		
