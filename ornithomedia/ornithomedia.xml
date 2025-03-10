@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sun, 09 Mar 2025 10:47:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Mar 2025 21:15:37 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Description d&#8217;une nouvelle espèce d&#8217;oiseau en Indonésie, le Myzomèle de Babar</title>
+		<link>https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-en-indonesie-le-myzomele-de-babar/</link>
+					<comments>https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-en-indonesie-le-myzomele-de-babar/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Mon, 10 Mar 2025 21:12:35 +0000</pubDate>
+				<category><![CDATA[Études]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=253867</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-en-indonesie-le-myzomele-de-babar/">Description d&rsquo;une nouvelle espèce d&rsquo;oiseau en Indonésie, le Myzomèle de Babar</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-en-indonesie-le-myzomele-de-babar/">Description d&rsquo;une nouvelle espèce d&rsquo;oiseau en Indonésie, le Myzomèle de Babar</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-en-indonesie-le-myzomele-de-babar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>34ème Festival de l&#8217;Oiseau et de la Nature en baie de Somme du 12 au 20 avril 2025</title>
 		<link>https://www.ornithomedia.com/breves/34eme-festival-de-loiseau-et-de-la-nature-en-baie-de-somme-du-12-au-20-avril-2025/</link>
@@ -196,26 +217,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/les-fous-brun-et-a-pieds-bleus-sont-en-expansion-vers-le-nord-et-nichent-desormais-en-californie-etats-unis/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>La population de Cygnes de Bewick hivernant de l&#8217;est de la Méditerranée à la mer Caspienne serait plus importante qu&#8217;on ne le pensait</title>
-		<link>https://www.ornithomedia.com/breves/la-population-de-cygnes-de-bewick-hivernant-de-lest-de-la-mediterranee-a-la-mer-caspienne-serait-plus-importante-quon-ne-le-pensait/</link>
-					<comments>https://www.ornithomedia.com/breves/la-population-de-cygnes-de-bewick-hivernant-de-lest-de-la-mediterranee-a-la-mer-caspienne-serait-plus-importante-quon-ne-le-pensait/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sat, 22 Feb 2025 08:00:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=253143</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/la-population-de-cygnes-de-bewick-hivernant-de-lest-de-la-mediterranee-a-la-mer-caspienne-serait-plus-importante-quon-ne-le-pensait/">La population de Cygnes de Bewick hivernant de l&rsquo;est de la Méditerranée à la mer Caspienne serait plus importante qu&rsquo;on ne le pensait</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/la-population-de-cygnes-de-bewick-hivernant-de-lest-de-la-mediterranee-a-la-mer-caspienne-serait-plus-importante-quon-ne-le-pensait/">La population de Cygnes de Bewick hivernant de l&rsquo;est de la Méditerranée à la mer Caspienne serait plus importante qu&rsquo;on ne le pensait</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/la-population-de-cygnes-de-bewick-hivernant-de-lest-de-la-mediterranee-a-la-mer-caspienne-serait-plus-importante-quon-ne-le-pensait/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
