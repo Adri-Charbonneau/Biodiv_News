@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 07 Mar 2025 16:06:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Mar 2025 12:31:40 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Protégé : OrnithoScience : taxonomie des Ardéidés, Accipitridés et Hirundinidés</title>
+		<link>https://marcduquet.com/ornithoscience-taxonomie-des-ardeides-accipitrides-et-hirundinides/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 10 Mar 2025 11:48:35 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Hérons]]></category>
+		<category><![CDATA[Hirondelles]]></category>
+		<category><![CDATA[Rapaces]]></category>
+		<category><![CDATA[Taxonomie]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2278</guid>
+
+					<description><![CDATA[Il n’y a pas d’extrait, car cette publication est protégée.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Deux livres essentiels</title>
 		<link>https://marcduquet.com/deux-livres-essentiels/</link>
 		
@@ -44,7 +62,7 @@
 		
 			</item>
 		<item>
-		<title>Nouvelles ornithos : mars 2025</title>
+		<title>Nouvelles ornithos : 1-7 mars 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-mars-2025/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
@@ -55,7 +73,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=2190</guid>
 
-					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Semaine du 1er&#160;au 7 mars Les nouveautésUn Robin à flancs roux a été...]]></description>
+					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Les nouveautés de la semaineUn Robin à flancs roux a été photographié le...]]></description>
 		
 		
 		
@@ -108,25 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1941</guid>
 
 					<description><![CDATA[L’oiseau du mois de février sera sans doute cette&#160;Talève violacée&#160;trouvée morte le 7 février dans un jardin à Châtelaillon-Plage (Charente-Maritime), une espèce nouvelle pour la France&#160;! Voir l’article que je lui ai consacré, qui fait le point sur l’ensemble des données européennes de ce rallidé néarctique. Depuis août 2024, des&#160;Cormorans pygmées&#160;immatures stationnent çà et là...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le Plongeon du Pacifique : où et quand ?</title>
-		<link>https://marcduquet.com/le-plongeon-du-pacifique-ou-et-quand/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 23 Feb 2025 14:32:57 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Gavia pacifica]]></category>
-		<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Plongeons]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2037</guid>
-
-					<description><![CDATA[Considéré jusqu’en 1985 (American Ornithologists’ Union 1985) comme une sous-espèce du Plongeon arctique, et très semblable à celui-ci en tous plumages (voir plus loin), le Plongeon du Pacifique Gavia pacifica a déjà fait l’objet de près de 70 mentions en Europe, pour l’essentiel au nord-ouest de la France (îles Britanniques), mais il n’a encore jamais été...]]></description>
 		
 		
 		
