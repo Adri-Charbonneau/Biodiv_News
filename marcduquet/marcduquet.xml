@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 10 Mar 2025 18:50:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Mar 2025 16:34:21 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>L’Œdicnème criard nicheur sur un toit industriel</title>
+		<link>https://marcduquet.com/loedicneme-criard-nicheur-sur-un-toit-industriel/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 16:34:21 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Burhinus oedicnemus]]></category>
+		<category><![CDATA[Comportement]]></category>
+		<category><![CDATA[Limicoles]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=1824</guid>
+
+					<description><![CDATA[Par Dominique Tissier, Jean-Yves Chetaille, Camille Miro, Paul Adlam &#38; Steve Augiron La population d’Œdicnème criard&#160;Burhinus oedicnemus&#160;de l’est lyonnais est étudiée&#160;depuis 2015&#160;dans le cadre&#160;d’un plan local de sauvegarde piloté par la Métropole de Lyon, comprenant un suivi des couples, la protection des nids, le baguage de poussins et le suivi d’oiseaux par balise GPS. Une&#160;centaine...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OrnithoScience : taxonomie des Ardéidés, Accipitridés et Hirundinidés</title>
 		<link>https://marcduquet.com/ornithoscience-taxonomie-des-ardeides-accipitrides-et-hirundinides/</link>
 		
@@ -110,22 +128,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2131</guid>
 
 					<description><![CDATA[Par Philippe J. Dubois À la suite du&#160;test&#160;effectué par Marc Duquet, j’ai à mon tour essayé les nouvelles et puissantes jumelles&#160;NL Pure 14&#215;52 de Swarovski en milieu marin, d’une part, pour faire du seawatching (observation des oiseaux marins à partir de la côte) et, d’autre part, pour des sorties en mer (sur un bateau, dans...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : février 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-fevrier-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 23 Feb 2025 16:43:05 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=1941</guid>
-
-					<description><![CDATA[L’oiseau du mois de février sera sans doute cette&#160;Talève violacée&#160;trouvée morte le 7 février dans un jardin à Châtelaillon-Plage (Charente-Maritime), une espèce nouvelle pour la France&#160;! Voir l’article que je lui ai consacré, qui fait le point sur l’ensemble des données européennes de ce rallidé néarctique. Depuis août 2024, des&#160;Cormorans pygmées&#160;immatures stationnent çà et là...]]></description>
 		
 		
 		
