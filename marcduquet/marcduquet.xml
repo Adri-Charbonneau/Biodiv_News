@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 12 Mar 2025 16:34:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Mar 2025 09:56:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 8–14 mars 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-8-14-mars-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 16 Mar 2025 09:54:07 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2308</guid>
+
+					<description><![CDATA[La nouveauté de la semaineUn&#160;Chevalier à pattes jaunes&#160;de 2e&#160;année à Gâvres (Morbihan) du 8 au 10 mars, puis à Séné (Morbihan) le 14. Oiseaux de mer et alliésUn Cormoran pygmée a été observé dans la héronnière du Scamandre, à Vauvert (Gard), le 13 mars ; il y en avait 6 à Décines-Charpieu (Rhône) le 14 tandis...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>L’Œdicnème criard nicheur sur un toit industriel</title>
 		<link>https://marcduquet.com/loedicneme-criard-nicheur-sur-un-toit-industriel/</link>
 		
@@ -112,22 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2170</guid>
 
 					<description><![CDATA[Le gag européen du moment est une&#160;Gygis blanche&#160;Gygis alba&#160;trouvée le 28 février 2025 à Llanberis, région de Gwynedd, sur la côte nord-ouest du Pays de Galles&#160;; il s’agit de la première mention ouest-paléarctique de cette petite sterne pantropicale (info Rare Bird Alert). Aire de reproductionLa Gygis blanche se reproduit sur de petites îles des régions...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les jumelles Swarovski NL Pure 14&#215;52 prennent la mer !</title>
-		<link>https://marcduquet.com/les-jumelles-swarovski-nl-pure-14x52-prennent-la-mer/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 12:41:18 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Jumelles]]></category>
-		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2131</guid>
-
-					<description><![CDATA[Par Philippe J. Dubois À la suite du&#160;test&#160;effectué par Marc Duquet, j’ai à mon tour essayé les nouvelles et puissantes jumelles&#160;NL Pure 14&#215;52 de Swarovski en milieu marin, d’une part, pour faire du seawatching (observation des oiseaux marins à partir de la côte) et, d’autre part, pour des sorties en mer (sur un bateau, dans...]]></description>
 		
 		
 		
