@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 16 Mar 2025 09:56:53 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 22 Mar 2025 09:49:16 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 15-21 mars 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-15-21-mars-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 22 Mar 2025 09:49:16 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2349</guid>
+
+					<description><![CDATA[Les nouveautés de la semaineUn&#160;Corbeau pie&#160;a été observé sur l’île de Molène (Finistère) le 17&#160;; cette espèce est originaire d’Afrique subsaharienne et plusieurs individus ont été récemment vus dans les îles Britanniques&#160;: un dans le comté de Galway sur la côte occidentale de l’Irlande, un dans le Dorset et un autre vu en différents site...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 8–14 mars 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-8-14-mars-2025/</link>
 		
@@ -39,7 +56,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=2308</guid>
 
-					<description><![CDATA[La nouveauté de la semaineUn&#160;Chevalier à pattes jaunes&#160;de 2e&#160;année à Gâvres (Morbihan) du 8 au 10 mars, puis à Séné (Morbihan) le 14. Oiseaux de mer et alliésUn Cormoran pygmée a été observé dans la héronnière du Scamandre, à Vauvert (Gard), le 13 mars ; il y en avait 6 à Décines-Charpieu (Rhône) le 14 tandis...]]></description>
+					<description><![CDATA[La nouveauté de la semaineUn&#160;Chevalier à pattes jaunes&#160;de 2e&#160;année à Gâvres (Morbihan) du 8 au 10 mars, puis à Séné (Morbihan) le 14. Oiseaux de mer et alliésUn Cormoran pygmée&#160;a été observé dans la héronnière du Scamandre, à Vauvert (Gard), le 13 mars ; il y en avait 6 à Décines-Charpieu (Rhône) le 14 tandis...]]></description>
 		
 		
 		
@@ -109,26 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2247</guid>
 
 					<description><![CDATA[1°) Le comportement des oiseaux d’EuropeCet ouvrage remarquable publié par les éditions La Salamandre n’est pas une nouveauté, loin s’en faut, car la 4e&#160;édition date de 2018. Mais je ne l’ai découvert que récemment et j’ai été tellement emballé par son contenu que je tenais à vous le conseiller. C’est un grand ouvrage de 576...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Première mention de la Gygis blanche dans le Paléarctique occidental</title>
-		<link>https://marcduquet.com/premiere-mention-de-la-gygis-blanche-dans-le-palearctique-occidental/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 01 Mar 2025 14:21:04 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Grande-Bretagne]]></category>
-		<category><![CDATA[Gygis alba]]></category>
-		<category><![CDATA[Laridés]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Première]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2170</guid>
-
-					<description><![CDATA[Le gag européen du moment est une&#160;Gygis blanche&#160;Gygis alba&#160;trouvée le 28 février 2025 à Llanberis, région de Gwynedd, sur la côte nord-ouest du Pays de Galles&#160;; il s’agit de la première mention ouest-paléarctique de cette petite sterne pantropicale (info Rare Bird Alert). Aire de reproductionLa Gygis blanche se reproduit sur de petites îles des régions...]]></description>
 		
 		
 		
