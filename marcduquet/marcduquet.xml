@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 22 Mar 2025 09:49:16 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Mar 2025 08:06:59 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le « finnstick »</title>
+		<link>https://marcduquet.com/le-finnstick/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 08:06:59 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[finnstick]]></category>
+		<category><![CDATA[Jumelles]]></category>
+		<category><![CDATA[Test]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2377</guid>
+
+					<description><![CDATA[Dans son&#160;test&#160;des jumelles Swarovski&#160;NL Pure 14&#215;52, Philippe J. Dubois évoquait le recours à un&#160;finnstick afin de faciliter leur utilisation lors des sorties en mer. Suite à la publication de son article, on m’a demandé comment faire pour en fabriquer un, notamment quelles sont les caractéristiques optimales (matériaux, dimensions…). Voici quelques pistes, mais tout d’abord, je...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 15-21 mars 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-15-21-mars-2025/</link>
 		
@@ -110,22 +127,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2190</guid>
 
 					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Les nouveautés de la semaineUn Robin à flancs roux a été photographié le...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Deux livres essentiels</title>
-		<link>https://marcduquet.com/deux-livres-essentiels/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 07 Mar 2025 16:02:12 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Comportement]]></category>
-		<category><![CDATA[Livres]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2247</guid>
-
-					<description><![CDATA[1°) Le comportement des oiseaux d’EuropeCet ouvrage remarquable publié par les éditions La Salamandre n’est pas une nouveauté, loin s’en faut, car la 4e&#160;édition date de 2018. Mais je ne l’ai découvert que récemment et j’ai été tellement emballé par son contenu que je tenais à vous le conseiller. C’est un grand ouvrage de 576...]]></description>
 		
 		
 		
