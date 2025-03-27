@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 24 Mar 2025 08:06:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Mar 2025 10:25:02 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Aigle, vautour ou… Milan noir ?</title>
+		<link>https://marcduquet.com/aigle-vautour-ou-milan-noir/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 10:25:01 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Aigles]]></category>
+		<category><![CDATA[Milvus migrans]]></category>
+		<category><![CDATA[Mue]]></category>
+		<category><![CDATA[Piège]]></category>
+		<category><![CDATA[Rapaces]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=985</guid>
+
+					<description><![CDATA[Au printemps et en début d’été, des Milans noirs Milvus migrans ayant perdu accidentellement leur queue ou avec des rectrices fortement usées représentent un véritable piège d’identification, même pour d’excellents ornithos. C’est notamment le cas d’oiseaux volant seuls, assez haut dans le ciel, donc sans point de comparaison pour ce qui est de la taille,...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le « finnstick »</title>
 		<link>https://marcduquet.com/le-finnstick/</link>
 		
@@ -110,23 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2278</guid>
 
 					<description><![CDATA[Par Jean-Louis Grangé Voici quelques propositions de changements taxonomiques trouvées dans des publications scientifiques récentes et concernant des espèces ouest-paléarctiques, dont la plupart nichent en France. Hérons (famille des Ardéidés)Des arbres phylogénétiques minutieusement échantillonnés et bien étayés sont essentiels pour la taxonomie et pour guider les études sur l&#8217;évolution et l&#8217;écologie. Malgré des recherches préalables...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1–7 mars 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-mars-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 07 Mar 2025 18:41:28 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2190</guid>
-
-					<description><![CDATA[Afin de simplifier la consultation de cette rubrique, je publierai désormais les observations d’oiseaux rares en France par tranches hebdomadaires. Les données exceptionnelles (premières françaises, grandes raretés…) continueront toutefois à être signalées en temps réel et feront au besoin l’objet d’un article spécifique. Les nouveautés de la semaineUn Robin à flancs roux a été photographié le...]]></description>
 		
 		
 		
