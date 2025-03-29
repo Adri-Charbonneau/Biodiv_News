@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 27 Mar 2025 10:25:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Mar 2025 10:12:43 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 22–28 mars</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-22-28-mars/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 29 Mar 2025 10:12:43 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2426</guid>
+
+					<description><![CDATA[Les faits marquants de la semaineDes&#160;Oies à bec court&#160;sont&#160;vues dans le Maine-et-Loire. L’Ibis chauve&#160;adulte trouvé le 21 séjourne dans le Haut-Rhin. Un possible&#160;Aigle pomarin&#160;traverse l’Hérault le 23. Des&#160;Bergeronnettes des Balkans&#160;sont observées à partir du 22 dans le sud-est de la France, où de nouvelles&#160;Fauvettes des Balkans sont vues. Un&#160;Tarier de Sibérie&#160;mâle est signalé le 23...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Aigle, vautour ou… Milan noir ?</title>
 		<link>https://marcduquet.com/aigle-vautour-ou-milan-noir/</link>
 		
@@ -111,24 +128,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=1824</guid>
 
 					<description><![CDATA[Par Dominique Tissier, Jean-Yves Chetaille, Camille Miro, Paul Adlam &#38; Steve Augiron La population d’Œdicnème criard&#160;Burhinus oedicnemus&#160;de l’est lyonnais est étudiée&#160;depuis 2015&#160;dans le cadre&#160;d’un plan local de sauvegarde piloté par la Métropole de Lyon, comprenant un suivi des couples, la protection des nids, le baguage de poussins et le suivi d’oiseaux par balise GPS. Une&#160;centaine...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OrnithoScience : taxonomie des Ardéidés, Accipitridés et Hirundinidés</title>
-		<link>https://marcduquet.com/ornithoscience-taxonomie-des-ardeides-accipitrides-et-hirundinides/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 11:48:35 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Hérons]]></category>
-		<category><![CDATA[Hirondelles]]></category>
-		<category><![CDATA[Rapaces]]></category>
-		<category><![CDATA[Taxonomie]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2278</guid>
-
-					<description><![CDATA[Par Jean-Louis Grangé Voici quelques propositions de changements taxonomiques trouvées dans des publications scientifiques récentes et concernant des espèces ouest-paléarctiques, dont la plupart nichent en France. Hérons (famille des Ardéidés)Des arbres phylogénétiques minutieusement échantillonnés et bien étayés sont essentiels pour la taxonomie et pour guider les études sur l&#8217;évolution et l&#8217;écologie. Malgré des recherches préalables...]]></description>
 		
 		
 		
