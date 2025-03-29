@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 29 Mar 2025 10:12:43 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Mar 2025 15:21:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Nouvelles ornithos : 22–28 mars</title>
+		<title>Nouvelles ornithos : 22–28 mars 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-22-28-mars/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
