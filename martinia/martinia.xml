@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Sun, 02 Feb 2025 20:11:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Apr 2025 04:13:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Combat à mort pour l’imperator : prédation d’une femelle Anax  imperator Leach in Brewster, 1815 par un Frelon d&#8217;Europe (Vespa crabro Linnaeus, 1758) (Odonata : Aeshnidae ; Hymenoptera : Vespidae)</title>
+		<link>https://martinia.insectes.org/combat-a-mort-pour-limperator-predation-dune-femelle-anax-imperator-leach-in-brewster-1815-par-un-frelon-deurope-vespa-crabro-linnaeus-1758-odonata-aeshnid/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 04:15:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Besançon]]></category>
+		<category><![CDATA[Bourgogne-Franche-Comté]]></category>
+		<category><![CDATA[Doubs]]></category>
+		<category><![CDATA[imago]]></category>
+		<category><![CDATA[prédateur]]></category>
+		<category><![CDATA[predator]]></category>
+		<category><![CDATA[prey]]></category>
+		<category><![CDATA[proie]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6396</guid>
+
+					<description><![CDATA[Les imagos d’odonates sont réputés être de très bons prédateurs (Corbet, 1962) en raison notamment de leur maîtrise des airs et de leurs capacités visuelles (Olberg et al., 2000 ; Sentis et al., 2022). Cependant, ils sont évidemment régulièrement proie à leur tour. Les principaux prédateurs recensés sont les oiseaux, les araignées, mais aussi d’autres [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Plusieurs cas de reproduction de Boyeria irene (Fonscolombe, 1838) sur plan d’eau en France (Odonata : Aeshnidae)</title>
 		<link>https://martinia.insectes.org/plusieurs-cas-de-reproduction-de-emboyeria-irene-em-fonscolombe-1838-sur-plan-deau-en-france-odonata-aeshnidae/</link>
 		
@@ -188,8 +210,8 @@
 		<category><![CDATA[larva]]></category>
 		<category><![CDATA[larve]]></category>
 		<category><![CDATA[peat bog]]></category>
-		<category><![CDATA[prédation]]></category>
 		<category><![CDATA[predation]]></category>
+		<category><![CDATA[prédation]]></category>
 		<category><![CDATA[tourbière]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4541</guid>
 
@@ -218,35 +240,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4509</guid>
 
 					<description><![CDATA[Sympetrum vulgatum (Linnaeus, 1758) est un taxon ouest-paléarctique composé de trois sous-espèces : S. vulgatum vulgatum (Linnaeus, 1758) largement distribué de l&#8217;Europe de l&#8217;Ouest au Japon, S. vulgatum decoloratum (Selys, 1884) en Turquie et Asie centrale et S. vulgatum ibericum Ocharan, 1985 endémique de la Péninsule ibérique. L&#8217;étude moléculaire de Hinojosa et al. (2017) a confirmé [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nomenclature française des appendices anaux des imagos et larves d’odonates : pour l’abandon du terme « cercoïdes »</title>
-		<link>https://martinia.insectes.org/nomenclature-francaise-des-appendices-anaux-des-imagos-et-larves-dodonates-pour-labandon-du-terme-cercoides/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Fri, 05 Jan 2024 08:00:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[appendages]]></category>
-		<category><![CDATA[appendices]]></category>
-		<category><![CDATA[cercoid]]></category>
-		<category><![CDATA[cercoïde]]></category>
-		<category><![CDATA[cercus]]></category>
-		<category><![CDATA[cerque]]></category>
-		<category><![CDATA[epiproct]]></category>
-		<category><![CDATA[épiprocte]]></category>
-		<category><![CDATA[French words]]></category>
-		<category><![CDATA[paraproct]]></category>
-		<category><![CDATA[paraprocte]]></category>
-		<category><![CDATA[pièces terminales]]></category>
-		<category><![CDATA[terminalia]]></category>
-		<category><![CDATA[terminologie]]></category>
-		<category><![CDATA[terminology]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4465</guid>
-
-					<description><![CDATA[Auteur(s) :Piney Bertrand &#038; Krieg-Jacquier Régis Numérotation : Type de publication : Article]]></description>
 		
 		
 		
