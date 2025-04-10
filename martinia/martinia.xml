@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Thu, 03 Apr 2025 04:13:35 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Apr 2025 04:38:14 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles odonatologiques du Sahara Atlantique marocain</title>
+		<link>https://martinia.insectes.org/nouvelles-odonatologiques-du-sahara-atlantique-marocain/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 04:10:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6433</guid>
+
+					<description><![CDATA[Depuis les premières publications étayées d’Aguesse &#38; Pruja (1958a, b), l’odonatofaune marocaine est bien connue en ce qui concerne la distribution et la richesse spécifique. L’ouvrage de Jacquemin &#38; Boudot (1999) a synthétisé les nombreux travaux conduits dans la seconde moitié du 20e siècle. Il a ensuite été complété par différentes notes de chasse, travaux [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Combat à mort pour l’imperator : prédation d’une femelle Anax  imperator Leach in Brewster, 1815 par un Frelon d&#8217;Europe (Vespa crabro Linnaeus, 1758) (Odonata : Aeshnidae ; Hymenoptera : Vespidae)</title>
 		<link>https://martinia.insectes.org/combat-a-mort-pour-limperator-predation-dune-femelle-anax-imperator-leach-in-brewster-1815-par-un-frelon-deurope-vespa-crabro-linnaeus-1758-odonata-aeshnid/</link>
 		
@@ -210,36 +224,12 @@
 		<category><![CDATA[larva]]></category>
 		<category><![CDATA[larve]]></category>
 		<category><![CDATA[peat bog]]></category>
-		<category><![CDATA[predation]]></category>
 		<category><![CDATA[prédation]]></category>
+		<category><![CDATA[predation]]></category>
 		<category><![CDATA[tourbière]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4541</guid>
 
 					<description><![CDATA[Les odonates sont de redoutables prédateurs dont le régime alimentaire a été étudié par de nombreux auteurs (Corbet, 1962 ; Pritchard, 1964, 1965 ; Lawton, 1970 ; Chovet, 1976 ; Alzmann et al., 1999). L’étude du régime alimentaire des imagos s’est faite jusqu’à récemment principalement par des observations in-natura mais, depuis peu, l’étude des fèces par la technique du [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Premières observations de Sympetrum vulgatum ibericum Ocharan, 1985 (Odonata : Libellulidae) dans les Pyrénées-Atlantiques</title>
-		<link>https://martinia.insectes.org/premieres-observations-de-sympetrum-vulgatum-ibericum-ocharan-1985-odonata-libellulidae-dans-les-pyrenees-atlantiques/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 17:12:26 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[découverte]]></category>
-		<category><![CDATA[discovery]]></category>
-		<category><![CDATA[Distribution]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[French western Pyrenees]]></category>
-		<category><![CDATA[Nouvelle-Aquitaine]]></category>
-		<category><![CDATA[répartition]]></category>
-		<category><![CDATA[sous-espèce]]></category>
-		<category><![CDATA[Southwestern France]]></category>
-		<category><![CDATA[subspecies]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4509</guid>
-
-					<description><![CDATA[Sympetrum vulgatum (Linnaeus, 1758) est un taxon ouest-paléarctique composé de trois sous-espèces : S. vulgatum vulgatum (Linnaeus, 1758) largement distribué de l&#8217;Europe de l&#8217;Ouest au Japon, S. vulgatum decoloratum (Selys, 1884) en Turquie et Asie centrale et S. vulgatum ibericum Ocharan, 1985 endémique de la Péninsule ibérique. L&#8217;étude moléculaire de Hinojosa et al. (2017) a confirmé [&#8230;]]]></description>
 		
 		
 		
