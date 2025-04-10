@@ -12,7 +12,7 @@
 	<atom:link href="https://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 Mar 2025 09:46:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Apr 2025 20:12:01 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Congrès 2025 : Dates et lieu !</title>
+		<link>https://lashf.org/non-classe/congres-2025-dates-et-lieu/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2025-dates-et-lieu</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 20:10:41 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lashf.org/?p=6761</guid>
+
+					<description><![CDATA[Nous avons le plaisir de vous annoncer le lieu et les dates de notre prochain congrès ! 16 années plus tard, nous vous donnons rendez-vous cette année dans le Bas-Rhin, du 22 au 24 octobre prochain ! Organisée avec le concours de l’association BUFO, cette 52 édition se tiendra au Lycée agricole d’Obernai. Plus d&#8217;infos [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>Nous avons le plaisir de vous annoncer le lieu et les dates de notre prochain congrès !</h2>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">16 années plus tard, nous vous donnons rendez-vous cette année dans le Bas-Rhin, du <strong>22 au 24 octobre prochain</strong> ! Organisée avec le concours de l’association BUFO, cette 52</span> <span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">édition se tiendra au <strong>Lycée agricole d’Obernai</strong>.</span></p>
+<p>Plus d&rsquo;infos à venir prochainement. L&rsquo;appel à communications sera très bientôt publié, restez connectés !</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Une stratégie nationale pour la gestion des amphibiens exotiques envahissants !</title>
 		<link>https://lashf.org/non-classe/une-strategie-nationale-pour-la-gestion-des-amphibiens-exotiques-envahissants/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=une-strategie-nationale-pour-la-gestion-des-amphibiens-exotiques-envahissants</link>
 		
@@ -86,7 +104,9 @@
 					<description><![CDATA[Les programmes POPAmphibien et POPReptile pour la surveillance nationale des populations d’amphibiens et de reptiles reposent sur un réseau de participants motivés et compétents. Pour faciliter la compréhension des protocoles de suivis associés, expliquer les analyses faites sur les données et la meilleure manière de les collecter, la SHF organise un nouveau webinaire en compagnie [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Les programmes POPAmphibien et POPReptile pour la surveillance nationale des populations d’amphibiens et de reptiles reposent sur un réseau de participants motivés et compétents. Pour faciliter la compréhension des protocoles de suivis associés, expliquer les analyses faites sur les données et la meilleure manière de les collecter, la SHF organise un nouveau webinaire en compagnie de Florèn Hugon (biostatisticienne indépendante) le <strong>mardi 18 mars de 14h à 17h</strong>.</p>
 <p>Accessible à tous.</p>
-<p><em><strong>Lien de connexion à venir</strong>, restez connectés !</em></p>
+<p><em><strong>Lien de connexion : <a href="_wp_link_placeholder" data-wplink-edit="true">https://us02web.zoom.us/j/86383896445?pwd=5zCHJPuszRn2hs27WpT1rDFKDKUbr4.1</a><br />
+</strong></em></p>
+<p>Code secret : <span style="font-family: Calibri;">126596</span></p>
 ]]></content:encoded>
 					
 		
@@ -314,33 +334,6 @@
 
 <div class="wp-block-buttons is-content-justification-center">
 <div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2024/06/Congrs-2024_Appel-communications-V1-delai-supp.pdf" style="background-color:#5c8727"><strong>Télécharger l&rsquo;appel à communications</strong></a></div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Un webinaire pour vous accompagner dans la mise en oeuvre des protocoles POPAmphibien et POPReptile</title>
-		<link>https://lashf.org/non-classe/un-webinaire-pour-vous-accompagner-dans-la-mise-en-oeuvre-des-protocoles-popamphibien-et-popreptile/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=un-webinaire-pour-vous-accompagner-dans-la-mise-en-oeuvre-des-protocoles-popamphibien-et-popreptile</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 14 Jun 2024 09:43:31 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://lashf.org/?p=6178</guid>
-
-					<description><![CDATA[Vous avez besoin d&#8217;aide pour mettre en place les protocoles POPAmphibien/POPReptile ?La SHF organise le 17 septembre prochain, de 9h à 12h, un webinaire pour vous accompagner dans la mise en place des protocoles de suivi de l&#8217;herpétofaune.&#160; Au programme : mise en place des protocoles, saisie des données allégée, retours d&#8217;expérience. L&#8217;inscription est gratuite [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-724x1024.jpg" alt="" class="wp-image-6187" width="331" height="468" srcset="https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-724x1024.jpg 724w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-212x300.jpg 212w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-768x1086.jpg 768w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-1086x1536.jpg 1086w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1-958x1355.jpg 958w, https://lashf.org/wp-content/uploads/2024/06/Webinaire-POP-1.jpg 1414w" sizes="(max-width: 331px) 100vw, 331px" /></figure></div>
-
-
-
-<p><em><strong><span style="font-family: Calibri;">Vous avez besoin d&rsquo;aide pour mettre en place les protocoles POPAmphibien/POPReptile ?</span></strong></em><br><span style="font-family: Calibri;">La SHF organise le <strong>17 septembre prochain, de 9h à 12h</strong>, un webinaire pour vous accompagner dans la mise en place des protocoles de suivi de l&rsquo;herpétofaune.&nbsp;</span><br><br><span style="font-family: Calibri;">Au programme : mise en place des protocoles, saisie des données allégée, retours d&rsquo;expérience.</span><br><br><span style="font-family: Calibri;">L&rsquo;inscription est gratuite mais nécessaire pour recevoir le lien Zoom et le replay du webinaire.</span></p>
-
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://forms.gle/vqwkAYLDsmJ1USjw6" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener"><strong>Je m&rsquo;inscris</strong></a></div>
 </div>
 ]]></content:encoded>
 					
