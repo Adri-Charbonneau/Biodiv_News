@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 14 Apr 2025 13:24:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Apr 2025 21:08:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 29 mars-13 avril 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-29-mars-13-avril-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 20:50:01 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2640</guid>
+
+					<description><![CDATA[Les faits marquants de la périodeLes passereaux du moment sont un&#160;Pouillot oriental, photographié et enregistré le 4&#160;avril aux&#160;Saintes-Maries-de-la-Mer (Bouches-du-Rhône) et un&#160;Traquet noir et blanc&#160;mâle à gorge noire trouvé à&#160;Furiani (Corse) le 11.&#160;Un&#160;Vanneau sociable&#160;adulte a fait un bref passage à Noyelles-sur-Mer (Somme) le 5&#160;avril et deux&#160;Oies à bec court&#160;ont stationné à&#160;Oye-Plage&#160;(Pas-de-Calais) du 6 au 12. Deux...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Protégé : Les guifettes nicheuses en France en 2024</title>
 		<link>https://marcduquet.com/les-guifettes-nicheuses-en-france-en-2024/</link>
 		
@@ -111,23 +128,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2349</guid>
 
 					<description><![CDATA[Les nouveautés de la semaineUn&#160;Corbeau pie&#160;a été observé sur l’île de Molène (Finistère) le 17&#160;; cette espèce est originaire d’Afrique subsaharienne et plusieurs individus ont été récemment vus dans les îles Britanniques&#160;: un dans le comté de Galway sur la côte occidentale de l’Irlande, un dans le Dorset et un autre vu en différents site...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 8–14 mars 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-8-14-mars-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 16 Mar 2025 09:54:07 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2308</guid>
-
-					<description><![CDATA[La nouveauté de la semaineUn&#160;Chevalier à pattes jaunes&#160;de 2e&#160;année à Gâvres (Morbihan) du 8 au 10 mars, puis à Séné (Morbihan) le 14. Oiseaux de mer et alliésUn Cormoran pygmée&#160;a été observé dans la héronnière du Scamandre, à Vauvert (Gard), le 13 mars ; il y en avait 6 à Décines-Charpieu (Rhône) le 14 tandis...]]></description>
 		
 		
 		
