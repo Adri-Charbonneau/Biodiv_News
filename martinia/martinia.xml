@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Wed, 09 Apr 2025 04:38:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Apr 2025 05:59:55 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,12 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Premières mentions de Trithemis annulata (Palisot de Beauvois, 1807), dans les départements de l’Ain, de la Loire et du Rhône (Odonata : Libellulidae)</title>
+		<link>https://martinia.insectes.org/premieres-mentions-de-emtrithemis-annulata-empalisot-de-beauvois-1807-dans-les-departements-de-lain-de-la-loire-et-du-rhone-odonata-libellulidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 17 Apr 2025 04:05:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Auvergne-Rhône-Alpes region]]></category>
+		<category><![CDATA[Characeae]]></category>
+		<category><![CDATA[Characées]]></category>
+		<category><![CDATA[Colonisation]]></category>
+		<category><![CDATA[Colonization]]></category>
+		<category><![CDATA[Dispersion]]></category>
+		<category><![CDATA[gravel pit]]></category>
+		<category><![CDATA[gravière]]></category>
+		<category><![CDATA[région Auvergne-Rhône-Alpes]]></category>
+		<category><![CDATA[Rhône]]></category>
+		<category><![CDATA[Rhône River]]></category>
+		<category><![CDATA[Saône]]></category>
+		<category><![CDATA[Saône River]]></category>
+		<category><![CDATA[Savoie]]></category>
+		<category><![CDATA[Savoie department]]></category>
+		<category><![CDATA[Trithémis pourpré]]></category>
+		<category><![CDATA[Violet Dropwing]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6476</guid>
+
+					<description><![CDATA[Auteur(s) :Hugo Tauru, Régis Krieg-Jacquier, Jean-Pierre Boudot, Martin Bolender &#038; Ligia Ecuyere Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles odonatologiques du Sahara Atlantique marocain</title>
 		<link>https://martinia.insectes.org/nouvelles-odonatologiques-du-sahara-atlantique-marocain/</link>
 		
 		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
 		<pubDate>Thu, 10 Apr 2025 04:10:00 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Diplacodes lefebvrii]]></category>
+		<category><![CDATA[Ischnura senegalensis]]></category>
+		<category><![CDATA[Orthetrum trinacria]]></category>
+		<category><![CDATA[Pantala flavescens]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6433</guid>
 
 					<description><![CDATA[Depuis les premières publications étayées d’Aguesse &#38; Pruja (1958a, b), l’odonatofaune marocaine est bien connue en ce qui concerne la distribution et la richesse spécifique. L’ouvrage de Jacquemin &#38; Boudot (1999) a synthétisé les nombreux travaux conduits dans la seconde moitié du 20e siècle. Il a ensuite été complété par différentes notes de chasse, travaux [&#8230;]]]></description>
@@ -200,36 +235,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4571</guid>
 
 					<description><![CDATA[Auteur(s) :Csutoros Antoine Numérotation : Type de publication : Article]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Un comportement rare : prédation d’une femelle ténérale d’Aeshna juncea par une larve du genre Aeshna (Odonata : Aeshnidae)</title>
-		<link>https://martinia.insectes.org/un-comportement-rare-predation-dune-femelle-tenerale-demaeshna-juncea-em-par-une-larve-du-genre-aeshna-odonata-aeshnidae/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Fri, 26 Jul 2024 10:00:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Aeschne]]></category>
-		<category><![CDATA[alimentation]]></category>
-		<category><![CDATA[Auvergne-Rhône-Alpes]]></category>
-		<category><![CDATA[emergence]]></category>
-		<category><![CDATA[émergence]]></category>
-		<category><![CDATA[feeding]]></category>
-		<category><![CDATA[hawker]]></category>
-		<category><![CDATA[imago]]></category>
-		<category><![CDATA[Isère]]></category>
-		<category><![CDATA[Isère department]]></category>
-		<category><![CDATA[larva]]></category>
-		<category><![CDATA[larve]]></category>
-		<category><![CDATA[peat bog]]></category>
-		<category><![CDATA[prédation]]></category>
-		<category><![CDATA[predation]]></category>
-		<category><![CDATA[tourbière]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4541</guid>
-
-					<description><![CDATA[Les odonates sont de redoutables prédateurs dont le régime alimentaire a été étudié par de nombreux auteurs (Corbet, 1962 ; Pritchard, 1964, 1965 ; Lawton, 1970 ; Chovet, 1976 ; Alzmann et al., 1999). L’étude du régime alimentaire des imagos s’est faite jusqu’à récemment principalement par des observations in-natura mais, depuis peu, l’étude des fèces par la technique du [&#8230;]]]></description>
 		
 		
 		
