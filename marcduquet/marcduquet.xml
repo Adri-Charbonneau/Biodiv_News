@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 14 Apr 2025 21:08:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Apr 2025 12:32:39 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.8</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rechercher l’Engoulevent à collier roux en France</title>
+		<link>https://marcduquet.com/rechercher-lengoulevent-a-collier-roux-en-france/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 19 Apr 2025 12:32:39 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Caprimulgus ruficollis]]></category>
+		<category><![CDATA[Engoulevents]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2528</guid>
+
+					<description><![CDATA[L’Engoulevent à collier roux&#160;Caprimulgus ruficollis&#160;compte deux sous-espèces&#160;: 1) ruficollis, qui niche dans la péninsule Ibérique (Portugal et Espagne) et dans le nord du Maroc&#160;; 2)&#160;desertorum, qui est présente dans le nord-est du Maroc, le nord de l’Algérie (au sud jusqu’à l’Atlas saharien) et le nord de la Tunisie.&#160;La sous-espèce nominale quitte ses zones de nidification...]]></description>
+		
+		
+		<enclosure url="https://marcduquet.com/wp-content/uploads/2025/04/XC724353-Engoulevent-a-collier-roux-Caprimulgus-ruficollis.mp3" length="4988392" type="audio/mpeg" />
+
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 29 mars-13 avril 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-29-mars-13-avril-2025/</link>
 		
@@ -40,24 +59,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2640</guid>
 
 					<description><![CDATA[Les faits marquants de la périodeLes passereaux du moment sont un&#160;Pouillot oriental, photographié et enregistré le 4&#160;avril aux&#160;Saintes-Maries-de-la-Mer (Bouches-du-Rhône) et un&#160;Traquet noir et blanc&#160;mâle à gorge noire trouvé à&#160;Furiani (Corse) le 11.&#160;Un&#160;Vanneau sociable&#160;adulte a fait un bref passage à Noyelles-sur-Mer (Somme) le 5&#160;avril et deux&#160;Oies à bec court&#160;ont stationné à&#160;Oye-Plage&#160;(Pas-de-Calais) du 6 au 12. Deux...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Protégé : Les guifettes nicheuses en France en 2024</title>
-		<link>https://marcduquet.com/les-guifettes-nicheuses-en-france-en-2024/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 14 Apr 2025 13:24:22 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Guifettes]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<category><![CDATA[Population]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2491</guid>
-
-					<description><![CDATA[Il n’y a pas d’extrait, car cette publication est protégée.]]></description>
 		
 		
 		
