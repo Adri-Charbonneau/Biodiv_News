@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 22 Apr 2025 18:40:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Apr 2025 16:03:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Observer les oiseaux dans le marais de Grée (Loire-Atlantique), une vaste zone inondable liée à la Loire</title>
+		<link>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-le-marais-de-gree-loire-atlantique-une-vaste-zone-inondable-liee-a-la-loire/</link>
+					<comments>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-le-marais-de-gree-loire-atlantique-une-vaste-zone-inondable-liee-a-la-loire/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 15:27:53 +0000</pubDate>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Observer en France]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=255482</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-le-marais-de-gree-loire-atlantique-une-vaste-zone-inondable-liee-a-la-loire/">Observer les oiseaux dans le marais de Grée (Loire-Atlantique), une vaste zone inondable liée à la Loire</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-le-marais-de-gree-loire-atlantique-une-vaste-zone-inondable-liee-a-la-loire/">Observer les oiseaux dans le marais de Grée (Loire-Atlantique), une vaste zone inondable liée à la Loire</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/observer-les-oiseaux-dans-le-marais-de-gree-loire-atlantique-une-vaste-zone-inondable-liee-a-la-loire/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Une troupe spectaculaire de près de 800 000 Sarcelles élégantes sur le fleuve Kum (Corée du Sud) en janvier 2024</title>
 		<link>https://www.ornithomedia.com/breves/une-troupe-spectaculaire-de-pres-de-800-000-sarcelles-elegantes-sur-le-fleuve-kum-coree-du-sud-en-janvier-2024/</link>
@@ -34,26 +55,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/une-troupe-spectaculaire-de-pres-de-800-000-sarcelles-elegantes-sur-le-fleuve-kum-coree-du-sud-en-janvier-2024/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Comptage national printanier des oiseaux des jardins en France les 24 et 25 mai 2025</title>
-		<link>https://www.ornithomedia.com/breves/comptage-national-printanier-des-oiseaux-des-jardins-en-france-les-24-et-25-mai-2025/</link>
-					<comments>https://www.ornithomedia.com/breves/comptage-national-printanier-des-oiseaux-des-jardins-en-france-les-24-et-25-mai-2025/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 06:30:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=255376</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/comptage-national-printanier-des-oiseaux-des-jardins-en-france-les-24-et-25-mai-2025/">Comptage national printanier des oiseaux des jardins en France les 24 et 25 mai 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/comptage-national-printanier-des-oiseaux-des-jardins-en-france-les-24-et-25-mai-2025/">Comptage national printanier des oiseaux des jardins en France les 24 et 25 mai 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/comptage-national-printanier-des-oiseaux-des-jardins-en-france-les-24-et-25-mai-2025/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -96,7 +97,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/observation-et-identification-dun-aigle-criard-adulte-en-vendee-en-mars-et-en-avril-2025-un-oiseau-pur-ou-hybride/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
+			<slash:comments>4</slash:comments>
 		
 		
 			</item>
