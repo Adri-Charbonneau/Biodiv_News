@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 19 Apr 2025 12:32:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Apr 2025 23:22:48 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les guifettes nicheuses en France en 2024</title>
+		<link>https://marcduquet.com/les-guifettes-nicheuses-en-france-en-2024/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 25 Apr 2025 13:24:22 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Guifettes]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<category><![CDATA[Population]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2491</guid>
+
+					<description><![CDATA[Par Jacques Trotignon Voici les résultats des dénombrements des trois espèces de guifettes nicheuses en France en 2024. La Guifette moustac est la seule espèce dont les effectifs se maitiennent à un niveau élevé, ceux de la Guifette noire progressant légèrement, tandis que, comme en 2023, un seul couple de Guifettes leucoptères s’est reproduit en...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rechercher l’Engoulevent à collier roux en France</title>
 		<link>https://marcduquet.com/rechercher-lengoulevent-a-collier-roux-en-france/</link>
 		
@@ -112,23 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2377</guid>
 
 					<description><![CDATA[Dans son&#160;test&#160;des jumelles Swarovski&#160;NL Pure 14&#215;52, Philippe J. Dubois évoquait le recours à un&#160;finnstick afin de faciliter leur utilisation lors des sorties en mer. Suite à la publication de son article, on m’a demandé comment faire pour en fabriquer un, notamment quelles sont les caractéristiques optimales (matériaux, dimensions…). Voici quelques pistes, mais tout d’abord, je...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 15-21 mars 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-15-21-mars-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 22 Mar 2025 09:49:16 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2349</guid>
-
-					<description><![CDATA[Les nouveautés de la semaineUn&#160;Corbeau pie&#160;a été observé sur l’île de Molène (Finistère) le 17&#160;; cette espèce est originaire d’Afrique subsaharienne et plusieurs individus ont été récemment vus dans les îles Britanniques&#160;: un dans le comté de Galway sur la côte occidentale de l’Irlande, un dans le Dorset et un autre vu en différents site...]]></description>
 		
 		
 		
