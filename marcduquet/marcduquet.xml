@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 19 Apr 2025 23:22:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Apr 2025 16:39:17 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,11 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Identification de l’Engoulevent à collier roux</title>
+		<link>https://marcduquet.com/identification-de-lengoulevent-a-collier-roux/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 13:08:00 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Caprimulgus europaeus]]></category>
+		<category><![CDATA[Caprimulgus ruficollis]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2709</guid>
+
+					<description><![CDATA[En complément de l’article sur la recherche de l’Engoulevent à collier roux&#160;en France que j’ai publié récemment, voici quelques éléments d’identification qui pourraient vous être utiles, en particulier des critères non décrits dans la littérature ornithologique qui permettent de le différencier d’un Engoulevent d’Europe en vol, y compris sur une photo nocturne fortement sous-exposée… I-Rappel...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les guifettes nicheuses en France en 2024</title>
 		<link>https://marcduquet.com/les-guifettes-nicheuses-en-france-en-2024/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 13:24:22 +0000</pubDate>
+		<pubDate>Fri, 25 Apr 2025 16:38:58 +0000</pubDate>
 				<category><![CDATA[Ornithologie]]></category>
 		<category><![CDATA[France]]></category>
 		<category><![CDATA[Guifettes]]></category>
@@ -113,23 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=985</guid>
 
 					<description><![CDATA[Au printemps et en début d’été, des Milans noirs Milvus migrans ayant perdu accidentellement leur queue ou avec des rectrices fortement usées représentent un véritable piège d’identification, même pour d’excellents ornithos. C’est notamment le cas d’oiseaux volant seuls, assez haut dans le ciel, donc sans point de comparaison pour ce qui est de la taille,...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le « finnstick »</title>
-		<link>https://marcduquet.com/le-finnstick/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 24 Mar 2025 08:06:59 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[finnstick]]></category>
-		<category><![CDATA[Jumelles]]></category>
-		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2377</guid>
-
-					<description><![CDATA[Dans son&#160;test&#160;des jumelles Swarovski&#160;NL Pure 14&#215;52, Philippe J. Dubois évoquait le recours à un&#160;finnstick afin de faciliter leur utilisation lors des sorties en mer. Suite à la publication de son article, on m’a demandé comment faire pour en fabriquer un, notamment quelles sont les caractéristiques optimales (matériaux, dimensions…). Voici quelques pistes, mais tout d’abord, je...]]></description>
 		
 		
 		
