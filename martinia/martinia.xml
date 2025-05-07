@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Wed, 16 Apr 2025 05:59:55 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 May 2025 04:24:26 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sur une série d’observations de Tramea minuta De Marmels &#038; Rácenis, 1982 en Guyane (Odonata : Libellulidae)</title>
+		<link>https://martinia.insectes.org/sur-une-serie-dobservations-de-emtramea-minuta-em-de-marmels-racenis-1982-en-guyane-odonata-libellulidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 04:12:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[autochthony]]></category>
+		<category><![CDATA[autochtonie]]></category>
+		<category><![CDATA[déplacements]]></category>
+		<category><![CDATA[Écozone néotropicale]]></category>
+		<category><![CDATA[movements]]></category>
+		<category><![CDATA[Neotropical ecozone]]></category>
+		<category><![CDATA[savane]]></category>
+		<category><![CDATA[savanna]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6536</guid>
+
+					<description><![CDATA[En Guyane sept espèces de Tramea Hagen, 1861, sont connues (Rochas et al., 2022). Ces espèces chassent en patrouillant dans les milieux ouverts et se reproduisent dans divers habitats lentiques (lacs, mares et flaques) (Garrison et al., 2006). Grâce à la large partie basale de leurs ailes postérieures, elles sont capables de voler et planer [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Premières mentions de Trithemis annulata (Palisot de Beauvois, 1807), dans les départements de l’Ain, de la Loire et du Rhône (Odonata : Libellulidae)</title>
 		<link>https://martinia.insectes.org/premieres-mentions-de-emtrithemis-annulata-empalisot-de-beauvois-1807-dans-les-departements-de-lain-de-la-loire-et-du-rhone-odonata-libellulidae/</link>
 		
@@ -53,7 +75,7 @@
 		<category><![CDATA[Violet Dropwing]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6476</guid>
 
-					<description><![CDATA[Auteur(s) :Hugo Tauru, Régis Krieg-Jacquier, Jean-Pierre Boudot, Martin Bolender &#038; Ligia Ecuyere Numérotation : Type de publication : Article]]></description>
+					<description><![CDATA[Auteur(s) :Hugo Tauru, Régis Krieg-Jacquier, Jean-Pierre Boudot, Martin Bolender &#038; Ligia Ecuyer Numérotation : Type de publication : Article]]></description>
 		
 		
 		
@@ -216,25 +238,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4586</guid>
 
 					<description><![CDATA[La taxinomie des odonates en Europe a connu quelques changements au fil des décennies. Il s’agit parfois de modifications dans la mention des auteurs des descriptions originales des espèces comme ce fut le cas en 2021 pour Anax imperator Leach, 1815 qui devenait ainsi Anax imperator Leach in Brewster, 1815, la référence antérieurement utilisée (cf. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Étude de la reproduction d’Oxygastra curtisii (Odonata : Incertae sedis) sur deux étangs en Mayenne (France)</title>
-		<link>https://martinia.insectes.org/etude-de-la-reproduction-demoxygastra-curtisii-em-odonata-emincertae-sedis-em-sur-deux-etangs-en-mayenne-france/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Wed, 31 Jul 2024 07:00:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[dynamique d’émergence]]></category>
-		<category><![CDATA[emergence dynamics]]></category>
-		<category><![CDATA[Exuviae]]></category>
-		<category><![CDATA[Exuvies]]></category>
-		<category><![CDATA[sex-ratio]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4571</guid>
-
-					<description><![CDATA[Auteur(s) :Csutoros Antoine Numérotation : Type de publication : Article]]></description>
 		
 		
 		
