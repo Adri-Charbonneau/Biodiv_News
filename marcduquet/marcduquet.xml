@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 25 Apr 2025 16:39:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 May 2025 04:07:46 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Expansion de la Chevêchette d’Europe – (I) Alpes, Jura et Vosges</title>
+		<link>https://marcduquet.com/expansion-de-la-chevechette-deurope-i-alpes-jura-et-vosges/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 13:15:00 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Glaucidium passerinum]]></category>
+		<category><![CDATA[Rapaces nocturnes]]></category>
+		<category><![CDATA[Répartition]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2597</guid>
+
+					<description><![CDATA[Lorsque j’ai commencé l’ornithologie en 1975 en Franche-Comté, la Chevêchette d’Europe n’avait pas encore été (re)découverte dans le massif du Jura. Elle le fut au printemps 1976 sur le versant suisse, avec l’envol d’une nichée le 21 juin dans le Jura vaudois (Géroudet 1977), puis en avril 1977 du côté français, dans la partie jurassienne...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Identification de l’Engoulevent à collier roux</title>
 		<link>https://marcduquet.com/identification-de-lengoulevent-a-collier-roux/</link>
 		
@@ -112,25 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2426</guid>
 
 					<description><![CDATA[Les faits marquants de la semaineDes&#160;Oies à bec court&#160;sont&#160;vues dans le Maine-et-Loire. L’Ibis chauve&#160;adulte trouvé le 21 séjourne dans le Haut-Rhin. Un possible&#160;Aigle pomarin&#160;traverse l’Hérault le 23. Des&#160;Bergeronnettes des Balkans&#160;sont observées à partir du 22 dans le sud-est de la France, où de nouvelles&#160;Fauvettes des Balkans sont vues. Un&#160;Tarier de Sibérie&#160;mâle est signalé le 23...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aigle, vautour ou… Milan noir ?</title>
-		<link>https://marcduquet.com/aigle-vautour-ou-milan-noir/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 10:25:01 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Aigles]]></category>
-		<category><![CDATA[Milvus migrans]]></category>
-		<category><![CDATA[Mue]]></category>
-		<category><![CDATA[Piège]]></category>
-		<category><![CDATA[Rapaces]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=985</guid>
-
-					<description><![CDATA[Au printemps et en début d’été, des Milans noirs Milvus migrans ayant perdu accidentellement leur queue ou avec des rectrices fortement usées représentent un véritable piège d’identification, même pour d’excellents ornithos. C’est notamment le cas d’oiseaux volant seuls, assez haut dans le ciel, donc sans point de comparaison pour ce qui est de la taille,...]]></description>
 		
 		
 		
