@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 03 May 2025 04:07:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 May 2025 11:59:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le contraste de mue, un critère d’âge précieux</title>
+		<link>https://marcduquet.com/le-contraste-de-mue-un-critere-dage-precieux/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 11:59:23 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Mue]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Rapaces]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2554</guid>
+
+					<description><![CDATA[Il existe un moyen assez simple et fiable de déterminer l’âge de bon nombre d’oiseaux (sur des photos et même sur le terrain), plus précisément de différencier les adultes des oiseaux de 1er&#160;cycle (plumage de 1er&#160;hiver à l’automne et de 2e&#160;année du printemps suivant jusqu’à la fin de l’été). Il s’agit pour cela de rechercher...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Expansion de la Chevêchette d’Europe – (II) Massif central et Pyrénées</title>
 		<link>https://marcduquet.com/expansion-de-la-chevechette-deurope-ii-massif-central-et-pyrenees/</link>
 		
@@ -117,23 +134,6 @@
 		
 		<enclosure url="https://marcduquet.com/wp-content/uploads/2025/04/XC724353-Engoulevent-a-collier-roux-Caprimulgus-ruficollis.mp3" length="4988392" type="audio/mpeg" />
 
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 29 mars-13 avril 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-29-mars-13-avril-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 14 Apr 2025 20:50:01 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2640</guid>
-
-					<description><![CDATA[Les faits marquants de la périodeLes passereaux du moment sont un&#160;Pouillot oriental, photographié et enregistré le 4&#160;avril aux&#160;Saintes-Maries-de-la-Mer (Bouches-du-Rhône) et un&#160;Traquet noir et blanc&#160;mâle à gorge noire trouvé à&#160;Furiani (Corse) le 11.&#160;Un&#160;Vanneau sociable&#160;adulte a fait un bref passage à Noyelles-sur-Mer (Somme) le 5&#160;avril et deux&#160;Oies à bec court&#160;ont stationné à&#160;Oye-Plage&#160;(Pas-de-Calais) du 6 au 12. Deux...]]></description>
-		
-		
-		
 			</item>
 	</channel>
 </rss>
