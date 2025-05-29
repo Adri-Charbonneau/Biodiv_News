@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 22 May 2025 11:59:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 May 2025 12:49:33 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ARIZONA – 24 avril-3 mai (de Phoenix aux monts Chiricahua)</title>
+		<link>https://marcduquet.com/arizona-24-avril-3-mai-de-phoenix-aux-monts-chiricahua/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 29 May 2025 11:25:23 +0000</pubDate>
+				<category><![CDATA[Voyages]]></category>
+		<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Néarctique]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2748</guid>
+
+					<description><![CDATA[Du 24 avril au 12 mai 2025, j’ai visité&#160;le sud-est et le nord de l’Arizona, une destination que je projetais depuis plusieurs années, mais qui avait été contrariée par l’épidémie de Covid-19 et divers aléas de la vie… Ma compagne Nadine a partagé avec moi ce séjour qui aura été l’un de mes plus beaux...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le contraste de mue, un critère d’âge précieux</title>
 		<link>https://marcduquet.com/le-contraste-de-mue-un-critere-dage-precieux/</link>
 		
@@ -115,25 +131,6 @@
 		
 		
 		
-			</item>
-		<item>
-		<title>Rechercher l’Engoulevent à collier roux en France</title>
-		<link>https://marcduquet.com/rechercher-lengoulevent-a-collier-roux-en-france/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 19 Apr 2025 12:32:39 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Caprimulgus ruficollis]]></category>
-		<category><![CDATA[Engoulevents]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2528</guid>
-
-					<description><![CDATA[L’Engoulevent à collier roux&#160;Caprimulgus ruficollis&#160;compte deux sous-espèces&#160;: 1) ruficollis, qui niche dans la péninsule Ibérique (Portugal et Espagne) et dans le nord du Maroc&#160;; 2)&#160;desertorum, qui est présente dans le nord-est du Maroc, le nord de l’Algérie (au sud jusqu’à l’Atlas saharien) et le nord de la Tunisie.&#160;La sous-espèce nominale quitte ses zones de nidification...]]></description>
-		
-		
-		<enclosure url="https://marcduquet.com/wp-content/uploads/2025/04/XC724353-Engoulevent-a-collier-roux-Caprimulgus-ruficollis.mp3" length="4988392" type="audio/mpeg" />
-
 			</item>
 	</channel>
 </rss>
