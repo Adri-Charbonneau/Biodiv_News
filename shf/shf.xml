@@ -12,7 +12,7 @@
 	<atom:link href="https://lashf.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lashf.org</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 May 2025 14:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Jun 2025 09:58:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le bilan POPReptile 2024 est disponible !</title>
+		<link>https://lashf.org/non-classe/le-bilan-popreptile-2024-est-disponible/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-bilan-popreptile-2024-est-disponible</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 09:53:58 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lashf.org/?p=6842</guid>
+
+					<description><![CDATA[Grâce à la participation de nombreuses structures, les tendances de populations des reptiles de France hexagonale ont pu être actualisées pour 15 espèces du territoire. Petite nouveauté pour cette année&#160;: en raison de l’entrée massive de nouveaux transects suivis dans la base de données, fragilisant la fiabilité statistique des tendances nationales, il a été décidé [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Grâce à la participation de nombreuses structures, les tendances de populations des reptiles de France hexagonale ont pu être actualisées pour 15 espèces du territoire.</p>
+
+
+
+<p>Petite nouveauté pour cette année&nbsp;: en raison de l’entrée massive de nouveaux transects suivis dans la base de données, fragilisant la fiabilité statistique des tendances nationales, il a été décidé de mettre en avant les tendances de population des reptiles à l’échelle régionale sur la période 2021-2024.</p>
+
+
+
+<p><strong>Découvrez les résultats de votre région en consultant le bilan complet ci-dessous. </strong></p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2025/06/Bilan-POPR-2024_vf.pdf" style="background-color:#5c8727" target="_blank" rel="noreferrer noopener"><strong>Télécharger le bilan</strong></a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Congrès 2025 : Ouverture de l&#8217;appel à communications</title>
 		<link>https://lashf.org/non-classe/congres-2025-ouverture-de-lappel-a-communications/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=congres-2025-ouverture-de-lappel-a-communications</link>
 		
@@ -319,33 +350,6 @@
 
 <div class="wp-block-buttons is-content-justification-center">
 <div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background" href="https://lashf.org/wp-content/uploads/2024/08/SHF_validation_nationale_SINP_v1.2.pdf" style="background-color:#5c8727"><strong>Télécharger le protocole de validation (v1.2)</strong></a></div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>De « nouvelles » espèces sur le territoire hexagonal</title>
-		<link>https://lashf.org/non-classe/de-nouvelles-especes-sur-le-territoire-hexagonal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=de-nouvelles-especes-sur-le-territoire-hexagonal</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 30 Jun 2024 14:07:21 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://lashf.org/?p=6209</guid>
-
-					<description><![CDATA[Après de longues années de stabilité, la taxonomie des reptiles et amphibiens d’Europe est actuellement en proie à des changements rapides, grâce à l’amélioration des connaissances sur l’histoire évolutive de ces organismes qu’a permis la révolution de la génétique, puis de la phylogénie et la phylogénomique. Cette révolution n’épargne pas la France, où plusieurs espèces [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Après de longues années de stabilité, la taxonomie des reptiles et amphibiens d’Europe est actuellement en proie à des changements rapides, grâce à l’amélioration des connaissances sur l’histoire évolutive de ces organismes qu’a permis la révolution de la génétique, puis de la phylogénie et la phylogénomique. Cette révolution n’épargne pas la France, où plusieurs espèces « nouvelles » ont récemment été révélées sur le territoire. Ces « nouvelles » espèces sont des taxons à la morphologie très similaire aux espèces d’ores et déjà connues sur le territoire métropolitain. Même si des critères morphologiques ou acoustiques peuvent exister, l’approche génétique est le seul outil fiable pour les identifier. Cela nécessite donc de réaliser des analyses génétiques en prélevant l’ADN des individus afin d’identifier l’espèce à laquelle ils appartiennent.<br>Afin d&rsquo;améliorer ces connaissances, la SHF a obtenu un financement du Ministère de la Transition écologique et de la Cohésion des territoires, de PatriNat et de l&rsquo;INPN. Le bilan présente les résultats de cette étude, menée sur plusieurs années.</p>
-
-
-
-<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div class="wp-block-buttons is-content-justification-center">
-<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://lashf.org/wp-content/uploads/2024/11/Rapport-MAJ-2023_vf.pdf" style="background-color:#5c8727"><strong>Télécharger le bilan</strong></a></div>
 </div>
 ]]></content:encoded>
 					
