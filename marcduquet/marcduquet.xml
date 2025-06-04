@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 29 May 2025 12:49:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 31 May 2025 16:51:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ARIZONA – 4-12 mai (de Sierra Vista au Grand Canyon)</title>
+		<link>https://marcduquet.com/arizona-4-12-mai-de-sierra-vista-au-grand-canyon/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 11:19:00 +0000</pubDate>
+				<category><![CDATA[Voyages]]></category>
+		<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Néarctique]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2827</guid>
+
+					<description><![CDATA[Ce second volet de mon voyage en Arizona prend en compte la période du 4 au 12 mai 2025, au cours de laquelle Nadine et moi sommes avons visité les monts Huachuca avant de remonter jusqu&#8217;au Grand Canyon via Tucson et Phoenix. Comme la première partie, le récit est organisé jour par jour et illustré...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ARIZONA – 24 avril-3 mai (de Phoenix aux monts Chiricahua)</title>
 		<link>https://marcduquet.com/arizona-24-avril-3-mai-de-phoenix-aux-monts-chiricahua/</link>
 		
@@ -110,24 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2709</guid>
 
 					<description><![CDATA[En complément de l’article sur la recherche de l’Engoulevent à collier roux&#160;en France que j’ai publié récemment, voici quelques éléments d’identification qui pourraient vous être utiles, en particulier des critères non décrits dans la littérature ornithologique qui permettent de le différencier d’un Engoulevent d’Europe en vol, y compris sur une photo nocturne fortement sous-exposée… I-Rappel...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les guifettes nicheuses en France en 2024</title>
-		<link>https://marcduquet.com/les-guifettes-nicheuses-en-france-en-2024/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 16:38:58 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Guifettes]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<category><![CDATA[Population]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2491</guid>
-
-					<description><![CDATA[Par Jacques Trotignon Voici les résultats des dénombrements des trois espèces de guifettes nicheuses en France en 2024. La Guifette moustac est la seule espèce dont les effectifs se maitiennent à un niveau élevé, ceux de la Guifette noire progressant légèrement, tandis que, comme en 2023, un seul couple de Guifettes leucoptères s’est reproduit en...]]></description>
 		
 		
 		
