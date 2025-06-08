@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 31 May 2025 16:51:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Jun 2025 10:42:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 14 avril-31 mai 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-14-avril-31-mai-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 08 Jun 2025 10:42:35 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2879</guid>
+
+					<description><![CDATA[Je mets à jour cette rubrique que je n’avais pas eu le temps d’alimenter lors de mon voyage au Québec puis en Arizona. Pour ne rien oublier, je traiterai ici la période allant du 14 avril au 31 mai. La découverte de plusieurs passereaux sibériens et de limicoles néarctiques donnent à ce printemps 2025 des airs automnaux, tandis...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ARIZONA – 4-12 mai (de Sierra Vista au Grand Canyon)</title>
 		<link>https://marcduquet.com/arizona-4-12-mai-de-sierra-vista-au-grand-canyon/</link>
 		
@@ -38,7 +55,7 @@
 		<category><![CDATA[Néarctique]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=2827</guid>
 
-					<description><![CDATA[Ce second volet de mon voyage en Arizona prend en compte la période du 4 au 12 mai 2025, au cours de laquelle Nadine et moi sommes avons visité les monts Huachuca avant de remonter jusqu&#8217;au Grand Canyon via Tucson et Phoenix. Comme la première partie, le récit est organisé jour par jour et illustré...]]></description>
+					<description><![CDATA[Ce second volet de mon voyage en Arizona (première partie ici) prend en compte la période du 4 au 12 mai 2025, au cours de laquelle Nadine et moi avons visité les monts Huachuca avant de remonter jusqu&#8217;au Grand Canyon via Tucson et Phoenix. Comme la première partie, le récit est organisé jour par jour...]]></description>
 		
 		
 		
@@ -108,24 +125,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2597</guid>
 
 					<description><![CDATA[Lorsque j’ai commencé l’ornithologie en 1975 en Franche-Comté, la Chevêchette d’Europe n’avait pas encore été (re)découverte dans le massif du Jura. Elle le fut au printemps 1976 sur le versant suisse, avec l’envol d’une nichée le 21 juin dans le Jura vaudois (Géroudet 1977), puis en avril 1977 du côté français, dans la partie jurassienne...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Identification de l’Engoulevent à collier roux</title>
-		<link>https://marcduquet.com/identification-de-lengoulevent-a-collier-roux/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 13:08:00 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Caprimulgus europaeus]]></category>
-		<category><![CDATA[Caprimulgus ruficollis]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2709</guid>
-
-					<description><![CDATA[En complément de l’article sur la recherche de l’Engoulevent à collier roux&#160;en France que j’ai publié récemment, voici quelques éléments d’identification qui pourraient vous être utiles, en particulier des critères non décrits dans la littérature ornithologique qui permettent de le différencier d’un Engoulevent d’Europe en vol, y compris sur une photo nocturne fortement sous-exposée… I-Rappel...]]></description>
 		
 		
 		
