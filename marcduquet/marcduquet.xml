@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 12 Jun 2025 13:02:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Jun 2025 08:49:38 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 juin 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juin-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 08:49:38 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=2974</guid>
+
+					<description><![CDATA[Les observations les plus remarquables de cette première quinzaine de juin proviennent de la mer, avec un Pterodroma&#160;sp. en Bretagne et un&#160;Fou brun&#160;en Méditerranée. Sur terre, à noter deux données de&#160;Pie-grièche à poitrine rose&#160;dans le Sud, quelques&#160;Roselins cramoisis&#160;chanteurs en Franche-Comté et une&#160;Bergeronnette des Balkans&#160;cantonnée dans le Var. Aucun limicole rare au cours de la période...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rechercher le Martinet cafre nicheur en France continentale</title>
 		<link>https://marcduquet.com/rechercher-le-martinet-cafre-nicheur-en-france-continentale/</link>
 		
@@ -62,7 +79,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=2879</guid>
 
-					<description><![CDATA[Je mets à jour cette rubrique que je n’avais pas eu le temps d’alimenter lors de mon voyage au Québec puis en Arizona. Pour ne rien oublier, je traiterai ici la période allant du 14 avril au 31 mai. La découverte de plusieurs passereaux sibériens et de limicoles néarctiques donne à ce printemps 2025 des airs automnaux, tandis...]]></description>
+					<description><![CDATA[Je mets à jour cette rubrique que je n’avais pas eu le temps d’alimenter lors de mon voyage au Québec puis en&#160;Arizona. Pour ne rien oublier, je traiterai ici la période allant du 14&#160;avril au 31&#160;mai. La découverte de plusieurs passereaux sibériens et de limicoles néarctiques donne à ce printemps 2025 des airs automnaux, tandis...]]></description>
 		
 		
 		
@@ -112,24 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2554</guid>
 
 					<description><![CDATA[Il existe un moyen assez simple et fiable de déterminer l’âge de bon nombre d’oiseaux (sur des photos et même sur le terrain), plus précisément de différencier les adultes des oiseaux de 1er&#160;cycle (plumage de 1er&#160;hiver à l’automne et de 2e&#160;année du printemps suivant jusqu’à la fin de l’été). Il s’agit pour cela de rechercher...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Expansion de la Chevêchette d’Europe – (II) Massif central et Pyrénées</title>
-		<link>https://marcduquet.com/expansion-de-la-chevechette-deurope-ii-massif-central-et-pyrenees/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 13:17:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Glaucidium passerinum]]></category>
-		<category><![CDATA[Rapaces nocturnes]]></category>
-		<category><![CDATA[Répartition]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2688</guid>
-
-					<description><![CDATA[Ce second volet consacré à l’expansion de la Chevêchette d’Europe en France décrit la colonisation par l’espèce du Massif central, où elle est désormais bien implantée, et de la chaîne pyrénenne, où elle a été découverte récemment et où elle semble continuer à s’étendre. Colonisation du Massif centralLa&#160;présence de la Chevêchette d’Europe a été découverte...]]></description>
 		
 		
 		
