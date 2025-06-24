@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 17 Jun 2025 08:49:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Jun 2025 10:19:49 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un Guillemot à cou blanc en Islande !</title>
+		<link>https://marcduquet.com/un-guillemot-a-cou-blanc-en-islande/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 10:19:49 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Alcidés]]></category>
+		<category><![CDATA[Islande]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<category><![CDATA[Synthliboramphus antiquus]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3287</guid>
+
+					<description><![CDATA[Le 13 juin 2025, un Guillemot à cou blanc (=&#160;Ancient Murrelet), un alcidé originaire des eaux tempérées et subarctiques du Pacifique Nord, a été trouvé à Kópasker, Norðurland eystra, dans le nord-est de l’Islande. Il s’agit seulement de la quatrième mention ouest-paléarctique de l’espèce. Répartition de l’espèceL’aire de nidification du Guillemot à cou blanc&#160;Synthliboramphus antiquus&#160;couvre...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 juin 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juin-2025/</link>
 		
@@ -112,23 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2748</guid>
 
 					<description><![CDATA[Du 24 avril au 12 mai 2025, j’ai visité&#160;le sud-est et le nord de l’Arizona, une destination que je projetais depuis plusieurs années, mais qui avait été contrariée par l’épidémie de Covid-19 et divers aléas de la vie… Ma compagne Nadine a partagé avec moi ce séjour qui aura été l’un de mes plus beaux...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le contraste de mue, un critère d’âge précieux</title>
-		<link>https://marcduquet.com/le-contraste-de-mue-un-critere-dage-precieux/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 11:59:23 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Mue]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Rapaces]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2554</guid>
-
-					<description><![CDATA[Il existe un moyen assez simple et fiable de déterminer l’âge de bon nombre d’oiseaux (sur des photos et même sur le terrain), plus précisément de différencier les adultes des oiseaux de 1er&#160;cycle (plumage de 1er&#160;hiver à l’automne et de 2e&#160;année du printemps suivant jusqu’à la fin de l’été). Il s’agit pour cela de rechercher...]]></description>
 		
 		
 		
