@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Après Ornithos…</title>
+	<title>Post-Ornithos</title>
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
-	<description>Un blog pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 24 Jun 2025 10:19:49 +0000</lastBuildDate>
+	<description>Une eRevue pour les ornithos de terrain</description>
+	<lastBuildDate>Tue, 01 Jul 2025 18:38:25 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,12 +22,29 @@
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
-	<title>Après Ornithos…</title>
+	<title>Post-Ornithos</title>
 	<link>https://marcduquet.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-30 juin 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-30-juin-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 18:34:59 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3421</guid>
+
+					<description><![CDATA[Peu d’observations exceptionnelles en France en cette seconde moitié de juin, mais à signaler tout de même la découverte d’une Aigrette des récifs en Bourgogne et d’une Mouette atricille adulte en Charente-Maritime. Deux martinets « à croupion blanc » ont en outre été signalés dans le Sud : un Martinet des maisons dans le Vaucluse et le Martinet cafre héraultais qui est de retour....]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un Guillemot à cou blanc en Islande !</title>
 		<link>https://marcduquet.com/un-guillemot-a-cou-blanc-en-islande/</link>
 		
@@ -115,22 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2827</guid>
 
 					<description><![CDATA[Ce second volet de mon voyage en Arizona (première partie ici) prend en compte la période du 4 au 12 mai 2025, au cours de laquelle Nadine et moi avons visité les monts Huachuca avant de remonter jusqu&#8217;au Grand Canyon via Tucson et Phoenix. Comme la première partie, le récit est organisé jour par jour...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ARIZONA – 24 avril-3 mai (de Phoenix aux monts Chiricahua)</title>
-		<link>https://marcduquet.com/arizona-24-avril-3-mai-de-phoenix-aux-monts-chiricahua/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 11:25:23 +0000</pubDate>
-				<category><![CDATA[Voyages]]></category>
-		<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Néarctique]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2748</guid>
-
-					<description><![CDATA[Du 24 avril au 12 mai 2025, j’ai visité&#160;le sud-est et le nord de l’Arizona, une destination que je projetais depuis plusieurs années, mais qui avait été contrariée par l’épidémie de Covid-19 et divers aléas de la vie… Ma compagne Nadine a partagé avec moi ce séjour qui aura été l’un de mes plus beaux...]]></description>
 		
 		
 		
