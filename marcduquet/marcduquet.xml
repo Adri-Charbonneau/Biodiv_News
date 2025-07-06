@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 01 Jul 2025 18:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Jul 2025 16:55:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ornithérapie, le nouveau livre de Philippe J. Dubois et Élise Rousseau</title>
+		<link>https://marcduquet.com/ornitherapie-le-nouveau-livre-de-philippe-j-dubois-et-elise-rousseau/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2025 08:00:00 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Livres]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3483</guid>
+
+					<description><![CDATA[Êtes-vous écoanxieux&#160;? Souffrez-vous de solastalgie&#160;? Savez-vous ce qu’est l’amnésie écologique&#160;? Et saviez-vous que l’observation des oiseaux avait des effets thérapeutiques sur nous autres, humains&#160;? Pour connaître les réponses à ces questions, lisez&#160;Ornithérapie, le nouveau livre de Philippe J. Dubois et Élise Rousseau (2025, éditions Albin Michel). Joliment écrit et facile à lire, cet ouvrage s’est...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-30 juin 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-30-juin-2025/</link>
 		
@@ -39,7 +54,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=3421</guid>
 
-					<description><![CDATA[Peu d’observations exceptionnelles en France en cette seconde moitié de juin, mais à signaler tout de même la découverte d’une Aigrette des récifs en Bourgogne et d’une Mouette atricille adulte en Charente-Maritime. Deux martinets « à croupion blanc » ont en outre été signalés dans le Sud : un Martinet des maisons dans le Vaucluse et le Martinet cafre héraultais qui est de retour....]]></description>
+					<description><![CDATA[Peu d’observations exceptionnelles en France en cette seconde moitié de juin, mais à signaler tout de même la découverte d’une&#160;Aigrette des récifs&#160;en Bourgogne et d’une&#160;Mouette atricille&#160;adulte en Charente-Maritime. Deux martinets « à croupion blanc » ont en outre été signalés dans le Sud&#160;: un&#160;Martinet des maisons&#160;dans le Vaucluse et le&#160;Martinet cafre&#160;héraultais qui est de retour....]]></description>
 		
 		
 		
@@ -116,22 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=2879</guid>
 
 					<description><![CDATA[Je mets à jour cette rubrique que je n’avais pas eu le temps d’alimenter lors de mon voyage au Québec puis en&#160;Arizona. Pour ne rien oublier, je traiterai ici la période allant du 14&#160;avril au 31&#160;mai. La découverte de plusieurs passereaux sibériens et de limicoles néarctiques donne à ce printemps 2025 des airs automnaux, tandis...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ARIZONA – 4-12 mai (de Sierra Vista au Grand Canyon)</title>
-		<link>https://marcduquet.com/arizona-4-12-mai-de-sierra-vista-au-grand-canyon/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 11:19:00 +0000</pubDate>
-				<category><![CDATA[Voyages]]></category>
-		<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Néarctique]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2827</guid>
-
-					<description><![CDATA[Ce second volet de mon voyage en Arizona (première partie ici) prend en compte la période du 4 au 12 mai 2025, au cours de laquelle Nadine et moi avons visité les monts Huachuca avant de remonter jusqu&#8217;au Grand Canyon via Tucson et Phoenix. Comme la première partie, le récit est organisé jour par jour...]]></description>
 		
 		
 		
