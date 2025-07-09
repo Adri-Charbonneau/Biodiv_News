@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 05 Jul 2025 16:55:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Jul 2025 16:17:48 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les alcidés du Pacifique vus dans l’Atlantique</title>
+		<link>https://marcduquet.com/les-alcides-du-pacifique-vus-dans-latlantique/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2025 16:13:03 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Alcidés]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3529</guid>
+
+					<description><![CDATA[Suite à l’observation d’un&#160;Guillemot à cou blanc&#160;en Islande, j’ai recherché les données d’alcidés du Pacifique observés dans l’Atlantique Nord dont il existe une trace dans la littérature ornithologique afin d’en faire la synthèse. Au total, cela concerne sept espèces&#160;: deux stariques (genre&#160;Aethia), trois guillemots (deux&#160;Brachyramphus&#160;et un&#160;Synthliboramphus)&#160;et deux macareux (Fratercula). Cet article dresse la liste de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ornithérapie, le nouveau livre de Philippe J. Dubois et Élise Rousseau</title>
 		<link>https://marcduquet.com/ornitherapie-le-nouveau-livre-de-philippe-j-dubois-et-elise-rousseau/</link>
 		
@@ -37,7 +55,7 @@
 		<category><![CDATA[Livres]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=3483</guid>
 
-					<description><![CDATA[Êtes-vous écoanxieux&#160;? Souffrez-vous de solastalgie&#160;? Savez-vous ce qu’est l’amnésie écologique&#160;? Et saviez-vous que l’observation des oiseaux avait des effets thérapeutiques sur nous autres, humains&#160;? Pour connaître les réponses à ces questions, lisez&#160;Ornithérapie, le nouveau livre de Philippe J. Dubois et Élise Rousseau (2025, éditions Albin Michel). Joliment écrit et facile à lire, cet ouvrage s’est...]]></description>
+					<description><![CDATA[Êtes-vous éco-anxieux ? Souffrez-vous de solastalgie ? Savez-vous ce qu’est l’amnésie écologique ? Et saviez-vous que l’observation des oiseaux avait des effets thérapeutiques sur nous autres, humains ? Pour connaître les réponses à ces questions, lisez Ornithérapie, le nouveau livre de Philippe J. Dubois et Élise Rousseau (2025, éditions Albin Michel). Joliment écrit et facile à lire, cet ouvrage s’est...]]></description>
 		
 		
 		
@@ -117,23 +135,6 @@
 		<enclosure url="https://marcduquet.com/wp-content/uploads/2025/06/XC426255-Martinet-cafre-Antonio-Xeira-juillet-2018-Portugal-2.mp3" length="315731" type="audio/mpeg" />
 <enclosure url="https://marcduquet.com/wp-content/uploads/2025/06/XC677525-Martinet-cafre-Esperanza-Poveda-aout-2021-Espagne-2.mp3" length="1480131" type="audio/mpeg" />
 
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 14 avril-31 mai 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-14-avril-31-mai-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 08 Jun 2025 10:42:35 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2879</guid>
-
-					<description><![CDATA[Je mets à jour cette rubrique que je n’avais pas eu le temps d’alimenter lors de mon voyage au Québec puis en&#160;Arizona. Pour ne rien oublier, je traiterai ici la période allant du 14&#160;avril au 31&#160;mai. La découverte de plusieurs passereaux sibériens et de limicoles néarctiques donne à ce printemps 2025 des airs automnaux, tandis...]]></description>
-		
-		
-		
 			</item>
 	</channel>
 </rss>
