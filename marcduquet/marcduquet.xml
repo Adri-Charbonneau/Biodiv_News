@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 09 Jul 2025 16:17:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jul 2025 15:51:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les Swarovski NL Pure 42 passent à l’orange !</title>
+		<link>https://marcduquet.com/les-swarovski-nl-pure-42-passent-a-lorange/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 08:00:00 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Jumelles]]></category>
+		<category><![CDATA[Test]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3455</guid>
+
+					<description><![CDATA[Après les NL Pure 32, les jumelles&#160;Swarovski&#160;de la gamme NL Pure 42 sont à leur tour proposées en version «&#160;burnt orange&#160;», en plus du traditionnel vert de la marque autrichienne… copié par de nombreuses autres fabricants de jumelles. Mais s’il est facile d&#8217;imiter un coloris (le&#160;burnt orange&#160;le sera-t-il à son tour&#160;?), la qualité optique et...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les alcidés du Pacifique vus dans l’Atlantique</title>
 		<link>https://marcduquet.com/les-alcides-du-pacifique-vus-dans-latlantique/</link>
 		
@@ -112,29 +128,6 @@
 		
 		
 		
-			</item>
-		<item>
-		<title>Rechercher le Martinet cafre nicheur en France continentale</title>
-		<link>https://marcduquet.com/rechercher-le-martinet-cafre-nicheur-en-france-continentale/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 13:02:46 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Apus caffer]]></category>
-		<category><![CDATA[Cecropis daurica]]></category>
-		<category><![CDATA[Cecropis rufula]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Martinets]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Répartition]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2843</guid>
-
-					<description><![CDATA[Originaire d’Afrique tropicale (de la Sénégambie à la Somalie) et australe (de la Tanzanie à l’Afrique du Sud et du sud du Gabon au centre de la Namibie), le Martinet cafre&#160;Apus caffer&#160;a étendu son aire de répartition vers le nord au milieu du&#160;xxe&#160;siècle, jusqu’à atteindre le sud du Paléarctique occidental (Chantler &#38; Boesman 2020,&#160;Cramp &#38;...]]></description>
-		
-		
-		<enclosure url="https://marcduquet.com/wp-content/uploads/2025/06/XC426255-Martinet-cafre-Antonio-Xeira-juillet-2018-Portugal-2.mp3" length="315731" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2025/06/XC677525-Martinet-cafre-Esperanza-Poveda-aout-2021-Espagne-2.mp3" length="1480131" type="audio/mpeg" />
-
 			</item>
 	</channel>
 </rss>
