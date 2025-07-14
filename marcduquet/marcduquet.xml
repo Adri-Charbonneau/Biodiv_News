@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 10 Jul 2025 15:51:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Jul 2025 15:33:20 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AviList 2025 : nouveaux rétropédalages taxonomiques</title>
+		<link>https://marcduquet.com/avilist-2025-nouveaux-retropedalages-taxonomiques/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Nomenclature]]></category>
+		<category><![CDATA[Point de vue]]></category>
+		<category><![CDATA[Taxinomie]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3579</guid>
+
+					<description><![CDATA[Avec trois grandes listes mondiales des oiseaux&#160;– celles de BirdLife International (BirdLife’s Taxonomic Checklist), de l’International Ornithological Congress (IOC World Bird List) et du Cornell Lab of Ornithology (eBird/Clements checklist of Birds of the World)&#160;– évaluant indépendamment les révisions taxonomiques entre une et quatre fois par an, la situation érait devenue confuse pour les utilisateurs...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les Swarovski NL Pure 42 passent à l’orange !</title>
 		<link>https://marcduquet.com/les-swarovski-nl-pure-42-passent-a-lorange/</link>
 		
@@ -108,23 +125,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3287</guid>
 
 					<description><![CDATA[Le 13 juin 2025, un Guillemot à cou blanc (=&#160;Ancient Murrelet), un alcidé originaire des eaux tempérées et subarctiques du Pacifique Nord, a été trouvé à Kópasker, Norðurland eystra, dans le nord-est de l’Islande. Il s’agit seulement de la quatrième mention ouest-paléarctique de l’espèce. Répartition de l’espèceL’aire de nidification du Guillemot à cou blanc&#160;Synthliboramphus antiquus&#160;couvre...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 juin 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juin-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 08:49:38 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=2974</guid>
-
-					<description><![CDATA[Les observations les plus remarquables de cette première quinzaine de juin proviennent de la mer, avec un Pterodroma&#160;sp. en Bretagne et un&#160;Fou brun&#160;en Méditerranée. Sur terre, à noter deux données de&#160;Pie-grièche à poitrine rose&#160;dans le Sud, quelques&#160;Roselins cramoisis&#160;chanteurs en Franche-Comté et une&#160;Bergeronnette des Balkans&#160;cantonnée dans le Var. Aucun limicole rare au cours de la période...]]></description>
 		
 		
 		
