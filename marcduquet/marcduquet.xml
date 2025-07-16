@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 11 Jul 2025 15:33:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jul 2025 17:01:46 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 juillet 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juillet-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 13:01:41 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3608</guid>
+
+					<description><![CDATA[De nouveau une quinzaine assez maigre, mais la période n’est pas des plus propices pour les oiseaux rares. À signaler tout de même la découverte d’une&#160;Oie naine&#160;dans la Somme, d’un&#160;Pluvier bronzé&#160;en Charente-Maritime, d’un&#160;Goéland dominicain&#160;en Seine-et-Marne et d’un&#160;Fou brun&#160;en Charente-Maritime, et le retour de la Sterne bridée&#160;du Finistère. Par ailleurs, l’Eider à tête grise&#160;des Côtes-d’Armor, l’Aigrette...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AviList 2025 : nouveaux rétropédalages taxonomiques</title>
 		<link>https://marcduquet.com/avilist-2025-nouveaux-retropedalages-taxonomiques/</link>
 		
@@ -106,25 +123,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3421</guid>
 
 					<description><![CDATA[Peu d’observations exceptionnelles en France en cette seconde moitié de juin, mais à signaler tout de même la découverte d’une&#160;Aigrette des récifs&#160;en Bourgogne et d’une&#160;Mouette atricille&#160;adulte en Charente-Maritime. Deux martinets « à croupion blanc » ont en outre été signalés dans le Sud&#160;: un&#160;Martinet des maisons&#160;dans le Vaucluse et le&#160;Martinet cafre&#160;héraultais qui est de retour....]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Un Guillemot à cou blanc en Islande !</title>
-		<link>https://marcduquet.com/un-guillemot-a-cou-blanc-en-islande/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 24 Jun 2025 10:19:49 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Alcidés]]></category>
-		<category><![CDATA[Islande]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<category><![CDATA[Synthliboramphus antiquus]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3287</guid>
-
-					<description><![CDATA[Le 13 juin 2025, un Guillemot à cou blanc (=&#160;Ancient Murrelet), un alcidé originaire des eaux tempérées et subarctiques du Pacifique Nord, a été trouvé à Kópasker, Norðurland eystra, dans le nord-est de l’Islande. Il s’agit seulement de la quatrième mention ouest-paléarctique de l’espèce. Répartition de l’espèceL’aire de nidification du Guillemot à cou blanc&#160;Synthliboramphus antiquus&#160;couvre...]]></description>
 		
 		
 		
