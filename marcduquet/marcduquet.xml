@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 15 Jul 2025 17:01:46 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Jul 2025 22:16:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le Râle des genêts en France, une disparition annoncée…</title>
+		<link>https://marcduquet.com/le-rale-des-genets-en-france-une-disparition-annoncee/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 20 Jul 2025 13:02:00 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Crex crex]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Population]]></category>
+		<category><![CDATA[Rallidés]]></category>
+		<category><![CDATA[Répartition]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3641</guid>
+
+					<description><![CDATA[Le Plan National d’Actions (PNA) 2024-2033 en faveur du Râle des genêts, récemment rendu public, révèle que l’espèce, en fort déclin en Europe de l’Ouest depuis les années 1980 (Horváth &#38; Schäffer 1997,&#160;Keiss 2020), est désormais considérée comme proche de l’extinction en France, avec une population nationale inférieure à 100&#160;mâles chanteurs (Hercé&#160;et al.&#160;2024). Après deux...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 juillet 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juillet-2025/</link>
 		
@@ -56,7 +77,7 @@
 		<category><![CDATA[Taxinomie]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=3579</guid>
 
-					<description><![CDATA[Avec trois grandes listes mondiales des oiseaux&#160;– celles de BirdLife International (BirdLife’s Taxonomic Checklist), de l’International Ornithological Congress (IOC World Bird List) et du Cornell Lab of Ornithology (eBird/Clements checklist of Birds of the World)&#160;– évaluant indépendamment les révisions taxonomiques entre une et quatre fois par an, la situation érait devenue confuse pour les utilisateurs...]]></description>
+					<description><![CDATA[Avec trois grandes listes mondiales des oiseaux – celles de BirdLife International (BirdLife’s Taxonomic Checklist), de l’International Ornithological Congress (IOC World Bird List) et du Cornell Lab of Ornithology (eBird/Clements checklist of Birds of the World) – évaluant indépendamment les révisions taxonomiques entre une et quatre fois par an, la situation était devenue confuse pour les utilisateurs...]]></description>
 		
 		
 		
@@ -106,23 +127,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3483</guid>
 
 					<description><![CDATA[Êtes-vous éco-anxieux ? Souffrez-vous de solastalgie ? Savez-vous ce qu’est l’amnésie écologique ? Et saviez-vous que l’observation des oiseaux avait des effets thérapeutiques sur nous autres, humains ? Pour connaître les réponses à ces questions, lisez Ornithérapie, le nouveau livre de Philippe J. Dubois et Élise Rousseau (2025, éditions Albin Michel). Joliment écrit et facile à lire, cet ouvrage s’est...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-30 juin 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-30-juin-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 01 Jul 2025 18:34:59 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3421</guid>
-
-					<description><![CDATA[Peu d’observations exceptionnelles en France en cette seconde moitié de juin, mais à signaler tout de même la découverte d’une&#160;Aigrette des récifs&#160;en Bourgogne et d’une&#160;Mouette atricille&#160;adulte en Charente-Maritime. Deux martinets « à croupion blanc » ont en outre été signalés dans le Sud&#160;: un&#160;Martinet des maisons&#160;dans le Vaucluse et le&#160;Martinet cafre&#160;héraultais qui est de retour....]]></description>
 		
 		
 		
