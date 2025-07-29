@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 19 Jul 2025 22:16:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Jul 2025 16:15:14 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Combien de Gobemouches noirs dans mon jardin ?</title>
+		<link>https://marcduquet.com/combien-de-gobemouches-noirs-dans-mon-jardin/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2025 16:14:27 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Âge]]></category>
+		<category><![CDATA[Ficedula hypoleuca]]></category>
+		<category><![CDATA[Mue]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3695</guid>
+
+					<description><![CDATA[Si vous faites partie des chanceux qui voient des Gobemouches noirs en halte migratoire en fin d’été et à l’automne près de chez eux ou même directement dans leur jardin, vous vous êtes peut-être demandés, comme moi, si c’était le même oiseau qui stationnait plusieurs jours ou s’il y avait un renouvellement d’un matin sur...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le Râle des genêts en France, une disparition annoncée…</title>
 		<link>https://marcduquet.com/le-rale-des-genets-en-france-une-disparition-annoncee/</link>
 		
@@ -112,21 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3529</guid>
 
 					<description><![CDATA[Suite à l’observation d’un&#160;Guillemot à cou blanc&#160;en Islande, j’ai recherché les données d’alcidés du Pacifique observés dans l’Atlantique Nord dont il existe une trace dans la littérature ornithologique afin d’en faire la synthèse. Au total, cela concerne sept espèces&#160;: deux stariques (genre&#160;Aethia), trois guillemots (deux&#160;Brachyramphus&#160;et un&#160;Synthliboramphus)&#160;et deux macareux (Fratercula). Cet article dresse la liste de...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ornithérapie, le nouveau livre de Philippe J. Dubois et Élise Rousseau</title>
-		<link>https://marcduquet.com/ornitherapie-le-nouveau-livre-de-philippe-j-dubois-et-elise-rousseau/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2025 08:00:00 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Livres]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3483</guid>
-
-					<description><![CDATA[Êtes-vous éco-anxieux ? Souffrez-vous de solastalgie ? Savez-vous ce qu’est l’amnésie écologique ? Et saviez-vous que l’observation des oiseaux avait des effets thérapeutiques sur nous autres, humains ? Pour connaître les réponses à ces questions, lisez Ornithérapie, le nouveau livre de Philippe J. Dubois et Élise Rousseau (2025, éditions Albin Michel). Joliment écrit et facile à lire, cet ouvrage s’est...]]></description>
 		
 		
 		
