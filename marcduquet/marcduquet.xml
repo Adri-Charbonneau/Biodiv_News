@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 29 Jul 2025 16:15:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Aug 2025 09:19:19 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-31 juillet 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-31-juillet-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 09:19:18 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3801</guid>
+
+					<description><![CDATA[Une rubrique peu fournie pour cette dernière quinzaine de juillet, avec les habitués, quelques individus d’espèces déjà vues et quatre nouveautés, trois limicoles (Pluvier fauve,&#160;Chevalier à pattes jaunes&#160;et&#160;Chevalier bargette), qui sont sans doute les prémices du mois d’août à venir, un passereau (Bergeronnette citrine) et aucun rapace. Oiseaux déjà signalésIndividus déjà notés les semaines précédentes...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Combien de Gobemouches noirs dans mon jardin ?</title>
 		<link>https://marcduquet.com/combien-de-gobemouches-noirs-dans-mon-jardin/</link>
 		
@@ -112,24 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3455</guid>
 
 					<description><![CDATA[Après les NL Pure 32, les jumelles&#160;Swarovski&#160;de la gamme NL Pure 42 sont à leur tour proposées en version «&#160;burnt orange&#160;», en plus du traditionnel vert de la marque autrichienne… copié par de nombreuses autres fabricants de jumelles. Mais s’il est facile d&#8217;imiter un coloris (le&#160;burnt orange&#160;le sera-t-il à son tour&#160;?), la qualité optique et...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les alcidés du Pacifique vus dans l’Atlantique</title>
-		<link>https://marcduquet.com/les-alcides-du-pacifique-vus-dans-latlantique/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 09 Jul 2025 16:13:03 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Alcidés]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3529</guid>
-
-					<description><![CDATA[Suite à l’observation d’un&#160;Guillemot à cou blanc&#160;en Islande, j’ai recherché les données d’alcidés du Pacifique observés dans l’Atlantique Nord dont il existe une trace dans la littérature ornithologique afin d’en faire la synthèse. Au total, cela concerne sept espèces&#160;: deux stariques (genre&#160;Aethia), trois guillemots (deux&#160;Brachyramphus&#160;et un&#160;Synthliboramphus)&#160;et deux macareux (Fratercula). Cet article dresse la liste de...]]></description>
 		
 		
 		
