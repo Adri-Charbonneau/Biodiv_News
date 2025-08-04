@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -12,12 +12,32 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Sat, 02 Aug 2025 12:54:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Aug 2025 20:13:48 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Une population férale d&#8217;Ibis hagedash serait désormais bien installée sur l&#8217;île de Fuerteventura, dans l&#8217;archipel des Canaries (Espagne) </title>
+		<link>https://www.ornithomedia.com/breves/une-interessante-population-ferale-dibis-hagedash-sur-lile-de-fuerteventura-dans-larchipel-des-canaries-espagne/</link>
+					<comments>https://www.ornithomedia.com/breves/une-interessante-population-ferale-dibis-hagedash-sur-lile-de-fuerteventura-dans-larchipel-des-canaries-espagne/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2025 20:12:52 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=259369</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/une-interessante-population-ferale-dibis-hagedash-sur-lile-de-fuerteventura-dans-larchipel-des-canaries-espagne/">Une population férale d&rsquo;Ibis hagedash serait désormais bien installée sur l&rsquo;île de Fuerteventura, dans l&rsquo;archipel des Canaries (Espagne) </a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/une-interessante-population-ferale-dibis-hagedash-sur-lile-de-fuerteventura-dans-larchipel-des-canaries-espagne/">Une population férale d&rsquo;Ibis hagedash serait désormais bien installée sur l&rsquo;île de Fuerteventura, dans l&rsquo;archipel des Canaries (Espagne) </a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/une-interessante-population-ferale-dibis-hagedash-sur-lile-de-fuerteventura-dans-larchipel-des-canaries-espagne/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Sorties ornithologiques guidées dans le parc naturel régional de la Forêt d&#8217;Orient (Aube) en août 2025</title>
 		<link>https://www.ornithomedia.com/breves/sorties-ornithologiques-guidees-dans-le-parc-naturel-regional-de-la-foret-dorient-aube-en-aout-2025/</link>
@@ -197,26 +217,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/un-spectaculaire-rassemblement-postnuptial-precoce-dhirondelles-de-rivage-sur-le-lac-du-der-marne-en-juillet-2025/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Les Hirondelles rustiques reconnaîtraient les habitants des bâtiments dans lesquels elles nichent</title>
-		<link>https://www.ornithomedia.com/breves/les-hirondelles-rustiques-reconnaitraient-les-habitants-des-batiments-dans-lesquels-elles-nichent/</link>
-					<comments>https://www.ornithomedia.com/breves/les-hirondelles-rustiques-reconnaitraient-les-habitants-des-batiments-dans-lesquels-elles-nichent/#comments</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sat, 19 Jul 2025 06:30:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=258621</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/les-hirondelles-rustiques-reconnaitraient-les-habitants-des-batiments-dans-lesquels-elles-nichent/">Les Hirondelles rustiques reconnaîtraient les habitants des bâtiments dans lesquels elles nichent</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/les-hirondelles-rustiques-reconnaitraient-les-habitants-des-batiments-dans-lesquels-elles-nichent/">Les Hirondelles rustiques reconnaîtraient les habitants des bâtiments dans lesquels elles nichent</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/les-hirondelles-rustiques-reconnaitraient-les-habitants-des-batiments-dans-lesquels-elles-nichent/feed/</wfw:commentRss>
-			<slash:comments>5</slash:comments>
 		
 		
 			</item>
