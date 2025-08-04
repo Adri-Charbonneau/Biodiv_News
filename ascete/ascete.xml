@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Mon, 03 Mar 2025 21:32:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Aug 2025 20:29:38 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Description d&#8217;une nouvelle espèce d’Éphippigère pour la science en Corse</title>
+		<link>https://ascete.org/description-dune-nouvelle-espece-dephippigere-pour-la-science-en-corse/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2025 20:29:38 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3617</guid>
+
+					<description><![CDATA[Les heureux et heureuses propriétaires de la dernière édition du guide d&#8217;identification des Orthoptères (éditions Biotope) l&#8217;avaient déjà remarqué : une nouvelle espèce d&#8217;Ephippigère a été récemment découverte dans le sud de la Corse. Elle est à présent décrite et a un nom : l&#8217;Ephippigère de Bonifacio Uromenus melissae (Sardet, 2025). L&#8217;article, paru dans le [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Liste Rouge des Orthoptères des Pays de la Loire : parution du rapport synthétique</title>
 		<link>https://ascete.org/liste-rouge-des-orthopteres-des-pays-de-la-loire-parution-du-rapport-synthetique/</link>
 		
@@ -45,7 +59,7 @@
 		<title>Adhésion 2025 et mise à disposition des publications de l&#8217;association</title>
 		<link>https://ascete.org/adhesion-2025/</link>
 		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<dc:creator><![CDATA[Stéphane]]></dc:creator>
 		<pubDate>Fri, 10 Jan 2025 19:04:33 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3395</guid>
@@ -73,7 +87,7 @@
 		<title>Relevés orthoptériques et entomocénotiques de B. Defaut</title>
 		<link>https://ascete.org/releves-orthopteriques-et-entomocenotique-de-b-defaut/</link>
 		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<dc:creator><![CDATA[Stéphane]]></dc:creator>
 		<pubDate>Tue, 03 Dec 2024 20:37:09 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3495</guid>
@@ -87,7 +101,7 @@
 		<title>Atlas des Orthoptères, Mantes et Phasmes du Loiret : lancement des souscriptions</title>
 		<link>https://ascete.org/atlas-des-orthopteres-mantes-et-phasmes-du-loiret-lancement-des-souscriptions/</link>
 		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<dc:creator><![CDATA[Stéphane]]></dc:creator>
 		<pubDate>Wed, 07 Aug 2024 20:28:03 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3475</guid>
@@ -101,7 +115,7 @@
 		<title>Réédition et mise à jour du Cahier d&#8217;identification des Orthoptères de France, Belgique, Luxembourg et Suisse</title>
 		<link>https://ascete.org/reedition-et-mise-a-jour-du-cahier-didentification-des-orthopteres-de-france-belgique-luxembourg-et-suisse/</link>
 		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<dc:creator><![CDATA[Stéphane]]></dc:creator>
 		<pubDate>Mon, 05 Aug 2024 19:57:39 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3471</guid>
@@ -115,7 +129,7 @@
 		<title>Week-end de recherches de la Decticelle languedocienne Amedegnatiana vicheti sur le Larzac du 5 au 7 juillet 2024</title>
 		<link>https://ascete.org/week-end-de-recherches-de-la-decticelle-languedocienne-amedegnatiana-vicheti-sur-le-larzac-du-5-au-7-juillet-2024/</link>
 		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<dc:creator><![CDATA[Stéphane]]></dc:creator>
 		<pubDate>Wed, 22 May 2024 06:52:24 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3453</guid>
@@ -129,7 +143,7 @@
 		<title>Colloques acoustiques des orthoptères en 2024 en Italie et en Espagne</title>
 		<link>https://ascete.org/colloques-acoustiques-des-orthopteres-en-2024-en-italie-et-en-espagne/</link>
 		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
+		<dc:creator><![CDATA[Stéphane]]></dc:creator>
 		<pubDate>Sun, 19 May 2024 09:33:02 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3449</guid>
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3436</guid>
 
 					<description><![CDATA[Prospections orthoptérologiques lors de l&#8217;AG 2023 en Andorre (cliché L. Ton). L&#8217;Assemblée Générale Ordinaire de l&#8217;Ascete se tiendra cette année le samedi 21 septembre 2024 dans le Vercors, au gîte de Bénevise à Châtillon en Diois. Voici le programme du week-end qui, comme chaque année, fait la part belles aux sorties de terrain : Vendredi [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rencontres Naturalistes d&#8217;Occitanie (15 au 17/03/2024 à Gruissan)</title>
-		<link>https://ascete.org/rencontres-naturalistes-doccitanie-15-au-17-03-2024-a-gruissan/</link>
-		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
-		<pubDate>Sun, 03 Mar 2024 08:57:47 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3411</guid>
-
-					<description><![CDATA[La deuxième édition des Rencontres Naturalistes d&#8217;Occitanie se tiendra les 15, 16 et 17 mars 2024 au Palais des Congrès de Gruissan (Aude). Cet évènement est organisé par OcNat, l&#8217;Union des Associations Naturalistes d&#8217;Occitanie, et rassemblera plusieurs centaines de participants professionnels ou amateurs, issus des milieux associatifs, institutionnels, universitaires ou bureau d’études. Ces rencontres seront [&#8230;]]]></description>
 		
 		
 		
