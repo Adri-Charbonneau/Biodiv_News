@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 06 Aug 2025 06:37:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Aug 2025 06:17:46 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+	
+	<item>
+		<title>L&#8217;expansion spectaculaire de l&#8217;Effraie des clochers dans le Caucase et en Iran depuis une vingtaine d&#8217;années</title>
+		<link>https://www.ornithomedia.com/breves/lexpansion-spectaculaire-de-leffraie-des-clochers-dans-le-caucase-et-en-iran-depuis-une-vingtaine-dannees/</link>
+					<comments>https://www.ornithomedia.com/breves/lexpansion-spectaculaire-de-leffraie-des-clochers-dans-le-caucase-et-en-iran-depuis-une-vingtaine-dannees/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 06:30:00 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=259503</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/lexpansion-spectaculaire-de-leffraie-des-clochers-dans-le-caucase-et-en-iran-depuis-une-vingtaine-dannees/">L&rsquo;expansion spectaculaire de l&rsquo;Effraie des clochers dans le Caucase et en Iran depuis une vingtaine d&rsquo;années</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/lexpansion-spectaculaire-de-leffraie-des-clochers-dans-le-caucase-et-en-iran-depuis-une-vingtaine-dannees/">L&rsquo;expansion spectaculaire de l&rsquo;Effraie des clochers dans le Caucase et en Iran depuis une vingtaine d&rsquo;années</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/lexpansion-spectaculaire-de-leffraie-des-clochers-dans-le-caucase-et-en-iran-depuis-une-vingtaine-dannees/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Un test comparatif de 30 modèles de jumelles 8&#215;42 économiques et de milieu de gamme organisé par le Cornell Lab of Ornithology</title>
 		<link>https://www.ornithomedia.com/pratique/equipement/un-test-comparatif-de-30-modeles-de-jumelles-8x42-economiques-et-de-milieu-de-gamme-par-le-cornell-lab-of-ornithology/</link>
@@ -197,26 +218,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/la-population-bulgare-daigle-pomarins-depasserait-les-mille-couples-selon-une-estimation-recente/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Un spectaculaire rassemblement postnuptial précoce d&#8217;Hirondelles de rivage sur le lac du Der (Marne/Haute-Marne) en juillet 2025</title>
-		<link>https://www.ornithomedia.com/breves/un-spectaculaire-rassemblement-postnuptial-precoce-dhirondelles-de-rivage-sur-le-lac-du-der-marne-en-juillet-2025/</link>
-					<comments>https://www.ornithomedia.com/breves/un-spectaculaire-rassemblement-postnuptial-precoce-dhirondelles-de-rivage-sur-le-lac-du-der-marne-en-juillet-2025/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 19:03:44 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=258677</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-spectaculaire-rassemblement-postnuptial-precoce-dhirondelles-de-rivage-sur-le-lac-du-der-marne-en-juillet-2025/">Un spectaculaire rassemblement postnuptial précoce d&rsquo;Hirondelles de rivage sur le lac du Der (Marne/Haute-Marne) en juillet 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-spectaculaire-rassemblement-postnuptial-precoce-dhirondelles-de-rivage-sur-le-lac-du-der-marne-en-juillet-2025/">Un spectaculaire rassemblement postnuptial précoce d&rsquo;Hirondelles de rivage sur le lac du Der (Marne/Haute-Marne) en juillet 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/un-spectaculaire-rassemblement-postnuptial-precoce-dhirondelles-de-rivage-sur-le-lac-du-der-marne-en-juillet-2025/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
