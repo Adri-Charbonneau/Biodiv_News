@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 01 Aug 2025 09:19:19 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Aug 2025 16:03:26 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le seawatching, l’art d’observer les oiseaux de mer</title>
+		<link>https://marcduquet.com/le-seawatching-lart-dobserver-les-oiseaux-de-mer/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2025 08:00:00 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[observation]]></category>
+		<category><![CDATA[oiseaux marins]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3749</guid>
+
+					<description><![CDATA[Le seawatching (parfois traduit «guet à la mer») est une discipline de l’ornithologie qui consiste à observer, depuis la côte, la migration marine des oiseaux. Il s’agit, pour beaucoup, d’espèces terrestres (canards, labbes, limicoles, passereaux…) ou côtières (Mouette tridactyle, Fou de Bassan, alcidés…), mais aussi, et ce sont généralement les plus attendues, pélagiques (puffins, océanites,...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 juillet 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-juillet-2025/</link>
 		
@@ -113,22 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3579</guid>
 
 					<description><![CDATA[Avec trois grandes listes mondiales des oiseaux – celles de BirdLife International (BirdLife’s Taxonomic Checklist), de l’International Ornithological Congress (IOC World Bird List) et du Cornell Lab of Ornithology (eBird/Clements checklist of Birds of the World) – évaluant indépendamment les révisions taxonomiques entre une et quatre fois par an, la situation était devenue confuse pour les utilisateurs...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les Swarovski NL Pure 42 passent à l’orange !</title>
-		<link>https://marcduquet.com/les-swarovski-nl-pure-42-passent-a-lorange/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 08:00:00 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Jumelles]]></category>
-		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3455</guid>
-
-					<description><![CDATA[Après les NL Pure 32, les jumelles&#160;Swarovski&#160;de la gamme NL Pure 42 sont à leur tour proposées en version «&#160;burnt orange&#160;», en plus du traditionnel vert de la marque autrichienne… copié par de nombreuses autres fabricants de jumelles. Mais s’il est facile d&#8217;imiter un coloris (le&#160;burnt orange&#160;le sera-t-il à son tour&#160;?), la qualité optique et...]]></description>
 		
 		
 		
