@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 03 Aug 2025 16:03:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Aug 2025 13:17:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Quel oiseau émet ces cris étranges ?</title>
+		<link>https://marcduquet.com/quel-oiseau-emet-ces-cris-etranges/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2025 13:17:56 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Oriolus oriolus]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Voix]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3964</guid>
+
+					<description><![CDATA[Depuis plusieurs années, dans le village de l’Hérault où je vis, j’entendais au cœur de l’été (majoritairement de mi-juillet à mi-août) des cris puissants et sonores, le plus souvent dissyllabiques ou trisyllabiques, répétés longuement à intervalles de 3 à 5&#160;secondes… que l’enregistrement ci-dessous reproduit parfaitement. Ces cris étaient le plus souvent émis au petit matin,...]]></description>
+		
+		
+		<enclosure url="https://marcduquet.com/wp-content/uploads/2025/08/XC819823-©-Dominique-Guillerme.mp3" length="593185" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2025/08/XC1017966-©-Jordi-Calvet.mp3" length="754542" type="audio/mpeg" />
+
+			</item>
+		<item>
 		<title>Le seawatching, l’art d’observer les oiseaux de mer</title>
 		<link>https://marcduquet.com/le-seawatching-lart-dobserver-les-oiseaux-de-mer/</link>
 		
@@ -113,23 +133,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3608</guid>
 
 					<description><![CDATA[De nouveau une quinzaine assez maigre, mais la période n’est pas des plus propices pour les oiseaux rares. À signaler tout de même la découverte d’une&#160;Oie naine&#160;dans la Somme, d’un&#160;Pluvier bronzé&#160;en Charente-Maritime, d’un&#160;Goéland dominicain&#160;en Seine-et-Marne et d’un&#160;Fou brun&#160;en Charente-Maritime, et le retour de la Sterne bridée&#160;du Finistère. Par ailleurs, l’Eider à tête grise&#160;des Côtes-d’Armor, l’Aigrette...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AviList 2025 : nouveaux rétropédalages taxonomiques</title>
-		<link>https://marcduquet.com/avilist-2025-nouveaux-retropedalages-taxonomiques/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Nomenclature]]></category>
-		<category><![CDATA[Point de vue]]></category>
-		<category><![CDATA[Taxinomie]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3579</guid>
-
-					<description><![CDATA[Avec trois grandes listes mondiales des oiseaux – celles de BirdLife International (BirdLife’s Taxonomic Checklist), de l’International Ornithological Congress (IOC World Bird List) et du Cornell Lab of Ornithology (eBird/Clements checklist of Birds of the World) – évaluant indépendamment les révisions taxonomiques entre une et quatre fois par an, la situation était devenue confuse pour les utilisateurs...]]></description>
 		
 		
 		
