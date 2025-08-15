@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Mon, 04 Aug 2025 20:29:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Aug 2025 22:00:39 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Liste Rouge des Orthoptères d&#8217;Occitanie : parution du rapport synthétique</title>
+		<link>https://ascete.org/liste-rouge-des-orthopteres-doccitanie-parution-du-rapport-synthetique/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Fri, 15 Aug 2025 22:00:39 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3624</guid>
+
+					<description><![CDATA[La Liste Rouge des Orthoptères d&#8217;Occitanie est parue en 2022, et la plaquette de communication associée vient de paraître ! Elle présente certaines espèces particulières et fournit des chiffres clés parmi lesquels : • Parmi les 163 espèces évaluées, 40 espèces d’orthoptères sont menacées d’extinction (catégories CR, EN, VU) en Occitanie, soit 24,5 % du [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Description d&#8217;une nouvelle espèce d’Éphippigère pour la science en Corse</title>
 		<link>https://ascete.org/description-dune-nouvelle-espece-dephippigere-pour-la-science-en-corse/</link>
 		
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3449</guid>
 
 					<description><![CDATA[Une série de colloques sur l&#8217;acoustique des Orthoptères aura lieu cet été (et d&#8217;autres suivront l&#8217;été prochain) : &#8211; en Italie du 8 au 12 juillet à Verona, juste après le Congrès européen. &#8211; en Espagne du 7 au 11 août dans le Sierra de la Demanda. Une vingtaine de places sont disponibles à chacun [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Convocation à l&#8217;Assemblée Générale Ordinaire les 21 et 22 septembre 2024 dans le Vercors</title>
-		<link>https://ascete.org/convocation-a-lassemblee-generale-ordinaire-les-21-et-22-septembre-2024-dans-le-vercors/</link>
-		
-		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
-		<pubDate>Sat, 16 Mar 2024 07:47:18 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3436</guid>
-
-					<description><![CDATA[Prospections orthoptérologiques lors de l&#8217;AG 2023 en Andorre (cliché L. Ton). L&#8217;Assemblée Générale Ordinaire de l&#8217;Ascete se tiendra cette année le samedi 21 septembre 2024 dans le Vercors, au gîte de Bénevise à Châtillon en Diois. Voici le programme du week-end qui, comme chaque année, fait la part belles aux sorties de terrain : Vendredi [&#8230;]]]></description>
 		
 		
 		
