@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Fri, 15 Aug 2025 22:00:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Aug 2025 21:46:07 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Une page Instagram pour l&#8217;ASCETE</title>
+		<link>https://ascete.org/une-page-instagram-pour-lascete/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Sat, 16 Aug 2025 21:46:07 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3633</guid>
+
+					<description><![CDATA[Qui l&#8217;eût cru, même l&#8217;ASCETE a sa page Instagram désormais ! Cela fera doublon pour certains ou certaines, mais pas pour d&#8217;autres. Les publications seront les même que sur Facebook et le site internet de l&#8217;association, dans le but de rendre accessible l&#8217;actualité orthoptérique au plus grand nombre. N&#8217;hésitez pas à en parler autour de [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Liste Rouge des Orthoptères d&#8217;Occitanie : parution du rapport synthétique</title>
 		<link>https://ascete.org/liste-rouge-des-orthopteres-doccitanie-parution-du-rapport-synthetique/</link>
 		
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3453</guid>
 
 					<description><![CDATA[Ami.e.s naturalistes, Le week-end du 6-7 juillet se tiendra un camp de prospection naturaliste sur le Causse du Larzac méridional, dans le département de l&#8217;Hérault. L&#8217;objectif est de mettre à jour les connaissances sur la répartition de la population larzacoise de la Decticelle languedocienne (Amedegnatiana vicheti). Suite à la publication de Quentin Delorme faisant état [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Colloques acoustiques des orthoptères en 2024 en Italie et en Espagne</title>
-		<link>https://ascete.org/colloques-acoustiques-des-orthopteres-en-2024-en-italie-et-en-espagne/</link>
-		
-		<dc:creator><![CDATA[Stéphane]]></dc:creator>
-		<pubDate>Sun, 19 May 2024 09:33:02 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3449</guid>
-
-					<description><![CDATA[Une série de colloques sur l&#8217;acoustique des Orthoptères aura lieu cet été (et d&#8217;autres suivront l&#8217;été prochain) : &#8211; en Italie du 8 au 12 juillet à Verona, juste après le Congrès européen. &#8211; en Espagne du 7 au 11 août dans le Sierra de la Demanda. Une vingtaine de places sont disponibles à chacun [&#8230;]]]></description>
 		
 		
 		
