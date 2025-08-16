@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 12 Aug 2025 13:17:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Aug 2025 09:33:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 août 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-aout-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 16 Aug 2025 09:33:06 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3984</guid>
+
+					<description><![CDATA[Ça se confirme, le cœur de l’été n’est pas des plus propices pour les espèces occasionnelles, mais heureusement la migration postnuptiale a commencé et apportera inévitablement son lot de raretés dans les prochaines semaines. À signaler déjà les premiers&#160;Bécasseaux tachetés&#160;et un deuxième&#160;Chevalier bargette dans le Sud. Certains des habitués (Eider à tête grise, Sternes élégante...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Quel oiseau émet ces cris étranges ?</title>
 		<link>https://marcduquet.com/quel-oiseau-emet-ces-cris-etranges/</link>
 		
@@ -116,23 +133,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3641</guid>
 
 					<description><![CDATA[Le Plan National d’Actions (PNA) 2024-2033 en faveur du Râle des genêts, récemment rendu public, révèle que l’espèce, en fort déclin en Europe de l’Ouest depuis les années 1980 (Horváth &#38; Schäffer 1997,&#160;Keiss 2020), est désormais considérée comme proche de l’extinction en France, avec une population nationale inférieure à 100&#160;mâles chanteurs (Hercé&#160;et al.&#160;2024). Après deux...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 juillet 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juillet-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 13:01:41 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3608</guid>
-
-					<description><![CDATA[De nouveau une quinzaine assez maigre, mais la période n’est pas des plus propices pour les oiseaux rares. À signaler tout de même la découverte d’une&#160;Oie naine&#160;dans la Somme, d’un&#160;Pluvier bronzé&#160;en Charente-Maritime, d’un&#160;Goéland dominicain&#160;en Seine-et-Marne et d’un&#160;Fou brun&#160;en Charente-Maritime, et le retour de la Sterne bridée&#160;du Finistère. Par ailleurs, l’Eider à tête grise&#160;des Côtes-d’Armor, l’Aigrette...]]></description>
 		
 		
 		
