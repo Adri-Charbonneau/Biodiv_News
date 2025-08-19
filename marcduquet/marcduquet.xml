@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 16 Aug 2025 09:33:06 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Aug 2025 13:37:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les meilleurs sites de seawatching de France (et d’Europe)</title>
+		<link>https://marcduquet.com/les-meilleurs-sites-de-seawatching-de-france-et-deurope/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[observation]]></category>
+		<category><![CDATA[oiseaux marins]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3835</guid>
+
+					<description><![CDATA[Par Marc Duquet &#38; Philippe J. Dubois&#160; En complément d&#8217;un récent article sur le&#160;seawatching&#160;et tout ce qu’il faut savoir pour observer efficacement les oiseaux marins (Duquet 2025), voici la présentation détaillée des meilleurs endroits de France pour pratiquer ce type d&#8217;ornithologie, ainsi qu’un aperçu des sites européens les plus réputés.&#160;En France, les sites de seawatching...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 août 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-aout-2025/</link>
 		
@@ -112,27 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3695</guid>
 
 					<description><![CDATA[Si vous faites partie des chanceux qui voient des Gobemouches noirs en halte migratoire en fin d’été et à l’automne près de chez eux ou même directement dans leur jardin, vous vous êtes peut-être demandés, comme moi, si c’était le même oiseau qui stationnait plusieurs jours ou s’il y avait un renouvellement d’un matin sur...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le Râle des genêts en France, une disparition annoncée…</title>
-		<link>https://marcduquet.com/le-rale-des-genets-en-france-une-disparition-annoncee/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 20 Jul 2025 13:02:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Crex crex]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Population]]></category>
-		<category><![CDATA[Rallidés]]></category>
-		<category><![CDATA[Répartition]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3641</guid>
-
-					<description><![CDATA[Le Plan National d’Actions (PNA) 2024-2033 en faveur du Râle des genêts, récemment rendu public, révèle que l’espèce, en fort déclin en Europe de l’Ouest depuis les années 1980 (Horváth &#38; Schäffer 1997,&#160;Keiss 2020), est désormais considérée comme proche de l’extinction en France, avec une population nationale inférieure à 100&#160;mâles chanteurs (Hercé&#160;et al.&#160;2024). Après deux...]]></description>
 		
 		
 		
