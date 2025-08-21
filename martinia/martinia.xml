@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Wed, 07 May 2025 04:24:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Aug 2025 05:47:46 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.7.3</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Comportements de ponte en tandem chez deux espèces d’anisoptères après décapitation de la femelle (Odonata)</title>
+		<link>https://martinia.insectes.org/comportements-de-ponte-en-tandem-chez-deux-especes-danisopteres-apres-decapitation-de-la-femelle-odonata/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 05:48:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Anax parthenope]]></category>
+		<category><![CDATA[cerci]]></category>
+		<category><![CDATA[cerques]]></category>
+		<category><![CDATA[predation]]></category>
+		<category><![CDATA[prédation]]></category>
+		<category><![CDATA[reproduction]]></category>
+		<category><![CDATA[sensilla]]></category>
+		<category><![CDATA[sensilles]]></category>
+		<category><![CDATA[Sympetrum meridionale]]></category>
+		<category><![CDATA[Sympetrum striolatum]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6589</guid>
+
+					<description><![CDATA[Chez les anisoptères, les stratégies de ponte ont évolué plusieurs fois en fonction de la disponibilité des habitats et de phénomènes migratoires (Ware et al., 2012). La femelle peut pondre seule sans surveillance du mâle, seule et surveillée (« non-contact guarding ») ou en tandem (« contact guarding ») (Corbet, 2004). Chez le genre Sympetrum, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Sur une série d’observations de Tramea minuta De Marmels &#038; Rácenis, 1982 en Guyane (Odonata : Libellulidae)</title>
 		<link>https://martinia.insectes.org/sur-une-serie-dobservations-de-emtramea-minuta-em-de-marmels-racenis-1982-en-guyane-odonata-libellulidae/</link>
 		
@@ -213,31 +237,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=4597</guid>
 
 					<description><![CDATA[L’Anax précoce Anax junius (Drury, 1773) est un taxon néarctique dont l’aire de répartition est centrée sur les États-Unis et le Mexique (Paulson, 2011). L&#8217;espèce devient beaucoup moins commune dans la partie la plus septentrionale de son aire de répartition (sud du Canada) avec des mentions extrêmes en Alaska au XIXe siècle au-delà de 66° [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Isoaeschna isoceles (O.F. Müller, 1767) un nouveau nom binominal pour l’Aeschne isocèle (Odonata : Aeshnidae)</title>
-		<link>https://martinia.insectes.org/emisoaeschna-isoceles-em-o-f-muller-1767-un-nouveau-nom-binominal-pour-laeschne-isocele-odonata-aeshnidae/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Wed, 07 Aug 2024 07:00:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Aeshnidae]]></category>
-		<category><![CDATA[anisoptera]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[liste de référence]]></category>
-		<category><![CDATA[new genus]]></category>
-		<category><![CDATA[nouveau genre]]></category>
-		<category><![CDATA[phylogénie]]></category>
-		<category><![CDATA[phylogeny]]></category>
-		<category><![CDATA[reference list]]></category>
-		<category><![CDATA[synonymisation]]></category>
-		<category><![CDATA[synonymization]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4586</guid>
-
-					<description><![CDATA[La taxinomie des odonates en Europe a connu quelques changements au fil des décennies. Il s’agit parfois de modifications dans la mention des auteurs des descriptions originales des espèces comme ce fut le cas en 2021 pour Anax imperator Leach, 1815 qui devenait ainsi Anax imperator Leach in Brewster, 1815, la référence antérieurement utilisée (cf. [&#8230;]]]></description>
 		
 		
 		
