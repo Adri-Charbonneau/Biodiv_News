@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 16 Aug 2025 13:37:54 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Aug 2025 05:51:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le Cormoran pygmée a très probablement niché en France en 2024</title>
+		<link>https://marcduquet.com/le-cormoran-pygmee-a-tres-probablement-niche-en-france-en-2024/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 30 Aug 2025 10:07:00 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Cormorans]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Microcarbo pygmaeus]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4053</guid>
+
+					<description><![CDATA[Par Pierre Crouzier Le Cormoran pygmée est présent de façon discontinue en Europe du Sud-Est&#160;– à l&#8217;est de l&#8217;Italie, dans le delta du Danube (Roumanie), autour de la mer Noire (Bulgarie), en Grèce, en Hongrie et dans certains états de l’ex-Yougoslavie (Serbie, Monténégro, Bosnie)&#160;– et en Asie centrale&#160;– de la Turquie au Kazakhstan (est de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les meilleurs sites de seawatching de France (et d’Europe)</title>
 		<link>https://marcduquet.com/les-meilleurs-sites-de-seawatching-de-france-et-deurope/</link>
 		
@@ -112,24 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3801</guid>
 
 					<description><![CDATA[Une rubrique peu fournie pour cette dernière quinzaine de juillet, avec les habitués, quelques individus d’espèces déjà vues et quatre nouveautés, trois limicoles (Pluvier fauve,&#160;Chevalier à pattes jaunes&#160;et&#160;Chevalier bargette), qui sont sans doute les prémices du mois d’août à venir, un passereau (Bergeronnette citrine) et aucun rapace. Oiseaux déjà signalésIndividus déjà notés les semaines précédentes...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Combien de Gobemouches noirs dans mon jardin ?</title>
-		<link>https://marcduquet.com/combien-de-gobemouches-noirs-dans-mon-jardin/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 16:14:27 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Âge]]></category>
-		<category><![CDATA[Ficedula hypoleuca]]></category>
-		<category><![CDATA[Mue]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3695</guid>
-
-					<description><![CDATA[Si vous faites partie des chanceux qui voient des Gobemouches noirs en halte migratoire en fin d’été et à l’automne près de chez eux ou même directement dans leur jardin, vous vous êtes peut-être demandés, comme moi, si c’était le même oiseau qui stationnait plusieurs jours ou s’il y avait un renouvellement d’un matin sur...]]></description>
 		
 		
 		
