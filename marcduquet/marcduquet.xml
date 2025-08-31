@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 30 Aug 2025 05:51:53 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 31 Aug 2025 20:19:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-31 août 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-31-aout-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 31 Aug 2025 19:38:28 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4158</guid>
+
+					<description><![CDATA[Après un été plutôt calme, les choses se sont précipitées dès les premiers jours de cette quinzaine avec la découverte d’un Pluvier fauve et d’un Bécasseau de Bonaparte en Camargue, la capture d’une Hypolaïs bottée en Charente-Maritime et d’une Rousserolle isabelle en Loire-Atlantique, l’observation d’un Puffin de Macaronésie et d’une Hypolaïs bottée dans le Finistère...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le Cormoran pygmée a très probablement niché en France en 2024</title>
 		<link>https://marcduquet.com/le-cormoran-pygmee-a-tres-probablement-niche-en-france-en-2024/</link>
 		
@@ -113,23 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3749</guid>
 
 					<description><![CDATA[Le seawatching (parfois traduit «guet à la mer») est une discipline de l’ornithologie qui consiste à observer, depuis la côte, la migration marine des oiseaux. Il s’agit, pour beaucoup, d’espèces terrestres (canards, labbes, limicoles, passereaux…) ou côtières (Mouette tridactyle, Fou de Bassan, alcidés…), mais aussi, et ce sont généralement les plus attendues, pélagiques (puffins, océanites,...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 juillet 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-juillet-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 09:19:18 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3801</guid>
-
-					<description><![CDATA[Une rubrique peu fournie pour cette dernière quinzaine de juillet, avec les habitués, quelques individus d’espèces déjà vues et quatre nouveautés, trois limicoles (Pluvier fauve,&#160;Chevalier à pattes jaunes&#160;et&#160;Chevalier bargette), qui sont sans doute les prémices du mois d’août à venir, un passereau (Bergeronnette citrine) et aucun rapace. Oiseaux déjà signalésIndividus déjà notés les semaines précédentes...]]></description>
 		
 		
 		
