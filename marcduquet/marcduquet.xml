@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 31 Aug 2025 20:19:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Sep 2025 11:06:29 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>L&#8217;Effraie n°69 – 2025</title>
+		<link>https://marcduquet.com/leffraie-n69-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2025 11:00:35 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[L'Effraie]]></category>
+		<category><![CDATA[Revues]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4250</guid>
+
+					<description><![CDATA[Le numéro 69 de L&#8217;Effraie vient de paraître ! Éditée depuis 1983, l&#8217;excellente revue trimestrielle de la LPO-Rhône est proposée gratuitement au format PDF et tous les anciens numéros peuvent aussi être téléchargés ici. Au sommaire de ce numéro : • Éditorial (Dominique Tissier, Rédacteur en chef)•&#160;Première mention de nidification du Busard des roseaux Circus...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 août 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-aout-2025/</link>
 		
@@ -39,7 +55,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=4158</guid>
 
-					<description><![CDATA[Après un été plutôt calme, les choses se sont précipitées dès les premiers jours de cette quinzaine avec la découverte d’un Pluvier fauve et d’un Bécasseau de Bonaparte en Camargue, la capture d’une Hypolaïs bottée en Charente-Maritime et d’une Rousserolle isabelle en Loire-Atlantique, l’observation d’un Puffin de Macaronésie et d’une Hypolaïs bottée dans le Finistère...]]></description>
+					<description><![CDATA[Après un été plutôt calme, les choses se sont précipitées dès les premiers jours de cette quinzaine avec la découverte d’un Bécasseau de Bonaparte en Camargue, la capture d’une Hypolaïs bottée en Charente-Maritime et d’une Rousserolle isabelle en Loire-Atlantique, l’observation d’un Puffin de Macaronésie et d’une Hypolaïs bottée dans le Finistère et d’une Pie-grièche à...]]></description>
 		
 		
 		
@@ -116,23 +132,6 @@
 		<enclosure url="https://marcduquet.com/wp-content/uploads/2025/08/XC819823-©-Dominique-Guillerme.mp3" length="593185" type="audio/mpeg" />
 <enclosure url="https://marcduquet.com/wp-content/uploads/2025/08/XC1017966-©-Jordi-Calvet.mp3" length="754542" type="audio/mpeg" />
 
-			</item>
-		<item>
-		<title>Le seawatching, l’art d’observer les oiseaux de mer</title>
-		<link>https://marcduquet.com/le-seawatching-lart-dobserver-les-oiseaux-de-mer/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 09 Aug 2025 08:00:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[observation]]></category>
-		<category><![CDATA[oiseaux marins]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3749</guid>
-
-					<description><![CDATA[Le seawatching (parfois traduit «guet à la mer») est une discipline de l’ornithologie qui consiste à observer, depuis la côte, la migration marine des oiseaux. Il s’agit, pour beaucoup, d’espèces terrestres (canards, labbes, limicoles, passereaux…) ou côtières (Mouette tridactyle, Fou de Bassan, alcidés…), mais aussi, et ce sont généralement les plus attendues, pélagiques (puffins, océanites,...]]></description>
-		
-		
-		
 			</item>
 	</channel>
 </rss>
