@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 02 Sep 2025 11:06:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Sep 2025 18:38:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OrnithoScience : suivi de la migration nocturne en France en 2024</title>
+		<link>https://marcduquet.com/ornithoscience-mig-noc-france-2024/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Emberiza ortulana]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Turdidés]]></category>
+		<category><![CDATA[Turdus iliacus]]></category>
+		<category><![CDATA[Turdus philomelos]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4220</guid>
+
+					<description><![CDATA[Un programme de sciences participatives baptisé&#160;Vol de Nuit, collectant des enregistrements de cris de vol nocturnes d’oiseaux en migration ou en déplacement local effectués par des ornithos confirmés aux six coins de la France, a été initié en janvier 2024 par la LPO, le MNHN, l’OFB, BioPhonia et le site Trektellen. Il repose sur des...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>L&#8217;Effraie n°69 – 2025</title>
 		<link>https://marcduquet.com/leffraie-n69-2025/</link>
 		
@@ -112,26 +132,6 @@
 		
 		
 		
-			</item>
-		<item>
-		<title>Quel oiseau émet ces cris étranges ?</title>
-		<link>https://marcduquet.com/quel-oiseau-emet-ces-cris-etranges/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 13:17:56 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Oriolus oriolus]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Voix]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3964</guid>
-
-					<description><![CDATA[Depuis plusieurs années, dans le village de l’Hérault où je vis, j’entendais au cœur de l’été (majoritairement de mi-juillet à mi-août) des cris puissants et sonores, le plus souvent dissyllabiques ou trisyllabiques, répétés longuement à intervalles de 3 à 5&#160;secondes… que l’enregistrement ci-dessous reproduit parfaitement. Ces cris étaient le plus souvent émis au petit matin,...]]></description>
-		
-		
-		<enclosure url="https://marcduquet.com/wp-content/uploads/2025/08/XC819823-©-Dominique-Guillerme.mp3" length="593185" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2025/08/XC1017966-©-Jordi-Calvet.mp3" length="754542" type="audio/mpeg" />
-
 			</item>
 	</channel>
 </rss>
