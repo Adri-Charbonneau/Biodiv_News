@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 02 Sep 2025 18:38:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Sep 2025 10:50:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les observations de Puffin cendré à l’intérieur des terres</title>
+		<link>https://marcduquet.com/les-observations-de-puffin-cendre-a-linterieur-des-terres/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 10:40:32 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Calonectris borealis]]></category>
+		<category><![CDATA[Calonectris diomedea]]></category>
+		<category><![CDATA[Occasionnels]]></category>
+		<category><![CDATA[oiseaux marins]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4279</guid>
+
+					<description><![CDATA[Le&#160;30&#160;août 2025, Andrew Butler a trouvé et photographié un&#160;Puffin cendré&#160;Calonectris borealis&#160;sur le lac de Maine, à Angers-Bouchemaine (Maine-et-Loire)&#160;; l’oiseau a été observé jusqu’au&#160;31&#160;août&#160;à 14&#160;h, heure à laquelle il s’est envolé vers le nord (Alain Fossé,&#160;in litt.). Sur certaines des photos prises par les nombreux observateurs venus voir l’oiseau une bague métallique est visible à la...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OrnithoScience : suivi de la migration nocturne en France en 2024</title>
 		<link>https://marcduquet.com/ornithoscience-mig-noc-france-2024/</link>
 		
@@ -112,23 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3835</guid>
 
 					<description><![CDATA[Par Marc Duquet &#38; Philippe J. Dubois&#160; En complément d&#8217;un récent article sur le&#160;seawatching&#160;et tout ce qu’il faut savoir pour observer efficacement les oiseaux marins (Duquet 2025), voici la présentation détaillée des meilleurs endroits de France pour pratiquer ce type d&#8217;ornithologie, ainsi qu’un aperçu des sites européens les plus réputés.&#160;En France, les sites de seawatching...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 août 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-aout-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 16 Aug 2025 09:33:06 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3984</guid>
-
-					<description><![CDATA[Ça se confirme, le cœur de l’été n’est pas des plus propices pour les espèces occasionnelles, mais heureusement la migration postnuptiale a commencé et apportera inévitablement son lot de raretés dans les prochaines semaines. À signaler déjà les premiers&#160;Bécasseaux tachetés&#160;et un deuxième&#160;Chevalier bargette dans le Sud. Certains des habitués (Eider à tête grise, Sternes élégante...]]></description>
 		
 		
 		
