@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 09 Sep 2025 15:22:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Sep 2025 19:01:15 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Comment distinguer les Bécasseaux semipalmé et minute ?</title>
+		<link>https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-becasseaux-semipalme-et-minute/</link>
+					<comments>https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-becasseaux-semipalme-et-minute/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2025 18:56:09 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Pratique]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=260068</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-becasseaux-semipalme-et-minute/">Comment distinguer les Bécasseaux semipalmé et minute ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-becasseaux-semipalme-et-minute/">Comment distinguer les Bécasseaux semipalmé et minute ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/comment-distinguer-les-becasseaux-semipalme-et-minute/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Un possible cas de prédation d&#8217;une Grenouille de Graf/rieuse sur un jeune Chardonneret élégant dans le Gard en août 2025 ?</title>
 		<link>https://www.ornithomedia.com/breves/un-possible-cas-de-predation-dune-grenouille-commune-rieuse-sur-un-jeune-chardonneret-elegant-dans-le-gard-en-aout-2025/</link>
@@ -198,26 +219,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/des-guepiers-deurope-ont-niche-dans-les-trous-de-drainage-dun-mur-de-soutenement-ferroviaire-en-italie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Un très probable cas de mutation brune chez le Pic vert en Loire-Atlantique</title>
-		<link>https://www.ornithomedia.com/breves/un-probable-exemple-de-mutation-brune-chez-le-pic-vert-en-loire-atlantique/</link>
-					<comments>https://www.ornithomedia.com/breves/un-probable-exemple-de-mutation-brune-chez-le-pic-vert-en-loire-atlantique/#comments</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sat, 23 Aug 2025 06:30:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=260169</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-probable-exemple-de-mutation-brune-chez-le-pic-vert-en-loire-atlantique/">Un très probable cas de mutation brune chez le Pic vert en Loire-Atlantique</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/un-probable-exemple-de-mutation-brune-chez-le-pic-vert-en-loire-atlantique/">Un très probable cas de mutation brune chez le Pic vert en Loire-Atlantique</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/un-probable-exemple-de-mutation-brune-chez-le-pic-vert-en-loire-atlantique/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
 		
 		
 			</item>
