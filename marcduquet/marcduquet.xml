@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 05 Sep 2025 10:50:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Sep 2025 19:03:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Origine des passereaux néarctiques vus en Europe</title>
+		<link>https://marcduquet.com/origine-des-passereaux-nearctiques-vus-en-europe/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 13 Sep 2025 18:57:53 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Néarctique]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4353</guid>
+
+					<description><![CDATA[Chaque automne, essentiellement en octobre, des passereaux néarctiques s’égarent en Europe, principalement en Irlande et en Grande-Bretagne. En France, ce sont principalement les îles d’Ouessant et de Sein, à la pointe de la Bretagne, qui accueillent ces oiseaux venus d’Amérique du Nord, mais quelques individus voyagent parfois jusque sur les côtes françaises, des Hauts-de-France au...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les observations de Puffin cendré à l’intérieur des terres</title>
 		<link>https://marcduquet.com/les-observations-de-puffin-cendre-a-linterieur-des-terres/</link>
 		
@@ -112,24 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4053</guid>
 
 					<description><![CDATA[Par Pierre Crouzier Le Cormoran pygmée est présent de façon discontinue en Europe du Sud-Est&#160;– à l&#8217;est de l&#8217;Italie, dans le delta du Danube (Roumanie), autour de la mer Noire (Bulgarie), en Grèce, en Hongrie et dans certains états de l’ex-Yougoslavie (Serbie, Monténégro, Bosnie)&#160;– et en Asie centrale&#160;– de la Turquie au Kazakhstan (est de...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les meilleurs sites de seawatching de France (et d’Europe)</title>
-		<link>https://marcduquet.com/les-meilleurs-sites-de-seawatching-de-france-et-deurope/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[observation]]></category>
-		<category><![CDATA[oiseaux marins]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3835</guid>
-
-					<description><![CDATA[Par Marc Duquet &#38; Philippe J. Dubois&#160; En complément d&#8217;un récent article sur le&#160;seawatching&#160;et tout ce qu’il faut savoir pour observer efficacement les oiseaux marins (Duquet 2025), voici la présentation détaillée des meilleurs endroits de France pour pratiquer ce type d&#8217;ornithologie, ainsi qu’un aperçu des sites européens les plus réputés.&#160;En France, les sites de seawatching...]]></description>
 		
 		
 		
