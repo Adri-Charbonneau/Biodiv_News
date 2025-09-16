@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 13 Sep 2025 19:03:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Sep 2025 11:52:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 septembre 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-septembre-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 11:52:26 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4386</guid>
+
+					<description><![CDATA[Cette première quinzaine automnale est considérablement plus fournie que les précédentes, tout particulièrement en raison d’une belle arrivée de&#160;limicoles néarctiques&#160;(Bécasseau tacheté, Bécasseau rousset, Bécasseau de Baird, Bécasseau semipalmé, Pluvier bronzé et Chevalier à pattes jaunes) et de quelques «&#160;orientaux&#160;» (Courvite isabelle, Pluvier fauve et Bécassine double), auxquels s’ajoutent quelques observations/captures de&#160;passereaux orientaux&#160;(Bergeronnette citrine, Rousserolle isabelle,...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Origine des passereaux néarctiques vus en Europe</title>
 		<link>https://marcduquet.com/origine-des-passereaux-nearctiques-vus-en-europe/</link>
 		
@@ -113,24 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4158</guid>
 
 					<description><![CDATA[Après un été plutôt calme, les choses se sont précipitées dès les premiers jours de cette quinzaine avec la découverte d’un Bécasseau de Bonaparte en Camargue, la capture d’une Hypolaïs bottée en Charente-Maritime et d’une Rousserolle isabelle en Loire-Atlantique, l’observation d’un Puffin de Macaronésie et d’une Hypolaïs bottée dans le Finistère et d’une Pie-grièche à...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le Cormoran pygmée a très probablement niché en France en 2024</title>
-		<link>https://marcduquet.com/le-cormoran-pygmee-a-tres-probablement-niche-en-france-en-2024/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 30 Aug 2025 10:07:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Cormorans]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Microcarbo pygmaeus]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4053</guid>
-
-					<description><![CDATA[Par Pierre Crouzier Le Cormoran pygmée est présent de façon discontinue en Europe du Sud-Est&#160;– à l&#8217;est de l&#8217;Italie, dans le delta du Danube (Roumanie), autour de la mer Noire (Bulgarie), en Grèce, en Hongrie et dans certains états de l’ex-Yougoslavie (Serbie, Monténégro, Bosnie)&#160;– et en Asie centrale&#160;– de la Turquie au Kazakhstan (est de...]]></description>
 		
 		
 		
