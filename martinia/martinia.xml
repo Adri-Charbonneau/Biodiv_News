@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Thu, 21 Aug 2025 05:47:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Sep 2025 19:35:30 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,48 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>La collection d&#8217;odonates de Léandre Pidancet (1824-1888) au musée de Poligny (Jura)</title>
+		<link>https://martinia.insectes.org/la-collection-dodonates-de-leandre-pidancet-1824-1888-au-musee-de-poligny-jura/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2025 04:22:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Coeanagrion ornatum]]></category>
+		<category><![CDATA[conservation]]></category>
+		<category><![CDATA[Doubs]]></category>
+		<category><![CDATA[Franche-Comté]]></category>
+		<category><![CDATA[Haute-Saône]]></category>
+		<category><![CDATA[Révision]]></category>
+		<category><![CDATA[Revision]]></category>
+		<category><![CDATA[Stylurus flavipes]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6700</guid>
+
+					<description><![CDATA[Auteur(s) :David Gwénaël, Krieg-Jacquier Régis, Barré-Chaubet Hugo, Cuenot Thibault &#038; Malchausse Arthur Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Premières mentions de l’Aeschne isocèle, Isoaeschna isoceles (O.F. Müller, 1767) sur l’oued Mazafran (wilaya de Tipasa, Algérie) (Odonata : Aeshnidae)</title>
+		<link>https://martinia.insectes.org/premieres-mentions-de-laeschne-isocele-emisoaeschna-isoceles-em-o-f-muller-1767-sur-loued-mazafran-wilaya-de-tipasa-algerie-odonata-aeshnidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2025 04:20:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Algiers area]]></category>
+		<category><![CDATA[distribution area]]></category>
+		<category><![CDATA[Maghreb]]></category>
+		<category><![CDATA[Orthetrum trinacria]]></category>
+		<category><![CDATA[répartition]]></category>
+		<category><![CDATA[secteur algérois]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6661</guid>
+
+					<description><![CDATA[La faune odonatologique algérienne est l’une des plus riches de la région du Maghreb, avec 64 espèces. Trois sont endémiques du Maghreb dont une spécifique à l’Algérie (Lestes numidicus Samraoui, Weekers &#38; Dumont, 2003) et quatre ont un statut de conservation préoccupant (Jödicke et al., 2004 ; Riservato et al., 2009 ; Khelifa et al., [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Comportements de ponte en tandem chez deux espèces d’anisoptères après décapitation de la femelle (Odonata)</title>
 		<link>https://martinia.insectes.org/comportements-de-ponte-en-tandem-chez-deux-especes-danisopteres-apres-decapitation-de-la-femelle-odonata/</link>
 		
@@ -37,8 +79,8 @@
 		<category><![CDATA[Anax parthenope]]></category>
 		<category><![CDATA[cerci]]></category>
 		<category><![CDATA[cerques]]></category>
-		<category><![CDATA[predation]]></category>
 		<category><![CDATA[prédation]]></category>
+		<category><![CDATA[predation]]></category>
 		<category><![CDATA[reproduction]]></category>
 		<category><![CDATA[sensilla]]></category>
 		<category><![CDATA[sensilles]]></category>
@@ -99,7 +141,7 @@
 		<category><![CDATA[Violet Dropwing]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6476</guid>
 
-					<description><![CDATA[Auteur(s) :Hugo Tauru, Régis Krieg-Jacquier, Jean-Pierre Boudot, Martin Bolender &#038; Ligia Ecuyer Numérotation : Type de publication : Article]]></description>
+					<description><![CDATA[Auteur(s) :Tauru Hugo, Krieg-Jacquier Régis, Boudot Jean-Pierre, Bolender Martin &#038; Ecuyer Ligia Numérotation : Type de publication : Article]]></description>
 		
 		
 		
@@ -198,45 +240,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=5570</guid>
 
 					<description><![CDATA[Auteur(s) :Dommanget J.-L. Numérotation : Type de publication : Répertoire]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Liste de référence des Odonates de France métropolitaine</title>
-		<link>https://martinia.insectes.org/liste-de-reference-des-odonates-de-france-metropolitaine-2/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Thu, 12 Sep 2024 07:30:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4648</guid>
-
-					<description><![CDATA[L’Odonatologie, comme toutes les disciplines des sciences de la nature, est en constante évolution. Les découvertes de nouveaux taxons ou l’observation de taxons sur des aires géographiques où ils n’étaient pas connus, les progrès de la génétique et de la phylogénie imposent la mise à jour régulière des listes d’espèces. L’Opie-odonates a publié en 2021 [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anax junius (Drury, 1773) : seconde mention pour la France métropolitaine (Odonata : Aeshnidae)</title>
-		<link>https://martinia.insectes.org/emanax-junius-em-drury-1773-seconde-mention-pour-la-france-metropolitaine-odonata-aeshnidae/</link>
-		
-		<dc:creator><![CDATA[Redacteur en chef]]></dc:creator>
-		<pubDate>Wed, 14 Aug 2024 07:00:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Anax américain]]></category>
-		<category><![CDATA[Anax cyclope]]></category>
-		<category><![CDATA[Anax de juin]]></category>
-		<category><![CDATA[Anax précoce]]></category>
-		<category><![CDATA[Atlantic Ocean]]></category>
-		<category><![CDATA[Common Green Darner]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[migration]]></category>
-		<category><![CDATA[océan Atlantique]]></category>
-		<category><![CDATA[Ouessant]]></category>
-		<category><![CDATA[Ushant]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=4597</guid>
-
-					<description><![CDATA[L’Anax précoce Anax junius (Drury, 1773) est un taxon néarctique dont l’aire de répartition est centrée sur les États-Unis et le Mexique (Paulson, 2011). L&#8217;espèce devient beaucoup moins commune dans la partie la plus septentrionale de son aire de répartition (sud du Canada) avec des mentions extrêmes en Alaska au XIXe siècle au-delà de 66° [&#8230;]]]></description>
 		
 		
 		
