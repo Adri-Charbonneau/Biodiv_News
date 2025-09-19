@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 16 Sep 2025 11:52:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Sep 2025 12:18:29 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Afflux de Flamants roses immatures dans l’est de la France</title>
+		<link>https://marcduquet.com/afflux-de-flamants-roses-immatures-dans-lest-de-la-france/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 19 Sep 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Afflux]]></category>
+		<category><![CDATA[Flamants]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Phoenicopterus roseus]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4475</guid>
+
+					<description><![CDATA[Par Pierre Crouzier &#38; Marc Duquet L’aire de répartition du Flamant rose s’étend sur les lagunes côtières et les grands lacs d’Afrique, d’Asie occidentale et du sud de l’Europe. Autour de la Méditerranée, il niche çà et là en Espagne, en Camargue, en Italie (y compris en Sardaigne), à Chypre et en Grèce&#160;; il s’est...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 septembre 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-septembre-2025/</link>
 		
@@ -113,23 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4250</guid>
 
 					<description><![CDATA[Le numéro 69 de L&#8217;Effraie vient de paraître ! Éditée depuis 1983, l&#8217;excellente revue trimestrielle de la LPO-Rhône est proposée gratuitement au format PDF et tous les anciens numéros peuvent aussi être téléchargés ici. Au sommaire de ce numéro : • Éditorial (Dominique Tissier, Rédacteur en chef)•&#160;Première mention de nidification du Busard des roseaux Circus...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 août 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-aout-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 31 Aug 2025 19:38:28 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4158</guid>
-
-					<description><![CDATA[Après un été plutôt calme, les choses se sont précipitées dès les premiers jours de cette quinzaine avec la découverte d’un Bécasseau de Bonaparte en Camargue, la capture d’une Hypolaïs bottée en Charente-Maritime et d’une Rousserolle isabelle en Loire-Atlantique, l’observation d’un Puffin de Macaronésie et d’une Hypolaïs bottée dans le Finistère et d’une Pie-grièche à...]]></description>
 		
 		
 		
