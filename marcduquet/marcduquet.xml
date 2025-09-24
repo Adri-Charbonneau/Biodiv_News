@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 18 Sep 2025 12:18:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Sep 2025 07:44:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Liste commentée des passereaux néarctiques observés en France</title>
+		<link>https://marcduquet.com/liste-commentee-des-passereaux-nearctiques-observes-en-france/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 07:44:11 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Néarctique]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4535</guid>
+
+					<description><![CDATA[Ce nouvel article consacré aux passereaux (et à quelques non-passereaux&#160;: coulicous, martinets et engoulevents) néarctiques qui s’égarent en Europe dresse la liste des espèces ayant déjà été observées en France. Elle sera mise à jour régulièrement, au gré des nouvelles mentions obtenues. En complément, un inventaire des autres passereaux néarctiques vus ailleurs en Europe, donc...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Afflux de Flamants roses immatures dans l’est de la France</title>
 		<link>https://marcduquet.com/afflux-de-flamants-roses-immatures-dans-lest-de-la-france/</link>
 		
@@ -57,7 +76,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=4386</guid>
 
-					<description><![CDATA[Cette première quinzaine automnale est considérablement plus fournie que les précédentes, tout particulièrement en raison d’une belle arrivée de&#160;limicoles néarctiques&#160;(Bécasseau tacheté, Bécasseau rousset, Bécasseau de Baird, Bécasseau semipalmé, Pluvier bronzé et Chevalier à pattes jaunes) et de quelques «&#160;orientaux&#160;» (Courvite isabelle, Pluvier fauve et Bécassine double), auxquels s’ajoutent quelques observations/captures de&#160;passereaux orientaux&#160;(Bergeronnette citrine, Rousserolle isabelle,...]]></description>
+					<description><![CDATA[Cette première quinzaine automnale est considérablement plus fournie que les précédentes, tout particulièrement en raison d’une belle arrivée de limicoles néarctiques (Bécasseau tacheté, Bécasseau rousset, Bécasseau de Baird, Bécasseau semipalmé, Pluvier bronzé et Chevalier à pattes jaunes) et de quelques « orientaux » (Courvite isabelle, Pluvier fauve et Bécassine double), auxquels s’ajoutent quelques observations/captures de passereaux orientaux (Bergeronnette citrine, Rousserolle isabelle,...]]></description>
 		
 		
 		
@@ -115,22 +134,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4220</guid>
 
 					<description><![CDATA[Un programme de sciences participatives baptisé&#160;Vol de Nuit, collectant des enregistrements de cris de vol nocturnes d’oiseaux en migration ou en déplacement local effectués par des ornithos confirmés aux six coins de la France, a été initié en janvier 2024 par la LPO, le MNHN, l’OFB, BioPhonia et le site Trektellen. Il repose sur des...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>L&#8217;Effraie n°69 – 2025</title>
-		<link>https://marcduquet.com/leffraie-n69-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 11:00:35 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[L'Effraie]]></category>
-		<category><![CDATA[Revues]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4250</guid>
-
-					<description><![CDATA[Le numéro 69 de L&#8217;Effraie vient de paraître ! Éditée depuis 1983, l&#8217;excellente revue trimestrielle de la LPO-Rhône est proposée gratuitement au format PDF et tous les anciens numéros peuvent aussi être téléchargés ici. Au sommaire de ce numéro : • Éditorial (Dominique Tissier, Rédacteur en chef)•&#160;Première mention de nidification du Busard des roseaux Circus...]]></description>
 		
 		
 		
