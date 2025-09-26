@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 24 Sep 2025 07:44:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Sep 2025 11:28:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Passereaux néarctiques : les premières françaises potentielles</title>
+		<link>https://marcduquet.com/passereaux-nearctiques-les-premieres-francaises-potentielles/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 11:28:11 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Néarctique]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4652</guid>
+
+					<description><![CDATA[En complément de la liste des données françaises de passereaux néarctiques publiée&#160;récemment, voici une synthèse des mentions européennes d’espèces non encore vues en France, mais susceptibles d’intégrer un jour ou l’autre la Liste des oiseaux de France. En d’autres termes, voici la liste des&#160;«&#160;yankees&#160;»&#160;à rechercher sur les îles bretonnes à l’automne pour «&#160;faire une première...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Liste commentée des passereaux néarctiques observés en France</title>
 		<link>https://marcduquet.com/liste-commentee-des-passereaux-nearctiques-observes-en-france/</link>
 		
@@ -41,7 +60,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=4535</guid>
 
-					<description><![CDATA[Ce nouvel article consacré aux passereaux (et à quelques non-passereaux&#160;: coulicous, martinets et engoulevents) néarctiques qui s’égarent en Europe dresse la liste des espèces ayant déjà été observées en France. Elle sera mise à jour régulièrement, au gré des nouvelles mentions obtenues. En complément, un inventaire des autres passereaux néarctiques vus ailleurs en Europe, donc...]]></description>
+					<description><![CDATA[Mise à jour 26/09/2025 : ont été ajoutées aux données européennes, une Paruline noir et blanc en Belgique (Heist, 24 sept 2023) et une Paruline obscure aux Pays-Bas (Vlieland, 17 sept 2025). Merci à Julien Piette qui me les a signalées. Ce nouvel article consacré aux passereaux (et à quelques non-passereaux&#160;: coulicous, martinets et engoulevents)...]]></description>
 		
 		
 		
@@ -59,7 +78,7 @@
 		<category><![CDATA[Phoenicopterus roseus]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=4475</guid>
 
-					<description><![CDATA[Par Pierre Crouzier &#38; Marc Duquet L’aire de répartition du Flamant rose s’étend sur les lagunes côtières et les grands lacs d’Afrique, d’Asie occidentale et du sud de l’Europe. Autour de la Méditerranée, il niche çà et là en Espagne, en Camargue, en Italie (y compris en Sardaigne), à Chypre et en Grèce&#160;; il s’est...]]></description>
+					<description><![CDATA[Addendum : des données complémentaires figurent en encadré à la fin de l&#8217;article. Par Pierre Crouzier &#38; Marc Duquet L’aire de répartition du Flamant rose s’étend sur les lagunes côtières et les grands lacs d’Afrique, d’Asie occidentale et du sud de l’Europe. Autour de la Méditerranée, il niche çà et là en Espagne, en Camargue,...]]></description>
 		
 		
 		
@@ -114,26 +133,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4279</guid>
 
 					<description><![CDATA[Le&#160;30&#160;août 2025, Andrew Butler a trouvé et photographié un&#160;Puffin cendré&#160;Calonectris borealis&#160;sur le lac de Maine, à Angers-Bouchemaine (Maine-et-Loire)&#160;; l’oiseau a été observé jusqu’au&#160;31&#160;août&#160;à 14&#160;h, heure à laquelle il s’est envolé vers le nord (Alain Fossé,&#160;in litt.). Sur certaines des photos prises par les nombreux observateurs venus voir l’oiseau une bague métallique est visible à la...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OrnithoScience : suivi de la migration nocturne en France en 2024</title>
-		<link>https://marcduquet.com/ornithoscience-mig-noc-france-2024/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 03 Sep 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Emberiza ortulana]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Turdidés]]></category>
-		<category><![CDATA[Turdus iliacus]]></category>
-		<category><![CDATA[Turdus philomelos]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4220</guid>
-
-					<description><![CDATA[Un programme de sciences participatives baptisé&#160;Vol de Nuit, collectant des enregistrements de cris de vol nocturnes d’oiseaux en migration ou en déplacement local effectués par des ornithos confirmés aux six coins de la France, a été initié en janvier 2024 par la LPO, le MNHN, l’OFB, BioPhonia et le site Trektellen. Il repose sur des...]]></description>
 		
 		
 		
