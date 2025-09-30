@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 26 Sep 2025 11:28:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Sep 2025 17:02:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-30 septembre 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-30-septembre-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 30 Sep 2025 17:02:23 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4724</guid>
+
+					<description><![CDATA[Les limicoles néarctiques font encore le show en cette deuxième moitié de septembre, tandis que les passereaux sibériens se font attendre… Alors que les îles Britanniques ont déjà accueilli quelque 90&#160;Pouillots à grands sourcils du 19 au 25, des Shetland aux Scilly, le passereau star des îles bretonnes n’a pas encore été signalé en France...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Passereaux néarctiques : les premières françaises potentielles</title>
 		<link>https://marcduquet.com/passereaux-nearctiques-les-premieres-francaises-potentielles/</link>
 		
@@ -115,24 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4353</guid>
 
 					<description><![CDATA[Chaque automne, essentiellement en octobre, des passereaux néarctiques s’égarent en Europe, principalement en Irlande et en Grande-Bretagne. En France, ce sont principalement les îles d’Ouessant et de Sein, à la pointe de la Bretagne, qui accueillent ces oiseaux venus d’Amérique du Nord, mais quelques individus voyagent parfois jusque sur les côtes françaises, des Hauts-de-France au...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les observations de Puffin cendré à l’intérieur des terres</title>
-		<link>https://marcduquet.com/les-observations-de-puffin-cendre-a-linterieur-des-terres/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 05 Sep 2025 10:40:32 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Calonectris borealis]]></category>
-		<category><![CDATA[Calonectris diomedea]]></category>
-		<category><![CDATA[Occasionnels]]></category>
-		<category><![CDATA[oiseaux marins]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4279</guid>
-
-					<description><![CDATA[Le&#160;30&#160;août 2025, Andrew Butler a trouvé et photographié un&#160;Puffin cendré&#160;Calonectris borealis&#160;sur le lac de Maine, à Angers-Bouchemaine (Maine-et-Loire)&#160;; l’oiseau a été observé jusqu’au&#160;31&#160;août&#160;à 14&#160;h, heure à laquelle il s’est envolé vers le nord (Alain Fossé,&#160;in litt.). Sur certaines des photos prises par les nombreux observateurs venus voir l’oiseau une bague métallique est visible à la...]]></description>
 		
 		
 		
