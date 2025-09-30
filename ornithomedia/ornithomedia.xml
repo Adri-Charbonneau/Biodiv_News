@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Fri, 26 Sep 2025 19:52:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Sep 2025 20:28:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Description d&#8217;une nouvelle espèce d&#8217;oiseau vivant sur l&#8217;île de Bornéo, le Coucou des Penan</title>
+		<link>https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-vivant-sur-lile-de-borneo-le-coucou-des-penan/</link>
+					<comments>https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-vivant-sur-lile-de-borneo-le-coucou-des-penan/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Tue, 30 Sep 2025 06:30:00 +0000</pubDate>
+				<category><![CDATA[Études]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=261888</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-vivant-sur-lile-de-borneo-le-coucou-des-penan/">Description d&rsquo;une nouvelle espèce d&rsquo;oiseau vivant sur l&rsquo;île de Bornéo, le Coucou des Penan</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-vivant-sur-lile-de-borneo-le-coucou-des-penan/">Description d&rsquo;une nouvelle espèce d&rsquo;oiseau vivant sur l&rsquo;île de Bornéo, le Coucou des Penan</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/description-dune-nouvelle-espece-doiseau-vivant-sur-lile-de-borneo-le-coucou-des-penan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Journées Européennes de la Migration (Eurobirdwatch) les 4 et 5 octobre 2025 (et les jours suivants en France)</title>
 		<link>https://www.ornithomedia.com/breves/journees-europeennes-de-la-migration-eurobirdwatch-les-4-et-5-octobre-2025-et-les-jours-suivants-en-france/</link>
@@ -196,29 +217,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/decouverte-inedite-au-texas-dun-hybride-entre-deux-especes-aux-aires-de-repartition-autrefois-separees-les-geais-vert-et-bleu/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>La population de Grands Tétras cantabriques a augmenté entre 2019 et 2024 et semble donc avoir arrêté son déclin</title>
-		<link>https://www.ornithomedia.com/breves/la-population-de-grands-tetras-cantabriques-a-augmente-en-2024-et-semble-avoir-arrete-son-declin/</link>
-					<comments>https://www.ornithomedia.com/breves/la-population-de-grands-tetras-cantabriques-a-augmente-en-2024-et-semble-avoir-arrete-son-declin/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sat, 13 Sep 2025 06:30:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=261226</guid>
-
-					<description><![CDATA[<p> </p>
-<p>L’article <a href="https://www.ornithomedia.com/breves/la-population-de-grands-tetras-cantabriques-a-augmente-en-2024-et-semble-avoir-arrete-son-declin/">La population de Grands Tétras cantabriques a augmenté entre 2019 et 2024 et semble donc avoir arrêté son déclin</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<h1 class="wp-block-heading"> </h1>
-<p>L’article <a href="https://www.ornithomedia.com/breves/la-population-de-grands-tetras-cantabriques-a-augmente-en-2024-et-semble-avoir-arrete-son-declin/">La population de Grands Tétras cantabriques a augmenté entre 2019 et 2024 et semble donc avoir arrêté son déclin</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/la-population-de-grands-tetras-cantabriques-a-augmente-en-2024-et-semble-avoir-arrete-son-declin/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
