@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 30 Sep 2025 17:02:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Oct 2025 07:11:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>En direct des îles : automne 2025</title>
+		<link>https://marcduquet.com/en-direct-des-iles-automne-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 01 Oct 2025 07:02:54 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4757</guid>
+
+					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de raretés, des espèces plus rares, ou, dans l’idéal, des premières françaises&#160;!Je...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-30 septembre 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-30-septembre-2025/</link>
 		
@@ -39,7 +55,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=4724</guid>
 
-					<description><![CDATA[Les limicoles néarctiques font encore le show en cette deuxième moitié de septembre, tandis que les passereaux sibériens se font attendre… Alors que les îles Britanniques ont déjà accueilli quelque 90&#160;Pouillots à grands sourcils du 19 au 25, des Shetland aux Scilly, le passereau star des îles bretonnes n’a pas encore été signalé en France...]]></description>
+					<description><![CDATA[Les limicoles néarctiques font encore le show en cette deuxième moitié de septembre, tandis que les passereaux sibériens se font discrets… Alors que les îles Britanniques ont déjà accueilli quelque 90&#160;Pouillots à grands sourcils du 19 au 25, des Shetland aux Scilly, le passereau star des îles bretonnes a été très peu signalé en France...]]></description>
 		
 		
 		
@@ -113,25 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4386</guid>
 
 					<description><![CDATA[Cette première quinzaine automnale est considérablement plus fournie que les précédentes, tout particulièrement en raison d’une belle arrivée de limicoles néarctiques (Bécasseau tacheté, Bécasseau rousset, Bécasseau de Baird, Bécasseau semipalmé, Pluvier bronzé et Chevalier à pattes jaunes) et de quelques « orientaux » (Courvite isabelle, Pluvier fauve et Bécassine double), auxquels s’ajoutent quelques observations/captures de passereaux orientaux (Bergeronnette citrine, Rousserolle isabelle,...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Origine des passereaux néarctiques vus en Europe</title>
-		<link>https://marcduquet.com/origine-des-passereaux-nearctiques-vus-en-europe/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 13 Sep 2025 18:57:53 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Néarctique]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4353</guid>
-
-					<description><![CDATA[Chaque automne, essentiellement en octobre, des passereaux néarctiques s’égarent en Europe, principalement en Irlande et en Grande-Bretagne. En France, ce sont principalement les îles d’Ouessant et de Sein, à la pointe de la Bretagne, qui accueillent ces oiseaux venus d’Amérique du Nord, mais quelques individus voyagent parfois jusque sur les côtes françaises, des Hauts-de-France au...]]></description>
 		
 		
 		
