@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 01 Oct 2025 07:11:28 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Oct 2025 08:24:04 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sauvegarde du Moineau friquet : deux exemples d’actions menées en France</title>
+		<link>https://marcduquet.com/sauvegarde-du-moineau-friquet-deux-exemples-dactions-menees-en-france/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 08:18:50 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Conservation]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Passer montanus]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4803</guid>
+
+					<description><![CDATA[Par Florian Escot &#38; Gianni Enselme Le Moineau friquet a une vaste répartition couvrant toute l’Eurasie, des îles Britanniques et de la péninsule Ibérique jusqu’au Kamtchatka et à l’Indonésie, pays dans lequel c’est l’un des passereaux les plus abondants. En Europe, l’espèce est présente des rivages de la Méditerranée jusqu’au sud de la Fennoscandie (Barlow&#160;et...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>En direct des îles : automne 2025</title>
 		<link>https://marcduquet.com/en-direct-des-iles-automne-2025/</link>
 		
@@ -38,7 +56,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=4757</guid>
 
-					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de raretés, des espèces plus rares, ou, dans l’idéal, des premières françaises&#160;!Je...]]></description>
+					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de gags, des espèces toujours plus rares, ou, dans l’idéal, des premières...]]></description>
 		
 		
 		
@@ -112,23 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4475</guid>
 
 					<description><![CDATA[Addendum : des données complémentaires figurent en encadré à la fin de l&#8217;article. Par Pierre Crouzier &#38; Marc Duquet L’aire de répartition du Flamant rose s’étend sur les lagunes côtières et les grands lacs d’Afrique, d’Asie occidentale et du sud de l’Europe. Autour de la Méditerranée, il niche çà et là en Espagne, en Camargue,...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 septembre 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-septembre-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 11:52:26 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4386</guid>
-
-					<description><![CDATA[Cette première quinzaine automnale est considérablement plus fournie que les précédentes, tout particulièrement en raison d’une belle arrivée de limicoles néarctiques (Bécasseau tacheté, Bécasseau rousset, Bécasseau de Baird, Bécasseau semipalmé, Pluvier bronzé et Chevalier à pattes jaunes) et de quelques « orientaux » (Courvite isabelle, Pluvier fauve et Bécassine double), auxquels s’ajoutent quelques observations/captures de passereaux orientaux (Bergeronnette citrine, Rousserolle isabelle,...]]></description>
 		
 		
 		
