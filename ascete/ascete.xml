@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Sun, 05 Oct 2025 16:48:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Oct 2025 18:10:49 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un ouvrage de référence sur l&#8217;acoustique des Ensifères à paraître prochainement</title>
+		<link>https://ascete.org/un-ouvrage-de-reference-sur-lacoustique-des-ensiferes-a-paraitre-prochainement/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 18:10:49 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3670</guid>
+
+					<description><![CDATA[L&#8217;étude des Orthoptères est souvent considérée comme une science « visuelle », à tort ! Le jour déclinant durant l&#8217;été, le concert diurne des Caelifères (criquets) laisse place à celui des Ensifères (Sauterelles, Grillons et Courtilières). L&#8217;obscurité et les fréquences d&#8217;émission des chants souvent trop élevées pour être entendues par une oreille humaine (ultrasons) rendent ce concert [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>L&#8217;ASCETE fête ses 30 ans en Sardaigne</title>
 		<link>https://ascete.org/lascete-fete-ses-30-ans-en-sardaigne/</link>
 		
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3475</guid>
 
 					<description><![CDATA[Pour le règlement c&#8217;est ici]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Réédition et mise à jour du Cahier d&#8217;identification des Orthoptères de France, Belgique, Luxembourg et Suisse</title>
-		<link>https://ascete.org/reedition-et-mise-a-jour-du-cahier-didentification-des-orthopteres-de-france-belgique-luxembourg-et-suisse/</link>
-		
-		<dc:creator><![CDATA[Stéphane]]></dc:creator>
-		<pubDate>Mon, 05 Aug 2024 19:57:39 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3471</guid>
-
-					<description><![CDATA[En 2015 paraissait le Cahier d&#8217;identification des Orthoptères de France, Belgique, Luxembourg et Suisse, ouvrage majeur ayant suscité de nombreuses vocations orthoptériques. Depuis, plusieurs nouvelles espèces ont été découvertes dans la zone couverte par ce guide (Stenonembobius gracilis, Gryllotalpa africana, Poecilimon amissus, Xya pfaendleri, Paramogoplistes novaki, etc.). Certaines sont nouvelles pour la sciences (Uromenus sp. [&#8230;]]]></description>
 		
 		
 		
