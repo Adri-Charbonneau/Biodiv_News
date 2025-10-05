@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Sat, 16 Aug 2025 21:46:07 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Oct 2025 16:48:21 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>L&#8217;ASCETE fête ses 30 ans en Sardaigne</title>
+		<link>https://ascete.org/lascete-fete-ses-30-ans-en-sardaigne/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 16:48:21 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3641</guid>
+
+					<description><![CDATA[En 1995 naissait l&#8217;ASCETE. Trente années ont passé et, pour marquer le coup, l&#8217;assemblée générale de l&#8217;association s&#8217;est tenue lors d&#8217;un séjour en Sardaigne du 5 au 13 septembre 2025. Nous étions 19 membres de l&#8217;association à embarquer à Toulon sur le ferry et voguer vers les rivages ensoleillés de la Sardaigne. Chercher Sardoplatycleis galavgnii [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Une page Instagram pour l&#8217;ASCETE</title>
 		<link>https://ascete.org/une-page-instagram-pour-lascete/</link>
 		
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3471</guid>
 
 					<description><![CDATA[En 2015 paraissait le Cahier d&#8217;identification des Orthoptères de France, Belgique, Luxembourg et Suisse, ouvrage majeur ayant suscité de nombreuses vocations orthoptériques. Depuis, plusieurs nouvelles espèces ont été découvertes dans la zone couverte par ce guide (Stenonembobius gracilis, Gryllotalpa africana, Poecilimon amissus, Xya pfaendleri, Paramogoplistes novaki, etc.). Certaines sont nouvelles pour la sciences (Uromenus sp. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Week-end de recherches de la Decticelle languedocienne Amedegnatiana vicheti sur le Larzac du 5 au 7 juillet 2024</title>
-		<link>https://ascete.org/week-end-de-recherches-de-la-decticelle-languedocienne-amedegnatiana-vicheti-sur-le-larzac-du-5-au-7-juillet-2024/</link>
-		
-		<dc:creator><![CDATA[Stéphane]]></dc:creator>
-		<pubDate>Wed, 22 May 2024 06:52:24 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3453</guid>
-
-					<description><![CDATA[Ami.e.s naturalistes, Le week-end du 6-7 juillet se tiendra un camp de prospection naturaliste sur le Causse du Larzac méridional, dans le département de l&#8217;Hérault. L&#8217;objectif est de mettre à jour les connaissances sur la répartition de la population larzacoise de la Decticelle languedocienne (Amedegnatiana vicheti). Suite à la publication de Quentin Delorme faisant état [&#8230;]]]></description>
 		
 		
 		
