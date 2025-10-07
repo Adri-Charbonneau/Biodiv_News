@@ -197,7 +197,7 @@ $auth_header = @{Authorization = "Bearer $token"}
 
 ## Encodage de l'url + Vérification du lien
 $encodeurl = [System.Web.HttpUtility]::UrlEncode($link)
-$data = Invoke-WebRequest -Uri "https://biodivnews.ddns.net/api/v1/links?searchterm=$encodeurl" -Headers $auth_header | ConvertFrom-Json
+$data = Invoke-WebRequest -Uri "https://biodivnews.charbonneau.fr/api/v1/links?searchterm=$encodeurl" -Headers $auth_header | ConvertFrom-Json
 
 if ([string]::IsNullOrEmpty($data)) {
 	# Création du lien car inexistant
@@ -217,7 +217,7 @@ if ([string]::IsNullOrEmpty($data)) {
 		"Content-Type" = "application/json;charset=UTF-8"
 	}
 	
-	Invoke-RestMethod -Uri "https://biodivnews.ddns.net/api/v1/links" -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
+	Invoke-RestMethod -Uri "https://biodivnews.charbonneau.fr/api/v1/links" -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
 	
 	} else {
 	# Mise à jour des détails du lien car existant
@@ -240,7 +240,7 @@ if ([string]::IsNullOrEmpty($data)) {
 		"Content-Type" = "application/json;charset=UTF-8"
 	}
 	
-	Invoke-RestMethod -Uri "https://biodivnews.ddns.net/api/v1/links/$id" -Method Put -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
+	Invoke-RestMethod -Uri "https://biodivnews.charbonneau.fr/api/v1/links/$id" -Method Put -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
 }
 
 ##### ARCHIVE.ORG #####
