@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 05 Oct 2025 08:24:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 09:11:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le Héron garde-bœufs qui rêvait d’être un cygne</title>
+		<link>https://marcduquet.com/le-heron-garde-boeufs-qui-revait-detre-un-cygne/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 09:11:54 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Ardea alba]]></category>
+		<category><![CDATA[Ardea cinerea]]></category>
+		<category><![CDATA[Ardea herodias]]></category>
+		<category><![CDATA[Botaurus stellaris]]></category>
+		<category><![CDATA[Bubulcus ibis]]></category>
+		<category><![CDATA[Comportement]]></category>
+		<category><![CDATA[Hérons]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5043</guid>
+
+					<description><![CDATA[Par Jean-Pierre Toumazet Le 29&#160;juillet 2024, mon fils Lucas et moi avons observé et photographié le comportement étrange d’un Héron garde-bœufs à Lussat, dans la Creuse. Le petit héron est arrivé en vol et s’est posé à la surface de l’étang des Landes, avant de se mettre à nager tel un canard, ou plutôt un...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Sauvegarde du Moineau friquet : deux exemples d’actions menées en France</title>
 		<link>https://marcduquet.com/sauvegarde-du-moineau-friquet-deux-exemples-dactions-menees-en-france/</link>
 		
@@ -111,25 +132,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=4535</guid>
 
-					<description><![CDATA[Mise à jour 26/09/2025 : ont été ajoutées aux données européennes, une Paruline noir et blanc en Belgique (Heist, 24 sept 2023) et une Paruline obscure aux Pays-Bas (Vlieland, 17 sept 2025). Merci à Julien Piette qui me les a signalées. Ce nouvel article consacré aux passereaux (et à quelques non-passereaux&#160;: coulicous, martinets et engoulevents)...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Afflux de Flamants roses immatures dans l’est de la France</title>
-		<link>https://marcduquet.com/afflux-de-flamants-roses-immatures-dans-lest-de-la-france/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Afflux]]></category>
-		<category><![CDATA[Flamants]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Phoenicopterus roseus]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4475</guid>
-
-					<description><![CDATA[Addendum : des données complémentaires figurent en encadré à la fin de l&#8217;article. Par Pierre Crouzier &#38; Marc Duquet L’aire de répartition du Flamant rose s’étend sur les lagunes côtières et les grands lacs d’Afrique, d’Asie occidentale et du sud de l’Europe. Autour de la Méditerranée, il niche çà et là en Espagne, en Camargue,...]]></description>
+					<description><![CDATA[Mise à jour 5/10/2025 : une donnée de Paruline rayée (à la pointe du Raz, Plogoff, Finistère) le 5 oct 2025) a été ajoutée aux données françaises. Ce nouvel article consacré aux passereaux (et à quelques non-passereaux&#160;: coulicous, martinets et engoulevents) néarctiques qui s’égarent en Europe dresse la liste des espèces ayant déjà été observées...]]></description>
 		
 		
 		
