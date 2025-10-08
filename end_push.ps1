@@ -164,6 +164,9 @@ $SecretKey = $null
 
 ## Génération du token + variable d'authentification
 $token = Generate-JWT -Algorithm 'HS512' -SecretKey "$env:BN_API_KEY"
+
+"token : $token"
+
 $auth_header = @{Authorization = "Bearer $token"}
 
 ## Encodage de l'url + Vérification du lien

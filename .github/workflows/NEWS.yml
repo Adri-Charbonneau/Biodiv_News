@@ -103,9 +103,9 @@ jobs:
         if: always()
         run: ./tourduvalat.ps1
 
-      - name: VigiNature
-        if: always()
-        run:  ./viginature.ps1
+      #- name: VigiNature
+        #if: always()
+        #run:  ./viginature.ps1
 
       #- name: Xeno-Canto
         #if: always()

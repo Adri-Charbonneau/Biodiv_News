@@ -30,6 +30,6 @@ Aggrégateur RSS de différents sites internet sur le sujet de la biodiversité,
 | **Réseau CEN** | Actualités de la fédération des Conservatoires d'espaces naturels | https://reseau-cen.org/actualites/ | ❌ |
 | **Société Herpétologique de France** | Actualités de la SHF | http://lashf.org/ | ✅ |
 | **Tour du Valat** | Actualités de la Tour du Valat | https://tourduvalat.org/actualites/ | ✅ |
-| **VigieNature** | Découvrez les dernières actualités de Vigie-Nature | https://www.vigienature.fr/fr/actualites | ✅ |
+| **VigieNature** | Découvrez les dernières actualités de Vigie-Nature | https://www.vigienature.fr/fr/actualites | ❌ |
 | **Xeno-Canto** | Quelques-uns des enregistrements les plus intéressants, rares ou remarquables de la collection | https://xeno-canto.org/collection/spotlights | ❌ |
 | **Zoom-Nature** | Chroniques nature et sciences de Gérard Guillot | https://www.zoom-nature.fr/ | ✅ |
