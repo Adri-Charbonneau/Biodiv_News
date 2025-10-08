@@ -43,7 +43,6 @@ echo "Valeurs de $name :"
 echo "------------------"
 echo "title = $title"
 echo "tmtitle = $tmtitle"
-echo "titletweet = $titletweet"
 echo "title_blue = $title_blue"
 echo "------------------"
 echo "link = $link"
@@ -164,8 +163,6 @@ $SecretKey = $null
 
 ## Génération du token + variable d'authentification
 $token = Generate-JWT -Algorithm 'HS512' -SecretKey "$env:BN_API_KEY"
-
-"token : $token"
 
 $auth_header = @{Authorization = "Bearer $token"}
 
