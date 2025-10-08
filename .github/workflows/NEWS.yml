@@ -107,9 +107,9 @@ jobs:
         if: always()
         run:  ./viginature.ps1
 
-      - name: Xeno-Canto
-        if: always()
-        run: ./xeno-canto.ps1
+      #- name: Xeno-Canto
+        #if: always()
+        #run: ./xeno-canto.ps1
 
       - name: Zoom-Nature
         if: always()

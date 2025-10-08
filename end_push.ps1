@@ -22,15 +22,6 @@ $tmtitle = $tmtitle -replace '&','%26'
 #$tmtitle = $tmtitle -replace '<','&lt;'
 #$tmtitle = $tmtitle -replace '>','&gt;'
 
-## length of title for Twitter
-if ( $title.Length -ge 110 )
-{ 
-	$titletweet = $title.Substring(0, 110)
-	$titletweet = -join($titletweet,"...")
-	}else{
-	$titletweet = $title
-}
-
 ## length of title for Bluesky
 if ( ($name.Length + $title.Length + $link.Length + 10) -ge 300 ) #10 = others characters in $text
 { 
@@ -73,26 +64,6 @@ $mastodonform = @{status = "[$name] $titletweet
 Lien : $link
 $tags"}
 Invoke-WebRequest -Uri "https://piaille.fr/api/v1/statuses" -Headers $mastodonheaders -Method Post -Form $mastodonform
-
-##### TWITTER #####
-$twitter = (Select-String -Path "config.txt" -Pattern "twitter=(.*)").Matches.Groups[1].Value
-if ( $twitter -eq "y" ) {
-	Install-Module PSTwitterAPI -Force
-	Import-Module PSTwitterAPI
-	$OAuthSettings = @{
-		ApiKey = "$env:PST_KEY"
-		ApiSecret = "$env:PST_KEY_SECRET"
-		AccessToken = "$env:PST_TOKEN"
-		AccessTokenSecret = "$env:PST_TOKEN_SECRET"
-	}
-	Set-TwitterOAuthSettings @OAuthSettings
-	Send-TwitterStatuses_Update -status "[$name] $titletweet
-	
-Lien : $link
-$accounts
-$tags
-"
-}
 
 ##### BLUESKY #####
 $session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
