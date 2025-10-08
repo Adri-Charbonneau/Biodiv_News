@@ -54,10 +54,6 @@ jobs:
       #- name: INPN
         #if: always()
         #run:  ./inpn.ps1
-        
-      #- name: La Pie Bavarde
-        #if: always()
-        #run:  ./lapiebavarde.ps1
 
       #- name: LPO Rapaces
         #if: always()
@@ -79,9 +75,9 @@ jobs:
         if: always()
         run:  ./naturae.ps1
 
-      - name: Nature France
-        if: always()
-        run: ./naturefrance.ps1
+      #- name: Nature France
+        #if: always()
+        #run: ./naturefrance.ps1
 
       - name: Oiseaux de France
         if: always()
@@ -106,10 +102,6 @@ jobs:
       - name: Tour du Valat
         if: always()
         run: ./tourduvalat.ps1
-
-      #- name: UICN-FR
-        #if: always()
-        #run:  ./uicnfr.ps1
 
       - name: VigiNature
         if: always()
