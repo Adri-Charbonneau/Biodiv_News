@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 08 Oct 2025 09:11:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 09:41:01 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,6 +27,27 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
+	<item>
+		<title>Le Héron garde-bœufs qui rêvait d’être un cygne</title>
+		<link>https://marcduquet.com/le-heron-garde-boeufs-qui-revait-detre-un-cygne/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 09:11:54 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Ardea alba]]></category>
+		<category><![CDATA[Ardea cinerea]]></category>
+		<category><![CDATA[Ardea herodias]]></category>
+		<category><![CDATA[Botaurus stellaris]]></category>
+		<category><![CDATA[Bubulcus ibis]]></category>
+		<category><![CDATA[Comportement]]></category>
+		<category><![CDATA[Hérons]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5043</guid>
+
+					<description><![CDATA[Par Jean-Pierre Toumazet Le 29&#160;juillet 2024, mon fils Lucas et moi avons observé et photographié le comportement étrange d’un Héron garde-bœufs à Lussat, dans la Creuse. Le petit héron est arrivé en vol et s’est posé à la surface de l’étang des Landes, avant de se mettre à nager tel un canard, ou plutôt un...]]></description>
+		
+		
+		
+			</item>
 		<item>
 		<title>Sauvegarde du Moineau friquet : deux exemples d’actions menées en France</title>
 		<link>https://marcduquet.com/sauvegarde-du-moineau-friquet-deux-exemples-dactions-menees-en-france/</link>
@@ -111,7 +132,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=4535</guid>
 
-					<description><![CDATA[Mise à jour 5/10/2025 : une donnée de Paruline rayée (à la pointe du Raz, Plogoff, Finistère) le 5 oct 2025) a été ajoutée aux données françaises. Ce nouvel article consacré aux passereaux (et à quelques non-passereaux&#160;: coulicous, martinets et engoulevents) néarctiques qui s’égarent en Europe dresse la liste des espèces ayant déjà été observées...]]></description>
+					<description><![CDATA[Mise à jour du 8/10/2025 : trois données récentes de Pipit d&#8217;Amérique (Ouessant), deux de Viréo à œil rouge (Ouessant) et une de Grive à dos olive (Molène) ont été ajoutées aux données françaises. Ce nouvel article consacré aux passereaux (et à quelques non-passereaux&#160;: coulicous, martinets et engoulevents) néarctiques qui s’égarent en Europe dresse la...]]></description>
 		
 		
 		
