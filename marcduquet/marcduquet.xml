@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 08 Oct 2025 09:41:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Oct 2025 12:21:22 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un Martinet épineux dans le nord des îles Britanniques !</title>
+		<link>https://marcduquet.com/un-martinet-epineux-dans-le-nord-des-iles-britanniques/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2025 11:28:17 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Grande-Bretagne]]></category>
+		<category><![CDATA[Hirundapus caudacutus]]></category>
+		<category><![CDATA[Martinets]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5193</guid>
+
+					<description><![CDATA[Le Martinet épineux (White-throated Needletail) niche de la Sibérie centrale jusqu&#8217;à l’Extrême-Orient russe (y compris l&#8217;île de Sakhaline) et au nord du Japon, et s&#8217;étend au sud jusqu&#8217;à la Mongolie, au nord-est de la Chine et à la péninsule coréenne&#160;; cette population est migratrice et hiverne dans le sud de la Papouasie-Nouvelle-Guinée et dans la...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le Héron garde-bœufs qui rêvait d’être un cygne</title>
 		<link>https://marcduquet.com/le-heron-garde-boeufs-qui-revait-detre-un-cygne/</link>
 		
@@ -114,25 +133,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4652</guid>
 
 					<description><![CDATA[En complément de la liste des données françaises de passereaux néarctiques publiée&#160;récemment, voici une synthèse des mentions européennes d’espèces non encore vues en France, mais susceptibles d’intégrer un jour ou l’autre la Liste des oiseaux de France. En d’autres termes, voici la liste des&#160;«&#160;yankees&#160;»&#160;à rechercher sur les îles bretonnes à l’automne pour «&#160;faire une première...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Liste commentée des passereaux néarctiques observés en France</title>
-		<link>https://marcduquet.com/liste-commentee-des-passereaux-nearctiques-observes-en-france/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 07:44:11 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Néarctique]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4535</guid>
-
-					<description><![CDATA[Mise à jour du 8/10/2025 : trois données récentes de Pipit d&#8217;Amérique (Ouessant), deux de Viréo à œil rouge (Ouessant) et une de Grive à dos olive (Molène) ont été ajoutées aux données françaises. Ce nouvel article consacré aux passereaux (et à quelques non-passereaux&#160;: coulicous, martinets et engoulevents) néarctiques qui s’égarent en Europe dresse la...]]></description>
 		
 		
 		
