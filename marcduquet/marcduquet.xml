@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 09 Oct 2025 12:21:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Oct 2025 08:23:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un peu de répit pour le Puffin des Baléares</title>
+		<link>https://marcduquet.com/un-peu-de-repit-pour-le-puffin-des-baleares/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2025 08:22:25 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Puffins]]></category>
+		<category><![CDATA[Puffinus mauretanicus]]></category>
+		<category><![CDATA[Puffinus yelkouan]]></category>
+		<category><![CDATA[Taxonomie]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5174</guid>
+
+					<description><![CDATA[Suite à la publication de&#160;Ferrer Obiol&#160;et al.&#160;(2023) qui proposait de refusionner le Puffin des Baléares et le Puffin yelkouan en une seule espèce, sur la base d’une analyse génétique, voici un article fraîchement publié qui vient contrecarrer l’approche et la conclusion de ces auteurs. Notamment en critiquant l’analyse génétique effectuée sur une portion trop limitée...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un Martinet épineux dans le nord des îles Britanniques !</title>
 		<link>https://marcduquet.com/un-martinet-epineux-dans-le-nord-des-iles-britanniques/</link>
 		
@@ -41,7 +60,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=5193</guid>
 
-					<description><![CDATA[Le Martinet épineux (White-throated Needletail) niche de la Sibérie centrale jusqu&#8217;à l’Extrême-Orient russe (y compris l&#8217;île de Sakhaline) et au nord du Japon, et s&#8217;étend au sud jusqu&#8217;à la Mongolie, au nord-est de la Chine et à la péninsule coréenne&#160;; cette population est migratrice et hiverne dans le sud de la Papouasie-Nouvelle-Guinée et dans la...]]></description>
+					<description><![CDATA[Le Martinet épineux (White-throated Needletail) niche de la Sibérie centrale jusqu&#8217;à l’Extrême-Orient russe (y compris l&#8217;île de Sakhaline) et au nord du Japon, et s&#8217;étend au sud jusqu&#8217;à la Mongolie, au nord-est de la Chine et à la péninsule coréenne ; cette population est migratrice et hiverne dans le sud de la Papouasie-Nouvelle-Guinée et dans la...]]></description>
 		
 		
 		
@@ -114,25 +133,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4724</guid>
 
 					<description><![CDATA[Les limicoles néarctiques font encore le show en cette deuxième moitié de septembre, tandis que les passereaux sibériens se font discrets… Alors que les îles Britanniques ont déjà accueilli quelque 90&#160;Pouillots à grands sourcils du 19 au 25, des Shetland aux Scilly, le passereau star des îles bretonnes a été très peu signalé en France...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Passereaux néarctiques : les premières françaises potentielles</title>
-		<link>https://marcduquet.com/passereaux-nearctiques-les-premieres-francaises-potentielles/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 26 Sep 2025 11:28:11 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Néarctique]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4652</guid>
-
-					<description><![CDATA[En complément de la liste des données françaises de passereaux néarctiques publiée&#160;récemment, voici une synthèse des mentions européennes d’espèces non encore vues en France, mais susceptibles d’intégrer un jour ou l’autre la Liste des oiseaux de France. En d’autres termes, voici la liste des&#160;«&#160;yankees&#160;»&#160;à rechercher sur les îles bretonnes à l’automne pour «&#160;faire une première...]]></description>
 		
 		
 		
