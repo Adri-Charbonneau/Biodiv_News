@@ -12,7 +12,7 @@
 	<atom:link href="https://tourduvalat.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tourduvalat.org</link>
 	<description>Institut de recherche pour la conservation des zones humides méditerranéennes</description>
-	<lastBuildDate>Tue, 14 Oct 2025 09:16:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Oct 2025 09:58:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,19 +20,19 @@
 	1	</sy:updateFrequency>
 	
 	<item>
-		<title>Test</title>
-		<link>https://tourduvalat.org/actualites/test/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=test</link>
-					<comments>https://tourduvalat.org/actualites/test/#respond</comments>
+		<title>Test 3</title>
+		<link>https://tourduvalat.org/non-classifiee/test-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=test-3</link>
+					<comments>https://tourduvalat.org/non-classifiee/test-3/#respond</comments>
 		
 		<dc:creator><![CDATA[marquis]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 09:12:52 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://tourduvalat.org/?p=47976</guid>
+		<pubDate>Tue, 14 Oct 2025 09:51:30 +0000</pubDate>
+				<category><![CDATA[Non classifié(e)]]></category>
+		<guid isPermaLink="false">https://tourduvalat.org/?p=47981</guid>
 
-					<description><![CDATA[<p><img src="https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat.jpg 2560w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-1024x682.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-1536x1024.jpg 1536w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-2048x1365.jpg 2048w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-120x80.jpg 120w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&hellip;]]]></description>
-										<content:encoded><![CDATA[<p><img src="https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat.jpg 2560w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-1024x682.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-1536x1024.jpg 1536w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-2048x1365.jpg 2048w, https://tourduvalat.org/wp-content/uploads/2025/10/Guifette-noire@T-Galewski-TourduValat-120x80.jpg 120w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&hellip;]]]></content:encoded>
+					<description><![CDATA[<p><img src="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg 1500w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-1024x683.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-120x80.jpg 120w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></p>Test de reception]]></description>
+										<content:encoded><![CDATA[<p><img src="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg 1500w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-1024x683.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-120x80.jpg 120w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></p>Test de reception]]></content:encoded>
 					
-					<wfw:commentRss>https://tourduvalat.org/actualites/test/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tourduvalat.org/non-classifiee/test-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
