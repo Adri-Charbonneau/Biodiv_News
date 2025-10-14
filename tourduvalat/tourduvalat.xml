@@ -12,7 +12,7 @@
 	<atom:link href="https://tourduvalat.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tourduvalat.org</link>
 	<description>Institut de recherche pour la conservation des zones humides méditerranéennes</description>
-	<lastBuildDate>Tue, 14 Oct 2025 09:58:10 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Oct 2025 12:04:20 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,19 +20,19 @@
 	1	</sy:updateFrequency>
 	
 	<item>
-		<title>Test 3</title>
-		<link>https://tourduvalat.org/non-classifiee/test-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=test-3</link>
-					<comments>https://tourduvalat.org/non-classifiee/test-3/#respond</comments>
+		<title>Titre d&#8217;article</title>
+		<link>https://tourduvalat.org/actualites/test-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=test-3</link>
+					<comments>https://tourduvalat.org/actualites/test-3/#respond</comments>
 		
 		<dc:creator><![CDATA[marquis]]></dc:creator>
 		<pubDate>Tue, 14 Oct 2025 09:51:30 +0000</pubDate>
-				<category><![CDATA[Non classifié(e)]]></category>
+				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://tourduvalat.org/?p=47981</guid>
 
-					<description><![CDATA[<p><img src="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg 1500w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-1024x683.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-120x80.jpg 120w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></p>Test de reception]]></description>
-										<content:encoded><![CDATA[<p><img src="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg 1500w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-1024x683.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-120x80.jpg 120w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></p>Test de reception]]></content:encoded>
+					<description><![CDATA[<p><img src="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg 1500w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-1024x683.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-120x80.jpg 120w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></p>Corps de l&rsquo;article]]></description>
+										<content:encoded><![CDATA[<p><img src="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55.jpg 1500w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-300x200.jpg 300w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-1024x683.jpg 1024w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-640x427.jpg 640w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-768x512.jpg 768w, https://tourduvalat.org/wp-content/uploads/2025/10/2025_KRAKEN_Yoann-GUICHAOUA_55-120x80.jpg 120w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></p>Corps de l&rsquo;article]]></content:encoded>
 					
-					<wfw:commentRss>https://tourduvalat.org/non-classifiee/test-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tourduvalat.org/actualites/test-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
