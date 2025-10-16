@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 10 Oct 2025 08:23:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Oct 2025 07:22:39 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 octobre 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-octobre-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 07:14:30 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5283</guid>
+
+					<description><![CDATA[La première semaine de cette quinzaine a été assez calme, mais s’est achevée en fanfare avec une arrivée de passereaux néarctiques à la pointe bretonne&#160;– une&#160;Paruline rayée&#160;à la pointe du Raz, trois&#160;Pipits d’Amérique&#160;et deux&#160;Viréos à œil rouge&#160;à Ouessant et une&#160;Grive à dos olive&#160;à Molène. Hélas, le miracle a été de courte durée, malgré l’important afflux...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un peu de répit pour le Puffin des Baléares</title>
 		<link>https://marcduquet.com/un-peu-de-repit-pour-le-puffin-des-baleares/</link>
 		
@@ -82,24 +99,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5043</guid>
 
 					<description><![CDATA[Par Jean-Pierre Toumazet Le 29&#160;juillet 2024, mon fils Lucas et moi avons observé et photographié le comportement étrange d’un Héron garde-bœufs à Lussat, dans la Creuse. Le petit héron est arrivé en vol et s’est posé à la surface de l’étang des Landes, avant de se mettre à nager tel un canard, ou plutôt un...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sauvegarde du Moineau friquet : deux exemples d’actions menées en France</title>
-		<link>https://marcduquet.com/sauvegarde-du-moineau-friquet-deux-exemples-dactions-menees-en-france/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 05 Oct 2025 08:18:50 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Conservation]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Passer montanus]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4803</guid>
-
-					<description><![CDATA[Par Florian Escot &#38; Gianni Enselme Le Moineau friquet a une vaste répartition couvrant toute l’Eurasie, des îles Britanniques et de la péninsule Ibérique jusqu’au Kamtchatka et à l’Indonésie, pays dans lequel c’est l’un des passereaux les plus abondants. En Europe, l’espèce est présente des rivages de la Méditerranée jusqu’au sud de la Fennoscandie (Barlow&#160;et...]]></description>
 		
 		
 		
