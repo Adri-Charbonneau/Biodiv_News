@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Wed, 17 Sep 2025 19:35:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Oct 2025 04:21:30 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.3</generator>
+	<generator>https://wordpress.org/?v=6.7.4</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>De nouveaux éléments sur l’écologie de  Nothodiplax dendrophila  Belle, 1984, en Guyane (Odonata : Libellulidae)</title>
+		<link>https://martinia.insectes.org/de-nouveaux-elements-sur-lecologie-de-em-nothodiplax-dendrophila-em-belle-1984-en-guyane-odonata-libellulidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 04:20:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[autochthony]]></category>
+		<category><![CDATA[autochtonie]]></category>
+		<category><![CDATA[Écozone néotropicale]]></category>
+		<category><![CDATA[Neotropical ecozone]]></category>
+		<category><![CDATA[Savana]]></category>
+		<category><![CDATA[Savanne]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6861</guid>
+
+					<description><![CDATA[Nothodiplax est un genre monospécifique représenté par l’espèce Nothodiplax dendrophila Belle, 1984. Celle-ci a été décrite à partir de trois mâles et deux femelles collectés en 1964 dans le nord-est du Suriname (Belle, 1984). Elle a ensuite été signalée en Guyane (Machet, 1991), mais aucune autre observation n’a été rapportée jusqu’en 2019, année d’une nouvelle [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>La collection d&#8217;odonates de Léandre Pidancet (1824-1888) au musée de Poligny (Jura)</title>
 		<link>https://martinia.insectes.org/la-collection-dodonates-de-leandre-pidancet-1824-1888-au-musee-de-poligny-jura/</link>
 		
@@ -79,8 +99,8 @@
 		<category><![CDATA[Anax parthenope]]></category>
 		<category><![CDATA[cerci]]></category>
 		<category><![CDATA[cerques]]></category>
-		<category><![CDATA[prédation]]></category>
 		<category><![CDATA[predation]]></category>
+		<category><![CDATA[prédation]]></category>
 		<category><![CDATA[reproduction]]></category>
 		<category><![CDATA[sensilla]]></category>
 		<category><![CDATA[sensilles]]></category>
@@ -226,20 +246,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=5845</guid>
 
 					<description><![CDATA[Auteur(s) :Doucet Guillaume &#038; Coulette Sébastien Numérotation : Type de publication : Article]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Répertoire 1985-2011 de la revue Martinia et des autres travaux publiés par la Société française d’Odonatologie.</title>
-		<link>https://martinia.insectes.org/repertoire-1985-2011-de-la-revue-martinia-et-des-autres-travaux-publies-par-la-societe-francaise-dodonatologie/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Sun, 22 Dec 2024 18:04:49 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=5570</guid>
-
-					<description><![CDATA[Auteur(s) :Dommanget J.-L. Numérotation : Type de publication : Répertoire]]></description>
 		
 		
 		
