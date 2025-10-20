@@ -35,6 +35,10 @@ jobs:
         if: always()
         run:  ./crbpoinfo.ps1
 
+      - name: Ephemera
+        if: always()
+        run:  ./ephemera.ps1
+
       - name: Faune-France
         if: always()
         run:  ./faune-france.ps1

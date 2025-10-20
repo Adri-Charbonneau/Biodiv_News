@@ -14,6 +14,7 @@ Aggrégateur RSS de différents sites internet sur le sujet de la biodiversité,
 | **Ar Gaouenn** | La revue naturaliste de la LPO Bretagne | https://www.lpo.fr/lpo-locales/lpo-bretagne/mediatheque/ar-gaouenn2 | ❌ |
 | **Ascete** | Une association pour les orthoptéristes et les entomocénoticiens | https://ascete.org/ | ✅ |
 | **CRBPO Info** | Les dernières nouvelles du baguage et des bagueurs du CRBPO | https://crbpoinfo.blogspot.com/ | ✅ |
+| **Ephemera** | Revue scientifique dédiée aux insectes aquatiques. | https://ephemera.insectes.org/ | ✅ |
 | **Faune-France** | Actualités de Faune-France | https://www.faune-france.org/ | ✅ |
 | **Faune & Nature** | Revue méditerranéenne de découverte et de protection de la nature | https://paca.lpo.fr/association-protection-nature-lpo-paca/editions/faune-et-nature | ✅ |
 | **Faune-PACA Publication** | Publications à partir de Faune-Paca | https://paca.lpo.fr/association-protection-nature-lpo-paca/editions/faune-paca-publication | ✅ |
