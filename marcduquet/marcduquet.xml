@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 16 Oct 2025 07:22:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Oct 2025 14:25:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>En direct des îles : automne 2025</title>
+		<link>https://marcduquet.com/en-direct-des-iles-automne-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 07:02:00 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4757</guid>
+
+					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de gags, des espèces toujours plus rares, ou, dans l’idéal, des premières...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 octobre 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-octobre-2025/</link>
 		
@@ -104,34 +120,19 @@
 		
 			</item>
 		<item>
-		<title>En direct des îles : automne 2025</title>
-		<link>https://marcduquet.com/en-direct-des-iles-automne-2025/</link>
+		<title>Sauvegarde du Moineau friquet : deux exemples d’actions menées en France</title>
+		<link>https://marcduquet.com/sauvegarde-du-moineau-friquet-deux-exemples-dactions-menees-en-france/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 07:02:54 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
+		<pubDate>Sun, 05 Oct 2025 08:18:50 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Conservation]]></category>
 		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4757</guid>
+		<category><![CDATA[Passer montanus]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4803</guid>
 
-					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de gags, des espèces toujours plus rares, ou, dans l’idéal, des premières...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-30 septembre 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-30-septembre-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 30 Sep 2025 17:02:23 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4724</guid>
-
-					<description><![CDATA[Les limicoles néarctiques font encore le show en cette deuxième moitié de septembre, tandis que les passereaux sibériens se font discrets… Alors que les îles Britanniques ont déjà accueilli quelque 90&#160;Pouillots à grands sourcils du 19 au 25, des Shetland aux Scilly, le passereau star des îles bretonnes a été très peu signalé en France...]]></description>
+					<description><![CDATA[17/10/2025 : la partie relative à l&#8217;Aude a été mise à jour par Florian Escot. Par Florian Escot &#38; Gianni Enselme Le Moineau friquet a une vaste répartition couvrant toute l’Eurasie, des îles Britanniques et de la péninsule Ibérique jusqu’à l’extrême orient russe (Kamtchatka) et à l’Indonésie, pays dans lequel c’est l’un des passereaux les...]]></description>
 		
 		
 		
