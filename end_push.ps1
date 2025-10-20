@@ -22,6 +22,17 @@ $tmtitle = $tmtitle -replace '&','%26'
 #$tmtitle = $tmtitle -replace '<','&lt;'
 #$tmtitle = $tmtitle -replace '>','&gt;'
 
+
+## length of title for Mastodon
+
+if ( $title.Length -ge 110 ) 
+{ 
+	$titletweet = $title.Substring(0, 110)
+	$titletweet = -join($titletweet,"...")
+}else{
+	$titletweet = $title
+}
+
 ## length of title for Bluesky
 if ( ($name.Length + $title.Length + $link.Length + 10) -ge 300 ) #10 = others characters in $text
 { 
