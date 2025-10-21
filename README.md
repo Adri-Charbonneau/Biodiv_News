@@ -19,6 +19,7 @@ Aggrégateur RSS de différents sites internet sur le sujet de la biodiversité,
 | **Faune & Nature** | Revue méditerranéenne de découverte et de protection de la nature | https://paca.lpo.fr/association-protection-nature-lpo-paca/editions/faune-et-nature | ✅ |
 | **Faune-PACA Publication** | Publications à partir de Faune-Paca | https://paca.lpo.fr/association-protection-nature-lpo-paca/editions/faune-paca-publication | ✅ |
 | **INPN** | Les dernières actualités de l'Inventaire National du Patrimoine Naturel | https://inpn.mnhn.fr/actualites/sommaire-actualites | ❌ |
+| **Insectes** | Les cahiers de liaison de l’Office Pour les Insectes et leur Environnement | https://www.insectes.org/content/30-la-revue-insectes | ✅ |
 | **LPO Mission Rapaces** | Actualités de la LPO Mission Rapaces | https://rapaces.lpo.fr/mission-rapaces/actualites-rapaces | ❌ |
 | **Marc Duquet** | Un blog pour les ornithos de terrain | https://marcduquet.com/ | ✅ |
 | **Martinia** | Revue scientifique de l'odonatologie française | https://www.martinia.insectes.org/ | ✅ |

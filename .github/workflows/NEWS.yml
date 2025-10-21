@@ -55,6 +55,10 @@ jobs:
         #if: always()
         #run:  ./inpn.ps1
 
+      - name: Insectes
+        if: always()
+        run:  ./insectes.ps1
+
       #- name: LPO Rapaces
         #if: always()
         #run:  ./lporapaces.ps1
