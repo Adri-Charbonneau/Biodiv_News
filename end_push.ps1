@@ -55,6 +55,7 @@ echo "------------------"
 echo "title = $title"
 echo "tmtitle = $tmtitle"
 echo "title_blue = $title_blue"
+echo "titletweet" = $titletweet
 echo "------------------"
 echo "link = $link"
 echo "tmlink = $tmlink"

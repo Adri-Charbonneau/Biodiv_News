@@ -16,7 +16,7 @@ try {
     
     $num | Out-File "./$id/$id.txt"
     
-    $title = "Nouveau numéro de la revue Insectes"
+    $title = "Numéro $num de la revue"
     $link = $url
     ./end_push.ps1
 
