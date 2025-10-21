@@ -23,7 +23,5 @@ try {
 } catch {
     if ($_.Exception.Response.StatusCode.Value__ -eq 404) {
         echo "Le dernier numéro de $name est déjà existant dans la base de donnée"
-    } else {
-        Write-Host "Autre erreur HTTP pour $url : $($_.Exception.Message)"
     }
 }
