@@ -94,36 +94,24 @@ $session_response = Invoke-RestMethod -Uri $session_url -Method Post -Headers $s
 $post_url = "https://bsky.social/xrpc/com.atproto.repo.createRecord"
 $token = $session_response.accessJwt
 $did = $session_response.did
-$text = "[$name] $title_blue
-
-$link"
-
-$start = $text.IndexOf($link)
-$end = $start + $link.Length
 
 $post_body = @{
 	"collection" = "app.bsky.feed.post"
 	"repo" = $did
 	"record" = @{
-		"text" = "$text"
-		"`$type" = "app.bsky.feed.post"
-		"createdAt" = Get-Date (Get-Date).ToUniversalTime() -UFormat '+%Y-%m-%dT%H:%M:%S.000Z'
-		"facets" = @( 
-			@{
-				"index" = @{
-					"byteStart" = $start
-					"byteEnd" = $end
-				}
-				"features" = @(
-					@{
-						"`$type" = "app.bsky.richtext.facet#link"
-						"uri" = "$link"
-					}
-				)
-			}
-		)
-	}
-} | ConvertTo-Json -Depth 5
+		"text" = "[$name] $title_blue"
+		createdAt = (Get-Date).ToString("o") 
+        embed = @{
+            '$type' = "app.bsky.embed.external"
+            external = @{
+                uri = "$link"
+				title = "$title_blue"
+				description = "$link"
+            }
+        }
+           
+    }
+} | ConvertTo-Json -Depth 10 
 
 $post_headers = @{
     "Authorization" = "Bearer $token"
