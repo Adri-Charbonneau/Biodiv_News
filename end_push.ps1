@@ -76,6 +76,48 @@ Lien : $link
 $tags"}
 Invoke-WebRequest -Uri "https://piaille.fr/api/v1/statuses" -Headers $mastodonheaders -Method Post -Form $mastodonform
 
+##### LINKEDIN #####
+$link_token = "$env:LINKEDIN"
+
+$headers = @{
+    "Authorization" = "Bearer $link_token"
+    "Content-Type"  = "application/json"
+    "X-Restli-Protocol-Version" = "2.0.0"
+}
+
+$link_body = @{
+    author = "urn:li:company:100237476"
+    lifecycleState = "PUBLISHED"
+    specificContent = @{
+        "com.linkedin.ugc.ShareContent" = @{
+            shareCommentary = @{
+                text = "[$name] $title
+				
+				$tags"
+            }
+            shareMediaCategory = "ARTICLE"
+            media = @(
+                @{
+                    status = "READY"
+                    description = @{
+                        text = "$title"
+                    }
+                    originalUrl = "$link"
+                    title = @{
+                        text = "🔗 Lien vers l'article"
+                    }
+                }
+            )
+        }
+    }
+    visibility = @{
+        "com.linkedin.ugc.MemberNetworkVisibility" = "PUBLIC"
+    }
+}
+
+$link_jsonBody = $link_body | ConvertTo-Json -Depth 10 -Compress
+Invoke-RestMethod -Uri "https://api.linkedin.com/v2/ugcPosts" -Method Post -Headers $headers -Body ([System.Text.Encoding]::UTF8.GetBytes($link_jsonBody))
+
 ##### BLUESKY #####
 $session_url = "https://bsky.social/xrpc/com.atproto.server.createSession"
 
@@ -105,7 +147,7 @@ $post_body = @{
             '$type' = "app.bsky.embed.external"
             external = @{
                 uri = "$link"
-				title = "$title_blue"
+				title = "🔗 Lien vers l'article"
 				description = "$link"
             }
         }

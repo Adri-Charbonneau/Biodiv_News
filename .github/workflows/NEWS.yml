@@ -12,6 +12,7 @@ env:
     BSKY_mail: ${{ secrets.BSKY_mail }}
     BSKY_pass: ${{ secrets.BSKY_pass }}
     BN_API_KEY: ${{ secrets.BN_API_KEY }}
+    LINKEDIN: ${{ secrets.LINKEDIN }}
 
 jobs:
   Update-news:
