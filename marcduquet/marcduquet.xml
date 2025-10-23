@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 20 Oct 2025 14:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Oct 2025 15:25:34 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,11 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Statut des pies-grièches de France (I) : la Pie-grièche écorcheur et la Pie-grièche à tête rousse</title>
+		<link>https://marcduquet.com/statut-des-pies-grieches-de-france-i-la-pie-grieche-ecorcheur-et-la-pie-grieche-a-tete-rousse/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 15:25:34 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Lanius collurio]]></category>
+		<category><![CDATA[Lanius senator]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Pies-grièches]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5459</guid>
+
+					<description><![CDATA[Le Plan National d’Actions 2025-2034 en faveur des pies-grièches (Hervé&#160;et al.&#160;2025) a été publié en avril 2025. Il fait le point sur le statut des cinq espèces nichant ou ayant niché en France, à savoir la Pie-grièche écorcheur, la Pie-grièche à tête rousse, la Pie-grièche grise, la Pie-grièche méridionale et la Pie-grièche à poitrine rose,...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>En direct des îles : automne 2025</title>
 		<link>https://marcduquet.com/en-direct-des-iles-automne-2025/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 07:02:00 +0000</pubDate>
+		<pubDate>Tue, 21 Oct 2025 07:02:00 +0000</pubDate>
 				<category><![CDATA[Observations]]></category>
 		<category><![CDATA[France]]></category>
 		<category><![CDATA[Raretés]]></category>
@@ -115,24 +135,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5043</guid>
 
 					<description><![CDATA[Par Jean-Pierre Toumazet Le 29&#160;juillet 2024, mon fils Lucas et moi avons observé et photographié le comportement étrange d’un Héron garde-bœufs à Lussat, dans la Creuse. Le petit héron est arrivé en vol et s’est posé à la surface de l’étang des Landes, avant de se mettre à nager tel un canard, ou plutôt un...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sauvegarde du Moineau friquet : deux exemples d’actions menées en France</title>
-		<link>https://marcduquet.com/sauvegarde-du-moineau-friquet-deux-exemples-dactions-menees-en-france/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 05 Oct 2025 08:18:50 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Conservation]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Passer montanus]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4803</guid>
-
-					<description><![CDATA[17/10/2025 : la partie relative à l&#8217;Aude a été mise à jour par Florian Escot. Par Florian Escot &#38; Gianni Enselme Le Moineau friquet a une vaste répartition couvrant toute l’Eurasie, des îles Britanniques et de la péninsule Ibérique jusqu’à l’extrême orient russe (Kamtchatka) et à l’Indonésie, pays dans lequel c’est l’un des passereaux les...]]></description>
 		
 		
 		
