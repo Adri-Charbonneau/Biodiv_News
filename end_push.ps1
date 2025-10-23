@@ -93,7 +93,7 @@ $link_body = @{
             shareCommentary = @{
                 text = "[$name] $title
 				
-				$tags"
+$tags"
             }
             shareMediaCategory = "ARTICLE"
             media = @(
