@@ -239,7 +239,33 @@ $auth_header = @{Authorization = "Bearer $token"}
 
 ## Encodage de l'url + Vérification du lien
 $encodeurl = [System.Web.HttpUtility]::UrlEncode($link)
-$data = Invoke-WebRequest -Uri "https://biodivnews.charbonneau.fr/api/v1/links?searchterm=$encodeurl" -Headers $auth_header | ConvertFrom-Json
+
+# Suite à des erreurs "sans raison", retentons en cas d'échec
+$maxRetries = 3
+$retryDelay = 2
+$attempt = 0
+$data = $null
+$success = $false
+
+while (-not $success -and $attempt -lt $maxRetries) {
+    $attempt++
+    Write-Host "Tentative $attempt sur $maxRetries..."
+
+    try {
+        $response = Invoke-WebRequest -Uri "https://biodivnews.charbonneau.fr/api/v1/links?searchterm=$encodeurl" -Headers $auth_header -ErrorAction Stop
+        $data = $response.Content | ConvertFrom-Json
+        $success = $true
+    }
+    catch {
+        Write-Warning "❌ Erreur lors de la tentative $attempt : $($_.Exception.Message)"
+        if ($attempt -lt $maxRetries) {
+            Write-Host "Nouvelle tentative dans $retryDelay secondes..."
+            Start-Sleep -Seconds $retryDelay
+        } else {
+            Write-Error "La requête a échoué après $maxRetries tentatives."
+        }
+    }
+}
 
 if ([string]::IsNullOrEmpty($data)) {
 	# Création du lien car inexistant
@@ -286,4 +312,27 @@ if ([string]::IsNullOrEmpty($data)) {
 }
 
 ##### ARCHIVE.ORG #####
-Invoke-WebRequest -Uri "https://web.archive.org/save/$link"
+# retentons en cas d'échec
+$maxRetries = 3
+$retryDelay = 2
+$attempt = 0
+$success = $false
+
+while (-not $success -and $attempt -lt $maxRetries) {
+    $attempt++
+    Write-Host "Tentative $attempt sur $maxRetries..."
+
+    try {
+        Invoke-WebRequest -Uri "https://web.archive.org/save/$link" -ErrorAction Stop
+        $success = $true
+    }
+    catch {
+        Write-Warning "❌ Erreur lors de la tentative $attempt : $($_.Exception.Message)"
+        if ($attempt -lt $maxRetries) {
+            Write-Host "Nouvelle tentative dans $retryDelay secondes..."
+            Start-Sleep -Seconds $retryDelay
+        } else {
+            Write-Error "La requête a échoué après $maxRetries tentatives."
+        }
+    }
+}
