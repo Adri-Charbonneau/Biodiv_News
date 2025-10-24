@@ -34,9 +34,9 @@ if ( $title.Length -ge 110 )
 }
 
 ## length of title for Bluesky
-if ( ($name.Length + $title.Length + $link.Length + 10) -ge 300 ) #10 = others characters in $text
+if ( ($name.Length + $title.Length + $tags.Length + 10) -ge 300 ) #10 = others characters in $text
 { 
-	$other_length = 300 - ($name.Length + $link.Length + 10)
+	$other_length = 300 - ($name.Length + $link.Length + $tags.Length + 10)
 	$title_blue = $title.Substring(0, $other_length)
 	$title_blue = -join($title_blue,"...")
 	}else{
@@ -137,12 +137,41 @@ $post_url = "https://bsky.social/xrpc/com.atproto.repo.createRecord"
 $token = $session_response.accessJwt
 $did = $session_response.did
 
+$text_blue = "[$name] $title_blue
+
+$tags"
+
+$tags_blue = @()
+$regex = '#\w+'
+
+foreach ($Match in [regex]::Matches($text_blue, $regex)) {
+    $charStart = $Match.Index
+    $charEnd   = $Match.Index + $Match.Length
+
+    $byteStart = [System.Text.Encoding]::UTF8.GetByteCount($text_blue.Substring(0, $charStart))
+    $byteEnd   = [System.Text.Encoding]::UTF8.GetByteCount($text_blue.Substring(0, $charEnd))
+
+    $tags_blue += [PSCustomObject]@{
+        index = @{
+            byteStart = $byteStart
+            byteEnd   = $byteEnd
+        }
+        features = @(
+            [PSCustomObject]@{
+                '$type' = 'app.bsky.richtext.facet#tag'
+                tag     = $Match.Value.TrimStart('#')
+            }
+        )
+    }
+}
+
 $post_body = @{
 	"collection" = "app.bsky.feed.post"
 	"repo" = $did
 	"record" = @{
 		"text" = "[$name] $title_blue"
-		createdAt = (Get-Date).ToString("o") 
+		createdAt = (Get-Date).ToString("o")
+		facets = $tags_blue
         embed = @{
             '$type' = "app.bsky.embed.external"
             external = @{
