@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 26 Oct 2025 12:05:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Oct 2025 11:05:43 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>En direct des îles : automne 2025</title>
+		<link>https://marcduquet.com/en-direct-des-iles-automne-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 08:02:00 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=4757</guid>
+
+					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de gags, des espèces toujours plus rares, ou, dans l’idéal, des premières...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Statut des pies-grièches de France (II) : la Pie-grièche grise et la Pie-grièche méridionale</title>
 		<link>https://marcduquet.com/statut-des-pies-grieches-de-france-ii-la-pie-grieche-grise-et-la-pie-grieche-meridionale/</link>
 		
@@ -63,22 +79,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5459</guid>
 
 					<description><![CDATA[Le Plan National d’Actions 2025-2034 en faveur des pies-grièches (Hervé&#160;et al.&#160;2025) a été publié en avril 2025. Il fait le point sur le statut des cinq espèces nichant ou ayant niché en France, à savoir la Pie-grièche écorcheur, la Pie-grièche à tête rousse, la Pie-grièche grise, la Pie-grièche méridionale et la Pie-grièche à poitrine rose,...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>En direct des îles : automne 2025</title>
-		<link>https://marcduquet.com/en-direct-des-iles-automne-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 07:02:00 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4757</guid>
-
-					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de gags, des espèces toujours plus rares, ou, dans l’idéal, des premières...]]></description>
 		
 		
 		
