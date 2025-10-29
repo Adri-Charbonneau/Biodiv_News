@@ -338,27 +338,4 @@ while (-not $success -and $attempt -lt $maxRetries) {
 }
 
 ##### ARCHIVE.PH #####
-# retentons en cas d'échec
-$maxRetries = 3
-$retryDelay = 2
-$attempt = 0
-$success = $false
-
-while (-not $success -and $attempt -lt $maxRetries) {
-    $attempt++
-    Write-Host "[ARCHIVE.PH] Tentative $attempt sur $maxRetries..."
-
-    try {
-		Invoke-WebRequest -Uri "https://archive.ph/submit/?url=$link" -ErrorAction Stop
-        $success = $true
-    }
-    catch {
-        Write-Warning "❌ Erreur lors de la tentative $attempt : $($_.Exception.Message)"
-        if ($attempt -lt $maxRetries) {
-            Write-Host "Nouvelle tentative dans $retryDelay secondes..."
-            Start-Sleep -Seconds $retryDelay
-        } else {
-            Write-Error "La requête a échoué après $maxRetries tentatives."
-        }
-    }
-}
+#Invoke-WebRequest -Uri "https://archive.ph/submit/?url=$link" -ErrorAction Stop
