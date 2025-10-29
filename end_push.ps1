@@ -311,7 +311,7 @@ if ([string]::IsNullOrEmpty($data)) {
 	Invoke-RestMethod -Uri "https://biodivnews.charbonneau.fr/api/v1/links/$id" -Method Put -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
 }
 
-##### ARCHIVE.ORG #####
+##### ARCHIVE.ORG et ARCHIVE.PH #####
 # retentons en cas d'échec
 $maxRetries = 3
 $retryDelay = 2
@@ -324,6 +324,7 @@ while (-not $success -and $attempt -lt $maxRetries) {
 
     try {
         Invoke-WebRequest -Uri "https://web.archive.org/save/$link" -ErrorAction Stop
+		Invoke-WebRequest -Uri "https://archive.ph/submit/?url=$link" -ErrorAction Stop
         $success = $true
     }
     catch {
