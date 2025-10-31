@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Thu, 16 Oct 2025 22:57:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Oct 2025 10:12:48 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Clinocerella arvernensis n. sp., une nouvelle espèce de Diptère pour la France et première citation du genre pour la France continentale (Diptera, Empididae)</title>
+		<link>https://ephemera.insectes.org/publication/clinocerella-arvernensis-n-sp-une-nouvelle-espece-de-diptere-pour-la-france-et-premiere-citation-du-genre-pour-la-france-continentale-diptera-empididae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 10:12:47 +0000</pubDate>
+				<category><![CDATA[Aquatic dance fly]]></category>
+		<category><![CDATA[clé d'identification.]]></category>
+		<category><![CDATA[identification key.]]></category>
+		<category><![CDATA[rivers]]></category>
+		<category><![CDATA[rivières]]></category>
+		<category><![CDATA[Roederiodes]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2278</guid>
+
+					<description><![CDATA[Une nouvelle espèce du genre Clinocerella (Diptera, Empididae), découverte en Auvergne en 2025, est décrite. L’espèce partage avec C. corsicana, C. oldenbergi et C. wagneri le deuxième tarsomère du métatarse de la patte postérieure deux fois plus long que le quatrième. Son édéage diffère de toutes ces espèces. Une actualisation de la clé de détermination [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Une nouvelle espèce du genre <em>Clinocerella</em> (Diptera, Empididae), découverte en Auvergne en 2025, est décrite. L’espèce partage avec <em>C</em>. <em>corsicana</em>, <em>C</em>. <em>oldenbergi</em> et <em>C</em>. <em>wagneri</em> le deuxième tarsomère du métatarse de la patte postérieure deux fois plus long que le quatrième. Son édéage diffère de toutes ces espèces. Une actualisation de la clé de détermination des espèces européennes appartenant aux genres <em>Clinocerella</em> et <em>Roederiodes</em> est proposée.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Écologie et biogéographie des Coléoptères des rivières du Liban : familles des Gyrinidae, Haliplidae, Noteridae, Dytiscidae, Helophoridae, Hydrochidae, Hydrophilidae et Dryopidae (Coleoptera)</title>
 		<link>https://ephemera.insectes.org/publication/ecologie-et-biogeographie-des-coleopteres-des-rivieres-du-liban-familles-des-gyrinidae-haliplidae-noteridae-dytiscidae-helophoridae-hydrochidae-hydrophilidae-et-dryopidae-coleoptera/</link>
 		
@@ -252,30 +274,6 @@
 
 
 <p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Clinocerella corsicana n. sp., une nouvelle espèce de Diptère de Corse (Diptera, Empididae)</title>
-		<link>https://ephemera.insectes.org/publication/clinocerella-corsicana-n-sp-une-nouvelle-espece-de-diptere-de-corse-diptera-empididae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 08:29:04 +0000</pubDate>
-				<category><![CDATA[Aquatic dance fly]]></category>
-		<category><![CDATA[clé d'identification.]]></category>
-		<category><![CDATA[identification key.]]></category>
-		<category><![CDATA[Mediterranean country]]></category>
-		<category><![CDATA[rivers]]></category>
-		<category><![CDATA[rivières]]></category>
-		<category><![CDATA[Roederiodes]]></category>
-		<category><![CDATA[zone méditerranéenne]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2160</guid>
-
-					<description><![CDATA[Une nouvelle espèce du genre Clinocerella (Diptera, Empididae), découverte en Corse en 2023, est décrite. L’espèce partage avec C. oldenbergi et C. wagneri un proboscis notablement allongé et un second tarsomère du métatarse de la patte postérieure deux fois plus long que le quatrième, mais son édéage est très différent.]]></description>
-										<content:encoded><![CDATA[
-<p>Une nouvelle espèce du genre <em>Clinocerella</em> (Diptera, Empididae), découverte en Corse en 2023, est décrite. L’espèce partage avec <em>C</em>. <em>oldenbergi</em> et <em>C</em>. <em>wagneri</em> un proboscis notablement allongé et un second tarsomère du métatarse de la patte postérieure deux fois plus long que le quatrième, mais son édéage est très différent.</p>
 ]]></content:encoded>
 					
 		
