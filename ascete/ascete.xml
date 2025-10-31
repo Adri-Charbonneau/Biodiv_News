@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Sun, 05 Oct 2025 18:10:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Oct 2025 22:18:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rencontres nationales Orthoptères et Entomocénotique</title>
+		<link>https://ascete.org/rencontres-nationales-orthopteres-et-entomocenotique/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 22:18:18 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3681</guid>
+
+					<description><![CDATA[Depuis plus de 30 ans, l’ASCETE œuvre à l’étude des Orthoptères de France et des pays francophones limitrophes ainsi qu’à celle des entomocénoses. L’association participe également à la diffusion des connaissances sur l’écologie, la répartition géographique et la systématique des orthoptères et des entomocénoses notamment par le biais de sa revue annuelle, « Matériaux Orthoptériques [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un ouvrage de référence sur l&#8217;acoustique des Ensifères à paraître prochainement</title>
 		<link>https://ascete.org/un-ouvrage-de-reference-sur-lacoustique-des-ensiferes-a-paraitre-prochainement/</link>
 		
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3495</guid>
 
 					<description><![CDATA[Bernard Defaut met gracieusement à disposition l&#8217;ensemble de ses relevés orthoptériques et entomocénotiques en téléchargement sous forme de fiches. La présentation des fiches est expliquée ici. Les fichiers « zip » suivants comprennent la localisation des relevés au format « kmz » et les fichiers pdf des relevés pour les départements suivants : Ariège (09) Aude (11) Gard (30) [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Atlas des Orthoptères, Mantes et Phasmes du Loiret : lancement des souscriptions</title>
-		<link>https://ascete.org/atlas-des-orthopteres-mantes-et-phasmes-du-loiret-lancement-des-souscriptions/</link>
-		
-		<dc:creator><![CDATA[Stéphane]]></dc:creator>
-		<pubDate>Wed, 07 Aug 2024 20:28:03 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3475</guid>
-
-					<description><![CDATA[Pour le règlement c&#8217;est ici]]></description>
 		
 		
 		
