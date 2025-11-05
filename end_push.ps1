@@ -252,7 +252,7 @@ while (-not $success -and $attempt -lt $maxRetries) {
     Write-Host "Tentative $attempt sur $maxRetries..."
 
     try {
-        $response = Invoke-WebRequest -Uri "https://biodivnews.charbonneau.fr/api/v1/links?searchterm=$encodeurl" -Headers $auth_header -ErrorAction Stop
+        $response = Invoke-WebRequest -Uri "https://biodivnews.chbn.fr/api/v1/links?searchterm=$encodeurl" -Headers $auth_header -ErrorAction Stop
         $data = $response.Content | ConvertFrom-Json
         $success = $true
     }
