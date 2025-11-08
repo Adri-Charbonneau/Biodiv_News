@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 01 Nov 2025 14:18:44 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Nov 2025 12:12:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Synthèse sur la nidification du Busard pâle en France et en Europe</title>
+		<link>https://marcduquet.com/synthese-sur-la-nidification-du-busard-pale-en-france-et-en-europe/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 08 Nov 2025 11:54:46 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Circus macrourus]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Rapaces]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5627</guid>
+
+					<description><![CDATA[Par Baptiste Boutilleux, Christian Boutrouille, Gaëtan Cavitte &#38; Michel Antoine Réglade Chaque printemps, le Groupe ornithologique et naturaliste (GON) assure la coordination d’un réseau de prospection et de suivi des couples de busards nicheurs dans les vastes plaines céréalières du Nord et du Pas-de-Calais. Ce suivi est également réalisé dans une grande partie de la...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 octobre 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-octobre-2025/</link>
 		
@@ -95,7 +114,7 @@
 		<category><![CDATA[Statut]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=5459</guid>
 
-					<description><![CDATA[1/11/2025 : le statut de la Pie-grièche écorcheur dans le Nord et le Pas-de-Calais a été mis à jour… Le Plan National d’Actions 2025-2034 en faveur des pies-grièches (Hervé&#160;et al.&#160;2025) a été publié en avril 2025. Il fait le point sur le statut des cinq espèces nichant ou ayant niché en France, à savoir la...]]></description>
+					<description><![CDATA[3/11/2025 : le statut de la Pie-grièche écorcheur en Bretagne a été mis à jour… Le Plan National d’Actions 2025-2034 en faveur des pies-grièches (Hervé&#160;et al.&#160;2025) a été publié en avril 2025. Il fait le point sur le statut des cinq espèces nichant ou ayant niché en France, à savoir la Pie-grièche écorcheur, la Pie-grièche...]]></description>
 		
 		
 		
@@ -113,25 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5283</guid>
 
 					<description><![CDATA[La première semaine de cette quinzaine a été assez calme, mais s’est achevée en fanfare avec une arrivée de passereaux néarctiques à la pointe bretonne&#160;– une&#160;Paruline rayée&#160;à la pointe du Raz, trois&#160;Pipits d’Amérique&#160;et deux&#160;Viréos à œil rouge&#160;à Ouessant et une&#160;Grive à dos olive&#160;à Molène. Hélas, le miracle a été de courte durée, malgré l’important afflux...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Un peu de répit pour le Puffin des Baléares</title>
-		<link>https://marcduquet.com/un-peu-de-repit-pour-le-puffin-des-baleares/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 10 Oct 2025 08:22:25 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Puffins]]></category>
-		<category><![CDATA[Puffinus mauretanicus]]></category>
-		<category><![CDATA[Puffinus yelkouan]]></category>
-		<category><![CDATA[Taxonomie]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5174</guid>
-
-					<description><![CDATA[Suite à la publication de&#160;Ferrer Obiol&#160;et al.&#160;(2023) qui proposait de refusionner le Puffin des Baléares et le Puffin yelkouan en une seule espèce, sur la base d’une analyse génétique, voici un article fraîchement publié qui vient contrecarrer l’approche et la conclusion de ces auteurs. Notamment en critiquant l’analyse génétique effectuée sur une portion trop limitée...]]></description>
 		
 		
 		
