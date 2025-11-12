@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 08 Nov 2025 12:12:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Nov 2025 21:06:34 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les alcidés du Pacifique vus dans l’Atlantique</title>
+		<link>https://marcduquet.com/les-alcides-du-pacifique-vus-dans-latlantique/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 21:06:34 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Alcidés]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=3529</guid>
+
+					<description><![CDATA[Article mis à jour le 25/11/2025, suite à l&#8217;observation d&#8217;un Macareux huppé en juillet 2025 à Saint-Pierre-et-Miquelon ! Suite à l’observation d’un&#160;Guillemot à cou blanc&#160;en Islande, j’ai recherché les données d’alcidés du Pacifique observés dans l’Atlantique Nord dont il existe une trace dans la littérature ornithologique afin d’en faire la synthèse. Au total, cela concerne...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Synthèse sur la nidification du Busard pâle en France et en Europe</title>
 		<link>https://marcduquet.com/synthese-sur-la-nidification-du-busard-pale-en-france-et-en-europe/</link>
 		
@@ -115,23 +133,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5459</guid>
 
 					<description><![CDATA[3/11/2025 : le statut de la Pie-grièche écorcheur en Bretagne a été mis à jour… Le Plan National d’Actions 2025-2034 en faveur des pies-grièches (Hervé&#160;et al.&#160;2025) a été publié en avril 2025. Il fait le point sur le statut des cinq espèces nichant ou ayant niché en France, à savoir la Pie-grièche écorcheur, la Pie-grièche...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 octobre 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-octobre-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 07:14:30 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5283</guid>
-
-					<description><![CDATA[La première semaine de cette quinzaine a été assez calme, mais s’est achevée en fanfare avec une arrivée de passereaux néarctiques à la pointe bretonne&#160;– une&#160;Paruline rayée&#160;à la pointe du Raz, trois&#160;Pipits d’Amérique&#160;et deux&#160;Viréos à œil rouge&#160;à Ouessant et une&#160;Grive à dos olive&#160;à Molène. Hélas, le miracle a été de courte durée, malgré l’important afflux...]]></description>
 		
 		
 		
