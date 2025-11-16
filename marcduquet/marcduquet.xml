@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 12 Nov 2025 21:06:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Nov 2025 10:21:37 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 novembre 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-novembre-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 16 Nov 2025 10:21:37 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5692</guid>
+
+					<description><![CDATA[Au cours de cette quinzaine, c’est en Gironde qu’il fallait être, le département ayant accueilli un&#160;Fou brun adulte, un&#160;Busard d’Amérique&#160;mâle, un&#160;Traquet du désert&#160;mâle, un&#160;Pouillot brun&#160;et une dizaine de&#160;Pouillots de Pallas, dont 7&#160;le même jour&#160;! En Île-de-France, c’est un&#160;Vanneau sociable&#160;qui a attiré les ornithos dans les Yvelines, où une&#160;Guifette leucoptère&#160;adulte nuptiale s’attardait, tandis que l’Aigle des...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les alcidés du Pacifique vus dans l’Atlantique</title>
 		<link>https://marcduquet.com/les-alcides-du-pacifique-vus-dans-latlantique/</link>
 		
@@ -113,26 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5481</guid>
 
 					<description><![CDATA[Suite à un premier&#160;article&#160;présentant le statut et l’état de santé des populations françaises de la Pie-grièche écorcheur et de la Pie-grièche à tête rousse, ce second volet traitera des deux grandes pies-grièches «grises», à savoir la Pie-grièche grise et la Pie-grièche méridionale. Il repose en grande partie sur le Plan National d’Actions 2025-2034 en faveur...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Statut des pies-grièches de France (I) : la Pie-grièche écorcheur et la Pie-grièche à tête rousse</title>
-		<link>https://marcduquet.com/statut-des-pies-grieches-de-france-i-la-pie-grieche-ecorcheur-et-la-pie-grieche-a-tete-rousse/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 15:25:34 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Lanius collurio]]></category>
-		<category><![CDATA[Lanius senator]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Pies-grièches]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5459</guid>
-
-					<description><![CDATA[3/11/2025 : le statut de la Pie-grièche écorcheur en Bretagne a été mis à jour… Le Plan National d’Actions 2025-2034 en faveur des pies-grièches (Hervé&#160;et al.&#160;2025) a été publié en avril 2025. Il fait le point sur le statut des cinq espèces nichant ou ayant niché en France, à savoir la Pie-grièche écorcheur, la Pie-grièche...]]></description>
 		
 		
 		
