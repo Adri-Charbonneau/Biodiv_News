@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 16 Nov 2025 10:21:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Nov 2025 18:29:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>La Pie-grièche à poitrine rose en France : jadis répandue, aujourd’hui disparue</title>
+		<link>https://marcduquet.com/la-pie-grieche-a-poitrine-rose-en-france-jadis-repandue-aujourdhui-disparue/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 18:29:26 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Lanius minor]]></category>
+		<category><![CDATA[Pies-grièches]]></category>
+		<category><![CDATA[Population]]></category>
+		<category><![CDATA[Répartition]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5833</guid>
+
+					<description><![CDATA[Après les publications relatives, d’une part aux&#160;Pies-grièches écorcheur et à tête rousse, et d’autre part aux&#160;Pies-grièches grise et méridionale, cet ultime article consacré aux pies-grièches de France traitera de la répartition historique, du déclin et de la disparition récente de la Pie-grièche à poitrine rose&#160;Lanius minor&#160;en tant qu’espèce nicheuse dans notre pays. I&#160;–&#160;Répartition mondiale&#160; La...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 novembre 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-novembre-2025/</link>
 		
@@ -110,26 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=4757</guid>
 
 					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de gags, des espèces toujours plus rares, ou, dans l’idéal, des premières...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Statut des pies-grièches de France (II) : la Pie-grièche grise et la Pie-grièche méridionale</title>
-		<link>https://marcduquet.com/statut-des-pies-grieches-de-france-ii-la-pie-grieche-grise-et-la-pie-grieche-meridionale/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 26 Oct 2025 11:22:47 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Lanius excubitor]]></category>
-		<category><![CDATA[Lanius meridionalis]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Pies-grièches]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5481</guid>
-
-					<description><![CDATA[Suite à un premier&#160;article&#160;présentant le statut et l’état de santé des populations françaises de la Pie-grièche écorcheur et de la Pie-grièche à tête rousse, ce second volet traitera des deux grandes pies-grièches «grises», à savoir la Pie-grièche grise et la Pie-grièche méridionale. Il repose en grande partie sur le Plan National d’Actions 2025-2034 en faveur...]]></description>
 		
 		
 		
