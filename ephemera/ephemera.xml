@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Fri, 31 Oct 2025 10:12:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Nov 2025 09:04:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Inventaire des Chironomidae du département de l’Indre-et-Loire (France). I. Liste annotée des taxons-espèces recensés en 2017 (Diptera)</title>
+		<link>https://ephemera.insectes.org/publication/inventaire-des-chironomidae-du-departement-de-lindre-et-loire-france-i-liste-annotee-des-taxons-especes-recenses-en-2017-diptera/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 09:04:10 +0000</pubDate>
+				<category><![CDATA[adultes collectés par tente Malaise]]></category>
+		<category><![CDATA[adults collected by Malaise traps]]></category>
+		<category><![CDATA[Centre-Val-de-Loire region]]></category>
+		<category><![CDATA[Chironomidae new for France]]></category>
+		<category><![CDATA[Chironomidae nouveaux pour la France]]></category>
+		<category><![CDATA[ecological zones]]></category>
+		<category><![CDATA[Région Centre-Val-de-Loire]]></category>
+		<category><![CDATA[zones écologiques]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2288</guid>
+
+					<description><![CDATA[Près de 15 000 adultes de Chironomidae ont été collectés exclusivement au moyen de tentes Malaise placées de 2015 et 2017 à de nombreux sites du département de l’Indre-et-Loire (France). Au total, 465 taxons-espèces, répartis sur 114 genres, ont été inventoriés dont 370 espèces nouvelles pour ce département. Parmi elles, 16 sont potentiellement nouvelles pour [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Près de 15 000 adultes de Chironomidae ont été collectés exclusivement au moyen de tentes Malaise placées de 2015 et 2017 à de nombreux sites du département de l’Indre-et-Loire (France). Au total, 465 taxons-espèces, répartis sur 114 genres, ont été inventoriés dont 370 espèces nouvelles pour ce département. Parmi elles, 16 sont potentiellement nouvelles pour la France et 12 ne sont pas encore décrites. Trois sous-familles sont particulièrement bien représentées avec une large diversité spécifique : Tanypodinae (27 genres, 53 espèces), Orthocladiinae (43, 199), Chironominae (37, 203). La typologie des habitats situés à proximité des tentes Malaise a permis d’identifier cinq zones écologiques (ZE) : 1 (sources), 2 (rhithral), 3 (potamal), 4 (lacs, étangs, mares, marais, fossés, tourbières) et 5 (habitats semi-terrestres, forestiers). Cet inventaire complète significativement une première liste des espèces d’Indre-et-Loire (Garcia &amp; Laville 2000a, 2000b) qui faisait état de 117 taxons dont 102 espèces valides pour 52 genres. Des données écologiques et biotypologiques complémentaires sont également fournies. Elles permettent de préciser et souligner spécifiquement la distribution de quelques espèces remarquables. La nouvelle espèce <em>Harnischia</em> sp. A est également présente en Espagne. Une photo de son hypopyge est fournie.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Clinocerella arvernensis n. sp., une nouvelle espèce de Diptère pour la France et première citation du genre pour la France continentale (Diptera, Empididae)</title>
 		<link>https://ephemera.insectes.org/publication/clinocerella-arvernensis-n-sp-une-nouvelle-espece-de-diptere-pour-la-france-et-premiere-citation-du-genre-pour-la-france-continentale-diptera-empididae/</link>
 		
@@ -249,31 +273,6 @@
 					<description><![CDATA[La localité type d’Hydroptila stellifera Morton, 1893 est située en Italie, dans la région Toscane, province de Pistoia, au nord de la ville de Florence. Les premières captures de l’espèce ont été effectuées le 27 juillet 1882 et le 5 août (année non précisée). Elles concernent 5 mâles et 5 femelles (Morton 1893, Kimmins 1957).]]></description>
 										<content:encoded><![CDATA[
 <p>La localité type d’<em>Hydroptila stellifera </em>Morton, 1893 est située en Italie, dans la région Toscane, province de Pistoia, au nord de la ville de Florence. Les premières captures de l’espèce ont été effectuées le 27 juillet 1882 et le 5 août (année non précisée). Elles concernent 5 mâles et 5 femelles (Morton 1893, Kimmins 1957).</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Corrections à la liste de la faune de France des Limoniidae et Pediciidae (Diptera, Nematocera)</title>
-		<link>https://ephemera.insectes.org/publication/corrections-a-la-liste-de-la-faune-de-france-des-limoniidae-et-pediciidae-diptera-nematocera/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 15:40:09 +0000</pubDate>
-				<category><![CDATA[distribution]]></category>
-		<category><![CDATA[inventaire national]]></category>
-		<category><![CDATA[national inventory]]></category>
-		<category><![CDATA[Tipuloidea]]></category>
-		<category><![CDATA[Tipulomorpha]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2173</guid>
-
-					<description><![CDATA[Lors de la compilation des données anciennes relatives aux familles des Limoniidae et Pediciidae, certaines erreurs dans la liste élaborée pour la France ont été mises en évidence et sont ici corrigées. Les données de onze espèces citées reposent sur des erreurs de retranscription, de détermination ou des imprécisions topographiques. Sont donc retirées de la [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="has-contrast-color has-text-color has-link-color wp-elements-3aa7be0f75aa6c45b610169b2d4266a5">Lors de la compilation des données anciennes relatives aux familles des Limoniidae et Pediciidae, certaines erreurs dans la liste élaborée pour la France ont été mises en évidence et sont ici corrigées. Les données de onze espèces citées reposent sur des erreurs de retranscription, de détermination ou des imprécisions topographiques. Sont donc retirées de la liste de la faune de France : <em>Dicranomyia frontalis</em> (Staeger, 1840), <em>Dicranomyia melleicauda</em> <em>complicata</em> de Meijere, 1918, <em>Dicranomyia ommissinervis</em> de Meijere, 1918, <em>Dicranomyia rufiventris</em> (Strobl, 1901), <em>Erioptera limbata </em>Loew, 1873, <em>Gnophomyia lugubris</em> (Zetterstedt, 1838), <em>Idioptera linnei </em>Oosterbroek, 1992, <em>Ormosia aciculata</em> Edwards, 1921, <em>Phylidorea nervosa</em> (Schummel, 1829) pour les Limoniidae; <em>Dicranota reitteri</em> Mik, 1882 et <em>Dicranota robusta</em> Lundström, 1912 pour les Pediciidae. La liste actualisée de la faune de France pour ces deux familles est présentée.</p>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		
