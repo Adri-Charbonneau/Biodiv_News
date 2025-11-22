@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Fri, 31 Oct 2025 22:18:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 22 Nov 2025 20:32:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le volume 30 des MOE à paraître prochainement</title>
+		<link>https://ascete.org/sommaire-du-prochain-moe-30-a-paraitre-prochainement/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Sat, 22 Nov 2025 20:31:21 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3719</guid>
+
+					<description><![CDATA[Le prochain tome des Matériaux Orthoptériques et Entomocénotiques est sur le point d&#8217;être imprimé. Il est donc encore temps de vous abonner si vous ne l&#8217;avez pas encore fait ! Pour rappel, le prix de l&#8217;abonnement, incluant l&#8217;adhésion à l&#8217;association, est de 25€ (France), 28€ (UE et Suisse), 30€ (hors UE). Voici le sommaire provisoire, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rencontres nationales Orthoptères et Entomocénotique</title>
 		<link>https://ascete.org/rencontres-nationales-orthopteres-et-entomocenotique/</link>
 		
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3510</guid>
 
 					<description><![CDATA[Chères adhérentes, chers adhérents, L&#8217;ASCETE vous souhaite une belle année 2025. L&#8217;occasion de retracer les temps forts de l&#8217;association en 2024 : En mars, l&#8217;ASCETE était présente aux 𝐫𝐞𝐧𝐜𝐨𝐧𝐭𝐫𝐞𝐬 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐢𝐬𝐭𝐞𝐬 𝐝&#8217;𝐎𝐜𝐜𝐢𝐭𝐚𝐧𝐢𝐞 𝐨𝐫𝐠𝐚𝐧𝐢𝐬𝐞́𝐞 𝐩𝐚𝐫 𝐎𝐂𝐍𝐀𝐓, l&#8217;Union des Associations Naturalistes d&#8217;Occitanie : vente de numéros, interventions sur quelques présentations comme l&#8217;effet de l&#8217;écobuage sur les communautés de [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Relevés orthoptériques et entomocénotiques de B. Defaut</title>
-		<link>https://ascete.org/releves-orthopteriques-et-entomocenotique-de-b-defaut/</link>
-		
-		<dc:creator><![CDATA[Stéphane]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 20:37:09 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3495</guid>
-
-					<description><![CDATA[Bernard Defaut met gracieusement à disposition l&#8217;ensemble de ses relevés orthoptériques et entomocénotiques en téléchargement sous forme de fiches. La présentation des fiches est expliquée ici. Les fichiers « zip » suivants comprennent la localisation des relevés au format « kmz » et les fichiers pdf des relevés pour les départements suivants : Ariège (09) Aude (11) Gard (30) [&#8230;]]]></description>
 		
 		
 		
