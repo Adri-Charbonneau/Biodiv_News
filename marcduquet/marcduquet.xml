@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 18 Nov 2025 18:29:27 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Nov 2025 17:02:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le livre « Habitats of Europe »</title>
+		<link>https://marcduquet.com/le-livre-habitats-of-europe/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 23 Nov 2025 17:02:53 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Habitats]]></category>
+		<category><![CDATA[Livres]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5887</guid>
+
+					<description><![CDATA[Les éditions Princeton University Press ont publié en septembre 2021, un ouvrage intitulé&#160;Habitats of the World, écrit par Iain Campbell, Ken Behrens, Charley Hesse &#38; Phil Chaon, qui décrivait 189 habitats parmi les plus représentatifs de notre planète. Mais pour présenter à l’échelle régionale les quelque 545 habitats répartis sur les sept continents et composant...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>La Pie-grièche à poitrine rose en France : jadis répandue, aujourd’hui disparue</title>
 		<link>https://marcduquet.com/la-pie-grieche-a-poitrine-rose-en-france-jadis-repandue-aujourdhui-disparue/</link>
 		
@@ -115,22 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5559</guid>
 
 					<description><![CDATA[Parmi les oiseaux remarquables de cette quinzaine, citons un&#160;Océanite de Castro&#160;à Sein, un&#160;Aigle des steppes&#160;à la pointe bretonne, un&#160;Bruant masqué&#160;(ou deux&#160;?) à Ouessant et un autre sur l’île de Noirmoutier, une&#160;Fauvette épervière&#160;et une&#160;Grive à dos olive&#160;à Ouessant, et une&#160;Guifette leucoptère&#160;en plumage nuptial dans les Yvelines. Un petit afflux de&#160;Bouvreuils pivoines nordiques (« trompetteurs ») et...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>En direct des îles : automne 2025</title>
-		<link>https://marcduquet.com/en-direct-des-iles-automne-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 01 Nov 2025 11:10:50 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=4757</guid>
-
-					<description><![CDATA[Chaque automne, une compétition amicale s’engage entre les ornithos inconditionnels de l’île d’Ouessant (Finistère), au large de Brest, et ceux qui lui préfèrent la petite île de Sein (Finistère), à la pointe du Raz, les uns et les autres s’évertuant à trouver plus de gags, des espèces toujours plus rares, ou, dans l’idéal, des premières...]]></description>
 		
 		
 		
