@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 23 Nov 2025 17:02:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Nov 2025 10:26:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Pourquoi voit-on de plus en plus d’Ibis falcinelles en France (et en Europe de l’Ouest) ?</title>
+		<link>https://marcduquet.com/pourquoi-voit-on-de-plus-en-plus-dibis-falcinelles-en-france-et-en-europe-de-louest/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 10:26:10 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Afflux]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Plegadis falcinellus]]></category>
+		<category><![CDATA[Portugal]]></category>
+		<category><![CDATA[Répartition]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5931</guid>
+
+					<description><![CDATA[Par Philippe J. Dubois Lors d’un séjour au Portugal début novembre 2025, j’ai eu l’occasion de visiter l’EVOA&#160;(Espaço de Visitação e Observação de Aves), dans la réserve naturelle de l’estuaire du Tage, non loin de Lisbonne. Le cœur du site se compose de quelques pièces d’eau, où hivernent à cette époque de l’année de très...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le livre « Habitats of Europe »</title>
 		<link>https://marcduquet.com/le-livre-habitats-of-europe/</link>
 		
@@ -115,23 +135,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5627</guid>
 
 					<description><![CDATA[Par Baptiste Boutilleux, Christian Boutrouille, Gaëtan Cavitte &#38; Michel Antoine Réglade Chaque printemps, le Groupe ornithologique et naturaliste (GON) assure la coordination d’un réseau de prospection et de suivi des couples de busards nicheurs dans les vastes plaines céréalières du Nord et du Pas-de-Calais. Ce suivi est également réalisé dans une grande partie de la...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 octobre 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-octobre-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 01 Nov 2025 13:27:46 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5559</guid>
-
-					<description><![CDATA[Parmi les oiseaux remarquables de cette quinzaine, citons un&#160;Océanite de Castro&#160;à Sein, un&#160;Aigle des steppes&#160;à la pointe bretonne, un&#160;Bruant masqué&#160;(ou deux&#160;?) à Ouessant et un autre sur l’île de Noirmoutier, une&#160;Fauvette épervière&#160;et une&#160;Grive à dos olive&#160;à Ouessant, et une&#160;Guifette leucoptère&#160;en plumage nuptial dans les Yvelines. Un petit afflux de&#160;Bouvreuils pivoines nordiques (« trompetteurs ») et...]]></description>
 		
 		
 		
