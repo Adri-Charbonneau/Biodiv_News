@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Thu, 16 Oct 2025 04:21:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Nov 2025 05:10:07 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chronique d’une disparition : le cas de Nehalennia speciosa (Charpentier, 1840) en Franche-Comté, seule station française contemporaine (Odonata : Coenagrionidae)</title>
+		<link>https://martinia.insectes.org/chronique-dune-disparition-le-cas-de-emnehalennia-speciosa-em-charpentier-1840-en-franche-comte-seule-station-francaise-contemporaine-odonata-coenagrionidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 27 Nov 2025 05:10:07 +0000</pubDate>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[canicule]]></category>
+		<category><![CDATA[Déesse précieuse]]></category>
+		<category><![CDATA[drought]]></category>
+		<category><![CDATA[dynamics]]></category>
+		<category><![CDATA[dynamique]]></category>
+		<category><![CDATA[excessive frequentation]]></category>
+		<category><![CDATA[extinction locale]]></category>
+		<category><![CDATA[heatwave]]></category>
+		<category><![CDATA[Jura]]></category>
+		<category><![CDATA[local extinction]]></category>
+		<category><![CDATA[peat bog]]></category>
+		<category><![CDATA[pygmy damselfly]]></category>
+		<category><![CDATA[sécheresse]]></category>
+		<category><![CDATA[surfréquentation]]></category>
+		<category><![CDATA[tourbière]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=6948</guid>
+
+					<description><![CDATA[Auteur(s) :Doucet Guillaume, Itrac-Bruneau Raphaëlle, Mora Frédéric, Dehondt François &#038; Durlet Pierre Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>De nouveaux éléments sur l’écologie de  Nothodiplax dendrophila  Belle, 1984, en Guyane (Odonata : Libellulidae)</title>
 		<link>https://martinia.insectes.org/de-nouveaux-elements-sur-lecologie-de-em-nothodiplax-dendrophila-em-belle-1984-en-guyane-odonata-libellulidae/</link>
 		
@@ -59,8 +88,8 @@
 		<category><![CDATA[Doubs]]></category>
 		<category><![CDATA[Franche-Comté]]></category>
 		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[Révision]]></category>
 		<category><![CDATA[Revision]]></category>
+		<category><![CDATA[Révision]]></category>
 		<category><![CDATA[Stylurus flavipes]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6700</guid>
 
@@ -99,8 +128,8 @@
 		<category><![CDATA[Anax parthenope]]></category>
 		<category><![CDATA[cerci]]></category>
 		<category><![CDATA[cerques]]></category>
-		<category><![CDATA[predation]]></category>
 		<category><![CDATA[prédation]]></category>
+		<category><![CDATA[predation]]></category>
 		<category><![CDATA[reproduction]]></category>
 		<category><![CDATA[sensilla]]></category>
 		<category><![CDATA[sensilles]]></category>
@@ -224,28 +253,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6001</guid>
 
 					<description><![CDATA[Boyeria irene (Fonscolombe, 1838) est un odonate considéré comme étant essentiellement inféodé aux cours d’eau (Dommanget, 1987 ; Wildermuth, 2005 ; Wildermuth &#38; Martens, 2019). Très peu d’observations en milieu lentique sont rapportées par les naturalistes. Des populations autochtones sont néanmoins connues sur plusieurs lacs préalpins et alpins en Suisse et en Allemagne depuis plusieurs [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cinétique d’émergence, sex-ratio, estimation de la taille des populations et éléments sur la phénologie d’Aeshna subarctica elisabethae Djakonov, 1922 sur deux tourbières de la Réserve Naturelle Nationale des Ballons-Comtois (Odonata : Aeshnidae)</title>
-		<link>https://martinia.insectes.org/cinetique-demergence-sex-ratio-estimation-de-la-taille-des-populations-et-elements-sur-la-phenologie-demaeshna-subarctica-elisabethae-em-djakonov-1922-sur-deux-tourbiere/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Thu, 16 Jan 2025 07:48:00 +0000</pubDate>
-				<category><![CDATA[Article]]></category>
-		<category><![CDATA[Bog Hawker]]></category>
-		<category><![CDATA[Bourgogne-Franche-Comté]]></category>
-		<category><![CDATA[dynamic]]></category>
-		<category><![CDATA[dynamique]]></category>
-		<category><![CDATA[Exuviae]]></category>
-		<category><![CDATA[exuvie]]></category>
-		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[Subarctic Darner]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=5845</guid>
-
-					<description><![CDATA[Auteur(s) :Doucet Guillaume &#038; Coulette Sébastien Numérotation : Type de publication : Article]]></description>
 		
 		
 		
