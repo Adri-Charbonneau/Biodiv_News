@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Thu, 20 Nov 2025 09:04:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Nov 2025 09:03:03 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et régions proches : répartition, habitats et altérations des biotopes (Ephemeroptera, Ameletidae)</title>
+		<link>https://ephemera.insectes.org/publication/metreletus-balcanicus-ulmer-1920-dans-le-departement-des-ardennes-et-regions-proches-repartition-habitats-et-alterations-des-biotopes-ephemeroptera-ameletidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Fri, 28 Nov 2025 09:03:02 +0000</pubDate>
+				<category><![CDATA[cartographie des données]]></category>
+		<category><![CDATA[chronologie des collectes]]></category>
+		<category><![CDATA[data mapping]]></category>
+		<category><![CDATA[dégradation des habitats.]]></category>
+		<category><![CDATA[degradation of natural habitats.]]></category>
+		<category><![CDATA[inventaire national]]></category>
+		<category><![CDATA[national inventory]]></category>
+		<category><![CDATA[Nord-Est de la France]]></category>
+		<category><![CDATA[northeast of France]]></category>
+		<category><![CDATA[sampling chronology]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2296</guid>
+
+					<description><![CDATA[Des collectes ciblées ou aléatoires de Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et les régions limitrophes depuis trois décennies, permettent de dresser un bilan de la distribution régionale, la biologie et l’écologie de cette espèce. Des observations sur la dégradation des habitats par diverses activités anthropiques sont également données et témoignent de [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Des collectes ciblées ou aléatoires de Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et les régions limitrophes depuis trois décennies, permettent de dresser un bilan de la distribution régionale, la biologie et l’écologie de cette espèce. Des observations sur la dégradation des habitats par diverses activités anthropiques sont également données et témoignent de la fragilité grandissante de cet éphémère.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Inventaire des Chironomidae du département de l’Indre-et-Loire (France). I. Liste annotée des taxons-espèces recensés en 2017 (Diptera)</title>
 		<link>https://ephemera.insectes.org/publication/inventaire-des-chironomidae-du-departement-de-lindre-et-loire-france-i-liste-annotee-des-taxons-especes-recenses-en-2017-diptera/</link>
 		
@@ -252,27 +282,6 @@
 					<description><![CDATA[Au cours de mes vacances dans les Ballons des Vosges (Est de la France), j’ai inventorié un grand nombre de Diptères associés aux ruisseaux. Le 16 juillet 2023, à proximité des sources du Ruisseau d’Altenbach au lieu-dit Baerenbach (Réserve naturelle nationale de Frankenthal-Missheimle, commune de Stosswihr, 68329, dans le département du Haut-Rhin ; Photo 1), j’y [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Au cours de mes vacances dans les Ballons des Vosges (Est de la France), j’ai inventorié un grand nombre de Diptères associés aux ruisseaux. Le 16 juillet 2023, à proximité des sources du Ruisseau d’Altenbach au lieu-dit Baerenbach (Réserve naturelle nationale de Frankenthal-Missheimle, commune de Stosswihr, 68329, dans le département du Haut-Rhin ; Photo 1), j’y ai notamment trouvé <em>Hydrellia fulviceps</em> (Stenhammar, 1844), espèce jamais citée en France.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles observations d’Hydroptila stellifera Morton, 1893 en France et description des genitalia de la femelle (Trichoptera, Hydroptilidae)</title>
-		<link>https://ephemera.insectes.org/publication/nouvelles-observations-dhydroptila-stellifera-morton-1893-en-france-et-description-des-genitalia-de-la-femelle-trichoptera-hydroptilidae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Thu, 05 Jun 2025 09:26:07 +0000</pubDate>
-				<category><![CDATA[Alpes-Maritimes (Sud-Est France)]]></category>
-		<category><![CDATA[Alpes-Maritimes department (SE-France)]]></category>
-		<category><![CDATA[Caddisflies]]></category>
-		<category><![CDATA[inventaire national]]></category>
-		<category><![CDATA[national inventory]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2177</guid>
-
-					<description><![CDATA[La localité type d’Hydroptila stellifera Morton, 1893 est située en Italie, dans la région Toscane, province de Pistoia, au nord de la ville de Florence. Les premières captures de l’espèce ont été effectuées le 27 juillet 1882 et le 5 août (année non précisée). Elles concernent 5 mâles et 5 femelles (Morton 1893, Kimmins 1957).]]></description>
-										<content:encoded><![CDATA[
-<p>La localité type d’<em>Hydroptila stellifera </em>Morton, 1893 est située en Italie, dans la région Toscane, province de Pistoia, au nord de la ville de Florence. Les premières captures de l’espèce ont été effectuées le 27 juillet 1882 et le 5 août (année non précisée). Elles concernent 5 mâles et 5 femelles (Morton 1893, Kimmins 1957).</p>
 ]]></content:encoded>
 					
 		
