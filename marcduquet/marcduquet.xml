@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 26 Nov 2025 10:26:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Dec 2025 11:36:31 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-30 novembre 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-30-novembre-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2025 11:36:31 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5959</guid>
+
+					<description><![CDATA[Une quinzaine assez calme sur le plan des oiseaux rares. Toutefois, le département de la Gironde s’illustre une nouvelle fois, avec un&#160;Pipit à dos olive&#160;en chair et en os, tandis que le&#160;Busard d’Amérique&#160;est toujours là. De plus, un nouveau&#160;Bruant masqué&#160;a été capturé en Vendée et quelques&#160;Pouillots de Pallas&#160;et&#160;de Hume&#160;ont encore été observés, principalement sur la...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Pourquoi voit-on de plus en plus d’Ibis falcinelles en France (et en Europe de l’Ouest) ?</title>
 		<link>https://marcduquet.com/pourquoi-voit-on-de-plus-en-plus-dibis-falcinelles-en-france-et-en-europe-de-louest/</link>
 		
@@ -116,25 +133,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=3529</guid>
 
 					<description><![CDATA[Article mis à jour le 25/11/2025, suite à l&#8217;observation d&#8217;un Macareux huppé en juillet 2025 à Saint-Pierre-et-Miquelon ! Suite à l’observation d’un&#160;Guillemot à cou blanc&#160;en Islande, j’ai recherché les données d’alcidés du Pacifique observés dans l’Atlantique Nord dont il existe une trace dans la littérature ornithologique afin d’en faire la synthèse. Au total, cela concerne...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Synthèse sur la nidification du Busard pâle en France et en Europe</title>
-		<link>https://marcduquet.com/synthese-sur-la-nidification-du-busard-pale-en-france-et-en-europe/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 08 Nov 2025 11:54:46 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Circus macrourus]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Rapaces]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5627</guid>
-
-					<description><![CDATA[Par Baptiste Boutilleux, Christian Boutrouille, Gaëtan Cavitte &#38; Michel Antoine Réglade Chaque printemps, le Groupe ornithologique et naturaliste (GON) assure la coordination d’un réseau de prospection et de suivi des couples de busards nicheurs dans les vastes plaines céréalières du Nord et du Pas-de-Calais. Ce suivi est également réalisé dans une grande partie de la...]]></description>
 		
 		
 		
