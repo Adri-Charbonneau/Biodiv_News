@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Tue, 09 Dec 2025 10:15:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Dec 2025 17:07:30 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Chaetocladius tenuistylus Brundin, 1947et Cricotopus (Paratrichocladius) guidalii (Rossaro, 1990), deux espèces nouvelles pour la faune de France (Diptera, Chironomidae)</title>
+		<title>Chaetocladius tenuistylus Brundin, 1947 et Cricotopus (Paratrichocladius) guidalii (Rossaro, 1990), deux espèces nouvelles pour la faune de France (Diptera, Chironomidae)</title>
 		<link>https://ephemera.insectes.org/publication/chaetocladius-tenuistylus-brundin-1947et-cricotopus-paratrichocladius-guidalii-rossaro-1990-deux-especes-nouvelles-pour-la-faune-de-france-diptera-chironomidae/</link>
 		
 		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
@@ -47,6 +47,10 @@
 					<description><![CDATA[La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre Chaetocladius Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). C. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre <em>Chaetocladius</em> Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). <em>C. tenuistylus</em> est une espèce holarctique, non trouvée au sud du 51<sup>ème</sup> parallèle.</p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		
