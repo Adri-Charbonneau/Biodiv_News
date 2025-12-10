@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 01 Dec 2025 11:36:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Dec 2025 10:30:07 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.3</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le Pygargue à queue blanche a-t-il réellement niché en France autrefois ?</title>
+		<link>https://marcduquet.com/le-pygargue-a-queue-blanche-a-t-il-reellement-niche-en-france-autrefois/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 10:01:12 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Corse]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Haliaeetus albicilla]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6008</guid>
+
+					<description><![CDATA[Par Laurent Vallotton, Christian Riols &#38; Marc Duquet Un récent article publié dans la revue suisse&#160;Nos Oiseaux&#160;a dressé un état des lieux précis du statut historique du Pygargue à queue blanche autour du lac Léman et dans le sud-ouest de l’Europe (Vallotton 2025). L’article avait été motivé par le programme de lâchers de pygargues qui...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-30 novembre 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-30-novembre-2025/</link>
 		
@@ -115,24 +133,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5692</guid>
 
 					<description><![CDATA[Au cours de cette quinzaine, c’est en Gironde qu’il fallait être, le département ayant accueilli un&#160;Fou brun adulte, un&#160;Busard d’Amérique&#160;mâle, un&#160;Traquet du désert&#160;mâle, un&#160;Pouillot brun&#160;et une dizaine de&#160;Pouillots de Pallas, dont 7&#160;le même jour&#160;! En Île-de-France, c’est un&#160;Vanneau sociable&#160;qui a attiré les ornithos dans les Yvelines, où une&#160;Guifette leucoptère&#160;adulte nuptiale s’attardait, tandis que l’Aigle des...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les alcidés du Pacifique vus dans l’Atlantique</title>
-		<link>https://marcduquet.com/les-alcides-du-pacifique-vus-dans-latlantique/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 21:06:34 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Alcidés]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=3529</guid>
-
-					<description><![CDATA[Article mis à jour le 25/11/2025, suite à l&#8217;observation d&#8217;un Macareux huppé en juillet 2025 à Saint-Pierre-et-Miquelon ! Suite à l’observation d’un&#160;Guillemot à cou blanc&#160;en Islande, j’ai recherché les données d’alcidés du Pacifique observés dans l’Atlantique Nord dont il existe une trace dans la littérature ornithologique afin d’en faire la synthèse. Au total, cela concerne...]]></description>
 		
 		
 		
