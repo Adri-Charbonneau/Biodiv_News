@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 10 Dec 2025 10:30:07 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Dec 2025 19:34:36 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Topographie de l’oiseau (I) : la tête et les parties inférieures</title>
+		<link>https://marcduquet.com/topographie-de-loiseau-i-la-tete-et-les-parties-inferieures/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 13 Dec 2025 19:34:35 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Parties inférieures]]></category>
+		<category><![CDATA[Plumage]]></category>
+		<category><![CDATA[Tête]]></category>
+		<category><![CDATA[Topographie]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=5818</guid>
+
+					<description><![CDATA[Il y a une quinzaine d’années, un ami m’a demandé si le terme « topographie » était vraiment approprié pour parler de la localisation des noms des différentes parties du corps d’un oiseau. Je me suis mis en quête de la réponse, tout en sachant que je tenais là l’introduction à une série d’articles que j’avais alors...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le Pygargue à queue blanche a-t-il réellement niché en France autrefois ?</title>
 		<link>https://marcduquet.com/le-pygargue-a-queue-blanche-a-t-il-reellement-niche-en-france-autrefois/</link>
 		
@@ -116,23 +134,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5833</guid>
 
 					<description><![CDATA[Après les publications relatives, d’une part aux&#160;Pies-grièches écorcheur et à tête rousse, et d’autre part aux&#160;Pies-grièches grise et méridionale, cet ultime article consacré aux pies-grièches de France traitera de la répartition historique, du déclin et de la disparition récente de la Pie-grièche à poitrine rose&#160;Lanius minor&#160;en tant qu’espèce nicheuse dans notre pays. I&#160;–&#160;Répartition mondiale&#160; La...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 novembre 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-novembre-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 16 Nov 2025 10:21:37 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5692</guid>
-
-					<description><![CDATA[Au cours de cette quinzaine, c’est en Gironde qu’il fallait être, le département ayant accueilli un&#160;Fou brun adulte, un&#160;Busard d’Amérique&#160;mâle, un&#160;Traquet du désert&#160;mâle, un&#160;Pouillot brun&#160;et une dizaine de&#160;Pouillots de Pallas, dont 7&#160;le même jour&#160;! En Île-de-France, c’est un&#160;Vanneau sociable&#160;qui a attiré les ornithos dans les Yvelines, où une&#160;Guifette leucoptère&#160;adulte nuptiale s’attardait, tandis que l’Aigle des...]]></description>
 		
 		
 		
