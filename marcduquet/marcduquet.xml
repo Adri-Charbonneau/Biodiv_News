@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 13 Dec 2025 19:34:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Dec 2025 14:02:43 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 décembre 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-decembre-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 13:56:01 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6061</guid>
+
+					<description><![CDATA[L’événement de cette quinzaine est la découverte d’un Martin-pêcheur d’Amérique en Bretagne, une espèce nouvelle pour la France. Également venu d’outre-Atlantique, le Busard d’Amérique mâle est toujours présent en Gironde. Quelques nouveaux Pouillots de Pallas ont été trouvés, de même que le septième Traquet du désert de l’automne. De belles troupes d’Alouettes haussecols et de Linottes à bec jaune stationnent sur les côtes de la...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Topographie de l’oiseau (I) : la tête et les parties inférieures</title>
 		<link>https://marcduquet.com/topographie-de-loiseau-i-la-tete-et-les-parties-inferieures/</link>
 		
@@ -113,27 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5887</guid>
 
 					<description><![CDATA[Les éditions Princeton University Press ont publié en septembre 2021, un ouvrage intitulé&#160;Habitats of the World, écrit par Iain Campbell, Ken Behrens, Charley Hesse &#38; Phil Chaon, qui décrivait 189 habitats parmi les plus représentatifs de notre planète. Mais pour présenter à l’échelle régionale les quelque 545 habitats répartis sur les sept continents et composant...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>La Pie-grièche à poitrine rose en France : jadis répandue, aujourd’hui disparue</title>
-		<link>https://marcduquet.com/la-pie-grieche-a-poitrine-rose-en-france-jadis-repandue-aujourdhui-disparue/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 18:29:26 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Lanius minor]]></category>
-		<category><![CDATA[Pies-grièches]]></category>
-		<category><![CDATA[Population]]></category>
-		<category><![CDATA[Répartition]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5833</guid>
-
-					<description><![CDATA[Après les publications relatives, d’une part aux&#160;Pies-grièches écorcheur et à tête rousse, et d’autre part aux&#160;Pies-grièches grise et méridionale, cet ultime article consacré aux pies-grièches de France traitera de la répartition historique, du déclin et de la disparition récente de la Pie-grièche à poitrine rose&#160;Lanius minor&#160;en tant qu’espèce nicheuse dans notre pays. I&#160;–&#160;Répartition mondiale&#160; La...]]></description>
 		
 		
 		
