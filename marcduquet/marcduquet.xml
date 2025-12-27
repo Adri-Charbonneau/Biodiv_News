@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 16 Dec 2025 14:02:43 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Dec 2025 09:31:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Florilège de bonnes nouvelles ornithologiques</title>
+		<link>https://marcduquet.com/florilege-de-bonnes-nouvelles-ornithologiques/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 27 Dec 2025 09:31:06 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Aquila fasciata]]></category>
+		<category><![CDATA[Calidris pygmaea]]></category>
+		<category><![CDATA[Elanus caeruleus]]></category>
+		<category><![CDATA[Falco cherrug]]></category>
+		<category><![CDATA[Falco vespertinus]]></category>
+		<category><![CDATA[Grus americana]]></category>
+		<category><![CDATA[Oxyura leucocephala]]></category>
+		<category><![CDATA[Phoebastria immutabilis]]></category>
+		<category><![CDATA[Strix uralensis]]></category>
+		<category><![CDATA[Tarsiger cyanurus]]></category>
+		<category><![CDATA[Vanellus gregarius]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6115</guid>
+
+					<description><![CDATA[Pour terminer cette année 2025 sur une note optimiste, voici quelques informations ornithologiques pleines d’espoir, résultant de publications scientifiques récentes, certaines déjà reprises sur&#160;Ornithomedia&#160;ou&#160;BirdGuides. Il s’agit uniquement de nouvelles positives, notamment d’effectifs importants d’espèces menacées ou en déclin, ou de records divers. Elles démontrent, dans le climat pessimiste actuel, que tout espoir n’est pas perdu&#160;!...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 décembre 2025</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-decembre-2025/</link>
 		
@@ -39,7 +64,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=6061</guid>
 
-					<description><![CDATA[L’événement de cette quinzaine est la découverte d’un Martin-pêcheur d’Amérique en Bretagne, une espèce nouvelle pour la France. Également venu d’outre-Atlantique, le Busard d’Amérique mâle est toujours présent en Gironde. Quelques nouveaux Pouillots de Pallas ont été trouvés, de même que le septième Traquet du désert de l’automne. De belles troupes d’Alouettes haussecols et de Linottes à bec jaune stationnent sur les côtes de la...]]></description>
+					<description><![CDATA[L’événement de cette quinzaine est la découverte d’un&#160;Martin-pêcheur d’Amérique&#160;en Bretagne, une espèce nouvelle pour la France. Également venu d’outre-Atlantique, le&#160;Busard d’Amérique&#160;mâle est toujours présent en Gironde. Quelques nouveaux&#160;Pouillots de Pallas&#160;ont été trouvés, de même que le septième&#160;Traquet du désert&#160;de l’automne. De belles troupes d’Alouettes haussecols&#160;et de Linottes à bec jaune&#160;stationnent sur les côtes de la...]]></description>
 		
 		
 		
@@ -113,23 +138,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5931</guid>
 
 					<description><![CDATA[Par Philippe J. Dubois Lors d’un séjour au Portugal début novembre 2025, j’ai eu l’occasion de visiter l’EVOA&#160;(Espaço de Visitação e Observação de Aves), dans la réserve naturelle de l’estuaire du Tage, non loin de Lisbonne. Le cœur du site se compose de quelques pièces d’eau, où hivernent à cette époque de l’année de très...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le livre « Habitats of Europe »</title>
-		<link>https://marcduquet.com/le-livre-habitats-of-europe/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 23 Nov 2025 17:02:53 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Habitats]]></category>
-		<category><![CDATA[Livres]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5887</guid>
-
-					<description><![CDATA[Les éditions Princeton University Press ont publié en septembre 2021, un ouvrage intitulé&#160;Habitats of the World, écrit par Iain Campbell, Ken Behrens, Charley Hesse &#38; Phil Chaon, qui décrivait 189 habitats parmi les plus représentatifs de notre planète. Mais pour présenter à l’échelle régionale les quelque 545 habitats répartis sur les sept continents et composant...]]></description>
 		
 		
 		
