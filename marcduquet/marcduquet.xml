@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 27 Dec 2025 09:31:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Dec 2025 07:32:04 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le Martin-pêcheur d’Amérique dans le Paléarctique occidental</title>
+		<link>https://marcduquet.com/le-martin-pecheur-damerique-dans-le-palearctique-occidental/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 30 Dec 2025 07:32:03 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Megaceryle alcyon]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6137</guid>
+
+					<description><![CDATA[L’observation d’un&#160;Martin-pêcheur d’Amérique&#160;début décembre 2025 au bord du canal de Nantes à Brest, sur la commune de Glomel (Côtes-d’Armor), a été largement relayée par les réseaux sociaux&#160;– liste Telegram&#160;Oiseaux Rares France, diverses pages&#160;Facebook, base de données&#160;Faune France&#160;et site&#160;Ornithomedia – et les médias (TF1, France 3). Il s’agit de la première mention française de cette espèce...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Florilège de bonnes nouvelles ornithologiques</title>
 		<link>https://marcduquet.com/florilege-de-bonnes-nouvelles-ornithologiques/</link>
 		
@@ -118,26 +136,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=5959</guid>
 
 					<description><![CDATA[Une quinzaine assez calme sur le plan des oiseaux rares. Toutefois, le département de la Gironde s’illustre une nouvelle fois, avec un&#160;Pipit à dos olive&#160;en chair et en os, tandis que le&#160;Busard d’Amérique&#160;est toujours là. De plus, un nouveau&#160;Bruant masqué&#160;a été capturé en Vendée et quelques&#160;Pouillots de Pallas&#160;et&#160;de Hume&#160;ont encore été observés, principalement sur la...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pourquoi voit-on de plus en plus d’Ibis falcinelles en France (et en Europe de l’Ouest) ?</title>
-		<link>https://marcduquet.com/pourquoi-voit-on-de-plus-en-plus-dibis-falcinelles-en-france-et-en-europe-de-louest/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 26 Nov 2025 10:26:10 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Afflux]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Plegadis falcinellus]]></category>
-		<category><![CDATA[Portugal]]></category>
-		<category><![CDATA[Répartition]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5931</guid>
-
-					<description><![CDATA[Par Philippe J. Dubois Lors d’un séjour au Portugal début novembre 2025, j’ai eu l’occasion de visiter l’EVOA&#160;(Espaço de Visitação e Observação de Aves), dans la réserve naturelle de l’estuaire du Tage, non loin de Lisbonne. Le cœur du site se compose de quelques pièces d’eau, où hivernent à cette époque de l’année de très...]]></description>
 		
 		
 		
