@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 30 Dec 2025 07:32:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jan 2026 10:05:09 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-31 décembre 2025</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-31-decembre-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 01 Jan 2026 10:05:08 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6238</guid>
+
+					<description><![CDATA[Parmi les nouveautés de cette quinzaine, à signaler une&#160;Tourterelle orientale&#160;dans le Maine-et-Loire, deux&#160;Pouillots de Hume&#160;en Bretagne et une&#160;Alouette (pispolette)&#160;de Heine, potentielle première française, qui a stationné quelques jours dans le Pas-de-Calais. Le&#160;Busard d’Amérique&#160;et le&#160;Martin-pêcheur d’Amérique poursuivent leur séjour respectivement en Gironde et en Bretagne, tandis que l’Aigle criard&#160;fulvescens estonien a traversé la France de la...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le Martin-pêcheur d’Amérique dans le Paléarctique occidental</title>
 		<link>https://marcduquet.com/le-martin-pecheur-damerique-dans-le-palearctique-occidental/</link>
 		
@@ -119,23 +136,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6008</guid>
 
 					<description><![CDATA[Par Laurent Vallotton, Christian Riols &#38; Marc Duquet Un récent article publié dans la revue suisse&#160;Nos Oiseaux&#160;a dressé un état des lieux précis du statut historique du Pygargue à queue blanche autour du lac Léman et dans le sud-ouest de l’Europe (Vallotton 2025). L’article avait été motivé par le programme de lâchers de pygargues qui...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-30 novembre 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-30-novembre-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 01 Dec 2025 11:36:31 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5959</guid>
-
-					<description><![CDATA[Une quinzaine assez calme sur le plan des oiseaux rares. Toutefois, le département de la Gironde s’illustre une nouvelle fois, avec un&#160;Pipit à dos olive&#160;en chair et en os, tandis que le&#160;Busard d’Amérique&#160;est toujours là. De plus, un nouveau&#160;Bruant masqué&#160;a été capturé en Vendée et quelques&#160;Pouillots de Pallas&#160;et&#160;de Hume&#160;ont encore été observés, principalement sur la...]]></description>
 		
 		
 		
