@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Tue, 09 Dec 2025 17:07:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jan 2026 10:20:42 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Découverte d’Erioptera (Erioptera) limbata Loew, 1873 dans le Val-d’Oise : première mention française d’une espèce peu connue en Europe (Diptera, Limoniidae)</title>
+		<link>https://ephemera.insectes.org/publication/decouverte-derioptera-erioptera-limbata-loew-1873-dans-le-val-doise-premiere-mention-francaise-dune-espece-peu-connue-en-europe-diptera-limoniidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2026 10:20:41 +0000</pubDate>
+				<category><![CDATA[craneflies]]></category>
+		<category><![CDATA[espèce nouvelle pour la France]]></category>
+		<category><![CDATA[Île-de-France]]></category>
+		<category><![CDATA[Île-de-France Region]]></category>
+		<category><![CDATA[species new for the French fauna.]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2316</guid>
+
+					<description><![CDATA[Erioptera (Erioptera) limbata Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).]]></description>
+										<content:encoded><![CDATA[
+<p><em>Erioptera (Erioptera) limbata </em>Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Chaetocladius tenuistylus Brundin, 1947 et Cricotopus (Paratrichocladius) guidalii (Rossaro, 1990), deux espèces nouvelles pour la faune de France (Diptera, Chironomidae)</title>
 		<link>https://ephemera.insectes.org/publication/chaetocladius-tenuistylus-brundin-1947et-cricotopus-paratrichocladius-guidalii-rossaro-1990-deux-especes-nouvelles-pour-la-faune-de-france-diptera-chironomidae/</link>
 		
@@ -266,30 +287,6 @@
 					<description><![CDATA[De récentes études et campagnes de collectes ont permis la découverte de 18 espèces de Limoniidae nouvelles pour la France : Gonomyia (Teuchogonomyia) edwardsi Lackschewitz, 1925 ; Hoplolabis (Parilisia) spinula (Mendl, 1973) ; H. (P.) subalpina (Bangerter, 1947) ; Idiocera (Idiocera) bradleyi (Edwards, 1939) ; I. (I.) connexa (Loew, 1873) ; I. (I.) sexguttata (Dale, 1842) ;  Lipsothrix galiciensis Hancock &#38; Hewitt, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>De récentes études et campagnes de collectes ont permis la découverte de 18 espèces de Limoniidae nouvelles pour la France : <em>Gonomyia</em> (<em>Teuchogonomyia</em>) <em>edwardsi</em> Lackschewitz, 1925 ; <em>Hoplolabis</em> (<em>Parilisia</em>) <em>spinula</em> (Mendl, 1973) ; <em>H</em>. (<em>P</em>.) <em>subalpina</em> (Bangerter, 1947) ; <em>Idiocera</em> (<em>Idiocera</em>) <em>bradleyi</em> (Edwards, 1939) ; <em>I</em>. (<em>I</em>.) <em>connexa </em>(Loew, 1873) ; <em>I</em>. (<em>I</em>.) <em>sexguttata</em> (Dale, 1842) ;  <em>Lipsothrix galiciensis</em> Hancock &amp; Hewitt, 2015 ; <em>Molophilus</em> (<em>Molophilus</em>) <em>oldenbergi</em> Lackschewitz, 1935 ; <em>M</em>. (<em>M</em>.) <em>stroblianus</em> Nielsen, 1953 ; <em>M</em>. (<em>M</em>.) <em>testaceus</em> Lackschewitz, 1940 ; <em>Ormosia</em> (<em>Ormosia</em>) <em>lackschewitzi</em> Bangerter, 1947 ; <em>O</em>. (<em>O</em>.) <em>staegeriana </em>Alexander, 1953 ; <em>Phyllolabis geigeri</em> Podenas &amp; Starý, 1997 ; <em>Rhabdomastix</em> (<em>Lurdia</em>) <em>loewi</em> Starý, 2003 ; <em>R</em>. (<em>L</em>.) <em>robusta</em> Starý, 2003 ;  <em>R</em>. (<em>Rhabdomastix</em>) <em>japonica</em> Alexander, 1924 ; <em>Tasiocera</em> (<em>Dasymolophilus</em>) <em>halesus </em>(Schmid, 1949) ; <em>T</em>. (<em>D</em>.) <em>jenkinsoni </em>Freeman, 1951.  Ces additions portent à 330 le nombre d’espèces de cette famille d’insectes pour notre pays. Des données topographiques et écologiques relatives à ces découvertes sont présentées.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Les Chironomidae connus de la Réserve naturelle nationale de la Tourbière de Machais (Vosges, France). I. Liste annotée des taxons-espèces recensés (Diptera)</title>
-		<link>https://ephemera.insectes.org/publication/les-chironomidae-connus-de-la-reserve-naturelle-nationale-de-la-tourbiere-de-machais-vosges-france-i-liste-annotee-des-taxons-especes-recenses-diptera/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Mon, 11 Aug 2025 09:01:50 +0000</pubDate>
-				<category><![CDATA[adultes et exuvies nymphales]]></category>
-		<category><![CDATA[adults and pupal exuviae]]></category>
-		<category><![CDATA[Chironomidae new for France]]></category>
-		<category><![CDATA[Chironomidae nouveaux pour la France]]></category>
-		<category><![CDATA[ecological zones]]></category>
-		<category><![CDATA[Massif des Vosges]]></category>
-		<category><![CDATA[Vosges Mountains]]></category>
-		<category><![CDATA[zones écologiques]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2210</guid>
-
-					<description><![CDATA[Plus de 5 000 adultes, nymphes, exuvies nymphales et larves de Chironomidae ont été collectés de 2020 à 2022 au moyen de tentes Malaise, de divers pièges lumineux, de filets entomologiques et de dérive, dans la Réserve naturelle nationale de la Tourbière de Machais (Vosges, France). Au total, 319 taxons-espèces, répartis sur 93 genres, ont [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Plus de 5 000 adultes, nymphes, exuvies nymphales et larves de Chironomidae ont été collectés de 2020 à 2022 au moyen de tentes Malaise, de divers pièges lumineux, de filets entomologiques et de dérive, dans la Réserve naturelle nationale de la Tourbière de Machais (Vosges, France). Au total, 319 taxons-espèces, répartis sur 93 genres, ont été inventoriés dont 152 espèces sont nouvelles pour le Massif des Vosges, 8 espèces sont potentiellement nouvelles pour la France et 13<strong> </strong>autres sont encore non décrites. 6 sous-familles composent cet inventaire : Podonominae (3 genres, 3 espèces) ; Tanypodinae (18, 34) ; Diamesinae (5, 17) ; Prodiamesinae (1, 1) ; Orthocladiinae (38, 149) ; Chironominae (28, 115). La nette prédominance des Orthocladiinae est soulignée. La typologie des habitats prospectés a permis d’identifier cinq zones écologiques (ZE) auxquelles correspondent différentes biocénoses. Le présent inventaire complète significativement une première liste des espèces connues du Massif des Vosges. Des données écologiques et biotypologiques complémentaires sont également fournies. Elles permettent de souligner la distribution de quelques espèces remarquables.</p>
 ]]></content:encoded>
 					
 		
