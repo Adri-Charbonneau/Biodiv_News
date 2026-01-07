@@ -12,7 +12,7 @@
 	<atom:link href="https://www.zoom-nature.fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.zoom-nature.fr</link>
 	<description>Chroniques Nature &#38; Sciences</description>
-	<lastBuildDate>Tue, 06 Jan 2026 15:15:55 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Jan 2026 08:28:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
-		<title>Les adaptations des plantes à la saison hivernale froide </title>
+		<title>Adaptations des plantes à la saison hivernale froide </title>
 		<link>https://www.zoom-nature.fr/les-adaptations-des-plantes-a-la-saison-hivernale-froide/</link>
 		
 		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
@@ -35,7 +35,7 @@
 		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=36842</guid>
 
 					<description><![CDATA[<p>06/01/2025 Nous vivons encore sous un climat tempéré avec une forte saisonnalité dont une saison [&#8230;]</p>
-<p>The post <a href="https://www.zoom-nature.fr/les-adaptations-des-plantes-a-la-saison-hivernale-froide/">Les adaptations des plantes à la saison hivernale froide </a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></description>
+<p>The post <a href="https://www.zoom-nature.fr/les-adaptations-des-plantes-a-la-saison-hivernale-froide/">Adaptations des plantes à la saison hivernale froide </a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>06/01/2025 Nous vivons encore sous un climat tempéré avec une forte saisonnalité dont une saison hivernale plus ou moins froide selon la latitude. Les plantes de nos régions ont évolué depuis plusieurs dizaines de millions d’années pour résister et s ‘acclimater à cette période froide. Le froid est certes source d’un stress majeur pour les plantes, incapables de «&nbsp;fuir&nbsp;» ou de se cacher comme les animaux, avec de nombreux dommages potentiels possibles. Les plantes ont développé une série d ‘adaptations majeures au niveau de leur cycle de vie&nbsp;; ces adaptations reposent en retour souvent sur le froid comme signal déclencheur, comme repère dans le temps annuel pour déclencher les voies de protection.</p>
 
 
@@ -58,23 +58,13 @@
 
 
 
-<h2 class="wp-block-heading">Retour aux origines</h2>
-
-
-
-<p>Entre la fin de l’Eocène et l’Oligocène (- 47,5&nbsp;; – 26Ma), la Terre a connu une série d’évènements majeurs de refroidissement climatique&nbsp;: les zones tropicales se sont contractées et des zones tempérées se sont mises en place dans les deux hémisphères. En réponse à ce refroidissement général, plusieurs lignées tropicales ancestrales se sont diversifiées avec succès en dehors de leur zone écologique d’origine, s’adaptant à des environnements plus froids et avec des saisons plus marquées. Mais, moins de la moitié des familles de plantes à fleurs sont représentées dans les zones tempérées ce qui suggère la difficulté à s’adapter à des climats saisonniers.&nbsp;</p>
-
-
-
-<p>De plus, ce refroidissement global marqué à la frontière Eocène/Oligocène s’est accompagné d’extinctions à grande échelle d’animaux et de plantes. Ceci confirme la difficulté de développer des adaptations à des températures saisonnières basses avec du gel et expliquerait la complexité apparente des adaptations morphologiques et physiologiques au froid. Une hypothèse alternative a été proposée&nbsp;: vu que ce refroidissement s’est étalé sur une grande partie de l’ère Tertiaire, dans le cadre de l’expansion relativement récente de zones tempérées froides, seule une minorité de familles de plantes a historiquement subi la sélection par les hivers froids.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="has-text-align-left"><strong>Une vieille histoire</strong><br>Entre la fin de l’Eocène et l’Oligocène (- 47,5 ; – 26Ma), la Terre a connu une série d’évènements majeurs de refroidissement climatique : les zones tropicales se sont contractées et des zones tempérées se sont mises en place dans les deux hémisphères. En réponse à ce refroidissement général, plusieurs lignées tropicales ancestrales se sont diversifiées avec succès en dehors de leur zone écologique d’origine, s’adaptant à des environnements plus froids et avec des saisons plus marquées. Mais, moins de la moitié des familles de plantes à fleurs sont représentées dans les zones tempérées ce qui suggère la difficulté à s’adapter à des climats saisonniers. Ce refroidissement global marqué à la frontière Eocène/Oligocène s’est accompagné d’extinctions à grande échelle d’animaux et de plantes. Ceci confirme la forte pression sélective imposée par la saisonnalité avec une saison froide.</p>
+</blockquote>
 
 
 
 <h2 class="wp-block-heading">Adaptations au froid saisonnier</h2>
-
-
-
-<p>Deux ensembles de plantes, celles des zones tempérées froides et celles des montagnes tropicales, peuvent subir des périodes de froid ou de gel, potentiellement néfastes pour la croissance et le développement. Il y a cependant une différence clé entre ces deux groupes : le moment et la durée des épisodes de froid. Ceux-ci ont lieu soit selon un cycle diurne (montagnes tropicales), soit selon un cycle annuel (tempérées). Ceci a des implications majeures sur les stratégies d’histoires de vie adoptées par les populations de plantes dans un environnement donné. Ici, nous allons nous centrer sur les adaptations des plantes tempérées à la saison froide, l’hiver. </p>
 
 
 
@@ -96,14 +86,38 @@
 
 
 
-<p>Chez les annuelles de printemps, la germination, la reproduction et la sénescence se déroulent durant les saisons douces ou chaudes. Pour éviter une croissance en hiver, ces annuelles restent en hiver sous forme de graines dormantes qui ne germent ensuite qu’au printemps en réponse aux températures croissantes du printemps. La&nbsp;<strong>dormance</strong>&nbsp;se définit comme l’incapacité pour une graine intacte et viable de germer sous des conditions favorables&nbsp;: le froid est un facteur clé pour l’induction et la levée de cette dormance.&nbsp;</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>Le froid comme signal</strong></p>
+
+
+
+<p>Les plantes tempérées utilisent le froid comme signal clé pour réguler leur développement de manière à synchroniser trois étapes clés du cycle de vie avec des périodes favorables :</p>
+
+
+
+<ul>
+<li>la germination des graines : la <strong>dormance</strong> est l’incapacité pour une graine intacte et viable de germer sous des conditions favorables : le froid est un facteur clé pour l’induction et la levée de cette dormance. </li>
+
+
+
+<li>la floraison : la <strong>vernalisation</strong> est le processus par lequel une période prolongée de froid rend les plantes compétentes pour la floraison. Les individus qui y réagissent fleuriront plus tôt dès les conditions réunies (jours plus longs et températures plus chaudes) après une exposition prolongée au froid. Ceci permet aux plantes de synchroniser la floraison avec les conditions favorables au printemps</li>
+
+
+
+<li>le développement des bourgeons : les bourgeons qui se forment à la belle saison entrent en <strong>endodormance</strong> : une inhibition du développement provenant du méristème du bourgeon et induite par des facteurs internes à la plante. Par contre, le <strong>débourrement</strong>, l&rsquo;entrée en croissance des bourgeons, induit après la levée de l’endodormance dépend d’un régime particulier de froid suivi de températures plus chaudes. Voir la chronique sur les <a href="https://www.zoom-nature.fr/les-bourgeons-des-plantes-les-organes-du-renouveau/" title="">bourgeons</a> avec, notamment, la notion de méristème et de dominance apicale. </li>
+</ul>
+</blockquote>
+
+
+
+<p>Chez les annuelles de printemps, la germination, la reproduction et la sénescence se déroulent durant les saisons douces ou chaudes. Pour éviter une croissance en hiver, ces annuelles restent en hiver sous forme de graines dormantes qui ne germent ensuite qu’au printemps en réponse aux températures croissantes du printemps. </p>
 
 
 <div class="wp-block-image">
 <figure class="aligncenter size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/01/fro-pap.jpg"><img loading="lazy" decoding="async" width="1024" height="705" src="https://www.zoom-nature.fr/wp-content/uploads/2026/01/fro-pap.jpg" alt="" class="wp-image-36857" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/01/fro-pap.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/01/fro-pap-300x207.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/01/fro-pap-768x529.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/01/fro-pap-600x413.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Grand coquelicot : annuelle d&rsquo;hiver ; les rosettes se forment en automne</figcaption></figure></div>
 
 
-<p>Inversement, les annuelles d’hiver produisent leurs graines et germent en fin d’été/automne, hivernent sous un stade végétatif et fleurissent au printemps. La capacité de ces plantes à répondre à une période prolongée de froid en atteignant rapidement la capacité de fleurir, une fois les conditions favorables revenues, s’appelle la réactivité à la&nbsp;<strong>vernalisation&nbsp;</strong>(voir l’avant-dernier paragraphe). Vu que les parties aériennes (tiges et feuilles) formées en fin d’automne sont soumises de facto au froid, ces plantes réactives à la vernalisation sont souvent, mais pas toujours, induites dans un état de tolérance au froid et/ ou au gel.&nbsp;</p>
+<p>Inversement, les annuelles d’hiver produisent leurs graines et germent en fin d’été/automne, hivernent sous un stade végétatif et fleurissent au printemps. La capacité de ces plantes à répondre à une période prolongée de froid en atteignant rapidement la capacité de fleurir, une fois les conditions favorables revenues, s’appelle la <strong>réactivité à la</strong> <strong>vernalisation</strong>. Vu que les parties aériennes (tiges et feuilles) formées en fin d’automne sont soumises de facto au froid, ces plantes réactives à la vernalisation sont souvent, mais pas toujours, induites dans un état de tolérance au froid et/ ou au gel. </p>
 
 
 
@@ -117,7 +131,7 @@
 
 
 
-<p>Les plantes vivaces tempérées varient dans leur manière d’affronter l’hiver au niveau de leurs stratégies d’histoire de vie. Pour les vivaces herbacées, germination, reproduction et sénescence se déroulent pendant la belle saison. Mais, plutôt que de se baser seulement sur les graines pour produire la génération suivante, les vivaces herbacées s’appuient aussi sur la reprise de la croissance végétative des organes souterrains dormants dotés de méristèmes (bulbes, rhizomes, …) à la fin de l’hiver pour assurer la floraison. Nous consacrerons une chronique particulière à ces organes souterrains qui assurent la survie hivernale des vivaces herbacées.  Comme pour les annuelles d’hiver, les vivaces herbacées tempérées réagissent souvent à la vernalisation et peuvent tolérer froid et gel. </p>
+<p>Les plantes vivaces tempérées varient dans leur manière d’affronter l’hiver au niveau de leurs stratégies d’histoire de vie. Pour les vivaces herbacées, germination, reproduction et sénescence se déroulent pendant la belle saison. Mais, plutôt que de se baser seulement sur les graines pour produire la génération suivante, les vivaces herbacées s’appuient aussi sur la reprise de la croissance végétative des organes souterrains dormants dotés de méristèmes (bulbes, rhizomes, …) à la fin de l’hiver pour assurer la floraison. Nous consacrerons une&nbsp;chronique particulière&nbsp;à ces organes souterrains qui assurent la survie hivernale des vivaces herbacées.&nbsp;&nbsp;Comme pour les annuelles d’hiver, les vivaces herbacées tempérées réagissent souvent à la vernalisation et peuvent tolérer froid et gel.&nbsp;</p>
 
 
 
@@ -147,7 +161,7 @@
 
 
 
-<p>En dépit de ce lien étroit entre traits adaptatifs au froid, on connaît des exemples de plantes dormantes et réactives à la vernalisation qui sont incapables d’induire une tolérance au froid et vice versa. C’est le cas par exemple du thuya géant qui s’acclimate au froid mais ne connaît pas d’endodormance&nbsp;; plusieurs essences d’arbres endodormantes en hiver n’ont pas d’acclimatation au froid&nbsp;; et plusieurs variétés de céréales réactives à la vernalisation sont sensibles au froid&nbsp;!&nbsp;</p>
+<p>En dépit de ce lien étroit entre traits adaptatifs au froid, on connaît des exemples de plantes dormantes et réactives à la vernalisation qui sont incapables d’induire une tolérance au froid et vice versa. C’est le cas par exemple du thuya géant qui s’acclimate au froid mais ne connaît pas d’endodormance  ; plusieurs variétés de céréales réactives à la vernalisation sont sensibles au froid ! </p>
 
 
 
@@ -195,7 +209,7 @@
 
 
 
-<p>L’acclimatation au froid implique de profonds changements dans l’état physiologique et biochimique de la plante, améliorant la tolérance au stress des basses températures. En général, des protéines et composés aux fonctions protectrices augmentent alors que plusieurs voies métaboliques et la photosynthèse cessent. On retrouve un certain nombre de similitudes entre lignées de plantes à fleurs tempérées dans la manière de gérer ce problème même si, dans le détail, les voies biochimiques varient considérablement entre espèces et familles. La capacité de manipuler la formation de glace a émergé à de multiples reprises au cours de l’évolution des plantes à fleurs&nbsp;: soit en abaissant le point de gel, soit en inhibant le processus destructeur de recristallisation (voir ci-dessus). La première option est répandue mais peu affectée par l’acclimatation au froid&nbsp;; la seconde semble nettement plus importante pour l’acclimatation au froid. On trouve cette inhibition de la recristallisation dans diverses lignées via des protéines variées comme des chitinases&nbsp;! Ainsi, chez la carotte, une protéine (polygalacturonase) inhibe la recristallisation et abaisse le point de gel. Chez les graminées, ce sont d’autres protéines avec un très fort pouvoir inhibiteur.&nbsp;</p>
+<p>L’acclimatation au froid implique de profonds changements dans l’état physiologique et biochimique de la plante, améliorant la tolérance au stress des basses températures. En général, des protéines et composés aux fonctions protectrices augmentent alors que plusieurs voies métaboliques et la photosynthèse cessent. On retrouve un certain nombre de similitudes entre lignées de plantes à fleurs tempérées dans la manière de gérer ce problème. La capacité de manipuler la formation de glace a émergé à de multiples reprises au cours de l’évolution des plantes à fleurs : soit en abaissant le point de gel, soit en inhibant le processus destructeur de recristallisation (voir ci-dessus). La première option est répandue mais peu affectée par l’acclimatation au froid ; la seconde semble nettement plus importante pour l’acclimatation au froid. On trouve cette inhibition de la recristallisation dans diverses lignées via des protéines variées comme des chitinases ! Ainsi, chez la carotte, une protéine (polygalacturonase) inhibe la recristallisation et abaisse le point de gel. Chez les graminées, ce sont d’autres protéines avec un très fort pouvoir inhibiteur. </p>
 
 
 
@@ -207,7 +221,7 @@
 
 
 
-<p>Chez les ligneux, les températures en-dessous de zéro peuvent bloquer le fonctionnement global en imitant le transport de l’eau (sève brute) dans les vaisseaux du xylème. Une des conséquences classiques des cycles gel/dégel dans les régions qui connaissent des températures nocturnes provoquant le gel mais des températures diurnes supérieures (comme en région méditerranéenne en altitude), hors gel, est la formation d’embolies du xylème. Même si des variations de diamètre et d’architecture des vaisseaux participent à la résistance aux embolies, l’acclimatation au froid en réduit aussi fortement le risque chez les chênes et plusieurs conifères. Plusieurs ligneux peuvent réparer les dégâts infligés par des embolies hivernales mais on ne connaît pas les mécanismes de réparation alors impliqués.&nbsp;</p>
+<p>Chez les ligneux, les températures en-dessous de zéro peuvent bloquer le fonctionnement global en limitant le transport de l’eau (sève brute) dans les vaisseaux du xylème. Une des conséquences classiques des cycles gel/dégel dans les régions qui connaissent des températures nocturnes provoquant le gel mais des températures diurnes supérieures (comme en région méditerranéenne en altitude), hors gel, est la formation d’embolies du xylème. Même si des variations de diamètre et d’architecture des vaisseaux participent à la résistance aux embolies, l’acclimatation au froid en réduit aussi fortement le risque chez les chênes et plusieurs conifères. Plusieurs ligneux peuvent réparer les dégâts infligés par des embolies hivernales mais on ne connaît pas les mécanismes de réparation alors impliqués. </p>
 
 
 
@@ -235,11 +249,7 @@
 
 
 
-<p>Nous avons déjà traité de cette question dans la chronique sur les <a href="https://www.zoom-nature.fr/les-bourgeons-des-plantes-les-organes-du-renouveau/" title="">bourgeons</a> avec, notamment, la notion de méristème et de dominance apicale. </p>
-
-
-
-<p>La dormance des méristèmes, qui correspondent aux bourgeons, est répandue chez les végétaux et contrôlée par de nombreux gènes du développement. L’endodormance, elle, est spécifique des vivaces ligneuses tempérées et dirigée à la fois par des facteurs internes et des fluctuations saisonnières de température et de photopériode. Étroitement liée à l’acclimatation au froid, l’endodormance est un processus physiologique distinct, sensible au froid, mais qui n’a pas besoin ni du froid ni d’autres facteurs externes pour être induit&nbsp;: il s’installe sous des conditions propices à la croissance. Quand cette endodormance est levée, le bourgeon entre en&nbsp;<strong>écodormance</strong>&nbsp;: il devient capable à tout moment de reprendre son développement si les conditions favorables sont réunies.&nbsp;</p>
+<p><strong>L’endodormance</strong> (voir encart ci-dessus) est spécifique des vivaces ligneuses tempérées et dirigée à la fois par des facteurs internes et des fluctuations saisonnières de température et de photopériode. Étroitement liée à l’acclimatation au froid, l’endodormance est un processus physiologique distinct, sensible au froid, mais qui n’a pas besoin ni du froid ni d’autres facteurs externes pour être induit : il s’installe sous des conditions propices à la croissance. Quand cette endodormance est levée, le bourgeon entre en <strong>écodormance</strong> : il devient capable à tout moment de reprendre son développement si les conditions favorables sont réunies. </p>
 
 
 
@@ -253,7 +263,7 @@
 
 
 
-<p>Par contre, le débourrement, induit après la levée de l’endodormance et la reprise des divisions cellulaires dans le méristème, dépend d’un régime particulier de froid suivi de températures plus chaudes&nbsp;; la chronologie, la longueur et l’intensité de l’exposition au froid nécessaire pour initier le débourrement dépendent des espèces et sont souvent corrélés avec la latitude.&nbsp;</p>
+<p> La chronologie, la longueur et l’intensité de l’exposition au froid nécessaire pour initier le débourrement dépendent des espèces et sont souvent corrélés avec la latitude. </p>
 
 
 
@@ -262,10 +272,6 @@
 
 
 <h2 class="wp-block-heading">Réactivité à la vernalisation&nbsp;</h2>
-
-
-
-<p>La vernalisation (voir paragraphe II) est le processus par lequel une période prolongée de froid rend les plantes compétentes pour la floraison. Les individus qui y réagissent fleuriront plus tôt dès les conditions réunies (jours plus longs et températures plus chaudes) après une exposition prolongée au froid. Ceci permet aux plantes de synchroniser la floraison avec les conditions favorables au printemps.&nbsp;</p>
 
 
 
@@ -281,7 +287,7 @@
 
 
 
-<p>On voit que les basses températures en-dessous de zéro déterminent largement les répartitions altitudinales et latitudinales des plantes&nbsp;; moins de la moitié des familles de plantes à fleurs vivent dans des régions avec une saison froide. On a vu que les adaptations multiples au froid (acclimatation au froid, endodormance, réactivité à la vernalisation, dormance des graines) sont apparues de manière indépendante à de multiples reprises dans de nombreuses lignées. Ces traits de vie induits par le froid ont évolué souvent via la modification des mêmes voies physiologiques et biochimiques qui étaient pré-adaptées pour fournir un évitement ou une tolérance au stress du froid.&nbsp;</p>
+<p>On voit que les basses températures en-dessous de zéro déterminent largement les répartitions altitudinales et latitudinales des plantes ; moins de la moitié des familles de plantes à fleurs vivent dans des régions avec une saison froide. Les adaptations multiples au froid (acclimatation au froid, endodormance, réactivité à la vernalisation, dormance des graines) sont apparues de manière indépendante à de multiples reprises dans de nombreuses lignées. Ces traits de vie induits par le froid ont évolué souvent via la modification des mêmes voies physiologiques et biochimiques qui étaient pré-adaptées pour fournir un évitement ou une tolérance au stress du froid. </p>
 
 
 
@@ -293,7 +299,7 @@
 
 
 
-<p>Frontiers in Plant Science&nbsp;; 2013&nbsp;<strong>Adaptation to seasonality and the winter freeze</strong>&nbsp;Jill C. Preston&nbsp;; Simen R. Sandve</p><p>The post <a href="https://www.zoom-nature.fr/les-adaptations-des-plantes-a-la-saison-hivernale-froide/">Les adaptations des plantes à la saison hivernale froide </a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></content:encoded>
+<p>Frontiers in Plant Science&nbsp;; 2013&nbsp;<strong>Adaptation to seasonality and the winter freeze</strong>&nbsp;Jill C. Preston&nbsp;; Simen R. Sandve</p><p>The post <a href="https://www.zoom-nature.fr/les-adaptations-des-plantes-a-la-saison-hivernale-froide/">Adaptations des plantes à la saison hivernale froide </a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -1184,11 +1190,11 @@
 
 
 <ul>
-<li>La rare processionnaire du pin (<em>T. pinivora</em>) à répartition morcelée en altitude ; ses chenilles ne tissent pas de nids collectifs</li>
+<li>La rare processionnaire du pin (<em>T. pinivora</em>) à répartition morcelée en altitude&nbsp;; ses chenilles ne tissent pas de nids collectifs</li>
 
 
 
-<li>La <a href="https://www.zoom-nature.fr/le-cycle-de-vie-de-la-processionnaire-du-pin/" title="">Processionnaire du pin</a> (<em>T. pityocampa</em>) très médiatisée et connue de tous depuis sa forte expansion et ses bourses soyeuses très visibles sur divers conifères</li>
+<li>La&nbsp;<a href="https://www.zoom-nature.fr/le-cycle-de-vie-de-la-processionnaire-du-pin/" title="">Processionnaire du pin</a>&nbsp;(<em>T. pityocampa</em>) très médiatisée et connue de tous depuis sa forte expansion et ses bourses soyeuses très visibles sur divers conifères</li>
 
 
 
@@ -1205,7 +1211,7 @@
 
 
 
-<p>Les Processionnaires appartiennent à la famille des Notodontidés, représentée par ailleurs par un petit nombre d’autres genres dont les Hausse-queue (<em>Clostera</em>), la Bucéphale (<em>Phalera</em>). Ce sont des papillons de nuit au corps lourd et aux ailles relativement longues partageant des couleurs ternes dans les tons de gris et bruns. Certains genres possèdent une touffe de poils sur le bord de l’aile antérieure qui dépasse au repos, quand les ailes sont repliées. Ceci explique le nom de la famille (<em>noto</em> : en arrière et <em>donte</em> : dent) ; les anglais les surnomment les « saillants » (<em>prominents</em>). Ils partagent aussi un corps velu. Globalement, ces papillons ressemblent aux Bombyx ou aux noctuelles. </p>
+<p>Les Processionnaires appartiennent à la famille des Notodontidés, représentée par ailleurs par un petit nombre d’autres genres dont les Hausse-queue (<em>Clostera</em>), la Bucéphale (<em>Phalera</em>). Ce sont des papillons de nuit au corps lourd et aux ailles relativement longues partageant des couleurs ternes dans les tons de gris et bruns. Certains genres possèdent une touffe de poils sur le bord de l’aile antérieure qui dépasse au repos, quand les ailes sont repliées. Ceci explique le nom de la famille (<em>noto</em>&nbsp;: en arrière et&nbsp;<em>donte</em>&nbsp;: dent)&nbsp;; les anglais les surnomment les «&nbsp;saillants&nbsp;» (<em>prominents</em>). Ils partagent aussi un corps velu. Globalement, ces papillons ressemblent aux Bombyx ou aux noctuelles.&nbsp;</p>
 
 
 
@@ -1233,7 +1239,7 @@
 
 
 
-<p>Les adultes ne se nourrissent pas. Les femelles à peine écloses sont très convoitées des mâles qui les recherchent activement en vol. l’accouplement a souvent lieu sur l’ancien nid d’où elles ont émergé (voir fin du cycle). Les femelles pondent leurs œufs en paquets à plat, sur un seul niveau, très serrés et agglutinés plus ou moins entre eux, sur des rameaux : on parle d’ooplaques. Chaque paquet en forme de bande allongée de 2cm de long environ comporte une à deux centaines d’œufs recouverts d’une sécrétion brunâtre, dense et feutrée avec des écailles noires disséminées en forme de poils. La femelle choisit des jeunes rameaux d’un ou deux ans, porteurs de nombreux bourgeons. </p>
+<p>Les adultes ne se nourrissent pas. Les femelles à peine écloses sont très convoitées des mâles qui les recherchent activement en vol. l’accouplement a souvent lieu sur l’ancien nid d’où elles ont émergé (voir fin du cycle). Les femelles pondent leurs œufs en paquets à plat, sur un seul niveau, très serrés et agglutinés plus ou moins entre eux, sur des rameaux&nbsp;: on parle d’ooplaques. Chaque paquet en forme de bande allongée de 2cm de long environ comporte une à deux centaines d’œufs recouverts d’une sécrétion brunâtre, dense et feutrée avec des écailles noires disséminées en forme de poils. La femelle choisit des jeunes rameaux d’un ou deux ans, porteurs de nombreux bourgeons.&nbsp;</p>
 
 
 
@@ -1263,13 +1269,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-45 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-nid1.jpg"><img loading="lazy" decoding="async" width="563" height="768" data-id="36722" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-nid1.jpg" alt="" class="wp-image-36722" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-nid1.jpg 563w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-nid1-220x300.jpg 220w" sizes="(max-width: 563px) 100vw, 563px" /></a><figcaption class="wp-element-caption">Nid contre le tronc d&rsquo;un chêne </figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-nid2.jpg"><img loading="lazy" decoding="async" width="534" height="768" data-id="36723" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-nid2.jpg" alt="" class="wp-image-36723" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-nid2.jpg 534w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-nid2-209x300.jpg 209w" sizes="(max-width: 534px) 100vw, 534px" /></a></figure>
-</figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-45 is-layout-flex wp-block-gallery-is-layout-flex"></figure>
 
 
 
@@ -1282,11 +1282,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-46 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1.jpg"><img loading="lazy" decoding="async" width="1024" height="678" data-id="36715" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1.jpg" alt="" class="wp-image-36715" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1-300x199.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1-768x509.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1-600x397.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Chenille isolée (Cliché Accipiter ; C.C. 3.0)</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1.jpg"><img loading="lazy" decoding="async" width="1024" height="678" data-id="36715" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1.jpg" alt="" class="wp-image-36715" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1-300x199.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1-768x509.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che1-600x397.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Chenille isolée (Cliché Accipiter&nbsp;; C.C. 3.0)</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2.jpg"><img loading="lazy" decoding="async" width="1024" height="672" data-id="36716" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2.jpg" alt="" class="wp-image-36716" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2-300x197.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2-768x504.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2-600x394.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Procession de jeunes chenilles (Cliché Luc hoogenstein ; C.C. 4.0)</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2.jpg"><img loading="lazy" decoding="async" width="1024" height="672" data-id="36716" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2.jpg" alt="" class="wp-image-36716" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2-300x197.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2-768x504.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-che2-600x394.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Procession de jeunes chenilles (Cliché Luc hoogenstein&nbsp;; C.C. 4.0)</figcaption></figure>
 </figure>
 
 
@@ -1303,10 +1303,10 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol.jpg"><img loading="lazy" decoding="async" width="300" height="222" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol-300x222.jpg" alt="" class="wp-image-36719" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol-300x222.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol-768x569.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol-600x444.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-element-caption">Chêne en cours de défoliation <br>(Riquix ; C.C. 4.0)</figcaption></figure></div>
+<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol.jpg"><img loading="lazy" decoding="async" width="300" height="222" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol-300x222.jpg" alt="" class="wp-image-36719" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol-300x222.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol-768x569.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol-600x444.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-defol.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-element-caption">Chêne en cours de défoliation <br>(Riquix&nbsp;; C.C. 4.0)</figcaption></figure></div>
 
 
-<p>Un chercheur français a mené une thèse sur les interactions entre ces chenilles et les chênes. Il a notamment étudié les impacts sur les deux espèces de chênes feuillus les plus touchées et qui peuvent souvent se côtoyer : les <a href="https://www.zoom-nature.fr/chene-sessile-versus-pedoncule-si-proches-si-differents/" title="">chênes pédonculé et sessile</a>. Il a montré que le chêne sessile était plus attractif et donc plus susceptible d’être attaqué que le pédonculé : il subit un niveau de défoliation plus élevé et les chenilles s’y développent mieux et plus vite. Ces chênes sont plus susceptibles dans les boisements purs (une seule espèce) que dans les boisements mixtes que ce soit avec une autre espèce de chêne ou une autre essence non hôte. </p>
+<p>Un chercheur français a mené une thèse sur les interactions entre ces chenilles et les chênes. Il a notamment étudié les impacts sur les deux espèces de chênes feuillus les plus touchées et qui peuvent souvent se côtoyer&nbsp;: les&nbsp;<a href="https://www.zoom-nature.fr/chene-sessile-versus-pedoncule-si-proches-si-differents/" title="">chênes pédonculé et sessile</a>. Il a montré que le chêne sessile était plus attractif et donc plus susceptible d’être attaqué que le pédonculé&nbsp;: il subit un niveau de défoliation plus élevé et les chenilles s’y développent mieux et plus vite. Ces chênes sont plus susceptibles dans les boisements purs (une seule espèce) que dans les boisements mixtes que ce soit avec une autre espèce de chêne ou une autre essence non hôte.&nbsp;</p>
 
 
 
@@ -1391,16 +1391,16 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-49 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau.jpg"><img loading="lazy" decoding="async" width="794" height="768" data-id="36724" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau.jpg" alt="" class="wp-image-36724" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau.jpg 794w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau-300x290.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau-768x743.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau-600x580.jpg 600w" sizes="(max-width: 794px) 100vw, 794px" /></a><figcaption class="wp-element-caption">En Allemagne, l&rsquo;espèce connaît un fort développement : panneau d&rsquo;avertissement (TeWeBs ; C.C. 4.0)</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau.jpg"><img loading="lazy" decoding="async" width="794" height="768" data-id="36724" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau.jpg" alt="" class="wp-image-36724" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau.jpg 794w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau-300x290.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau-768x743.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-panneau-600x580.jpg 600w" sizes="(max-width: 794px) 100vw, 794px" /></a><figcaption class="wp-element-caption">En Allemagne, l&rsquo;espèce connaît un fort développement : panneau d&rsquo;avertissement (TeWeBs&nbsp;; C.C. 4.0)</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege.jpg"><img loading="lazy" decoding="async" width="1024" height="672" data-id="36725" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege.jpg" alt="" class="wp-image-36725" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege-300x197.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege-768x504.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege-600x394.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Piège installé en ville (Frank Vincentz ; C.C. 3.0)</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege.jpg"><img loading="lazy" decoding="async" width="1024" height="672" data-id="36725" src="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege.jpg" alt="" class="wp-image-36725" srcset="https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege-300x197.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege-768x504.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2025/12/pc-piege-600x394.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Piège installé en ville (Frank Vincentz&nbsp;; C.C. 3.0)</figcaption></figure>
 </figure>
 
 
 
-<p>En Grande-Bretagne, sur la population londonienne, il a été montré un certain parasitisme par une mouche <a href="https://www.zoom-nature.fr/tachinaires-des-mouches-essentielles/" title="">tachinaire</a><strong>,</strong> <em>Carcelia iliaca</em> ; elle y est reposable de la mortalité d’environ 37% des chrysalides. Pour autant, ce parasitisme ne réussit pas à stabiliser la population toujours croissante (et problématique !). Les Calosomes, de beaux coléoptères, s’attaquent aux chrysalides en grimpant sur les troncs des arbres.</p>
+<p>En Grande-Bretagne, sur la population londonienne, il a été montré un certain parasitisme par une mouche&nbsp;<a href="https://www.zoom-nature.fr/tachinaires-des-mouches-essentielles/" title="">tachinaire</a><strong>,</strong>&nbsp;<em>Carcelia iliaca</em>&nbsp;; elle y est reposable de la mortalité d’environ 37% des chrysalides. Pour autant, ce parasitisme ne réussit pas à stabiliser la population toujours croissante (et problématique&nbsp;!). Les Calosomes, de beaux coléoptères, s’attaquent aux chrysalides en grimpant sur les troncs des arbres.</p>
 
 
 
@@ -1436,7 +1436,7 @@
 
 
 
-<p>Agricultural and Forest Entomology (2012), 14, 147–155 <strong>Historical distribution of the oak processionary moth <em>Thaumetopoea processionea</em> in Europe suggests recolonization</strong> <strong>instead of expansion </strong>Frans Groenen and Nicolas Meurisse</p>
+<p>Agricultural and Forest Entomology (2012), 14, 147–155&nbsp;<strong>Historical distribution of the oak processionary moth&nbsp;<em>Thaumetopoea processionea</em>&nbsp;in Europe suggests recolonization</strong> <strong>instead of expansion&nbsp;</strong>Frans Groenen and Nicolas Meurisse</p>
 
 
 
@@ -1770,5 +1770,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Mise en cache de page à l’aide de Disk: Enhanced (Page is feed) 
 Mibnifié utilisant Disk
 
-Served from: www.zoom-nature.fr @ 2026-01-06 16:29:58 by W3 Total Cache
+Served from: www.zoom-nature.fr @ 2026-01-07 09:38:52 by W3 Total Cache
 -->
