@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Thu, 27 Nov 2025 05:10:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Jan 2026 05:53:20 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un cas de cleptoparasitisme : Pseudagrion torridum Selys, 1876 prélevant une proie sur une toile d’araignée (Odonata : Coenagrionidae)</title>
+		<link>https://martinia.insectes.org/un-cas-de-cleptoparasitisme-empseudagrion-torridum-em-selys-1876-prelevant-une-proie-sur-une-toile-daraignee-odonata-coenagrionidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2026 05:52:40 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Ethiopia]]></category>
+		<category><![CDATA[Éthiopie]]></category>
+		<category><![CDATA[lac Langano]]></category>
+		<category><![CDATA[Langano lake]]></category>
+		<category><![CDATA[prédation]]></category>
+		<category><![CDATA[predation]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=7028</guid>
+
+					<description><![CDATA[Le 30 octobre 2018, une heure avant le coucher du soleil (17:01) dans l’atmosphère brumeuse d’une fin de journée très chaude, j’ai inventorié les odonates sur la rive ouest du lac Langano (Fig. 1a) en Éthiopie (7°35&#8217;29.856&#8243; N, 38°41&#8217;34.968&#8243; E, alt. 1585 m). Très peu d’espèces se sont avérées être présentes dans les herbes basses d’une [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chronique d’une disparition : le cas de Nehalennia speciosa (Charpentier, 1840) en Franche-Comté, seule station française contemporaine (Odonata : Coenagrionidae)</title>
 		<link>https://martinia.insectes.org/chronique-dune-disparition-le-cas-de-emnehalennia-speciosa-em-charpentier-1840-en-franche-comte-seule-station-francaise-contemporaine-odonata-coenagrionidae/</link>
 		
@@ -88,8 +108,8 @@
 		<category><![CDATA[Doubs]]></category>
 		<category><![CDATA[Franche-Comté]]></category>
 		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[Revision]]></category>
 		<category><![CDATA[Révision]]></category>
+		<category><![CDATA[Revision]]></category>
 		<category><![CDATA[Stylurus flavipes]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6700</guid>
 
@@ -231,28 +251,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6396</guid>
 
 					<description><![CDATA[Les imagos d’odonates sont réputés être de très bons prédateurs (Corbet, 1962) en raison notamment de leur maîtrise des airs et de leurs capacités visuelles (Olberg et al., 2000 ; Sentis et al., 2022). Cependant, ils sont évidemment régulièrement proie à leur tour. Les principaux prédateurs recensés sont les oiseaux, les araignées, mais aussi d’autres [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Plusieurs cas de reproduction de Boyeria irene (Fonscolombe, 1838) sur plan d’eau en France (Odonata : Aeshnidae)</title>
-		<link>https://martinia.insectes.org/plusieurs-cas-de-reproduction-de-emboyeria-irene-em-fonscolombe-1838-sur-plan-deau-en-france-odonata-aeshnidae/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Fri, 07 Feb 2025 07:10:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[autochthony]]></category>
-		<category><![CDATA[autochtonie]]></category>
-		<category><![CDATA[Exuviae]]></category>
-		<category><![CDATA[Exuvies]]></category>
-		<category><![CDATA[habitat larvaire]]></category>
-		<category><![CDATA[larval habitat]]></category>
-		<category><![CDATA[lentic habitat]]></category>
-		<category><![CDATA[milieu lentique]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=6001</guid>
-
-					<description><![CDATA[Boyeria irene (Fonscolombe, 1838) est un odonate considéré comme étant essentiellement inféodé aux cours d’eau (Dommanget, 1987 ; Wildermuth, 2005 ; Wildermuth &#38; Martens, 2019). Très peu d’observations en milieu lentique sont rapportées par les naturalistes. Des populations autochtones sont néanmoins connues sur plusieurs lacs préalpins et alpins en Suisse et en Allemagne depuis plusieurs [&#8230;]]]></description>
 		
 		
 		
