@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 04 Jan 2026 08:26:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Jan 2026 10:21:03 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Observation d’une Alouette de Heine dans le Pas-de-Calais</title>
+		<link>https://marcduquet.com/observation-dune-alouette-de-heine-dans-le-pas-de-calais/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2026 10:11:39 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Alaudala heinei]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6320</guid>
+
+					<description><![CDATA[Par Guy Flohart &#38; Marc Duquet I-Chronologie des observations Le 12&#160;décembre 2025 en début d’après-midi, une petite alouette arrivant de l&#8217;ouest se pose à proximité d’un groupe d’Alouettes haussecols et de linottes dans les herbus des Hemmes-de-Marck, sur la commune de Marck (Pas-de-Calais). Elle sera observée brièvement avant un envol généralisé et ne sera pas...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nidification de la Glaréole à collier dans l’Aude en 2025</title>
 		<link>https://marcduquet.com/nidification-de-la-glareole-a-collier-dans-laude-en-2025/</link>
 		
@@ -118,24 +135,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6061</guid>
 
 					<description><![CDATA[L’événement de cette quinzaine est la découverte d’un&#160;Martin-pêcheur d’Amérique&#160;en Bretagne, une espèce nouvelle pour la France. Également venu d’outre-Atlantique, le&#160;Busard d’Amérique&#160;mâle est toujours présent en Gironde. Quelques nouveaux&#160;Pouillots de Pallas&#160;ont été trouvés, de même que le septième&#160;Traquet du désert&#160;de l’automne. De belles troupes d’Alouettes haussecols&#160;et de Linottes à bec jaune&#160;stationnent sur les côtes de la...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Topographie de l’oiseau (I) : la tête et les parties inférieures</title>
-		<link>https://marcduquet.com/topographie-de-loiseau-i-la-tete-et-les-parties-inferieures/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 13 Dec 2025 19:34:35 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Parties inférieures]]></category>
-		<category><![CDATA[Plumage]]></category>
-		<category><![CDATA[Tête]]></category>
-		<category><![CDATA[Topographie]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=5818</guid>
-
-					<description><![CDATA[Il y a une quinzaine d’années, un ami m’a demandé si le terme « topographie » était vraiment approprié pour parler de la localisation des noms des différentes parties du corps d’un oiseau. Je me suis mis en quête de la réponse, tout en sachant que je tenais là l’introduction à une série d’articles que j’avais alors...]]></description>
 		
 		
 		
