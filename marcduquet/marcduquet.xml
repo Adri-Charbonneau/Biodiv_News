@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 14 Jan 2026 10:21:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Jan 2026 10:22:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 janvier 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-janvier-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2026 10:19:34 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6367</guid>
+
+					<description><![CDATA[Un début d’année plutôt calme sur le front des oiseaux rares en France. Parmi les faits marquants, à signaler toutefois une&#160;Talève d’Allen&#160;(hélas trouvée morte…) dans l’Hérault et un petit afflux de&#160;Harles piettes, avec quelques oiseaux ayant voyagé plus au sud que d’ordinaire. Sinon, la plupart des oiseaux arrivés en fin d’année sont toujours présents, à...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Observation d’une Alouette de Heine dans le Pas-de-Calais</title>
 		<link>https://marcduquet.com/observation-dune-alouette-de-heine-dans-le-pas-de-calais/</link>
 		
@@ -39,7 +56,7 @@
 		<category><![CDATA[Paléarctique occidental]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=6320</guid>
 
-					<description><![CDATA[Par Guy Flohart &#38; Marc Duquet I-Chronologie des observations Le 12&#160;décembre 2025 en début d’après-midi, une petite alouette arrivant de l&#8217;ouest se pose à proximité d’un groupe d’Alouettes haussecols et de linottes dans les herbus des Hemmes-de-Marck, sur la commune de Marck (Pas-de-Calais). Elle sera observée brièvement avant un envol généralisé et ne sera pas...]]></description>
+					<description><![CDATA[Par Guy Flohart &#38; Marc Duquet I-Chronologie des observations Le 12 décembre 2025 en début d’après-midi, une petite alouette arrivant de l&#8217;ouest se pose à proximité d’un groupe d’Alouettes haussecols et de linottes dans les herbus des Hemmes-de-Marck, sur la commune de Marck (Pas-de-Calais). Elle sera observée brièvement avant un envol généralisé et ne sera pas...]]></description>
 		
 		
 		
@@ -118,23 +135,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6115</guid>
 
 					<description><![CDATA[Pour terminer cette année 2025 sur une note optimiste, voici quelques informations ornithologiques pleines d’espoir, résultant de publications scientifiques récentes, certaines déjà reprises sur&#160;Ornithomedia&#160;ou&#160;BirdGuides. Il s’agit uniquement de nouvelles positives, notamment d’effectifs importants d’espèces menacées ou en déclin, ou de records divers. Elles démontrent, dans le climat pessimiste actuel, que tout espoir n’est pas perdu&#160;!...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 décembre 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-decembre-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 16 Dec 2025 13:56:01 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6061</guid>
-
-					<description><![CDATA[L’événement de cette quinzaine est la découverte d’un&#160;Martin-pêcheur d’Amérique&#160;en Bretagne, une espèce nouvelle pour la France. Également venu d’outre-Atlantique, le&#160;Busard d’Amérique&#160;mâle est toujours présent en Gironde. Quelques nouveaux&#160;Pouillots de Pallas&#160;ont été trouvés, de même que le septième&#160;Traquet du désert&#160;de l’automne. De belles troupes d’Alouettes haussecols&#160;et de Linottes à bec jaune&#160;stationnent sur les côtes de la...]]></description>
 		
 		
 		
