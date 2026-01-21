@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 16 Jan 2026 10:22:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jan 2026 07:23:55 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tarier des prés capturant un insecte en plein vol</title>
+		<link>https://marcduquet.com/tarier-des-pres-capturant-un-insecte-en-plein-vol/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 07:13:46 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Comportement]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Saxicola rubetra]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6442</guid>
+
+					<description><![CDATA[Par Marc Duquet &#38; Guy Flohart Le développement fulgurant de la photographie numérique et les capacités incroyables des boîtiers récents nous permettent de voir des choses que notre œil et notre cerveau n’ont pas le temps de percevoir. Voici un montage numérique réalisé avec&#160;Photoshop, montrant la séquence de chasse d’un Tarier des prés mâle capturant...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 janvier 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-janvier-2026/</link>
 		
@@ -110,31 +127,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6137</guid>
 
 					<description><![CDATA[L’observation d’un&#160;Martin-pêcheur d’Amérique&#160;début décembre 2025 au bord du canal de Nantes à Brest, sur la commune de Glomel (Côtes-d’Armor), a été largement relayée par les réseaux sociaux&#160;– liste Telegram&#160;Oiseaux Rares France, diverses pages&#160;Facebook, base de données&#160;Faune France&#160;et site&#160;Ornithomedia – et les médias (TF1, France 3). Il s’agit de la première mention française de cette espèce...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Florilège de bonnes nouvelles ornithologiques</title>
-		<link>https://marcduquet.com/florilege-de-bonnes-nouvelles-ornithologiques/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 27 Dec 2025 09:31:06 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Aquila fasciata]]></category>
-		<category><![CDATA[Calidris pygmaea]]></category>
-		<category><![CDATA[Elanus caeruleus]]></category>
-		<category><![CDATA[Falco cherrug]]></category>
-		<category><![CDATA[Falco vespertinus]]></category>
-		<category><![CDATA[Grus americana]]></category>
-		<category><![CDATA[Oxyura leucocephala]]></category>
-		<category><![CDATA[Phoebastria immutabilis]]></category>
-		<category><![CDATA[Strix uralensis]]></category>
-		<category><![CDATA[Tarsiger cyanurus]]></category>
-		<category><![CDATA[Vanellus gregarius]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6115</guid>
-
-					<description><![CDATA[Pour terminer cette année 2025 sur une note optimiste, voici quelques informations ornithologiques pleines d’espoir, résultant de publications scientifiques récentes, certaines déjà reprises sur&#160;Ornithomedia&#160;ou&#160;BirdGuides. Il s’agit uniquement de nouvelles positives, notamment d’effectifs importants d’espèces menacées ou en déclin, ou de records divers. Elles démontrent, dans le climat pessimiste actuel, que tout espoir n’est pas perdu&#160;!...]]></description>
 		
 		
 		
