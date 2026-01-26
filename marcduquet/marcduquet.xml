@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 21 Jan 2026 07:23:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jan 2026 13:23:59 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Notes d’ornithologie française (NOF 5) : partie 1</title>
+		<link>https://marcduquet.com/notes-dornithologie-francaise-nof-5-partie-1/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 13:23:59 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Alcidés]]></category>
+		<category><![CDATA[Canards]]></category>
+		<category><![CDATA[Cigognes]]></category>
+		<category><![CDATA[Cormorans]]></category>
+		<category><![CDATA[Flamants]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Grèbes]]></category>
+		<category><![CDATA[Laridés]]></category>
+		<category><![CDATA[Limicoles]]></category>
+		<category><![CDATA[Martinets]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<category><![CDATA[Océanites]]></category>
+		<category><![CDATA[Puffins]]></category>
+		<category><![CDATA[Rallidés]]></category>
+		<category><![CDATA[Répartition]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6458</guid>
+
+					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [NDLR : la seconde partie de cette synthèse sera publiée prochainement et comportera un PDF reprenant l’intégralité de ces cinquièmes notes d’ornithologie française.] Cette nouvelle mise à jour du&#160;Nouvel inventaire des oiseaux de France&#160;(NIOF&#160;;&#160;Dubois&#160;et al.&#160;2008) a pour objet de mettre en valeur les nouveautés avifaunistiques enregistrées depuis la...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Tarier des prés capturant un insecte en plein vol</title>
 		<link>https://marcduquet.com/tarier-des-pres-capturant-un-insecte-en-plein-vol/</link>
 		
@@ -73,7 +103,7 @@
 		<category><![CDATA[Paléarctique occidental]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=6320</guid>
 
-					<description><![CDATA[Par Guy Flohart &#38; Marc Duquet I-Chronologie des observations Le 12 décembre 2025 en début d’après-midi, une petite alouette arrivant de l&#8217;ouest se pose à proximité d’un groupe d’Alouettes haussecols et de linottes dans les herbus des Hemmes-de-Marck, sur la commune de Marck (Pas-de-Calais). Elle sera observée brièvement avant un envol généralisé et ne sera pas...]]></description>
+					<description><![CDATA[Par Guy Flohart &#38; Marc Duquet I-Chronologie des observations Le 12&#160;décembre 2025 en début d’après-midi, une petite alouette arrivant de l&#8217;ouest se pose à proximité d’un groupe d’Alouettes haussecols et de linottes dans les herbus des Hemmes-de-Marck, sur la commune de Marck (Pas-de-Calais). Elle sera observée brièvement avant un envol généralisé et ne sera pas...]]></description>
 		
 		
 		
@@ -109,24 +139,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6238</guid>
 
 					<description><![CDATA[Parmi les nouveautés de cette quinzaine, à signaler une&#160;Tourterelle orientale&#160;dans le Maine-et-Loire, deux&#160;Pouillots de Hume&#160;en Bretagne et une&#160;Alouette (pispolette)&#160;de Heine, potentielle première française, qui a stationné quelques jours dans le Pas-de-Calais. Le&#160;Busard d’Amérique&#160;et le&#160;Martin-pêcheur d’Amérique poursuivent leur séjour respectivement en Gironde et en Bretagne, tandis que l’Aigle criard&#160;fulvescens estonien a traversé la France de la...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le Martin-pêcheur d’Amérique dans le Paléarctique occidental</title>
-		<link>https://marcduquet.com/le-martin-pecheur-damerique-dans-le-palearctique-occidental/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 30 Dec 2025 07:32:03 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Megaceryle alcyon]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6137</guid>
-
-					<description><![CDATA[L’observation d’un&#160;Martin-pêcheur d’Amérique&#160;début décembre 2025 au bord du canal de Nantes à Brest, sur la commune de Glomel (Côtes-d’Armor), a été largement relayée par les réseaux sociaux&#160;– liste Telegram&#160;Oiseaux Rares France, diverses pages&#160;Facebook, base de données&#160;Faune France&#160;et site&#160;Ornithomedia – et les médias (TF1, France 3). Il s’agit de la première mention française de cette espèce...]]></description>
 		
 		
 		
