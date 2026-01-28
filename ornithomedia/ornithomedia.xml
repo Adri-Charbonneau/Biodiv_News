@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -12,14 +12,14 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 28 Jan 2026 07:19:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Jan 2026 12:40:46 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 		<item>
-		<title>Observation et identification d&#8217;un Plongeon du Pacifique en Bretagne en janvier 2026, une probable première donnée française</title>
+		<title>Observation et identification d&#8217;un Plongeon du Pacifique en Bretagne en janvier 2026, une première ou seconde donnée française</title>
 		<link>https://www.ornithomedia.com/pratique/identification/observation-et-identification-dun-plongeon-du-pacifique-en-bretagne-en-janvier-2026-une-probable-premiere-donnee-francaise/</link>
 					<comments>https://www.ornithomedia.com/pratique/identification/observation-et-identification-dun-plongeon-du-pacifique-en-bretagne-en-janvier-2026-une-probable-premiere-donnee-francaise/#respond</comments>
 		
@@ -29,9 +29,9 @@
 		<category><![CDATA[Pratique]]></category>
 		<guid isPermaLink="false">https://www.ornithomedia.com/?p=271659</guid>
 
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/observation-et-identification-dun-plongeon-du-pacifique-en-bretagne-en-janvier-2026-une-probable-premiere-donnee-francaise/">Observation et identification d&rsquo;un Plongeon du Pacifique en Bretagne en janvier 2026, une probable première donnée française</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/observation-et-identification-dun-plongeon-du-pacifique-en-bretagne-en-janvier-2026-une-probable-premiere-donnee-francaise/">Observation et identification d&rsquo;un Plongeon du Pacifique en Bretagne en janvier 2026, une première ou seconde donnée française</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/observation-et-identification-dun-plongeon-du-pacifique-en-bretagne-en-janvier-2026-une-probable-premiere-donnee-francaise/">Observation et identification d&rsquo;un Plongeon du Pacifique en Bretagne en janvier 2026, une probable première donnée française</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/pratique/identification/observation-et-identification-dun-plongeon-du-pacifique-en-bretagne-en-janvier-2026-une-probable-premiere-donnee-francaise/">Observation et identification d&rsquo;un Plongeon du Pacifique en Bretagne en janvier 2026, une première ou seconde donnée française</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/observation-et-identification-dun-plongeon-du-pacifique-en-bretagne-en-janvier-2026-une-probable-premiere-donnee-francaise/feed/</wfw:commentRss>
