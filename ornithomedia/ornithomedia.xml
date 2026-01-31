@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -12,12 +12,32 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Thu, 29 Jan 2026 19:18:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Jan 2026 22:00:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Premier cas de nidification réussie du Phaéton à brins rouges sur l&#8217;île de La Réunion (France) en 2025</title>
+		<link>https://www.ornithomedia.com/breves/premier-cas-de-nidification-reussie-du-phaeton-a-brins-rouges-sur-lile-de-la-reunion-france-en-2025/</link>
+					<comments>https://www.ornithomedia.com/breves/premier-cas-de-nidification-reussie-du-phaeton-a-brins-rouges-sur-lile-de-la-reunion-france-en-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sat, 31 Jan 2026 07:30:00 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=273158</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/premier-cas-de-nidification-reussie-du-phaeton-a-brins-rouges-sur-lile-de-la-reunion-france-en-2025/">Premier cas de nidification réussie du Phaéton à brins rouges sur l&rsquo;île de La Réunion (France) en 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/premier-cas-de-nidification-reussie-du-phaeton-a-brins-rouges-sur-lile-de-la-reunion-france-en-2025/">Premier cas de nidification réussie du Phaéton à brins rouges sur l&rsquo;île de La Réunion (France) en 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/premier-cas-de-nidification-reussie-du-phaeton-a-brins-rouges-sur-lile-de-la-reunion-france-en-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Nombre record de mâles chanteurs de Phragmites aquatiques en Lituanie en 2025</title>
 		<link>https://www.ornithomedia.com/breves/nombre-record-de-males-chanteurs-de-phragmites-aquatiques-en-lituanie-en-2025/</link>
@@ -197,26 +217,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/la-population-mondiale-de-petites-spatules-a-depasse-les-7-000-individus-en-2025-mais-sa-croissance-ralentit-fortement/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Le Bécasseau tacheté serait en cours d&#8217;installation au Groenland, poursuivant ainsi son expansion au nord-est du continent américain</title>
-		<link>https://www.ornithomedia.com/breves/le-becasseau-tachete-serait-en-cours-dinstallation-au-groenland-confirmant-ainsi-son-expansion-vers-lest/</link>
-					<comments>https://www.ornithomedia.com/breves/le-becasseau-tachete-serait-en-cours-dinstallation-au-groenland-confirmant-ainsi-son-expansion-vers-lest/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Fri, 09 Jan 2026 18:46:42 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=266266</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/le-becasseau-tachete-serait-en-cours-dinstallation-au-groenland-confirmant-ainsi-son-expansion-vers-lest/">Le Bécasseau tacheté serait en cours d&rsquo;installation au Groenland, poursuivant ainsi son expansion au nord-est du continent américain</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/le-becasseau-tachete-serait-en-cours-dinstallation-au-groenland-confirmant-ainsi-son-expansion-vers-lest/">Le Bécasseau tacheté serait en cours d&rsquo;installation au Groenland, poursuivant ainsi son expansion au nord-est du continent américain</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/le-becasseau-tachete-serait-en-cours-dinstallation-au-groenland-confirmant-ainsi-son-expansion-vers-lest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
