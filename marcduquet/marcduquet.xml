@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 26 Jan 2026 13:23:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Feb 2026 11:00:36 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-31 janvier 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-31-janvier-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 01 Feb 2026 10:54:36 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6539</guid>
+
+					<description><![CDATA[Les départements de la Gironde et des Côtes-d’Armor auront été souvent à l’honneur cet hiver, en accueillant un grand nombre d’oiseaux rares. Après un Fou brun, un&#160;Busard d’Amérique, un Traquet du désert, un Pouillot brun et une dizaine de Pouillots de Pallas le premier fournit le premier&#160;Goéland bourgmestre&#160;de l’hiver, tandis que les Côtes-d’Armor, où le&#160;Martin-pêcheur...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Notes d’ornithologie française (NOF 5) : partie 1</title>
 		<link>https://marcduquet.com/notes-dornithologie-francaise-nof-5-partie-1/</link>
 		
@@ -122,23 +139,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6217</guid>
 
 					<description><![CDATA[Par Dominique Clément Au cours de l’été 2025, un couple de Glaréoles à collier a niché sur la plage de Gruissan dans l’Aude, loin des colonies camarguaises. Il s’agit du premier cas de reproduction certaine (codes atlas 11 et 16) pour ce département du Languedoc.&#160; I – Observations •&#160;1er&#160;juillet&#160;(avec C. Clairotte)&#160;– Nous effectuons une séance...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 décembre 2025</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-decembre-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 01 Jan 2026 10:05:08 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6238</guid>
-
-					<description><![CDATA[Parmi les nouveautés de cette quinzaine, à signaler une&#160;Tourterelle orientale&#160;dans le Maine-et-Loire, deux&#160;Pouillots de Hume&#160;en Bretagne et une&#160;Alouette (pispolette)&#160;de Heine, potentielle première française, qui a stationné quelques jours dans le Pas-de-Calais. Le&#160;Busard d’Amérique&#160;et le&#160;Martin-pêcheur d’Amérique poursuivent leur séjour respectivement en Gironde et en Bretagne, tandis que l’Aigle criard&#160;fulvescens estonien a traversé la France de la...]]></description>
 		
 		
 		
