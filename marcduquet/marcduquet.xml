@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 01 Feb 2026 11:00:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Feb 2026 10:35:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9</generator>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un Plongeon du Pacifique en Bretagne en 2015 ?</title>
+		<link>https://marcduquet.com/un-plongeon-du-pacifique-en-bretagne-en-2015/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 09:56:11 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Gavia arctica]]></category>
+		<category><![CDATA[Gavia pacifica]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Plongeons]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6677</guid>
+
+					<description><![CDATA[Par Philippe J. Dubois Le 6 décembre 2015, en compagnie d’Élise Rousseau, nous observons au niveau de la pointe de Bindy, sur la commune de Logonna-Daoulas (Finistère), recherchant notamment les plongeons et grèbes qui hivernent régulièrement dans ce secteur. À la mi-journée, nous trouvons un groupe lâche de 8 Plongeons arctiques&#160;Gavia arctica, qui pêchent non...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 janvier 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-janvier-2026/</link>
 		
@@ -39,7 +59,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=6539</guid>
 
-					<description><![CDATA[Les départements de la Gironde et des Côtes-d’Armor auront été souvent à l’honneur cet hiver, en accueillant un grand nombre d’oiseaux rares. Après un Fou brun, un&#160;Busard d’Amérique, un Traquet du désert, un Pouillot brun et une dizaine de Pouillots de Pallas le premier fournit le premier&#160;Goéland bourgmestre&#160;de l’hiver, tandis que les Côtes-d’Armor, où le&#160;Martin-pêcheur...]]></description>
+					<description><![CDATA[Les départements de la Gironde et des Côtes-d’Armor auront été souvent à l’honneur cet hiver, en accueillant un grand nombre d’oiseaux rares. Après un Fou brun, un&#160;Busard d’Amérique, un Traquet du désert, un Pouillot brun et une dizaine de Pouillots de Pallas, le premier fournit le premier&#160;Goéland bourgmestre&#160;de l’hiver, tandis que les Côtes-d’Armor, où le&#160;Martin-pêcheur...]]></description>
 		
 		
 		
@@ -121,24 +141,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6320</guid>
 
 					<description><![CDATA[Par Guy Flohart &#38; Marc Duquet I-Chronologie des observations Le 12&#160;décembre 2025 en début d’après-midi, une petite alouette arrivant de l&#8217;ouest se pose à proximité d’un groupe d’Alouettes haussecols et de linottes dans les herbus des Hemmes-de-Marck, sur la commune de Marck (Pas-de-Calais). Elle sera observée brièvement avant un envol généralisé et ne sera pas...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nidification de la Glaréole à collier dans l’Aude en 2025</title>
-		<link>https://marcduquet.com/nidification-de-la-glareole-a-collier-dans-laude-en-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 04 Jan 2026 08:26:52 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Aude]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Glareola pratincola]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6217</guid>
-
-					<description><![CDATA[Par Dominique Clément Au cours de l’été 2025, un couple de Glaréoles à collier a niché sur la plage de Gruissan dans l’Aude, loin des colonies camarguaises. Il s’agit du premier cas de reproduction certaine (codes atlas 11 et 16) pour ce département du Languedoc.&#160; I – Observations •&#160;1er&#160;juillet&#160;(avec C. Clairotte)&#160;– Nous effectuons une séance...]]></description>
 		
 		
 		
