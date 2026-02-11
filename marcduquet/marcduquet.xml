@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 05 Feb 2026 10:35:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Feb 2026 07:53:04 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,68 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Identification acoustique de la Grive obscure et de la Grive à gorge noire en contexte ouest-paléarctique</title>
+		<link>https://marcduquet.com/identification-acoustique-de-la-grive-obscure-et-de-la-grive-a-gorge-noire-en-contexte-ouest-palearctique/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 07:40:43 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<category><![CDATA[Turdidés]]></category>
+		<category><![CDATA[Turdus atrogularis]]></category>
+		<category><![CDATA[Turdus eunomus]]></category>
+		<category><![CDATA[Turdus iliacus]]></category>
+		<category><![CDATA[Turdus merula]]></category>
+		<category><![CDATA[Turdus naumanni]]></category>
+		<category><![CDATA[Turdus obscurus]]></category>
+		<category><![CDATA[Turdus philomelos]]></category>
+		<category><![CDATA[Turdus pilaris]]></category>
+		<category><![CDATA[Turdus ruficollis]]></category>
+		<category><![CDATA[Turdus torquatus]]></category>
+		<category><![CDATA[Voix]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6588</guid>
+
+					<description><![CDATA[Par Stanislas Wroza NDLR&#160;: Cet article est paru en anglais en 2025 dans la revue Dutch Birding. Un grand merci à Arnoud B. van den Berg et à la rédaction de ce magazine néerlandais de nous avoir permis d&#8217;en publier une version française. L’essor récent de l’enregistrement des sons d&#8217;oiseaux, notamment l&#8217;enregistrement passif des cris...]]></description>
+		
+		
+		<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-1a-Merle.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-1b-Merle.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-1c-Merle.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-3a-Mauvis.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-3b-Obscure.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-4-Obscure.mp3" length="76821" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-5a-Mauvis.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-5b-Obscure.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-5c-Merle.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-6a-Mauvis.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-6b-Mauvis.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-8ab-Obscure.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-8cd-Musicienne.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-8ef-Mauvis-2.mp3" length="76821" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-9-Obscure.mp3" length="576492" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-10a-Litorne.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-10b-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-10c-Plastron.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-11a-Obscure.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-11b-Merle.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-11c-Jaseur.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-12a-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-12b-Plastron.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-12c-Litorne.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-13a-1-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-13b-2-Merle.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-13c-3-Mauvis.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/Fig-13-Common-Blackbird-Other-calls.mp3" length="87360" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-14-Gorge-noire.mp3" length="184028" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-15a-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-15b-Ailes-rousses.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-15c-Naumann.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-16a-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-16b-Ailes-rousses.mp3" length="41086" type="audio/mpeg" />
+
+			</item>
+		<item>
 		<title>Un Plongeon du Pacifique en Bretagne en 2015 ?</title>
 		<link>https://marcduquet.com/un-plongeon-du-pacifique-en-bretagne-en-2015/</link>
 		
@@ -124,23 +186,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6367</guid>
 
 					<description><![CDATA[Un début d’année plutôt calme sur le front des oiseaux rares en France. Parmi les faits marquants, à signaler toutefois une&#160;Talève d’Allen&#160;(hélas trouvée morte…) dans l’Hérault et un petit afflux de&#160;Harles piettes, avec quelques oiseaux ayant voyagé plus au sud que d’ordinaire. Sinon, la plupart des oiseaux arrivés en fin d’année sont toujours présents, à...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Observation d’une Alouette de Heine dans le Pas-de-Calais</title>
-		<link>https://marcduquet.com/observation-dune-alouette-de-heine-dans-le-pas-de-calais/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 14 Jan 2026 10:11:39 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Alaudala heinei]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6320</guid>
-
-					<description><![CDATA[Par Guy Flohart &#38; Marc Duquet I-Chronologie des observations Le 12&#160;décembre 2025 en début d’après-midi, une petite alouette arrivant de l&#8217;ouest se pose à proximité d’un groupe d’Alouettes haussecols et de linottes dans les herbus des Hemmes-de-Marck, sur la commune de Marck (Pas-de-Calais). Elle sera observée brièvement avant un envol généralisé et ne sera pas...]]></description>
 		
 		
 		
