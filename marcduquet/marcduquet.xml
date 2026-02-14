@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 11 Feb 2026 07:53:04 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Feb 2026 20:50:38 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le livre « Les oiseaux de la montagne jurassienne » </title>
+		<link>https://marcduquet.com/le-livre-les-oiseaux-de-la-montagne-jurassienne/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 14 Feb 2026 20:41:28 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Jura]]></category>
+		<category><![CDATA[Livres]]></category>
+		<category><![CDATA[Oiseaux]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6883</guid>
+
+					<description><![CDATA[Par Philippe J. Dubois En 2003, Neo Éditions publiait Les oiseaux de la montagne jurassienne, sous la houlette de Dominique Michelat. Vingt-deux ans plus tard, ce sont les éditions de la Belle Étoile qui proposent une nouvelle édition enrichie de l’ouvrage. Dominique Michelat est entouré de Laurent Beschet et Didier Pépin pour relever le défi de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Identification acoustique de la Grive obscure et de la Grive à gorge noire en contexte ouest-paléarctique</title>
 		<link>https://marcduquet.com/identification-acoustique-de-la-grive-obscure-et-de-la-grive-a-gorge-noire-en-contexte-ouest-palearctique/</link>
 		
@@ -169,23 +187,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6442</guid>
 
 					<description><![CDATA[Par Marc Duquet &#38; Guy Flohart Le développement fulgurant de la photographie numérique et les capacités incroyables des boîtiers récents nous permettent de voir des choses que notre œil et notre cerveau n’ont pas le temps de percevoir. Voici un montage numérique réalisé avec&#160;Photoshop, montrant la séquence de chasse d’un Tarier des prés mâle capturant...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 janvier 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-janvier-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 10:19:34 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6367</guid>
-
-					<description><![CDATA[Un début d’année plutôt calme sur le front des oiseaux rares en France. Parmi les faits marquants, à signaler toutefois une&#160;Talève d’Allen&#160;(hélas trouvée morte…) dans l’Hérault et un petit afflux de&#160;Harles piettes, avec quelques oiseaux ayant voyagé plus au sud que d’ordinaire. Sinon, la plupart des oiseaux arrivés en fin d’année sont toujours présents, à...]]></description>
 		
 		
 		
