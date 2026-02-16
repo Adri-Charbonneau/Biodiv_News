@@ -12,13 +12,13 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Mon, 05 Jan 2026 10:20:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Feb 2026 15:44:26 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9</generator>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
 
 <image>
 	<url>https://ephemera.insectes.org/wp-content/uploads/2023/11/ephemerae_full-150x150.png</url>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Première citation française d&#8217;une espèce rare et mal connue d&#8217;Ephydridae: Hydrellia maculiventris Becker, 1896 et quelques données sur son écologie (Diptera)</title>
+		<link>https://ephemera.insectes.org/publication/premiere-citation-francaise-dune-espece-rare-et-mal-connue-dephydridae-hydrellia-maculiventris-becker-1896-et-quelques-donnees-sur-son-ecologie-diptera/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 15:13:21 +0000</pubDate>
+				<category><![CDATA[Auvergne]]></category>
+		<category><![CDATA[Auvergne Region]]></category>
+		<category><![CDATA[espèce nouvelle pour la France]]></category>
+		<category><![CDATA[Shoreflies]]></category>
+		<category><![CDATA[species new for the French fauna.]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2329</guid>
+
+					<description><![CDATA[Hydrellia maculiventris Becker, 1896, une espèce rare et mal connue d’Ephydridae, a été observée pour la première fois en France dans un étang du Massif central. Quelques informations sur ses exigences écologiques sont précisées, à l’aide des résultats obtenus avec les protocoles et indicateurs BECOME (Bioindication des ECOsystèmes Mares et Etangs).]]></description>
+										<content:encoded><![CDATA[
+<p><em>Hydrellia maculiventris</em> Becker, 1896, une espèce rare et mal connue d’Ephydridae, a été observée pour la première fois en France dans un étang du Massif central. Quelques informations sur ses exigences écologiques sont précisées, à l’aide des résultats obtenus avec les protocoles et indicateurs BECOME (Bioindication des ECOsystèmes Mares et Etangs).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Découverte d’Erioptera (Erioptera) limbata Loew, 1873 dans le Val-d’Oise : première mention française d’une espèce peu connue en Europe (Diptera, Limoniidae)</title>
 		<link>https://ephemera.insectes.org/publication/decouverte-derioptera-erioptera-limbata-loew-1873-dans-le-val-doise-premiere-mention-francaise-dune-espece-peu-connue-en-europe-diptera-limoniidae/</link>
 		
@@ -257,36 +278,6 @@
 					<description><![CDATA[Le Genre Leptocerus Leach, 1815 comprend environ 160 espèces (Trichoptera World Checklist) dont la grande majorité est présente en Asie (108 espèces), Afrique tropicale (31) et région des îles du Pacifique, Australie (5). Il s’agit donc d’un genre principalement de régions chaudes, et surtout des régions orientales.]]></description>
 										<content:encoded><![CDATA[
 <p>Le Genre <em>Leptocerus</em> Leach, 1815 comprend environ 160 espèces (Trichoptera World Checklist) dont la grande majorité est présente en Asie (108 espèces), Afrique tropicale (31) et région des îles du Pacifique, Australie (5). Il s’agit donc d’un genre principalement de régions chaudes, et surtout des régions orientales.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Espèces de Limoniidae nouvelles pour la faune de France (Diptera, Nematocera)</title>
-		<link>https://ephemera.insectes.org/publication/especes-de-limoniidae-nouvelles-pour-la-faune-de-france-diptera-nematocera/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 16:08:14 +0000</pubDate>
-				<category><![CDATA[craneflies]]></category>
-		<category><![CDATA[distribution]]></category>
-		<category><![CDATA[Gonomyia]]></category>
-		<category><![CDATA[Hoplolabis]]></category>
-		<category><![CDATA[Idiocera]]></category>
-		<category><![CDATA[inventaire national]]></category>
-		<category><![CDATA[Lipsothrix]]></category>
-		<category><![CDATA[Molophilus]]></category>
-		<category><![CDATA[national inventory]]></category>
-		<category><![CDATA[Ormosia]]></category>
-		<category><![CDATA[Phyllolabis]]></category>
-		<category><![CDATA[Rhabdomastix]]></category>
-		<category><![CDATA[Tasiocera]]></category>
-		<category><![CDATA[Tipulomorpha]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2232</guid>
-
-					<description><![CDATA[De récentes études et campagnes de collectes ont permis la découverte de 18 espèces de Limoniidae nouvelles pour la France : Gonomyia (Teuchogonomyia) edwardsi Lackschewitz, 1925 ; Hoplolabis (Parilisia) spinula (Mendl, 1973) ; H. (P.) subalpina (Bangerter, 1947) ; Idiocera (Idiocera) bradleyi (Edwards, 1939) ; I. (I.) connexa (Loew, 1873) ; I. (I.) sexguttata (Dale, 1842) ;  Lipsothrix galiciensis Hancock &#38; Hewitt, [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>De récentes études et campagnes de collectes ont permis la découverte de 18 espèces de Limoniidae nouvelles pour la France : <em>Gonomyia</em> (<em>Teuchogonomyia</em>) <em>edwardsi</em> Lackschewitz, 1925 ; <em>Hoplolabis</em> (<em>Parilisia</em>) <em>spinula</em> (Mendl, 1973) ; <em>H</em>. (<em>P</em>.) <em>subalpina</em> (Bangerter, 1947) ; <em>Idiocera</em> (<em>Idiocera</em>) <em>bradleyi</em> (Edwards, 1939) ; <em>I</em>. (<em>I</em>.) <em>connexa </em>(Loew, 1873) ; <em>I</em>. (<em>I</em>.) <em>sexguttata</em> (Dale, 1842) ;  <em>Lipsothrix galiciensis</em> Hancock &amp; Hewitt, 2015 ; <em>Molophilus</em> (<em>Molophilus</em>) <em>oldenbergi</em> Lackschewitz, 1935 ; <em>M</em>. (<em>M</em>.) <em>stroblianus</em> Nielsen, 1953 ; <em>M</em>. (<em>M</em>.) <em>testaceus</em> Lackschewitz, 1940 ; <em>Ormosia</em> (<em>Ormosia</em>) <em>lackschewitzi</em> Bangerter, 1947 ; <em>O</em>. (<em>O</em>.) <em>staegeriana </em>Alexander, 1953 ; <em>Phyllolabis geigeri</em> Podenas &amp; Starý, 1997 ; <em>Rhabdomastix</em> (<em>Lurdia</em>) <em>loewi</em> Starý, 2003 ; <em>R</em>. (<em>L</em>.) <em>robusta</em> Starý, 2003 ;  <em>R</em>. (<em>Rhabdomastix</em>) <em>japonica</em> Alexander, 1924 ; <em>Tasiocera</em> (<em>Dasymolophilus</em>) <em>halesus </em>(Schmid, 1949) ; <em>T</em>. (<em>D</em>.) <em>jenkinsoni </em>Freeman, 1951.  Ces additions portent à 330 le nombre d’espèces de cette famille d’insectes pour notre pays. Des données topographiques et écologiques relatives à ces découvertes sont présentées.</p>
 ]]></content:encoded>
 					
 		
