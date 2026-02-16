@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 14 Feb 2026 20:50:38 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Feb 2026 09:35:33 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 février 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-fevrier-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 09:32:44 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6892</guid>
+
+					<description><![CDATA[Deux possibles Oies de taïga ont animé le début de la quinzaine, qui a ensuite vu l’arrivée en France de quelques laridés arctiques : quatre Goélands bourgmestres (dans le Morbihan, le Nord, les Landes et le Bas-Rhin), six Goélands de Kumlien (deux dans les Pyrénées-Atlantiques, trois dans le Finistère et un dans le Morbihan). Le seul limicole remarquable du moment est...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le livre « Les oiseaux de la montagne jurassienne » </title>
 		<link>https://marcduquet.com/le-livre-les-oiseaux-de-la-montagne-jurassienne/</link>
 		
@@ -170,23 +187,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6458</guid>
 
 					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [NDLR : la seconde partie de cette synthèse sera publiée prochainement et comportera un PDF reprenant l’intégralité de ces cinquièmes notes d’ornithologie française.] Cette nouvelle mise à jour du&#160;Nouvel inventaire des oiseaux de France&#160;(NIOF&#160;;&#160;Dubois&#160;et al.&#160;2008) a pour objet de mettre en valeur les nouveautés avifaunistiques enregistrées depuis la...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tarier des prés capturant un insecte en plein vol</title>
-		<link>https://marcduquet.com/tarier-des-pres-capturant-un-insecte-en-plein-vol/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 21 Jan 2026 07:13:46 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Comportement]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Saxicola rubetra]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6442</guid>
-
-					<description><![CDATA[Par Marc Duquet &#38; Guy Flohart Le développement fulgurant de la photographie numérique et les capacités incroyables des boîtiers récents nous permettent de voir des choses que notre œil et notre cerveau n’ont pas le temps de percevoir. Voici un montage numérique réalisé avec&#160;Photoshop, montrant la séquence de chasse d’un Tarier des prés mâle capturant...]]></description>
 		
 		
 		
