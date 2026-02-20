@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 16 Feb 2026 09:35:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Feb 2026 10:34:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Notes d’ornithologie française (NOF 5) : partie II</title>
+		<link>https://marcduquet.com/notes-dornithologie-francaise-nof-5-2e-partie/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 10:16:12 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Faucons]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Hérons]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Pics]]></category>
+		<category><![CDATA[Population]]></category>
+		<category><![CDATA[Rapaces diurnes]]></category>
+		<category><![CDATA[Rapaces nocturnes]]></category>
+		<category><![CDATA[Répartition]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6815</guid>
+
+					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [La&#160;première partie&#160;de cette synthèse a été publiée le 26&#160;janvier&#160;2026&#160;et figurera en intégralité dans le PDF&#160;disponible&#160;à la fin de la présente publication.] II-Avifaune française&#160;: données nouvelles&#160;(suite) Pelecaniformes – Threskiornithidae •&#160;SPATULE BLANCHE&#160;Platalea leucorodia&#160;– première reproduction prouvée en 2014 dans le département du Nord, à Bergues, où un couple a élevé...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 février 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-fevrier-2026/</link>
 		
@@ -39,7 +64,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=6892</guid>
 
-					<description><![CDATA[Deux possibles Oies de taïga ont animé le début de la quinzaine, qui a ensuite vu l’arrivée en France de quelques laridés arctiques : quatre Goélands bourgmestres (dans le Morbihan, le Nord, les Landes et le Bas-Rhin), six Goélands de Kumlien (deux dans les Pyrénées-Atlantiques, trois dans le Finistère et un dans le Morbihan). Le seul limicole remarquable du moment est...]]></description>
+					<description><![CDATA[Deux possibles&#160;Oies de taïga&#160;ont animé le début de la quinzaine, qui a ensuite vu l’arrivée en France de quelques laridés arctiques&#160;: quatre&#160;Goélands bourgmestres&#160;(dans le Morbihan, le Nord, les Landes et le Bas-Rhin), six Goélands de Kumlien&#160;(deux dans les Pyrénées-Atlantiques, trois dans le Finistère et un dans le Morbihan). Le seul limicole remarquable du moment est...]]></description>
 		
 		
 		
@@ -157,36 +182,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6539</guid>
 
 					<description><![CDATA[Les départements de la Gironde et des Côtes-d’Armor auront été souvent à l’honneur cet hiver, en accueillant un grand nombre d’oiseaux rares. Après un Fou brun, un&#160;Busard d’Amérique, un Traquet du désert, un Pouillot brun et une dizaine de Pouillots de Pallas, le premier fournit le premier&#160;Goéland bourgmestre&#160;de l’hiver, tandis que les Côtes-d’Armor, où le&#160;Martin-pêcheur...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Notes d’ornithologie française (NOF 5) : partie 1</title>
-		<link>https://marcduquet.com/notes-dornithologie-francaise-nof-5-partie-1/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 13:23:59 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Alcidés]]></category>
-		<category><![CDATA[Canards]]></category>
-		<category><![CDATA[Cigognes]]></category>
-		<category><![CDATA[Cormorans]]></category>
-		<category><![CDATA[Flamants]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Grèbes]]></category>
-		<category><![CDATA[Laridés]]></category>
-		<category><![CDATA[Limicoles]]></category>
-		<category><![CDATA[Martinets]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<category><![CDATA[Océanites]]></category>
-		<category><![CDATA[Puffins]]></category>
-		<category><![CDATA[Rallidés]]></category>
-		<category><![CDATA[Répartition]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6458</guid>
-
-					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [NDLR : la seconde partie de cette synthèse sera publiée prochainement et comportera un PDF reprenant l’intégralité de ces cinquièmes notes d’ornithologie française.] Cette nouvelle mise à jour du&#160;Nouvel inventaire des oiseaux de France&#160;(NIOF&#160;;&#160;Dubois&#160;et al.&#160;2008) a pour objet de mettre en valeur les nouveautés avifaunistiques enregistrées depuis la...]]></description>
 		
 		
 		
