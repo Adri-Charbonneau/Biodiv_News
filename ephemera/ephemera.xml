@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Mon, 16 Feb 2026 15:44:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Feb 2026 10:02:55 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Craneflies of Lebanon (Insecta, Tipuloidea:Tipulidae, Limoniidae &#038; Pediciidae</title>
+		<link>https://ephemera.insectes.org/publication/the-craneflies-of-lebanon-insecta-tipuloideatipulidae-limoniidae-pediciidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 10:02:54 +0000</pubDate>
+				<category><![CDATA[16 bassins versants]]></category>
+		<category><![CDATA[16 catchments]]></category>
+		<category><![CDATA[citations nouvelles.]]></category>
+		<category><![CDATA[Diptera]]></category>
+		<category><![CDATA[distribution]]></category>
+		<category><![CDATA[eaux courantes et stagnantes]]></category>
+		<category><![CDATA[Lebanon]]></category>
+		<category><![CDATA[Liban]]></category>
+		<category><![CDATA[new records.]]></category>
+		<category><![CDATA[répartition]]></category>
+		<category><![CDATA[running water]]></category>
+		<category><![CDATA[stagnant water]]></category>
+		<category><![CDATA[totalité du territoire]]></category>
+		<category><![CDATA[whole territory]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2339</guid>
+
+					<description><![CDATA[This study is a survey of the distribution of Diptera in the whole of Lebanon. 16 watersheds of the largest rivers were explored between 1979 and 2010, covering a wide variety of running waters distributed between 0 and 2150 m of altitude from springs and streams to the lower sectors of rivers, as well as [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This study is a survey of the distribution of Diptera in the whole of Lebanon. 16 watersheds of the largest rivers were explored between 1979 and 2010, covering a wide variety of running waters distributed between 0 and 2150 m of altitude from springs and streams to the lower sectors of rivers, as well as high altitude marshes. 365 imagos of Tipulidae, Limoniidae and Pediciidae were identified to the species level at 84 out of 200 stations surveyed within the program of general inventory of macroinvertebrate fauna. 35 species have been identified.  9 of these species (1 Tipulids, 8 Limoniids) are new to the fauna of Lebanon. On the other hand, fourteen species, recorded in the past by other authors, were not observed again in our samples. The total number of potential species of these Diptera all over the Lebanese territory is thus raised to 52.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Première citation française d&#8217;une espèce rare et mal connue d&#8217;Ephydridae: Hydrellia maculiventris Becker, 1896 et quelques données sur son écologie (Diptera)</title>
 		<link>https://ephemera.insectes.org/publication/premiere-citation-francaise-dune-espece-rare-et-mal-connue-dephydridae-hydrellia-maculiventris-becker-1896-et-quelques-donnees-sur-son-ecologie-diptera/</link>
 		
@@ -255,29 +285,6 @@
 					<description><![CDATA[There exist very few data on Donacia springeri in metropolitan France. The oldest records date back to the 1920s and 1930s and come from Isère and Savoie (Auvergne-Rhône-Alpes region). It is only in 2006 that the species was observed again on French territory in the Haute-Saône department (Bourgogne-Franche-Comté region). Since then, the species has been [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>There exist very few data on <em>Donacia springeri </em>in metropolitan France. The oldest records date back to the 1920s and 1930s and come from Isère and Savoie (Auvergne-Rhône-Alpes region). It is only in 2006 that the species was observed again on French territory in the Haute-Saône department (Bourgogne-Franche-Comté region). Since then, the species has been collected several times in this department in 2010 and 2025.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Leptocerus lusitanicus (McLachlan, 1884) : une espèce en extension d’aire et en augmentation numérique importante (Trichoptera, Leptoceridae)</title>
-		<link>https://ephemera.insectes.org/publication/leptocerus-lusitanicus-mclachlan-1884-une-espece-en-extension-daire-et-en-augmentation-numerique-importante-trichoptera-leptoceridae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 16:21:10 +0000</pubDate>
-				<category><![CDATA[Ardennes French department]]></category>
-		<category><![CDATA[Caddisflies]]></category>
-		<category><![CDATA[département des Ardennes]]></category>
-		<category><![CDATA[inventaire national]]></category>
-		<category><![CDATA[Moitié nord de la France]]></category>
-		<category><![CDATA[national inventory]]></category>
-		<category><![CDATA[northern half of France]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2239</guid>
-
-					<description><![CDATA[Le Genre Leptocerus Leach, 1815 comprend environ 160 espèces (Trichoptera World Checklist) dont la grande majorité est présente en Asie (108 espèces), Afrique tropicale (31) et région des îles du Pacifique, Australie (5). Il s’agit donc d’un genre principalement de régions chaudes, et surtout des régions orientales.]]></description>
-										<content:encoded><![CDATA[
-<p>Le Genre <em>Leptocerus</em> Leach, 1815 comprend environ 160 espèces (Trichoptera World Checklist) dont la grande majorité est présente en Asie (108 espèces), Afrique tropicale (31) et région des îles du Pacifique, Australie (5). Il s’agit donc d’un genre principalement de régions chaudes, et surtout des régions orientales.</p>
 ]]></content:encoded>
 					
 		
