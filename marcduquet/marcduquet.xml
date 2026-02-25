@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 20 Feb 2026 10:34:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Feb 2026 21:12:55 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Deux rapports intéressants</title>
+		<link>https://marcduquet.com/deux-rapports-interessants/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 21:12:55 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7031</guid>
+
+					<description><![CDATA[I – Suivi de la migration sur les falaises de Leucate&#160;(saison 2025) Découvert dans les années 1980, le site des falaises de Leucate (Aude) a fait l’objet d’un suivi de 1987 à 1989, notamment pour lutter contre la chasse «traditionnelle» dont la Bondrée apivore faisait encore l’objet à l’époque. Au printemps, lorsque la tramontane, un...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Notes d’ornithologie française (NOF 5) : partie II</title>
 		<link>https://marcduquet.com/notes-dornithologie-francaise-nof-5-2e-partie/</link>
 		
@@ -47,7 +61,7 @@
 		<category><![CDATA[Statut]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=6815</guid>
 
-					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [La&#160;première partie&#160;de cette synthèse a été publiée le 26&#160;janvier&#160;2026&#160;et figurera en intégralité dans le PDF&#160;disponible&#160;à la fin de la présente publication.] II-Avifaune française&#160;: données nouvelles&#160;(suite) Pelecaniformes – Threskiornithidae •&#160;SPATULE BLANCHE&#160;Platalea leucorodia&#160;– première reproduction prouvée en 2014 dans le département du Nord, à Bergues, où un couple a élevé...]]></description>
+					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [La&#160;première partie&#160;de cette synthèse a été publiée le 26&#160;janvier&#160;2026&#160;et figurera en intégralité dans le PDF&#160;disponible&#160;à la fin de la présente publication.] II-Avifaune française&#160;: données nouvelles&#160;(suite) Pelecaniformes – Threskiornithidae •&#160;SPATULE BLANCHE&#160;Platalea leucorodia&#160;– première reproduction prouvée en 2024 dans le département du Nord, à Bergues, où un couple a élevé...]]></description>
 		
 		
 		
@@ -165,23 +179,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6677</guid>
 
 					<description><![CDATA[Par Philippe J. Dubois Le 6 décembre 2015, en compagnie d’Élise Rousseau, nous observons au niveau de la pointe de Bindy, sur la commune de Logonna-Daoulas (Finistère), recherchant notamment les plongeons et grèbes qui hivernent régulièrement dans ce secteur. À la mi-journée, nous trouvons un groupe lâche de 8 Plongeons arctiques&#160;Gavia arctica, qui pêchent non...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 janvier 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-janvier-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 01 Feb 2026 10:54:36 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6539</guid>
-
-					<description><![CDATA[Les départements de la Gironde et des Côtes-d’Armor auront été souvent à l’honneur cet hiver, en accueillant un grand nombre d’oiseaux rares. Après un Fou brun, un&#160;Busard d’Amérique, un Traquet du désert, un Pouillot brun et une dizaine de Pouillots de Pallas, le premier fournit le premier&#160;Goéland bourgmestre&#160;de l’hiver, tandis que les Côtes-d’Armor, où le&#160;Martin-pêcheur...]]></description>
 		
 		
 		
