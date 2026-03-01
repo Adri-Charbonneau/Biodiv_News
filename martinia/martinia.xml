@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Thu, 26 Feb 2026 04:50:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Mar 2026 16:59:45 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Émergences exceptionnellement précoces de Gomphus simillimus Selys, 1840 sur le Lez (Hérault, France), un fleuve méditerranéen à régime karstique (Odonata: Gomphidae)</title>
+		<title>Émergences exceptionnellement précoces de Gomphus simillimus Selys, 1840 sur le Lez (Hérault, France), un fleuve méditerranéen à régime karstique (Odonata : Gomphidae)</title>
 		<link>https://martinia.insectes.org/emergences-exceptionnellement-precoces-de-emgomphus-simillimus-em-selys-1840-sur-le-lez-herault-france-un-fleuve-mediterraneen-a-regime-karstique-odonata-gomphidae/</link>
 		
 		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
@@ -153,8 +153,8 @@
 		<category><![CDATA[Doubs]]></category>
 		<category><![CDATA[Franche-Comté]]></category>
 		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[Révision]]></category>
 		<category><![CDATA[Revision]]></category>
+		<category><![CDATA[Révision]]></category>
 		<category><![CDATA[Stylurus flavipes]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6700</guid>
 
@@ -193,8 +193,8 @@
 		<category><![CDATA[Anax parthenope]]></category>
 		<category><![CDATA[cerci]]></category>
 		<category><![CDATA[cerques]]></category>
-		<category><![CDATA[prédation]]></category>
 		<category><![CDATA[predation]]></category>
+		<category><![CDATA[prédation]]></category>
 		<category><![CDATA[reproduction]]></category>
 		<category><![CDATA[sensilla]]></category>
 		<category><![CDATA[sensilles]]></category>
