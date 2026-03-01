@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 25 Feb 2026 21:12:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Mar 2026 19:02:04 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-28 février 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-28-fevrier-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2026 18:48:57 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7070</guid>
+
+					<description><![CDATA[Bien que cette seconde quinzaine de février soit la plus courte de toutes, elle a tout de même été riche en oiseaux rares&#160;: des laridés, des yankees et… des laridés yankees&#160;! Si l’on excepte trois Vanneaux sociables, un en Bretagne, un en Champagne et un en Bourgogne, et de rares passereaux déjà signalés ces dernières...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Deux rapports intéressants</title>
 		<link>https://marcduquet.com/deux-rapports-interessants/</link>
 		
@@ -162,26 +179,6 @@
 <enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-16a-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
 <enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-16b-Ailes-rousses.mp3" length="41086" type="audio/mpeg" />
 
-			</item>
-		<item>
-		<title>Un Plongeon du Pacifique en Bretagne en 2015 ?</title>
-		<link>https://marcduquet.com/un-plongeon-du-pacifique-en-bretagne-en-2015/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 09:56:11 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Gavia arctica]]></category>
-		<category><![CDATA[Gavia pacifica]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Plongeons]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6677</guid>
-
-					<description><![CDATA[Par Philippe J. Dubois Le 6 décembre 2015, en compagnie d’Élise Rousseau, nous observons au niveau de la pointe de Bindy, sur la commune de Logonna-Daoulas (Finistère), recherchant notamment les plongeons et grèbes qui hivernent régulièrement dans ce secteur. À la mi-journée, nous trouvons un groupe lâche de 8 Plongeons arctiques&#160;Gavia arctica, qui pêchent non...]]></description>
-		
-		
-		
 			</item>
 	</channel>
 </rss>
