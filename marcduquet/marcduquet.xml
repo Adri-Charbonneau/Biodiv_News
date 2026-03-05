@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 01 Mar 2026 19:02:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Mar 2026 11:30:04 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Topographie de l’oiseau (II) : la queue et les parties supérieures</title>
+		<link>https://marcduquet.com/topographie-de-loiseau-ii-la-queue-et-les-parties-superieures/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2026 11:30:03 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Parties supérieures]]></category>
+		<category><![CDATA[Plumage]]></category>
+		<category><![CDATA[Queue]]></category>
+		<category><![CDATA[Topographie]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6966</guid>
+
+					<description><![CDATA[Après un&#160;premier article&#160;traitant de la tête et des parties inférieures, ce second volet de la topographie de l’oiseau est consacré aux parties supérieures, depuis la nuque jusqu’à la queue. S’il est facile de situer la queue d’un oiseau, il est moins aisé de localiser ses sus-caudales, son croupion, son dos ou son manteau. Heureusement, chez...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-28 février 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-28-fevrier-2026/</link>
 		
@@ -59,7 +77,7 @@
 		
 			</item>
 		<item>
-		<title>Notes d’ornithologie française (NOF 5) : partie II</title>
+		<title>Notes d’ornithologie française (NOF 5) : partie 2</title>
 		<link>https://marcduquet.com/notes-dornithologie-francaise-nof-5-2e-partie/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
@@ -78,7 +96,7 @@
 		<category><![CDATA[Statut]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=6815</guid>
 
-					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [La&#160;première partie&#160;de cette synthèse a été publiée le 26&#160;janvier&#160;2026&#160;et figurera en intégralité dans le PDF&#160;disponible&#160;à la fin de la présente publication.] II-Avifaune française&#160;: données nouvelles&#160;(suite) Pelecaniformes – Threskiornithidae •&#160;SPATULE BLANCHE&#160;Platalea leucorodia&#160;– première reproduction prouvée en 2024 dans le département du Nord, à Bergues, où un couple a élevé...]]></description>
+					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [La&#160;première partie&#160;de cette synthèse a été publiée le 26&#160;janvier&#160;2026&#160;et figure en intégralité dans le PDF&#160;disponible&#160;à la fin de la présente publication.] II-Avifaune française&#160;: données nouvelles&#160;(suite) Pelecaniformes – Threskiornithidae •&#160;SPATULE BLANCHE&#160;Platalea leucorodia&#160;– Première reproduction prouvée en 2024 dans le département du Nord, à Bergues, où un couple a élevé...]]></description>
 		
 		
 		
@@ -117,68 +135,6 @@
 		
 		
 		
-			</item>
-		<item>
-		<title>Identification acoustique de la Grive obscure et de la Grive à gorge noire en contexte ouest-paléarctique</title>
-		<link>https://marcduquet.com/identification-acoustique-de-la-grive-obscure-et-de-la-grive-a-gorge-noire-en-contexte-ouest-palearctique/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 11 Feb 2026 07:40:43 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<category><![CDATA[Turdidés]]></category>
-		<category><![CDATA[Turdus atrogularis]]></category>
-		<category><![CDATA[Turdus eunomus]]></category>
-		<category><![CDATA[Turdus iliacus]]></category>
-		<category><![CDATA[Turdus merula]]></category>
-		<category><![CDATA[Turdus naumanni]]></category>
-		<category><![CDATA[Turdus obscurus]]></category>
-		<category><![CDATA[Turdus philomelos]]></category>
-		<category><![CDATA[Turdus pilaris]]></category>
-		<category><![CDATA[Turdus ruficollis]]></category>
-		<category><![CDATA[Turdus torquatus]]></category>
-		<category><![CDATA[Voix]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6588</guid>
-
-					<description><![CDATA[Par Stanislas Wroza NDLR&#160;: Cet article est paru en anglais en 2025 dans la revue Dutch Birding. Un grand merci à Arnoud B. van den Berg et à la rédaction de ce magazine néerlandais de nous avoir permis d&#8217;en publier une version française. L’essor récent de l’enregistrement des sons d&#8217;oiseaux, notamment l&#8217;enregistrement passif des cris...]]></description>
-		
-		
-		<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-1a-Merle.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-1b-Merle.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-1c-Merle.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-3a-Mauvis.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-3b-Obscure.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-4-Obscure.mp3" length="76821" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-5a-Mauvis.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-5b-Obscure.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-5c-Merle.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-6a-Mauvis.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-6b-Mauvis.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-8ab-Obscure.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-8cd-Musicienne.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-8ef-Mauvis-2.mp3" length="76821" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-9-Obscure.mp3" length="576492" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-10a-Litorne.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-10b-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-10c-Plastron.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-11a-Obscure.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-11b-Merle.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-11c-Jaseur.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-12a-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-12b-Plastron.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-12c-Litorne.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-13a-1-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-13b-2-Merle.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-13c-3-Mauvis.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/Fig-13-Common-Blackbird-Other-calls.mp3" length="87360" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-14-Gorge-noire.mp3" length="184028" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-15a-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-15b-Ailes-rousses.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-15c-Naumann.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-16a-Gorge-noire.mp3" length="41086" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/02/fig-16b-Ailes-rousses.mp3" length="41086" type="audio/mpeg" />
-
 			</item>
 	</channel>
 </rss>
