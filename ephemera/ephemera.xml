@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Wed, 25 Feb 2026 15:15:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Mar 2026 09:44:01 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Plectrocnemia appennina McLachlan, 1884 nouvelle espèce pour la faune de France (Trichoptera, Polycentropodidae)</title>
+		<link>https://ephemera.insectes.org/publication/plectrocnemia-appennina-mclachlan-1884-nouvelle-espece-pour-la-faune-de-france-trichoptera-polycentropodidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Mon, 09 Mar 2026 09:44:00 +0000</pubDate>
+				<category><![CDATA[Caddisflies]]></category>
+		<category><![CDATA[Ecrins national Park]]></category>
+		<category><![CDATA[inventaire national]]></category>
+		<category><![CDATA[Isère]]></category>
+		<category><![CDATA[Isère department]]></category>
+		<category><![CDATA[national inventory]]></category>
+		<category><![CDATA[Parc national des Écrins]]></category>
+		<category><![CDATA[Trichoptères]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2346</guid>
+
+					<description><![CDATA[La localité-type de Plectrocnemia appennina McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>La localité-type de <em>Plectrocnemia appennina </em>McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de la ville de Pistoia (McLachlan 1884).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The Craneflies of Lebanon (Insecta, Tipuloidea:Tipulidae, Limoniidae &#038; Pediciidae)</title>
 		<link>https://ephemera.insectes.org/publication/the-craneflies-of-lebanon-insecta-tipuloideatipulidae-limoniidae-pediciidae/</link>
 		
@@ -257,34 +281,6 @@
 					<description><![CDATA[Le genre Anatopynia Johannsen, 1905 n’est représenté en Europe que par une seule espèce : Anatopynia plumipes (Fries, 1823). Dans la Faune de France, n°15, Goetghebuer (1927) présente les caractères distinctifs de cette espèce et précise ainsi sa répartition : Hollande, Suède, Danemark.]]></description>
 										<content:encoded><![CDATA[
 <p>Le genre <em>Anatopynia </em>Johannsen, 1905 n’est représenté en Europe que par une seule espèce : <em>Anatopynia plumipes</em> (Fries, 1823). Dans la Faune de France, n°15, Goetghebuer (1927) présente les caractères distinctifs de cette espèce et précise ainsi sa répartition : Hollande, Suède, Danemark.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Update on the situation of Donacia springeri Müller, 1916 in metropolitan France (Coleoptera, Chrysomelidae, Donaciinae)</title>
-		<link>https://ephemera.insectes.org/publication/update-on-the-situation-of-donacia-springeri-muller-1916-in-metropolitan-france-coleoptera-chrysomelidae-donaciinae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Tue, 30 Sep 2025 11:07:11 +0000</pubDate>
-				<category><![CDATA[distribution]]></category>
-		<category><![CDATA[donacies.]]></category>
-		<category><![CDATA[étang tourbeux]]></category>
-		<category><![CDATA[Franche-Comté]]></category>
-		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[peat bog]]></category>
-		<category><![CDATA[peat pond]]></category>
-		<category><![CDATA[phénologie]]></category>
-		<category><![CDATA[phenology]]></category>
-		<category><![CDATA[Reed Beetles.]]></category>
-		<category><![CDATA[répartition]]></category>
-		<category><![CDATA[tourbière]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2252</guid>
-
-					<description><![CDATA[There exist very few data on Donacia springeri in metropolitan France. The oldest records date back to the 1920s and 1930s and come from Isère and Savoie (Auvergne-Rhône-Alpes region). It is only in 2006 that the species was observed again on French territory in the Haute-Saône department (Bourgogne-Franche-Comté region). Since then, the species has been [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>There exist very few data on <em>Donacia springeri </em>in metropolitan France. The oldest records date back to the 1920s and 1930s and come from Isère and Savoie (Auvergne-Rhône-Alpes region). It is only in 2006 that the species was observed again on French territory in the Haute-Saône department (Bourgogne-Franche-Comté region). Since then, the species has been collected several times in this department in 2010 and 2025.</p>
 ]]></content:encoded>
 					
 		
