@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 05 Mar 2026 11:30:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Mar 2026 14:49:47 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un Busard cendré attaque un pluvier en plastique…</title>
+		<link>https://marcduquet.com/un-busard-cendre-attaque-un-pluvier-en-plastique/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2026 14:49:47 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Circus pygargus]]></category>
+		<category><![CDATA[Prédation]]></category>
+		<category><![CDATA[Rapaces diurnes]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=6872</guid>
+
+					<description><![CDATA[Les photos suivantes ont été prises à Vinassan (Aude) en août 2025 par Claude Borrel (Aude Nature) et m’ont été transmises par Dominique Clément et Georges Olioso, que je remercie pour cet envoi. Le photographe avait placé un leurre (une sorte de pluvier grisâtre en plastique) dans un champ labouré, dans l’espoir d’inciter des Guignards...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Topographie de l’oiseau (II) : la queue et les parties supérieures</title>
 		<link>https://marcduquet.com/topographie-de-loiseau-ii-la-queue-et-les-parties-superieures/</link>
 		
@@ -114,24 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6892</guid>
 
 					<description><![CDATA[Deux possibles&#160;Oies de taïga&#160;ont animé le début de la quinzaine, qui a ensuite vu l’arrivée en France de quelques laridés arctiques&#160;: quatre&#160;Goélands bourgmestres&#160;(dans le Morbihan, le Nord, les Landes et le Bas-Rhin), six Goélands de Kumlien&#160;(deux dans les Pyrénées-Atlantiques, trois dans le Finistère et un dans le Morbihan). Le seul limicole remarquable du moment est...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le livre « Les oiseaux de la montagne jurassienne » </title>
-		<link>https://marcduquet.com/le-livre-les-oiseaux-de-la-montagne-jurassienne/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 14 Feb 2026 20:41:28 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Jura]]></category>
-		<category><![CDATA[Livres]]></category>
-		<category><![CDATA[Oiseaux]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6883</guid>
-
-					<description><![CDATA[Par Philippe J. Dubois En 2003, Neo Éditions publiait Les oiseaux de la montagne jurassienne, sous la houlette de Dominique Michelat. Vingt-deux ans plus tard, ce sont les éditions de la Belle Étoile qui proposent une nouvelle édition enrichie de l’ouvrage. Dominique Michelat est entouré de Laurent Beschet et Didier Pépin pour relever le défi de...]]></description>
 		
 		
 		
