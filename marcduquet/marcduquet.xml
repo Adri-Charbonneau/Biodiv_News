@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 10 Mar 2026 14:49:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Mar 2026 19:09:03 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un mystérieux chevalier… hybride ou individu au plumage aberrant ?</title>
+		<link>https://marcduquet.com/un-mysterieux-chevalier-hybride-ou-individu-au-plumage-aberrant/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 19:09:02 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Limicoles]]></category>
+		<category><![CDATA[Tringa glareola]]></category>
+		<category><![CDATA[Tringa ochropus]]></category>
+		<category><![CDATA[Tringa solitaria]]></category>
+		<category><![CDATA[Tringa totanus]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7169</guid>
+
+					<description><![CDATA[Par Pierre Crouzier Le 9 novembre 2024, comme à l’habitude, je fais une sortie ornithologique en Dombes (Ain), plateau situé à une trentaine de kilomètres au nord de Lyon (Rhône) et comptant près d’un millier d’étangs, dont une large part demeure dédiée à la pisciculture. Celui des Vavres-Nord, sur la commune de Marlieux (Ain), venant...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un Busard cendré attaque un pluvier en plastique…</title>
 		<link>https://marcduquet.com/un-busard-cendre-attaque-un-pluvier-en-plastique/</link>
 		
@@ -114,23 +134,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6815</guid>
 
 					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [La&#160;première partie&#160;de cette synthèse a été publiée le 26&#160;janvier&#160;2026&#160;et figure en intégralité dans le PDF&#160;disponible&#160;à la fin de la présente publication.] II-Avifaune française&#160;: données nouvelles&#160;(suite) Pelecaniformes – Threskiornithidae •&#160;SPATULE BLANCHE&#160;Platalea leucorodia&#160;– Première reproduction prouvée en 2024 dans le département du Nord, à Bergues, où un couple a élevé...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 février 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-fevrier-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 16 Feb 2026 09:32:44 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6892</guid>
-
-					<description><![CDATA[Deux possibles&#160;Oies de taïga&#160;ont animé le début de la quinzaine, qui a ensuite vu l’arrivée en France de quelques laridés arctiques&#160;: quatre&#160;Goélands bourgmestres&#160;(dans le Morbihan, le Nord, les Landes et le Bas-Rhin), six Goélands de Kumlien&#160;(deux dans les Pyrénées-Atlantiques, trois dans le Finistère et un dans le Morbihan). Le seul limicole remarquable du moment est...]]></description>
 		
 		
 		
