@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 13 Mar 2026 19:09:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Mar 2026 07:17:47 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 mars 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-mars-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 07:17:46 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7202</guid>
+
+					<description><![CDATA[Canards, laridés, rapaces, yankees… au risque de lasser, on prend à peu près les mêmes et on recommence. Heureusement, s’y ajoutent tout de même des nouveautés, dont (enfin) quelques passereaux orientaux : une Sarcelle à ailes bleues (peut-être pas totalement pure…) dans l’Hérault, des Vanneaux sociables dans l’Indre et le Haut-Rhin, des Chevaliers stagnatiles en Corse et en Camargue, des...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un mystérieux chevalier… hybride ou individu au plumage aberrant ?</title>
 		<link>https://marcduquet.com/un-mysterieux-chevalier-hybride-ou-individu-au-plumage-aberrant/</link>
 		
@@ -109,31 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7031</guid>
 
 					<description><![CDATA[I – Suivi de la migration sur les falaises de Leucate&#160;(saison 2025) Découvert dans les années 1980, le site des falaises de Leucate (Aude) a fait l’objet d’un suivi de 1987 à 1989, notamment pour lutter contre la chasse «traditionnelle» dont la Bondrée apivore faisait encore l’objet à l’époque. Au printemps, lorsque la tramontane, un...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Notes d’ornithologie française (NOF 5) : partie 2</title>
-		<link>https://marcduquet.com/notes-dornithologie-francaise-nof-5-2e-partie/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2026 10:16:12 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Faucons]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Hérons]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<category><![CDATA[Passereaux]]></category>
-		<category><![CDATA[Pics]]></category>
-		<category><![CDATA[Population]]></category>
-		<category><![CDATA[Rapaces diurnes]]></category>
-		<category><![CDATA[Rapaces nocturnes]]></category>
-		<category><![CDATA[Répartition]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6815</guid>
-
-					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet [La&#160;première partie&#160;de cette synthèse a été publiée le 26&#160;janvier&#160;2026&#160;et figure en intégralité dans le PDF&#160;disponible&#160;à la fin de la présente publication.] II-Avifaune française&#160;: données nouvelles&#160;(suite) Pelecaniformes – Threskiornithidae •&#160;SPATULE BLANCHE&#160;Platalea leucorodia&#160;– Première reproduction prouvée en 2024 dans le département du Nord, à Bergues, où un couple a élevé...]]></description>
 		
 		
 		
