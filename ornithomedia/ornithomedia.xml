@@ -12,12 +12,33 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 18 Mar 2026 06:17:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Mar 2026 21:25:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Description en Amazonie de deux nouvelles espèces de passereaux du genre Cercomacra</title>
+		<link>https://www.ornithomedia.com/magazine/etudes/description-en-amazonie-de-deux-nouvelles-especes-de-passereaux-du-genre-cercomacra/</link>
+					<comments>https://www.ornithomedia.com/magazine/etudes/description-en-amazonie-de-deux-nouvelles-especes-de-passereaux-du-genre-cercomacra/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2026 20:49:12 +0000</pubDate>
+				<category><![CDATA[Études]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=274967</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/description-en-amazonie-de-deux-nouvelles-especes-de-passereaux-du-genre-cercomacra/">Description en Amazonie de deux nouvelles espèces de passereaux du genre Cercomacra</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/description-en-amazonie-de-deux-nouvelles-especes-de-passereaux-du-genre-cercomacra/">Description en Amazonie de deux nouvelles espèces de passereaux du genre Cercomacra</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/description-en-amazonie-de-deux-nouvelles-especes-de-passereaux-du-genre-cercomacra/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Première reproduction réussie d&#8217;un couple de Cacatoès noirs dans une cavité artificielle en Australie</title>
 		<link>https://www.ornithomedia.com/breves/premiere-reproduction-reussie-dun-couple-de-cacatoes-noirs-dans-une-cavite-artificielle-en-australie-en-2026/</link>
@@ -196,26 +217,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/conseils/pourquoi-et-comment-fournir-du-calcium-aux-oiseaux-dans-les-jardins-a-partir-de-la-fin-de-lhiver/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Très rares cas de prédation de Grèbes huppés sur des passereaux en Espagne en février 2026</title>
-		<link>https://www.ornithomedia.com/breves/tres-rares-cas-de-predation-de-grebes-huppes-sur-des-passereaux-en-espagne-en-fevrier-2026/</link>
-					<comments>https://www.ornithomedia.com/breves/tres-rares-cas-de-predation-de-grebes-huppes-sur-des-passereaux-en-espagne-en-fevrier-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 07:30:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=274500</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/tres-rares-cas-de-predation-de-grebes-huppes-sur-des-passereaux-en-espagne-en-fevrier-2026/">Très rares cas de prédation de Grèbes huppés sur des passereaux en Espagne en février 2026</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/tres-rares-cas-de-predation-de-grebes-huppes-sur-des-passereaux-en-espagne-en-fevrier-2026/">Très rares cas de prédation de Grèbes huppés sur des passereaux en Espagne en février 2026</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/tres-rares-cas-de-predation-de-grebes-huppes-sur-des-passereaux-en-espagne-en-fevrier-2026/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
