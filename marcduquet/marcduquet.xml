@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 26 Mar 2026 15:31:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Apr 2026 08:41:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-31 mars 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-31-mars-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2026 08:41:54 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7355</guid>
+
+					<description><![CDATA[Le retour des Marouettes poussins, Chevaliers stagnatiles, Bécasseaux de Temminck et Sternes caspiennes indique que le printemps est là, même si la météo reste hivernale dans certaines régions de France. Le Martin-pêcheur d’Amérique des Côtes-d’Armor est toujours présent, à l’instar de divers goélands et des canards habituels. Les rapaces nous réservent des surprises avec le...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un rapport passionnant et un dictionnaire essentiel</title>
 		<link>https://marcduquet.com/un-rapport-passionnant-et-un-dictionnaire-essentiel/</link>
 		
@@ -109,23 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6966</guid>
 
 					<description><![CDATA[Après un&#160;premier article&#160;traitant de la tête et des parties inférieures, ce second volet de la topographie de l’oiseau est consacré aux parties supérieures, depuis la nuque jusqu’à la queue. S’il est facile de situer la queue d’un oiseau, il est moins aisé de localiser ses sus-caudales, son croupion, son dos ou son manteau. Heureusement, chez...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-28 février 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-28-fevrier-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 01 Mar 2026 18:48:57 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7070</guid>
-
-					<description><![CDATA[Bien que cette seconde quinzaine de février soit la plus courte de toutes, elle a tout de même été riche en oiseaux rares&#160;: des laridés, des yankees et… des laridés yankees&#160;! Si l’on excepte trois Vanneaux sociables, un en Bretagne, un en Champagne et un en Bourgogne, et de rares passereaux déjà signalés ces dernières...]]></description>
 		
 		
 		
