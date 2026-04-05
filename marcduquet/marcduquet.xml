@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 01 Apr 2026 08:41:54 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Apr 2026 18:38:02 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hivernage de la Buse pattue dans le sud de la France</title>
+		<link>https://marcduquet.com/hivernage-de-la-buse-pattue-dans-le-sud-de-la-france/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2026 10:04:00 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Buteo lagopus]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Hivernage]]></category>
+		<category><![CDATA[Rapaces diurnes]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7340</guid>
+
+					<description><![CDATA[Par Christian Riols &#38; François Legendre La Buse pattue&#160;Buteo lagopus&#160;est une espèce nord-holarctique,&#160;dont l’aire de&#160;répartition couvre les régions arctiques et subarctiques d’Eurasie et d’Amérique du Nord (Bechard&#160;et al.&#160;2020). En Europe, elle niche du sud de la Norvège, où elle occupe la toundra d&#8217;altitude des Alpes scandinaves, jusqu’au nord de la Fennoscandie et à l’ensemble de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 mars 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-mars-2026/</link>
 		
@@ -108,24 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=6872</guid>
 
 					<description><![CDATA[Les photos suivantes ont été prises à Vinassan (Aude) en août 2025 par Claude Borrel (Aude Nature) et m’ont été transmises par Dominique Clément et Georges Olioso, que je remercie pour cet envoi. Le photographe avait placé un leurre (une sorte de pluvier grisâtre en plastique) dans un champ labouré, dans l’espoir d’inciter des Guignards...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Topographie de l’oiseau (II) : la queue et les parties supérieures</title>
-		<link>https://marcduquet.com/topographie-de-loiseau-ii-la-queue-et-les-parties-superieures/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 05 Mar 2026 11:30:03 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Parties supérieures]]></category>
-		<category><![CDATA[Plumage]]></category>
-		<category><![CDATA[Queue]]></category>
-		<category><![CDATA[Topographie]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6966</guid>
-
-					<description><![CDATA[Après un&#160;premier article&#160;traitant de la tête et des parties inférieures, ce second volet de la topographie de l’oiseau est consacré aux parties supérieures, depuis la nuque jusqu’à la queue. S’il est facile de situer la queue d’un oiseau, il est moins aisé de localiser ses sus-caudales, son croupion, son dos ou son manteau. Heureusement, chez...]]></description>
 		
 		
 		
