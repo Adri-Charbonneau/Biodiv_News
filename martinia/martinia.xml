@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Sun, 01 Mar 2026 16:59:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Apr 2026 05:18:16 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.4</generator>
+	<generator>https://wordpress.org/?v=6.7.5</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Protocole de suivi des populations de Lestes macrostigma (Eversmann, 1836) : un compromis entre niveau d’information et effort investi (Odonata : Lestidae)</title>
+		<link>https://martinia.insectes.org/protocole-de-suivi-des-populations-de-emlestes-macrostigma-em-eversmann-1836-un-compromis-entre-niveau-dinformation-et-effort-investi-odonata-lestidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 04:10:00 +0000</pubDate>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[abundance assessment]]></category>
+		<category><![CDATA[autochthony]]></category>
+		<category><![CDATA[autochtonie]]></category>
+		<category><![CDATA[échelle logarithmique]]></category>
+		<category><![CDATA[évaluation d’abondance]]></category>
+		<category><![CDATA[Exuviae]]></category>
+		<category><![CDATA[Exuvies]]></category>
+		<category><![CDATA[log scale]]></category>
+		<category><![CDATA[parcours de dénombrement]]></category>
+		<category><![CDATA[Pollard walk]]></category>
+		<category><![CDATA[teneral]]></category>
+		<category><![CDATA[ténéral]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=7155</guid>
+
+					<description><![CDATA[Auteur(s) :Lambret Philippe Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Émergences exceptionnellement précoces de Gomphus simillimus Selys, 1840 sur le Lez (Hérault, France), un fleuve méditerranéen à régime karstique (Odonata : Gomphidae)</title>
 		<link>https://martinia.insectes.org/emergences-exceptionnellement-precoces-de-emgomphus-simillimus-em-selys-1840-sur-le-lez-herault-france-un-fleuve-mediterraneen-a-regime-karstique-odonata-gomphidae/</link>
 		
@@ -153,8 +179,8 @@
 		<category><![CDATA[Doubs]]></category>
 		<category><![CDATA[Franche-Comté]]></category>
 		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[Revision]]></category>
 		<category><![CDATA[Révision]]></category>
+		<category><![CDATA[Revision]]></category>
 		<category><![CDATA[Stylurus flavipes]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6700</guid>
 
@@ -193,8 +219,8 @@
 		<category><![CDATA[Anax parthenope]]></category>
 		<category><![CDATA[cerci]]></category>
 		<category><![CDATA[cerques]]></category>
-		<category><![CDATA[predation]]></category>
 		<category><![CDATA[prédation]]></category>
+		<category><![CDATA[predation]]></category>
 		<category><![CDATA[reproduction]]></category>
 		<category><![CDATA[sensilla]]></category>
 		<category><![CDATA[sensilles]]></category>
@@ -225,37 +251,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6536</guid>
 
 					<description><![CDATA[En Guyane sept espèces de Tramea Hagen, 1861, sont connues (Rochas et al., 2022). Ces espèces chassent en patrouillant dans les milieux ouverts et se reproduisent dans divers habitats lentiques (lacs, mares et flaques) (Garrison et al., 2006). Grâce à la large partie basale de leurs ailes postérieures, elles sont capables de voler et planer [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Premières mentions de Trithemis annulata (Palisot de Beauvois, 1807), dans les départements de l’Ain, de la Loire et du Rhône (Odonata : Libellulidae)</title>
-		<link>https://martinia.insectes.org/premieres-mentions-de-emtrithemis-annulata-empalisot-de-beauvois-1807-dans-les-departements-de-lain-de-la-loire-et-du-rhone-odonata-libellulidae/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 04:05:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Auvergne-Rhône-Alpes region]]></category>
-		<category><![CDATA[Characeae]]></category>
-		<category><![CDATA[Characées]]></category>
-		<category><![CDATA[Colonisation]]></category>
-		<category><![CDATA[Colonization]]></category>
-		<category><![CDATA[Dispersion]]></category>
-		<category><![CDATA[gravel pit]]></category>
-		<category><![CDATA[gravière]]></category>
-		<category><![CDATA[région Auvergne-Rhône-Alpes]]></category>
-		<category><![CDATA[Rhône]]></category>
-		<category><![CDATA[Rhône River]]></category>
-		<category><![CDATA[Saône]]></category>
-		<category><![CDATA[Saône River]]></category>
-		<category><![CDATA[Savoie]]></category>
-		<category><![CDATA[Savoie department]]></category>
-		<category><![CDATA[Trithémis pourpré]]></category>
-		<category><![CDATA[Violet Dropwing]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=6476</guid>
-
-					<description><![CDATA[Auteur(s) :Tauru Hugo, Krieg-Jacquier Régis, Boudot Jean-Pierre, Bolender Martin &#038; Ecuyer Ligia Numérotation : Type de publication : Article]]></description>
 		
 		
 		
