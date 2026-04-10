@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 04 Apr 2026 18:38:02 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Apr 2026 09:26:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>L’hivernage de l’Hirondelle rustique en France</title>
+		<link>https://marcduquet.com/lhivernage-de-lhirondelle-rustique-en-france/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 09:26:24 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Hirundo rustica]]></category>
+		<category><![CDATA[Hivernage]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7315</guid>
+
+					<description><![CDATA[Par Philippe J. Dubois L’Hirondelle rustique&#160;Hirundo rustica&#160;niche dans la quasi-totalité de l’hémisphère Nord (Brown &#38; Brown 2020). En Europe, elle se reproduit partout, à l’exception de l’extrême nord-est du continent, de l’Islande et du Svalbard (Keller&#160;et al. 2020). De même, en France, l’espèce est omniprésente, jusqu’à 1800&#160;m d’altitude dans les Alpes et sur la plupart...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hivernage de la Buse pattue dans le sud de la France</title>
 		<link>https://marcduquet.com/hivernage-de-la-buse-pattue-dans-le-sud-de-la-france/</link>
 		
@@ -109,23 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7169</guid>
 
 					<description><![CDATA[Par Pierre Crouzier Le 9 novembre 2024, comme à l’habitude, je fais une sortie ornithologique en Dombes (Ain), plateau situé à une trentaine de kilomètres au nord de Lyon (Rhône) et comptant près d’un millier d’étangs, dont une large part demeure dédiée à la pisciculture. Celui des Vavres-Nord, sur la commune de Marlieux (Ain), venant...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Un Busard cendré attaque un pluvier en plastique…</title>
-		<link>https://marcduquet.com/un-busard-cendre-attaque-un-pluvier-en-plastique/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 10 Mar 2026 14:49:47 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Circus pygargus]]></category>
-		<category><![CDATA[Prédation]]></category>
-		<category><![CDATA[Rapaces diurnes]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=6872</guid>
-
-					<description><![CDATA[Les photos suivantes ont été prises à Vinassan (Aude) en août 2025 par Claude Borrel (Aude Nature) et m’ont été transmises par Dominique Clément et Georges Olioso, que je remercie pour cet envoi. Le photographe avait placé un leurre (une sorte de pluvier grisâtre en plastique) dans un champ labouré, dans l’espoir d’inciter des Guignards...]]></description>
 		
 		
 		
