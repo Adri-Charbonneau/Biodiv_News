@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Mon, 30 Mar 2026 09:32:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Apr 2026 08:55:07 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le genre Rhypholophus (Kolenati, 1860) en France : synthèse des connaissances et première mention de R. malickyi (Mendl, 1975) pour la France (Diptera, Limoniidae)</title>
+		<link>https://ephemera.insectes.org/publication/le-genre-rhypholophus-kolenati-1860-en-france-synthese-des-connaissances-et-premiere-mention-de-r-malickyi-mendl-1975-pour-la-france-diptera-limoniidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 08:55:06 +0000</pubDate>
+				<category><![CDATA[1900]]></category>
+		<category><![CDATA[1935)]]></category>
+		<category><![CDATA[Chioneinae.]]></category>
+		<category><![CDATA[clé de détermination]]></category>
+		<category><![CDATA[craneflies]]></category>
+		<category><![CDATA[distribution]]></category>
+		<category><![CDATA[genitalia]]></category>
+		<category><![CDATA[identification key.]]></category>
+		<category><![CDATA[inventaire national]]></category>
+		<category><![CDATA[national inventory]]></category>
+		<category><![CDATA[Ormosia]]></category>
+		<category><![CDATA[Rhypholophus crassipes Strobl]]></category>
+		<category><![CDATA[Rhypholophus lichtwardti (Lackschewitz]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2361</guid>
+
+					<description><![CDATA[Cet article présente l’état des connaissances sur le genre Rhypholophus en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de R. bifurcatus et R. dufouri.  R. malickyi (Mendl, 1975) est mentionné pour la première fois en France.]]></description>
+										<content:encoded><![CDATA[
+<p>Cet article présente l’état des connaissances sur le genre <em>Rhypholophus </em>en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de <em>R</em>. <em>bifurcatus</em> et <em>R</em>. <em>dufouri</em>.  <em>R. malickyi </em>(Mendl, 1975) est mentionné pour la première fois en France.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Hommage à Henri Tachet</title>
 		<link>https://ephemera.insectes.org/publication/hommage-a-henri-tachet/</link>
 		
@@ -247,40 +276,6 @@
 					<description><![CDATA[Une nouvelle espèce du genre Clinocerella (Diptera, Empididae), découverte en Auvergne en 2025, est décrite. L’espèce partage avec C. corsicana, C. oldenbergi et C. wagneri le deuxième tarsomère du métatarse de la patte postérieure deux fois plus long que le quatrième. Son édéage diffère de toutes ces espèces. Une actualisation de la clé de détermination [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Une nouvelle espèce du genre <em>Clinocerella</em> (Diptera, Empididae), découverte en Auvergne en 2025, est décrite. L’espèce partage avec <em>C</em>. <em>corsicana</em>, <em>C</em>. <em>oldenbergi</em> et <em>C</em>. <em>wagneri</em> le deuxième tarsomère du métatarse de la patte postérieure deux fois plus long que le quatrième. Son édéage diffère de toutes ces espèces. Une actualisation de la clé de détermination des espèces européennes appartenant aux genres <em>Clinocerella</em> et <em>Roederiodes</em> est proposée.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Écologie et biogéographie des Coléoptères des rivières du Liban : familles des Gyrinidae, Haliplidae, Noteridae, Dytiscidae, Helophoridae, Hydrochidae, Hydrophilidae et Dryopidae (Coleoptera)</title>
-		<link>https://ephemera.insectes.org/publication/ecologie-et-biogeographie-des-coleopteres-des-rivieres-du-liban-familles-des-gyrinidae-haliplidae-noteridae-dytiscidae-helophoridae-hydrochidae-hydrophilidae-et-dryopidae-coleoptera/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 15:00:32 +0000</pubDate>
-				<category><![CDATA[17 bassins versants]]></category>
-		<category><![CDATA[17 catchments]]></category>
-		<category><![CDATA[aux stagnantes]]></category>
-		<category><![CDATA[Coleoptera]]></category>
-		<category><![CDATA[Coléoptères]]></category>
-		<category><![CDATA[distribution]]></category>
-		<category><![CDATA[eaux courantes]]></category>
-		<category><![CDATA[ecological vicariances]]></category>
-		<category><![CDATA[groupements d’espèces.]]></category>
-		<category><![CDATA[grouping of species.]]></category>
-		<category><![CDATA[Lebanon]]></category>
-		<category><![CDATA[Liban]]></category>
-		<category><![CDATA[répartition]]></category>
-		<category><![CDATA[running water]]></category>
-		<category><![CDATA[stagnant water]]></category>
-		<category><![CDATA[totalité du territoire]]></category>
-		<category><![CDATA[vicariances écologiques]]></category>
-		<category><![CDATA[whole territory]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2269</guid>
-
-					<description><![CDATA[Cent cinquante-huit stations d’études ont été retenues dans les 17 réseaux hydrographiques du Liban entre 0 et 3 083 m. Des mesures des paramètres physico-chimiques et des récoltes de Coléoptères ont été réalisées. Un essai de zonation amont-aval des rivières libanaises a été produit en nous basant sur une biocénose de base composée de 83 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Cent cinquante-huit stations d’études ont été retenues dans les 17 réseaux hydrographiques du Liban entre 0 et 3 083 m. Des mesures des paramètres physico-chimiques et des récoltes de Coléoptères ont été réalisées. Un essai de zonation amont-aval des rivières libanaises a été produit en nous basant sur une biocénose de base composée de 83 espèces de Coléoptères. Cela nous a permis le regroupement des aires de distribution de ces espèces et de distinguer plusieurs grands types de distribution. Six groupes d’espèces et de stations ont été reconnus (Tab. II) et analysés en vue de connaître la structure biotypologique et la zonation des réseaux hydrographiques côtiers (orientés E-W). Le premier groupe (I) (p.c.) réunit les espèces des sources de basse altitude (&lt; 300 m), le deuxième (II) (p.c.) représente les espèces des sources et les secteurs initiaux du rhithral (rhéocrénal et épirhithral, alt. 650 &#8211; 2 100 m), soit la communauté la mieux individualisée ; le troisième (III) (p.c.) correspond aux espèces du rhithral (métarhithral et hyporhithral, alt. &lt; 1 000 m) ; le quatrième (IV) (p.c.) se rapporte aux espèces de l’épipotamal (alt. &lt; 500 m). Les deux derniers groupes (V et VI) (p.c.) s’installent dans les milieux à faciès lentiques (moyenne et haute altitude). Dans le bassin supérieur de l’Orontes (écosystème de la province intérieure: la Békaa), 4 groupes d’espèces de Coléoptères ont été mis en évidence : le premier groupe (p.i) réunit les espèces des sources d’eau froide de hauts plateaux (alt. 1 720 – 2 100 m); le deuxième (p.i) celles de piémont (bords du cours axial -rhithral et ses sources semi et rhéocrénal, alt. &lt; 1 000 m) représente les Gyrinidae (imagos et larves) ; le troisième (p.i) formé d&rsquo;espèces des marécages d&rsquo;eau froide de hauts plateaux (1 720 &#8211; 2 100 m), riches en macrophytes, le quatrième IV (p.i) formé d&rsquo;espèces lénitophiles de piémont (alt. &lt; 1 250 m). Dans le bassin supérieur de Litani (alt. 850 m), on distingue un seul groupe (V) (p.i) formé d&rsquo;espèces de marais en plaine (Ammik). Dans les deux Provinces (côtière et intérieure), 2 groupes ont été distingués : VI (p.c. et p.i) formé d&rsquo;espèces rhéocréno-rhithral de haut piémont (alt. ≤ 1 100 m) et VII (p.c. et p.i) (alt. ≤ à 900 m) formé d’espèces potamobiontes et lénitophiles (en eau stagnante eutrophisée ou à faible courant). Un seul groupe (VIII) d&rsquo;espèces des Coléoptères vivant aux bords du cours axial de Hasbani apparaît. Les 13 zones choisies à forte concentration d’espèces des Coléoptères étudiés (Tab. III et Fig. 2) ont été distinguées. Des mesures de sauvegarde doivent être envisagées rapidement.</p>
 ]]></content:encoded>
 					
 		
