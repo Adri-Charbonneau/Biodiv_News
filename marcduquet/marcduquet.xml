@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 10 Apr 2026 09:26:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Apr 2026 13:48:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le livre “Les guetteurs” de P.J. Dubois et É. Rousseau</title>
+		<link>https://marcduquet.com/le-livre-les-guetteurs-de-p-j-dubois-et-e-rousseau/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 13:48:35 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Livres]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7445</guid>
+
+					<description><![CDATA[Par Nadine B. En 1990, Philippe J. Dubois découvrait un incroyable site de seawatching sur l’île de N’Gor, au large de Dakar, où passaient des milliers de sternes, de labbes, de limicoles, de puffins et d’océanites en route vers le sud. Trente quatre ans plus tard, il réunissait une équipe de seawatcheurs européens et sénégalais...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>L’hivernage de l’Hirondelle rustique en France</title>
 		<link>https://marcduquet.com/lhivernage-de-lhirondelle-rustique-en-france/</link>
 		
@@ -106,26 +121,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7202</guid>
 
 					<description><![CDATA[Canards, laridés, rapaces, yankees… au risque de lasser, on prend à peu près les mêmes et on recommence. Heureusement, s’y ajoutent tout de même des nouveautés, dont (enfin) quelques passereaux orientaux&#160;: une&#160;Sarcelle à ailes bleues&#160;(peut-être pas totalement pure…) dans l’Hérault, des&#160;Vanneaux sociables&#160;dans l’Indre et le Haut-Rhin, des Chevaliers stagnatiles en Corse et en Camargue, des...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Un mystérieux chevalier… hybride ou individu au plumage aberrant ?</title>
-		<link>https://marcduquet.com/un-mysterieux-chevalier-hybride-ou-individu-au-plumage-aberrant/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 19:09:02 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Limicoles]]></category>
-		<category><![CDATA[Tringa glareola]]></category>
-		<category><![CDATA[Tringa ochropus]]></category>
-		<category><![CDATA[Tringa solitaria]]></category>
-		<category><![CDATA[Tringa totanus]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7169</guid>
-
-					<description><![CDATA[Par Pierre Crouzier Le 9 novembre 2024, comme à l’habitude, je fais une sortie ornithologique en Dombes (Ain), plateau situé à une trentaine de kilomètres au nord de Lyon (Rhône) et comptant près d’un millier d’étangs, dont une large part demeure dédiée à la pisciculture. Celui des Vavres-Nord, sur la commune de Marlieux (Ain), venant...]]></description>
 		
 		
 		
