@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Wed, 08 Apr 2026 05:18:16 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Apr 2026 10:00:44 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Premières observations de Selysiothemis nigra (Vander Linden, 1825), en région Auvergne-Rhône-Alpes, France (Odonata : Libellulidae)</title>
+		<link>https://martinia.insectes.org/premieres-observations-de-emselysiothemis-nigra-em-vander-linden-1825-en-region-auvergne-rhone-alpes-france-odonata-libellulidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 10:00:44 +0000</pubDate>
+				<category><![CDATA[Article]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=7194</guid>
+
+					<description><![CDATA[Auteur(s) :Le Merrer-Le Bot Camille , Krieg-Jacquier Régis, Charrier Roman &#038; Hahn Jérémie Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Protocole de suivi des populations de Lestes macrostigma (Eversmann, 1836) : un compromis entre niveau d’information et effort investi (Odonata : Lestidae)</title>
 		<link>https://martinia.insectes.org/protocole-de-suivi-des-populations-de-emlestes-macrostigma-em-eversmann-1836-un-compromis-entre-niveau-dinformation-et-effort-investi-odonata-lestidae/</link>
 		
@@ -179,8 +193,8 @@
 		<category><![CDATA[Doubs]]></category>
 		<category><![CDATA[Franche-Comté]]></category>
 		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[Révision]]></category>
 		<category><![CDATA[Revision]]></category>
+		<category><![CDATA[Révision]]></category>
 		<category><![CDATA[Stylurus flavipes]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6700</guid>
 
@@ -229,28 +243,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6589</guid>
 
 					<description><![CDATA[Chez les anisoptères, les stratégies de ponte ont évolué plusieurs fois en fonction de la disponibilité des habitats et de phénomènes migratoires (Ware et al., 2012). La femelle peut pondre seule sans surveillance du mâle, seule et surveillée (« non-contact guarding ») ou en tandem (« contact guarding ») (Corbet, 2004). Chez le genre Sympetrum, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sur une série d’observations de Tramea minuta De Marmels &#038; Rácenis, 1982 en Guyane (Odonata : Libellulidae)</title>
-		<link>https://martinia.insectes.org/sur-une-serie-dobservations-de-emtramea-minuta-em-de-marmels-racenis-1982-en-guyane-odonata-libellulidae/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 04:12:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[autochthony]]></category>
-		<category><![CDATA[autochtonie]]></category>
-		<category><![CDATA[déplacements]]></category>
-		<category><![CDATA[Écozone néotropicale]]></category>
-		<category><![CDATA[movements]]></category>
-		<category><![CDATA[Neotropical ecozone]]></category>
-		<category><![CDATA[savane]]></category>
-		<category><![CDATA[savanna]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=6536</guid>
-
-					<description><![CDATA[En Guyane sept espèces de Tramea Hagen, 1861, sont connues (Rochas et al., 2022). Ces espèces chassent en patrouillant dans les milieux ouverts et se reproduisent dans divers habitats lentiques (lacs, mares et flaques) (Garrison et al., 2006). Grâce à la large partie basale de leurs ailes postérieures, elles sont capables de voler et planer [&#8230;]]]></description>
 		
 		
 		
