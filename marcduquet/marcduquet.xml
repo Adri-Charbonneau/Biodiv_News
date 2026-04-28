@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 16 Apr 2026 08:55:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Apr 2026 12:30:57 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>L&#8217;Alouette leucoptère en France et en Europe</title>
+		<link>https://marcduquet.com/lalouette-leucoptere-en-france-et-en-europe/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2026 12:30:57 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Alauda leucoptera]]></category>
+		<category><![CDATA[Alouettes]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7611</guid>
+
+					<description><![CDATA[Par Fany Jariod, Thomas Blanchon &#38; Marc Duquet I – Une Alouette leucoptère en Camargue&#160;: première mention française Le 18 avril 2026 en fin de journée, comme nous le faisons souvent au printemps, nous (FJ &#38; TB) décidons de faire un peu d’ornitho en Camargue. Notre première idée était d’explorer le secteur du Mas d’Agon,...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Quel est ce chant bizarre ?</title>
 		<link>https://marcduquet.com/quel-est-ce-chant-bizarre/</link>
 		
@@ -60,7 +79,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=7465</guid>
 
-					<description><![CDATA[Le printemps est bien là avec l’arrivée en nombre des migrateurs, parmi lesquels les Hirondelles rousselines, Faucons kobez, Marouettes poussins, Fauvettes des Balkans, Sternes caspiennes, Pipits à gorge rousse, etc. De retour de ses quartiers d’hiver espagnols, l’Aigle criard estonien a traversé la France en une semaine à peine, tandis que le Busard d’Amérique finistérien s’attardait. Côté limicoles, à signaler...]]></description>
+					<description><![CDATA[Le printemps est bien là avec l’arrivée en nombre des migrateurs, parmi lesquels les Hirondelles rousselines,&#160;Faucons kobez, Marouettes poussins,&#160;Fauvettes des Balkans, Sternes caspiennes, Pipits à gorge rousse, etc. De retour de ses quartiers d’hiver espagnols, l’Aigle criard&#160;estonien a traversé la France en une semaine à peine, tandis que le&#160;Busard d’Amérique&#160;finistérien s’attardait. Côté limicoles, à signaler...]]></description>
 		
 		
 		
@@ -111,23 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7340</guid>
 
 					<description><![CDATA[Par Christian Riols &#38; François Legendre La Buse pattue&#160;Buteo lagopus&#160;est une espèce nord-holarctique,&#160;dont l’aire de&#160;répartition couvre les régions arctiques et subarctiques d’Eurasie et d’Amérique du Nord (Bechard&#160;et al.&#160;2020). En Europe, elle niche du sud de la Norvège, où elle occupe la toundra d&#8217;altitude des Alpes scandinaves, jusqu’au nord de la Fennoscandie et à l’ensemble de...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 mars 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-mars-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 01 Apr 2026 08:41:54 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7355</guid>
-
-					<description><![CDATA[Le retour des Marouettes poussins, Chevaliers stagnatiles, Bécasseaux de Temminck et Sternes caspiennes indique que le printemps est là, même si la météo reste hivernale dans certaines régions de France. Le Martin-pêcheur d’Amérique des Côtes-d’Armor est toujours présent, à l’instar de divers goélands et des canards habituels. Les rapaces nous réservent des surprises avec le...]]></description>
 		
 		
 		
