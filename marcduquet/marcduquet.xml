@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 28 Apr 2026 12:30:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 May 2026 09:28:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-30 avril 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-30-avril-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 01 May 2026 09:28:53 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7656</guid>
+
+					<description><![CDATA[Au menu de cette seconde quinzaine d’avril, une espèce nouvelle pour la France, l’Alouette leucoptère, trouvée en Camargue, où une Glaréole à ailes noires a également été vue. Sur la façade occidentale, à signaler une Sarcelle à ailes bleues à Hoëdic, le retour des Sternes élégantes de Noirmoutier et de la Sterne bridée de l’île aux Moutons, le passage de deux Plongeons à bec...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>L&#8217;Alouette leucoptère en France et en Europe</title>
 		<link>https://marcduquet.com/lalouette-leucoptere-en-france-et-en-europe/</link>
 		
@@ -112,24 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7315</guid>
 
 					<description><![CDATA[Par Philippe J. Dubois L’Hirondelle rustique&#160;Hirundo rustica&#160;niche dans la quasi-totalité de l’hémisphère Nord (Brown &#38; Brown 2020). En Europe, elle se reproduit partout, à l’exception de l’extrême nord-est du continent, de l’Islande et du Svalbard (Keller&#160;et al. 2020). De même, en France, l’espèce est omniprésente, jusqu’à 1800&#160;m d’altitude dans les Alpes et sur la plupart...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hivernage de la Buse pattue dans le sud de la France</title>
-		<link>https://marcduquet.com/hivernage-de-la-buse-pattue-dans-le-sud-de-la-france/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 05 Apr 2026 10:04:00 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Buteo lagopus]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Hivernage]]></category>
-		<category><![CDATA[Rapaces diurnes]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7340</guid>
-
-					<description><![CDATA[Par Christian Riols &#38; François Legendre La Buse pattue&#160;Buteo lagopus&#160;est une espèce nord-holarctique,&#160;dont l’aire de&#160;répartition couvre les régions arctiques et subarctiques d’Eurasie et d’Amérique du Nord (Bechard&#160;et al.&#160;2020). En Europe, elle niche du sud de la Norvège, où elle occupe la toundra d&#8217;altitude des Alpes scandinaves, jusqu’au nord de la Fennoscandie et à l’ensemble de...]]></description>
 		
 		
 		
