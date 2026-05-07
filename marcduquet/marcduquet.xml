@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 01 May 2026 09:28:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 May 2026 14:16:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>L’erratisme printanier du Vautour percnoptère au nord de son aire</title>
+		<link>https://marcduquet.com/lerratisme-printanier-du-vautour-percnoptere-au-nord-de-son-aire/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 14:00:07 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Erratisme]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Neophron percnopterus]]></category>
+		<category><![CDATA[Rapaces diurnes]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7744</guid>
+
+					<description><![CDATA[Dans les dernières Notes d’ornithologie française (Dubois &#38; Duquet 2026), nous faisions état de trois observations de Vautour percnoptère effectuées en mai 2021 (Tissier 2021), mai 2024 (Cowles 2024) et mai 2025 (S. Chanel/Faune France) dans le département du Rhône, où l’espèce n’avait pas été vue depuis 1891. Intrigué par la similarité des dates, j’ai...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-30 avril 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-30-avril-2026/</link>
 		
@@ -39,7 +59,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=7656</guid>
 
-					<description><![CDATA[Au menu de cette seconde quinzaine d’avril, une espèce nouvelle pour la France, l’Alouette leucoptère, trouvée en Camargue, où une Glaréole à ailes noires a également été vue. Sur la façade occidentale, à signaler une Sarcelle à ailes bleues à Hoëdic, le retour des Sternes élégantes de Noirmoutier et de la Sterne bridée de l’île aux Moutons, le passage de deux Plongeons à bec...]]></description>
+					<description><![CDATA[Au menu de cette seconde quinzaine d’avril, une espèce nouvelle pour la France, l’Alouette leucoptère, trouvée en Camargue, où une&#160;Glaréole à ailes noires&#160;a également été vue. Sur la façade occidentale, à signaler une&#160;Sarcelle à ailes bleues&#160;à Hoëdic, le retour des&#160;Sternes élégantes&#160;de Noirmoutier et de la&#160;Sterne bridée&#160;de l’île aux Moutons, le passage de deux&#160;Plongeons à bec...]]></description>
 		
 		
 		
@@ -112,23 +132,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7445</guid>
 
 					<description><![CDATA[Par Nadine B. En 1990, Philippe J. Dubois découvrait un incroyable site de seawatching sur l’île de N’Gor, au large de Dakar, où passaient des milliers de sternes, de labbes, de limicoles, de puffins et d’océanites en route vers le sud. Trente quatre ans plus tard, il réunissait une équipe de seawatcheurs européens et sénégalais...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>L’hivernage de l’Hirondelle rustique en France</title>
-		<link>https://marcduquet.com/lhivernage-de-lhirondelle-rustique-en-france/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 09:26:24 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Hirundo rustica]]></category>
-		<category><![CDATA[Hivernage]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7315</guid>
-
-					<description><![CDATA[Par Philippe J. Dubois L’Hirondelle rustique&#160;Hirundo rustica&#160;niche dans la quasi-totalité de l’hémisphère Nord (Brown &#38; Brown 2020). En Europe, elle se reproduit partout, à l’exception de l’extrême nord-est du continent, de l’Islande et du Svalbard (Keller&#160;et al. 2020). De même, en France, l’espèce est omniprésente, jusqu’à 1800&#160;m d’altitude dans les Alpes et sur la plupart...]]></description>
 		
 		
 		
