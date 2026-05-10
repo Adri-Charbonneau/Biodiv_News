@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 07 May 2026 14:16:53 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 May 2026 08:53:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Atlas des Oiseaux du Gabon</title>
+		<link>https://marcduquet.com/atlas-des-oiseaux-du-gabon/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 10 May 2026 08:53:28 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Gabon]]></category>
+		<category><![CDATA[Livres]]></category>
+		<category><![CDATA[Oiseaux]]></category>
+		<category><![CDATA[Répartition]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7787</guid>
+
+					<description><![CDATA[Couvrant la période 1987-1991, le premier atlas ornithologique d’un pays africain a été publié en 1997 par BirdLife Afrique du Sud. Depuis 2007, de nombreux projets d’atlas nationaux sont en cours en Afrique australe sous l’égide de l’African Bird Atlas Project et depuis une dizaine d’années des efforts ont été entrepris pour étendre leur champ d&#8217;action à...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>L’erratisme printanier du Vautour percnoptère au nord de son aire</title>
 		<link>https://marcduquet.com/lerratisme-printanier-du-vautour-percnoptere-au-nord-de-son-aire/</link>
 		
@@ -117,21 +136,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7465</guid>
 
 					<description><![CDATA[Le printemps est bien là avec l’arrivée en nombre des migrateurs, parmi lesquels les Hirondelles rousselines,&#160;Faucons kobez, Marouettes poussins,&#160;Fauvettes des Balkans, Sternes caspiennes, Pipits à gorge rousse, etc. De retour de ses quartiers d’hiver espagnols, l’Aigle criard&#160;estonien a traversé la France en une semaine à peine, tandis que le&#160;Busard d’Amérique&#160;finistérien s’attardait. Côté limicoles, à signaler...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le livre “Les guetteurs” de P.J. Dubois et É. Rousseau</title>
-		<link>https://marcduquet.com/le-livre-les-guetteurs-de-p-j-dubois-et-e-rousseau/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 13:48:35 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Livres]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7445</guid>
-
-					<description><![CDATA[Par Nadine B. En 1990, Philippe J. Dubois découvrait un incroyable site de seawatching sur l’île de N’Gor, au large de Dakar, où passaient des milliers de sternes, de labbes, de limicoles, de puffins et d’océanites en route vers le sud. Trente quatre ans plus tard, il réunissait une équipe de seawatcheurs européens et sénégalais...]]></description>
 		
 		
 		
