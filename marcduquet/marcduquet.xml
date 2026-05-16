@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 10 May 2026 08:53:28 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 May 2026 15:48:48 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 mai 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-mai-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 16 May 2026 15:48:48 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7845</guid>
+
+					<description><![CDATA[Amorcée en fanfare avec l’observation d’un&#160;Guêpier de Perse&#160;dans l’Hérault et d’un&#160;Martinet des maisons en Camargue, suivie de deux Alouettes haussecols&#160;dans le Sud (Camargue et Var), cette quinzaine se termine en apothéose, avec un second&#160;Guêpier de Perse&#160;dans le Var, un&#160;Bruant mélanocéphale&#160;en Corse, un&#160;Traquet pie&#160;en Moselle et surtout un&#160;Engoulevent à collier roux&#160;chanteur dans les Pyrénées-Orientales&#160;! Par ailleurs,...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Atlas des Oiseaux du Gabon</title>
 		<link>https://marcduquet.com/atlas-des-oiseaux-du-gabon/</link>
 		
@@ -122,23 +139,6 @@
 <enclosure url="https://marcduquet.com/wp-content/uploads/2026/04/2-Cris_clairs_Coucou_geai_Italie_XC466312_©_Lorenzo_Vanni.mp3" length="220647" type="audio/mpeg" />
 <enclosure url="https://marcduquet.com/wp-content/uploads/2026/04/3-Cri_Coucou_geai_Vdm.mp4" length="1341684" type="video/mp4" />
 
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 avril 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-avril-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 16 Apr 2026 08:52:16 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7465</guid>
-
-					<description><![CDATA[Le printemps est bien là avec l’arrivée en nombre des migrateurs, parmi lesquels les Hirondelles rousselines,&#160;Faucons kobez, Marouettes poussins,&#160;Fauvettes des Balkans, Sternes caspiennes, Pipits à gorge rousse, etc. De retour de ses quartiers d’hiver espagnols, l’Aigle criard&#160;estonien a traversé la France en une semaine à peine, tandis que le&#160;Busard d’Amérique&#160;finistérien s’attardait. Côté limicoles, à signaler...]]></description>
-		
-		
-		
 			</item>
 	</channel>
 </rss>
