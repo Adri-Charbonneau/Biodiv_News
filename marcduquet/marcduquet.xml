@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 16 May 2026 15:48:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 May 2026 09:15:39 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mue et plumages du Vautour percnoptère</title>
+		<link>https://marcduquet.com/mue-et-plumages-du-vautour-percnoptere/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 08:59:21 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Mue]]></category>
+		<category><![CDATA[Neophron percnopterus]]></category>
+		<category><![CDATA[Plumage]]></category>
+		<category><![CDATA[Rapaces diurnes]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7794</guid>
+
+					<description><![CDATA[On connaît le Vautour percnoptère sous son plumage adulte, noir et blanc, et sous celui, entièrement brun, du juvénile. Mais entre les deux, l’espèce porte plusieurs livrées intermédiaires, regroupées sous le terme subadulte&#160;dans&#160;Le Guide ornitho&#160;(Svensson&#160;et al.&#160;2025), qui ne sont décrites en détail que dans les ouvrages consacrés spécifiquement aux rapaces.&#160;Clark (1999) représente quatre plumages de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 mai 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-mai-2026/</link>
 		
@@ -39,7 +57,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=7845</guid>
 
-					<description><![CDATA[Amorcée en fanfare avec l’observation d’un&#160;Guêpier de Perse&#160;dans l’Hérault et d’un&#160;Martinet des maisons en Camargue, suivie de deux Alouettes haussecols&#160;dans le Sud (Camargue et Var), cette quinzaine se termine en apothéose, avec un second&#160;Guêpier de Perse&#160;dans le Var, un&#160;Bruant mélanocéphale&#160;en Corse, un&#160;Traquet pie&#160;en Moselle et surtout un&#160;Engoulevent à collier roux&#160;chanteur dans les Pyrénées-Orientales&#160;! Par ailleurs,...]]></description>
+					<description><![CDATA[Dernière minute : un Pipit de Richard a été photographié à Chezelle (Allier) le 6, ce qui constitue une première mention départementale et seulement la troisième pour l&#8217;Auvergne (info. Romain Riols). Amorcée en fanfare avec l’observation d’un&#160;Guêpier de Perse&#160;dans l’Hérault et d’un&#160;Martinet des maisons en Camargue, suivie de deux Alouettes haussecols&#160;dans le Sud (Camargue et...]]></description>
 		
 		
 		
@@ -118,27 +136,6 @@
 		
 		
 		
-			</item>
-		<item>
-		<title>Quel est ce chant bizarre ?</title>
-		<link>https://marcduquet.com/quel-est-ce-chant-bizarre/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 20 Apr 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Clamator glandarius]]></category>
-		<category><![CDATA[Coucous]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Voix]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7418</guid>
-
-					<description><![CDATA[Au cours des trente années passées dans l’Hérault, avant le développement des suivis par enregistreurs et avant de connaître l’application magique&#160;Merlin Bird ID&#160; et l’excellent livre de Stanislas Wroza sur les&#160;Chants et cris d’oiseaux&#160;de France (Wroza 2023), j’ai en de nombreuses occasions entendu des cris d’oiseaux, surtout nocturnes, dont je n’ai pas réussi à identifier...]]></description>
-		
-		
-		<enclosure url="https://marcduquet.com/wp-content/uploads/2026/04/1b-Chant_Coucou_geai_Vdm_3_juin_2003.mp3" length="1037446" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/04/2-Cris_clairs_Coucou_geai_Italie_XC466312_©_Lorenzo_Vanni.mp3" length="220647" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/04/3-Cri_Coucou_geai_Vdm.mp4" length="1341684" type="video/mp4" />
-
 			</item>
 	</channel>
 </rss>
