@@ -12,13 +12,13 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Mon, 11 May 2026 10:40:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 May 2026 09:41:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.4</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
 	<url>https://ephemera.insectes.org/wp-content/uploads/2023/11/ephemerae_full-150x150.png</url>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>On the genus Harnischia Kieffer, 1921 from France. Description of H. curvistyla sp. n. (Diptera, Chironomidae, Chironominae)</title>
+		<link>https://ephemera.insectes.org/publication/on-the-genus-harnischia-kieffer-1921-from-france-description-of-h-curvistyla-sp-n-diptera-chironomidae-chironominae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 09:07:13 +0000</pubDate>
+				<category><![CDATA[conservation]]></category>
+		<category><![CDATA[new species]]></category>
+		<category><![CDATA[nouvelle espèce]]></category>
+		<category><![CDATA[taxonomie]]></category>
+		<category><![CDATA[taxonomy]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2389</guid>
+
+					<description><![CDATA[Male adult of Harnischia curvistyla sp. n. is described and diagnosed based on material recently collected in the nearby of the River Changeon (Central-West France). Other additional adults collected in Spain by F. Reiss and deposited in the museum of Munich as unnamed taxa could belong to H. curvistyla sp. n. (M. Spies pers. com.). [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Male adult of <em>Harnischia curvistyla </em>sp. n. is described and diagnosed based on material recently collected in the nearby of the River Changeon (Central-West France). Other additional adults collected in Spain by F. Reiss and deposited in the museum of Munich as unnamed taxa could belong to <em>H</em>. <em>curvistyla </em>sp. n. (M. Spies pers. com.). A combination of some distinguishing characters found in the male adult (anal tergite band cup-shaped, not interrupted medially; anal point slender with truncate apex, median part without tuff of setae; distal part of gonocoxite with a distinct setulate rounded lobe; gonostylus atypically concave bearing a characteristic basal expansion), will easily separate the new species from other related congeners. With <em>H. curtilamellata</em> (Malloch, 1915) and <em>H. fuscimana</em> Kieffer, 1921, the new species is the third memberof the<em> Harnischia</em> group to occur in Europe and France. Consequently, the description here of<em>H. curvistyla </em>sp. n. increases the total number in the genus to 9 valid species worldwide. Short comments on the taxonomic position of the new species are given.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The genus Ochthebius in the Lebanese rivers, with additional notes on its ecology (Insecta, Coleoptera, Hydraenidae)</title>
 		<link>https://ephemera.insectes.org/publication/the-genus-ochthebius-in-the-lebanese-rivers-with-additional-notes-on-its-ecology-insecta-coleoptera-hydraenidae/</link>
 		
@@ -51,11 +76,11 @@
 
 					<description><![CDATA[The aim of the present study was to fill in the gaps in previous knowledge of the faunistics and distribution of the running water species of Ochthebius species in Lebanon, by sampling throughout the entire country. 14 catchments of the largest river systems, not previously taken into account, were studied between 1984 and 2015, including [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>The aim of the present study was to fill in the gaps in previous knowledge of the faunistics and distribution of the running water species of <em>Ochthebius</em> species in Lebanon, by sampling throughout the entire country. 14 catchments of the largest river systems, not previously taken into account, were studied between 1984 and 2015, including a great diversity of running waters, from springs and streamlets to lower river reaches. This faunal program was extended up to 200 stations during 35 years. At 39 sites within the range of 0 to 2100 m elevation a. s. l., 3245 samples representing 161 imagines of <em>Ochthebius</em>. Seven species have been determined.</p>
+<p class="wp-block-paragraph">The aim of the present study was to fill in the gaps in previous knowledge of the faunistics and distribution of the running water species of <em>Ochthebius</em> species in Lebanon, by sampling throughout the entire country. 14 catchments of the largest river systems, not previously taken into account, were studied between 1984 and 2015, including a great diversity of running waters, from springs and streamlets to lower river reaches. This faunal program was extended up to 200 stations during 35 years. At 39 sites within the range of 0 to 2100 m elevation a. s. l., 3245 samples representing 161 imagines of <em>Ochthebius</em>. Seven species have been determined.</p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
 		
@@ -84,7 +109,7 @@
 
 					<description><![CDATA[Cet article présente l’état des connaissances sur le genre Rhypholophus en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de R. bifurcatus et R. dufouri.  R. malickyi (Mendl, 1975) est mentionné pour la première fois en France.]]></description>
 										<content:encoded><![CDATA[
-<p>Cet article présente l’état des connaissances sur le genre <em>Rhypholophus </em>en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de <em>R</em>. <em>bifurcatus</em> et <em>R</em>. <em>dufouri</em>.  <em>R. malickyi </em>(Mendl, 1975) est mentionné pour la première fois en France.</p>
+<p class="wp-block-paragraph">Cet article présente l’état des connaissances sur le genre <em>Rhypholophus </em>en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de <em>R</em>. <em>bifurcatus</em> et <em>R</em>. <em>dufouri</em>.  <em>R. malickyi </em>(Mendl, 1975) est mentionné pour la première fois en France.</p>
 ]]></content:encoded>
 					
 		
@@ -100,15 +125,15 @@
 
 					<description><![CDATA[Henri Tachet nous a quittés à la fin de l’été dernier. L’annonce de sa disparition nous a attristés car il participait, simplement et sans défection, aux activités de notre groupe Opie-benthos, et tout particulièrement à l’inventaire des trichoptères qu’il avait initié il y a maintenant plus de vingt ans. Il nous avait confié ce programme [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p><em>Henri Tachet nous a quittés à la fin de l’été dernier. L’annonce de sa disparition nous a attristés car il participait, simplement et sans défection, aux activités de notre groupe Opie-benthos, et tout particulièrement à l’inventaire des trichoptères qu’il avait initié il y a maintenant plus de vingt ans.</em></p>
+<p class="wp-block-paragraph"><em>Henri Tachet nous a quittés à la fin de l’été dernier. L’annonce de sa disparition nous a attristés car il participait, simplement et sans défection, aux activités de notre groupe Opie-benthos, et tout particulièrement à l’inventaire des trichoptères qu’il avait initié il y a maintenant plus de vingt ans.</em></p>
 
 
 
-<p><em>Il nous avait confié ce programme et suivait toujours son déroulement, ses résultats, et répondait toujours présent à nos demandes pour résoudre une question de taxonomie.</em></p>
+<p class="wp-block-paragraph"><em>Il nous avait confié ce programme et suivait toujours son déroulement, ses résultats, et répondait toujours présent à nos demandes pour résoudre une question de taxonomie.</em></p>
 
 
 
-<p><em>Après sa carrière universitaire d’hydrobiologiste, contribuant fortement au développement des connaissances sur les invertébrés aquatiques, et à l’écologie fluviale avec des travaux de recherche et d’encadrements de thèses sur le Rhône, il avait conservé un vif intérêt pour les larves de trichoptères.</em></p>
+<p class="wp-block-paragraph"><em>Après sa carrière universitaire d’hydrobiologiste, contribuant fortement au développement des connaissances sur les invertébrés aquatiques, et à l’écologie fluviale avec des travaux de recherche et d’encadrements de thèses sur le Rhône, il avait conservé un vif intérêt pour les larves de trichoptères.</em></p>
 ]]></content:encoded>
 					
 		
@@ -132,7 +157,7 @@
 
 					<description><![CDATA[La localité-type de Plectrocnemia appennina McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>La localité-type de <em>Plectrocnemia appennina </em>McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de la ville de Pistoia (McLachlan 1884).</p>
+<p class="wp-block-paragraph">La localité-type de <em>Plectrocnemia appennina </em>McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de la ville de Pistoia (McLachlan 1884).</p>
 ]]></content:encoded>
 					
 		
@@ -162,7 +187,7 @@
 
 					<description><![CDATA[This study is a survey of the distribution of Diptera in the whole of Lebanon. 16 watersheds of the largest rivers were explored between 1979 and 2010, covering a wide variety of running waters distributed between 0 and 2150 m of altitude from springs and streams to the lower sectors of rivers, as well as [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>This study is a survey of the distribution of Diptera in the whole of Lebanon. 16 watersheds of the largest rivers were explored between 1979 and 2010, covering a wide variety of running waters distributed between 0 and 2150 m of altitude from springs and streams to the lower sectors of rivers, as well as high altitude marshes. 365 imagos of Tipulidae, Limoniidae and Pediciidae were identified to the species level at 84 out of 200 stations surveyed within the program of general inventory of macroinvertebrate fauna. 35 species have been identified.  9 of these species (1 Tipulids, 8 Limoniids) are new to the fauna of Lebanon. On the other hand, fourteen species, recorded in the past by other authors, were not observed again in our samples. The total number of potential species of these Diptera all over the Lebanese territory is thus raised to 52.</p>
+<p class="wp-block-paragraph">This study is a survey of the distribution of Diptera in the whole of Lebanon. 16 watersheds of the largest rivers were explored between 1979 and 2010, covering a wide variety of running waters distributed between 0 and 2150 m of altitude from springs and streams to the lower sectors of rivers, as well as high altitude marshes. 365 imagos of Tipulidae, Limoniidae and Pediciidae were identified to the species level at 84 out of 200 stations surveyed within the program of general inventory of macroinvertebrate fauna. 35 species have been identified.  9 of these species (1 Tipulids, 8 Limoniids) are new to the fauna of Lebanon. On the other hand, fourteen species, recorded in the past by other authors, were not observed again in our samples. The total number of potential species of these Diptera all over the Lebanese territory is thus raised to 52.</p>
 ]]></content:encoded>
 					
 		
@@ -183,7 +208,7 @@
 
 					<description><![CDATA[Hydrellia maculiventris Becker, 1896, une espèce rare et mal connue d’Ephydridae, a été observée pour la première fois en France dans un étang du Massif central. Quelques informations sur ses exigences écologiques sont précisées, à l’aide des résultats obtenus avec les protocoles et indicateurs BECOME (Bioindication des ECOsystèmes Mares et Etangs).]]></description>
 										<content:encoded><![CDATA[
-<p><em>Hydrellia maculiventris</em> Becker, 1896, une espèce rare et mal connue d’Ephydridae, a été observée pour la première fois en France dans un étang du Massif central. Quelques informations sur ses exigences écologiques sont précisées, à l’aide des résultats obtenus avec les protocoles et indicateurs BECOME (Bioindication des ECOsystèmes Mares et Etangs).</p>
+<p class="wp-block-paragraph"><em>Hydrellia maculiventris</em> Becker, 1896, une espèce rare et mal connue d’Ephydridae, a été observée pour la première fois en France dans un étang du Massif central. Quelques informations sur ses exigences écologiques sont précisées, à l’aide des résultats obtenus avec les protocoles et indicateurs BECOME (Bioindication des ECOsystèmes Mares et Etangs).</p>
 ]]></content:encoded>
 					
 		
@@ -204,7 +229,7 @@
 
 					<description><![CDATA[Erioptera (Erioptera) limbata Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).]]></description>
 										<content:encoded><![CDATA[
-<p><em>Erioptera (Erioptera) limbata </em>Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).</p>
+<p class="wp-block-paragraph"><em>Erioptera (Erioptera) limbata </em>Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).</p>
 ]]></content:encoded>
 					
 		
@@ -229,11 +254,11 @@
 
 					<description><![CDATA[La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre Chaetocladius Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). C. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre <em>Chaetocladius</em> Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). <em>C. tenuistylus</em> est une espèce holarctique, non trouvée au sud du 51<sup>ème</sup> parallèle.</p>
+<p class="wp-block-paragraph">La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre <em>Chaetocladius</em> Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). <em>C. tenuistylus</em> est une espèce holarctique, non trouvée au sud du 51<sup>ème</sup> parallèle.</p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
 		
@@ -259,35 +284,11 @@
 
 					<description><![CDATA[Des collectes ciblées ou aléatoires de Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et les régions limitrophes depuis trois décennies, permettent de dresser un bilan de la distribution régionale, la biologie et l’écologie de cette espèce. Des observations sur la dégradation des habitats par diverses activités anthropiques sont également données et témoignent de [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Des collectes ciblées ou aléatoires de Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et les régions limitrophes depuis trois décennies, permettent de dresser un bilan de la distribution régionale, la biologie et l’écologie de cette espèce. Des observations sur la dégradation des habitats par diverses activités anthropiques sont également données et témoignent de la fragilité grandissante de cet éphémère.</p>
+<p class="wp-block-paragraph">Des collectes ciblées ou aléatoires de Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et les régions limitrophes depuis trois décennies, permettent de dresser un bilan de la distribution régionale, la biologie et l’écologie de cette espèce. Des observations sur la dégradation des habitats par diverses activités anthropiques sont également données et témoignent de la fragilité grandissante de cet éphémère.</p>
 
 
 
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Inventaire des Chironomidae du département de l’Indre-et-Loire (France). I. Liste annotée des taxons-espèces recensés en 2017 (Diptera)</title>
-		<link>https://ephemera.insectes.org/publication/inventaire-des-chironomidae-du-departement-de-lindre-et-loire-france-i-liste-annotee-des-taxons-especes-recenses-en-2017-diptera/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 09:04:10 +0000</pubDate>
-				<category><![CDATA[adultes collectés par tente Malaise]]></category>
-		<category><![CDATA[adults collected by Malaise traps]]></category>
-		<category><![CDATA[Centre-Val-de-Loire region]]></category>
-		<category><![CDATA[Chironomidae new for France]]></category>
-		<category><![CDATA[Chironomidae nouveaux pour la France]]></category>
-		<category><![CDATA[ecological zones]]></category>
-		<category><![CDATA[Région Centre-Val-de-Loire]]></category>
-		<category><![CDATA[zones écologiques]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2288</guid>
-
-					<description><![CDATA[Près de 15 000 adultes de Chironomidae ont été collectés exclusivement au moyen de tentes Malaise placées de 2015 et 2017 à de nombreux sites du département de l’Indre-et-Loire (France). Au total, 465 taxons-espèces, répartis sur 114 genres, ont été inventoriés dont 370 espèces nouvelles pour ce département. Parmi elles, 16 sont potentiellement nouvelles pour [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Près de 15 000 adultes de Chironomidae ont été collectés exclusivement au moyen de tentes Malaise placées de 2015 et 2017 à de nombreux sites du département de l’Indre-et-Loire (France). Au total, 465 taxons-espèces, répartis sur 114 genres, ont été inventoriés dont 370 espèces nouvelles pour ce département. Parmi elles, 16 sont potentiellement nouvelles pour la France et 12 ne sont pas encore décrites. Trois sous-familles sont particulièrement bien représentées avec une large diversité spécifique : Tanypodinae (27 genres, 53 espèces), Orthocladiinae (43, 199), Chironominae (37, 203). La typologie des habitats situés à proximité des tentes Malaise a permis d’identifier cinq zones écologiques (ZE) : 1 (sources), 2 (rhithral), 3 (potamal), 4 (lacs, étangs, mares, marais, fossés, tourbières) et 5 (habitats semi-terrestres, forestiers). Cet inventaire complète significativement une première liste des espèces d’Indre-et-Loire (Garcia &amp; Laville 2000a, 2000b) qui faisait état de 117 taxons dont 102 espèces valides pour 52 genres. Des données écologiques et biotypologiques complémentaires sont également fournies. Elles permettent de préciser et souligner spécifiquement la distribution de quelques espèces remarquables. La nouvelle espèce <em>Harnischia</em> sp. A est également présente en Espagne. Une photo de son hypopyge est fournie.</p>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
 		
