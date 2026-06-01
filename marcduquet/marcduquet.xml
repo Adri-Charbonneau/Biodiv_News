@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 20 May 2026 09:15:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Jun 2026 11:05:42 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.4</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-31 mai 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-31-mai-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 01 Jun 2026 11:05:42 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=7925</guid>
+
+					<description><![CDATA[Tandis que le passage du Faucon kobez s’étendait un peu vers le nord et l’ouest de la France et que quelques Faucons d’Éléonore étaient vus dans le Sud, les faits marquants de cette seconde quinzaine de mai concernent un potentiel Goéland de la Baltique dans le Pas-de-Calais, trois Engoulevents à collier roux (dont un chanteur cantonné) autour de la Méditerranée, un Martinet des...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Mue et plumages du Vautour percnoptère</title>
 		<link>https://marcduquet.com/mue-et-plumages-du-vautour-percnoptere/</link>
 		
@@ -114,25 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7656</guid>
 
 					<description><![CDATA[Au menu de cette seconde quinzaine d’avril, une espèce nouvelle pour la France, l’Alouette leucoptère, trouvée en Camargue, où une&#160;Glaréole à ailes noires&#160;a également été vue. Sur la façade occidentale, à signaler une&#160;Sarcelle à ailes bleues&#160;à Hoëdic, le retour des&#160;Sternes élégantes&#160;de Noirmoutier et de la&#160;Sterne bridée&#160;de l’île aux Moutons, le passage de deux&#160;Plongeons à bec...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>L&#8217;Alouette leucoptère en France et en Europe</title>
-		<link>https://marcduquet.com/lalouette-leucoptere-en-france-et-en-europe/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 28 Apr 2026 12:30:57 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Alauda leucoptera]]></category>
-		<category><![CDATA[Alouettes]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7611</guid>
-
-					<description><![CDATA[Par Fany Jariod, Thomas Blanchon &#38; Marc Duquet I – Une Alouette leucoptère en Camargue&#160;: première mention française Le 18 avril 2026 en fin de journée, comme nous le faisons souvent au printemps, nous (FJ &#38; TB) décidons de faire un peu d’ornitho en Camargue. Notre première idée était d’explorer le secteur du Mas d’Agon,...]]></description>
 		
 		
 		
