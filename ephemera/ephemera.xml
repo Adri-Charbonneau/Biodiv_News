@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Thu, 28 May 2026 09:41:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Jun 2026 08:37:08 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chironomidae connus de la Nouvelle-Calédonie. II. Liste et distribution des espèces recensées (Diptera)</title>
+		<link>https://ephemera.insectes.org/publication/chironomidae-connus-de-la-nouvelle-caledonie-ii-liste-et-distribution-des-especes-recensees-diptera/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 08:37:07 +0000</pubDate>
+				<category><![CDATA[adultes]]></category>
+		<category><![CDATA[adults]]></category>
+		<category><![CDATA[ecological zones]]></category>
+		<category><![CDATA[exuvies nymphales]]></category>
+		<category><![CDATA[faunal list]]></category>
+		<category><![CDATA[liste faunistique]]></category>
+		<category><![CDATA[nymphes]]></category>
+		<category><![CDATA[Oceania]]></category>
+		<category><![CDATA[Océanie]]></category>
+		<category><![CDATA[pupae]]></category>
+		<category><![CDATA[pupal exuviae]]></category>
+		<category><![CDATA[zones écologiques]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2383</guid>
+
+					<description><![CDATA[De nombreuses campagnes de prélèvements qualitatifs et quantitatifs de la faune des macro-invertébrés aquatiques de Nouvelle-Calédonie (N-C) ont permis la collecte, entre 1996 et 2023, de près de 100 000 individus de chironomes, composés d’adultes, nymphes, exuvies nymphales et larves. Un premier examen avait permis de dresser une première liste faunistique au niveau générique (Moubayed [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">De nombreuses campagnes de prélèvements qualitatifs et quantitatifs de la faune des macro-invertébrés aquatiques de Nouvelle-Calédonie (N-C) ont permis la collecte, entre 1996 et 2023, de près de 100 000 individus de chironomes, composés d’adultes, nymphes, exuvies nymphales et larves. Un premier examen avait permis de dresser une première liste faunistique au niveau générique (Moubayed et al. 2021) et la description de 15 nouvelles espèces. Une seconde liste composée de 199 taxons-espèces appartenant à 4 sous-familles (22 Tanypodinae, 3 Telmatogetoninae, 73 Orthocladiinae, 101 Chironominae) et incluant un grand nombre d’espèces encore non décrites, est proposée. Les trois sous-familles présentant les ratios les plus élevés de taxons-espèces recensés (Tableaux I-II) sont les Tanypodinae, Orthocladiinae et Chironominae, qui s’avèrent prédominantes et bien diversifiées. Certains taxons uniquement trouvés à l’état larvaire ou nymphal ne correspondent à aucune espèce décrite de la littérature. Ces résultats montrent une richesse spécifique élevée dans les secteurs hydrographiques inférieurs des rivières et les habitats lentiques. Une plus faible richesse spécifique est observée dans des sites localisés dans le cours supérieur, les estuaires et la zone littorale marine. Une approche faunistique entre les Chironomidae de N-C et ceux actuellement connus de régions biogéographiques voisines (Australie et Nouvelle-Zélande) met en évidence l’importance des affinités taxonomiques et zoogéographiques. Le taux d’endémisme est estimé à plus de 60 %.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>On the genus Harnischia Kieffer, 1921 from France. Description of H. curvistyla sp. n. (Diptera, Chironomidae, Chironominae)</title>
 		<link>https://ephemera.insectes.org/publication/on-the-genus-harnischia-kieffer-1921-from-france-description-of-h-curvistyla-sp-n-diptera-chironomidae-chironominae/</link>
 		
@@ -255,36 +283,6 @@
 					<description><![CDATA[La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre Chaetocladius Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). C. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p class="wp-block-paragraph">La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre <em>Chaetocladius</em> Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). <em>C. tenuistylus</em> est une espèce holarctique, non trouvée au sud du 51<sup>ème</sup> parallèle.</p>
-
-
-
-<p class="wp-block-paragraph"></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et régions proches : répartition, habitats et altérations des biotopes (Ephemeroptera, Ameletidae)</title>
-		<link>https://ephemera.insectes.org/publication/metreletus-balcanicus-ulmer-1920-dans-le-departement-des-ardennes-et-regions-proches-repartition-habitats-et-alterations-des-biotopes-ephemeroptera-ameletidae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Fri, 28 Nov 2025 09:03:02 +0000</pubDate>
-				<category><![CDATA[cartographie des données]]></category>
-		<category><![CDATA[chronologie des collectes]]></category>
-		<category><![CDATA[data mapping]]></category>
-		<category><![CDATA[dégradation des habitats.]]></category>
-		<category><![CDATA[degradation of natural habitats.]]></category>
-		<category><![CDATA[inventaire national]]></category>
-		<category><![CDATA[national inventory]]></category>
-		<category><![CDATA[Nord-Est de la France]]></category>
-		<category><![CDATA[northeast of France]]></category>
-		<category><![CDATA[sampling chronology]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2296</guid>
-
-					<description><![CDATA[Des collectes ciblées ou aléatoires de Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et les régions limitrophes depuis trois décennies, permettent de dresser un bilan de la distribution régionale, la biologie et l’écologie de cette espèce. Des observations sur la dégradation des habitats par diverses activités anthropiques sont également données et témoignent de [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Des collectes ciblées ou aléatoires de Metreletus balcanicus (Ulmer, 1920) dans le département des Ardennes et les régions limitrophes depuis trois décennies, permettent de dresser un bilan de la distribution régionale, la biologie et l’écologie de cette espèce. Des observations sur la dégradation des habitats par diverses activités anthropiques sont également données et témoignent de la fragilité grandissante de cet éphémère.</p>
 
 
 
