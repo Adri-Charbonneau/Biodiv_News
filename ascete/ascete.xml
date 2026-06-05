@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Sat, 22 Nov 2025 20:32:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Jun 2026 09:34:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.3</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rencontres Nationales Orthoptères et Entomocénotiques : MERCI !</title>
+		<link>https://ascete.org/rencontres-nationales-orthopteres-et-entomocenotiques-merci/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 08:50:36 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3870</guid>
+
+					<description><![CDATA[Après un temps de repos nécessaire, l&#8217;équipe organisatrice des Rencontres Nationales Orthoptères et Entomocénotique tenait à remercier chaleureusement tous.tes les participant.e.s. Merci d&#8217;être venu.e.s des quatre coins de la France, parfois même d&#8217;Espagne ! Merci d&#8217;avoir répondu présent si nombreuses et nombreux, nous étions près d&#8217;une centaine. Merci à la DREAL Occitanie et au Fonds [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le volume 30 des MOE à paraître prochainement</title>
 		<link>https://ascete.org/sommaire-du-prochain-moe-30-a-paraitre-prochainement/</link>
 		
@@ -143,26 +157,12 @@
 		<title>Adhésion 2025 et mise à disposition des publications de l&#8217;association</title>
 		<link>https://ascete.org/adhesion-2025/</link>
 		
-		<dc:creator><![CDATA[Stéphane]]></dc:creator>
+		<dc:creator><![CDATA[ASCETE]]></dc:creator>
 		<pubDate>Fri, 10 Jan 2025 19:04:33 +0000</pubDate>
 				<category><![CDATA[Actualités]]></category>
 		<guid isPermaLink="false">https://ascete.org/?p=3395</guid>
 
 					<description><![CDATA[L&#8217;ASCETE vous souhaite une belle année 2025. Les adhésions sont ouvertes. Pour le faire en ligne sur Hello Asso, veuillez cliquer sur le lien ci dessous. via HelloAsso Vous pouvez également régler votre cotisation par virement ou chèque. Les informations sont disponibles dans le bulletin d&#8217;adhésion en cliquant sur la photo ci-dessous. De plus, pour [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rétrospective 2024 et meilleurs vœux pour 2025</title>
-		<link>https://ascete.org/retrospective-2024-et-meilleurs-voeux-pour-2025/</link>
-		
-		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
-		<pubDate>Sun, 05 Jan 2025 21:18:26 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3510</guid>
-
-					<description><![CDATA[Chères adhérentes, chers adhérents, L&#8217;ASCETE vous souhaite une belle année 2025. L&#8217;occasion de retracer les temps forts de l&#8217;association en 2024 : En mars, l&#8217;ASCETE était présente aux 𝐫𝐞𝐧𝐜𝐨𝐧𝐭𝐫𝐞𝐬 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐢𝐬𝐭𝐞𝐬 𝐝&#8217;𝐎𝐜𝐜𝐢𝐭𝐚𝐧𝐢𝐞 𝐨𝐫𝐠𝐚𝐧𝐢𝐬𝐞́𝐞 𝐩𝐚𝐫 𝐎𝐂𝐍𝐀𝐓, l&#8217;Union des Associations Naturalistes d&#8217;Occitanie : vente de numéros, interventions sur quelques présentations comme l&#8217;effet de l&#8217;écobuage sur les communautés de [&#8230;]]]></description>
 		
 		
 		
