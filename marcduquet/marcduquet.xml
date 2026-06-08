@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 01 Jun 2026 11:05:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 10:10:04 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AT Balance, la longue-vue stabilisée de Swarovski</title>
+		<link>https://marcduquet.com/at-balance-la-longue-vue-stabilisee-de-swarovski/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 10:10:04 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[longue-vue]]></category>
+		<category><![CDATA[Test]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8005</guid>
+
+					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet La stabilisation des téléobjectifs photo existe depuis de nombreuses années et a démontré son efficacité. La marque japonaise&#160;Canon&#160;est la première, dès 1995, à avoir adapté ce système à des jumelles (modèle 12×36 IS), bientôt imitée par d’autres fabricants de matériel optique qui ont alors profité de ce système...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 mai 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-mai-2026/</link>
 		
@@ -39,7 +55,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=7925</guid>
 
-					<description><![CDATA[Tandis que le passage du Faucon kobez s’étendait un peu vers le nord et l’ouest de la France et que quelques Faucons d’Éléonore étaient vus dans le Sud, les faits marquants de cette seconde quinzaine de mai concernent un potentiel Goéland de la Baltique dans le Pas-de-Calais, trois Engoulevents à collier roux (dont un chanteur cantonné) autour de la Méditerranée, un Martinet des...]]></description>
+					<description><![CDATA[ADDENDUM. Deux données normandes (Manche) importantes étaient passées à travers les mailles de mon filet : une Hirondelle rousseline à Genêts le 23 et surtout un Bruant rustique à Vains le 24, tous deux enregistrés par Sébastien Provost. Merci à Philippe J. Dubois qui m&#8217;a signalé ces oublis. Tandis que le passage du&#160;Faucon kobez&#160;s’étendait un...]]></description>
 		
 		
 		
@@ -114,23 +130,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7744</guid>
 
 					<description><![CDATA[Dans les dernières Notes d’ornithologie française (Dubois &#38; Duquet 2026), nous faisions état de trois observations de Vautour percnoptère effectuées en mai 2021 (Tissier 2021), mai 2024 (Cowles 2024) et mai 2025 (S. Chanel/Faune France) dans le département du Rhône, où l’espèce n’avait pas été vue depuis 1891. Intrigué par la similarité des dates, j’ai...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-30 avril 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-30-avril-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 01 May 2026 09:28:53 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7656</guid>
-
-					<description><![CDATA[Au menu de cette seconde quinzaine d’avril, une espèce nouvelle pour la France, l’Alouette leucoptère, trouvée en Camargue, où une&#160;Glaréole à ailes noires&#160;a également été vue. Sur la façade occidentale, à signaler une&#160;Sarcelle à ailes bleues&#160;à Hoëdic, le retour des&#160;Sternes élégantes&#160;de Noirmoutier et de la&#160;Sterne bridée&#160;de l’île aux Moutons, le passage de deux&#160;Plongeons à bec...]]></description>
 		
 		
 		
