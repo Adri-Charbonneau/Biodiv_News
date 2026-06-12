@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 08 Jun 2026 10:10:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Jun 2026 16:21:50 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OrnithoScience : pourquoi le Courlis cendré est-il en déclin ?</title>
+		<link>https://marcduquet.com/ornithoscience-pourquoi-le-courlis-cendre-est-il-en-declin/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2026 16:21:50 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Limicoles]]></category>
+		<category><![CDATA[Numenius arquata]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8030</guid>
+
+					<description><![CDATA[Depuis une trentaine d’années, le Courlis cendré a connu un déclin démographique marqué dans de nombreuses régions de son aire de répartition et l’espèce a été inscrite en catégorie «quasi menacée (NT)» au niveau mondial par l’UICN (BirdLife International 2017).&#160;En France, la population qui comptait quelque 2000&#160;couples en 1996 (Dubois&#160;et al.&#160;2008) est tombée à un...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AT Balance, la longue-vue stabilisée de Swarovski</title>
 		<link>https://marcduquet.com/at-balance-la-longue-vue-stabilisee-de-swarovski/</link>
 		
@@ -110,26 +128,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7787</guid>
 
 					<description><![CDATA[Couvrant la période 1987-1991, le premier atlas ornithologique d’un pays africain a été publié en 1997 par BirdLife Afrique du Sud. Depuis 2007, de nombreux projets d’atlas nationaux sont en cours en Afrique australe sous l’égide de l’African Bird Atlas Project et depuis une dizaine d’années des efforts ont été entrepris pour étendre leur champ d&#8217;action à...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>L’erratisme printanier du Vautour percnoptère au nord de son aire</title>
-		<link>https://marcduquet.com/lerratisme-printanier-du-vautour-percnoptere-au-nord-de-son-aire/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 14:00:07 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Erratisme]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Neophron percnopterus]]></category>
-		<category><![CDATA[Rapaces diurnes]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7744</guid>
-
-					<description><![CDATA[Dans les dernières Notes d’ornithologie française (Dubois &#38; Duquet 2026), nous faisions état de trois observations de Vautour percnoptère effectuées en mai 2021 (Tissier 2021), mai 2024 (Cowles 2024) et mai 2025 (S. Chanel/Faune France) dans le département du Rhône, où l’espèce n’avait pas été vue depuis 1891. Intrigué par la similarité des dates, j’ai...]]></description>
 		
 		
 		
