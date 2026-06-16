@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 12 Jun 2026 16:21:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Jun 2026 10:08:39 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 juin 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juin-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2026 10:08:39 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8048</guid>
+
+					<description><![CDATA[Les observations les plus remarquables de cette première quinzaine de juin, relativement calme, concernent un&#160;Goéland d’Audouin&#160;en Ille-et-Vilaine, une&#160;Pie-grièche à poitrine rose&#160;dans les Yvelines, une&#160;Aigrette des récifs&#160;en Charente-Maritime et un&#160;Bruant mélanocéphale&#160;en Lozère, tandis que l’Engoulevent à collier roux&#160;continue à chanter dans les Pyrénées-Orientales… &#62;&#62; Canards et hérons L’Oie à bec court&#160;trouvée le 30 mai à Guissény...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OrnithoScience : pourquoi le Courlis cendré est-il en déclin ?</title>
 		<link>https://marcduquet.com/ornithoscience-pourquoi-le-courlis-cendre-est-il-en-declin/</link>
 		
@@ -109,25 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7845</guid>
 
 					<description><![CDATA[Dernière minute : un Pipit de Richard a été photographié à Chezelle (Allier) le 6, ce qui constitue une première mention départementale et seulement la troisième pour l&#8217;Auvergne (info. Romain Riols). Amorcée en fanfare avec l’observation d’un&#160;Guêpier de Perse&#160;dans l’Hérault et d’un&#160;Martinet des maisons en Camargue, suivie de deux Alouettes haussecols&#160;dans le Sud (Camargue et...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Atlas des Oiseaux du Gabon</title>
-		<link>https://marcduquet.com/atlas-des-oiseaux-du-gabon/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 10 May 2026 08:53:28 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Gabon]]></category>
-		<category><![CDATA[Livres]]></category>
-		<category><![CDATA[Oiseaux]]></category>
-		<category><![CDATA[Répartition]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7787</guid>
-
-					<description><![CDATA[Couvrant la période 1987-1991, le premier atlas ornithologique d’un pays africain a été publié en 1997 par BirdLife Afrique du Sud. Depuis 2007, de nombreux projets d’atlas nationaux sont en cours en Afrique australe sous l’égide de l’African Bird Atlas Project et depuis une dizaine d’années des efforts ont été entrepris pour étendre leur champ d&#8217;action à...]]></description>
 		
 		
 		
