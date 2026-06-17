@@ -12,7 +12,7 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Fri, 05 Jun 2026 09:34:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Jun 2026 19:18:39 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rencontres sur l&#8217;acoustique des Orthoptères en Espagne (20-23 juillet 2026)</title>
+		<link>https://ascete.org/rencontres-sur-lacoustique-des-orthopteres-en-espagne-20-23-juillet-2026/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 19:18:39 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3888</guid>
+
+					<description><![CDATA[L&#8217;association espagnole El Bosque Animado organise cette année encore des rencontres autour de l&#8217;acoustique des Orthoptères, cette fois dans la province de Caceres au mois de juillet. Le logement sur place peut être pris en charge dans la limite des places disponibles. Avis aux amateurs !&#8230; Infos et réservations auprès de Marta Granadina (marta@e-coambiental.com) &#160;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rencontres Nationales Orthoptères et Entomocénotiques : MERCI !</title>
 		<link>https://ascete.org/rencontres-nationales-orthopteres-et-entomocenotiques-merci/</link>
 		
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3595</guid>
 
 					<description><![CDATA[Après la publication du rapport technique complet en 2023, le GRETIA (Groupe d&#8217;Etude des Invertébrés Armoricains) vient de publier un rapport synthétique. Il contient notamment la liste d&#8217;espèces évaluées, des focus sur certaines espèces et dresse un état des lieux de l&#8217;état de conservation de l&#8217;orthoptérofaune de cette vaste région. Bonne lecture et bravo pour [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adhésion 2025 et mise à disposition des publications de l&#8217;association</title>
-		<link>https://ascete.org/adhesion-2025/</link>
-		
-		<dc:creator><![CDATA[ASCETE]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 19:04:33 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3395</guid>
-
-					<description><![CDATA[L&#8217;ASCETE vous souhaite une belle année 2025. Les adhésions sont ouvertes. Pour le faire en ligne sur Hello Asso, veuillez cliquer sur le lien ci dessous. via HelloAsso Vous pouvez également régler votre cotisation par virement ou chèque. Les informations sont disponibles dans le bulletin d&#8217;adhésion en cliquant sur la photo ci-dessous. De plus, pour [&#8230;]]]></description>
 		
 		
 		
