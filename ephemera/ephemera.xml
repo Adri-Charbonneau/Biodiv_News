@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Fri, 05 Jun 2026 08:37:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jun 2026 14:38:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Découverte dans les Hautes-Alpes d’une espèce de Limoniidae nouvelle pour la France : Molophilus (Molophilus) fluviatilis Bangerter, 1947 (Diptera, Nematocera)</title>
+		<link>https://ephemera.insectes.org/publication/decouverte-dans-les-hautes-alpes-dune-espece-de-limoniidae-nouvelle-pour-la-france-molophilus-molophilus-fluviatilis-bangerter-1947-diptera-nematocera/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 14:18:34 +0000</pubDate>
+				<category><![CDATA[1861]]></category>
+		<category><![CDATA[Chioneinae Róndani]]></category>
+		<category><![CDATA[Ecrins Massif]]></category>
+		<category><![CDATA[la Durance]]></category>
+		<category><![CDATA[la Séveraisse]]></category>
+		<category><![CDATA[Massif des Écrins]]></category>
+		<category><![CDATA[River Durance]]></category>
+		<category><![CDATA[River Séveraisse]]></category>
+		<category><![CDATA[South-eastern France]]></category>
+		<category><![CDATA[Sud-Est de la France.]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2399</guid>
+
+					<description><![CDATA[Au sein de la famille des Limoniidae, qui compte 670 espèces en Europe, le genre Molophilus Curtis, 1833 est l’un des plus diversifiés, avec près de 90 espèces recensées (Oosterbroek &#160;2026). En France, ce genre demeure encore relativement peu étudié : 39 espèces y sont actuellement connues, mais près du quart d’entre elles (10 espèces) [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Au sein de la famille des Limoniidae, qui compte 670 espèces en Europe, le genre <em>Molophilus </em>Curtis, 1833 est l’un des plus diversifiés, avec près de 90 espèces recensées (Oosterbroek &nbsp;2026). En France, ce genre demeure encore relativement peu étudié : 39 espèces y sont actuellement connues, mais près du quart d’entre elles (10 espèces) n’ont été découvertes que très récemment (Boardman &amp; Starý 2020, Quindroit 2020, 2021, 2022, 2023, 2025, Quindroit &amp; Lemoine 2021, Tillier 2023, Quindroit et al. 2025). À la fin de l’hiver et au début du printemps 2026, des prospections entomologiques menées le long de la Durance et de la Séveraisse (Hautes-Alpes) ont permis la découverte d’une espèce de <em>Molophilus</em> jusqu’alors non signalée de France : <em>Molophilus</em> (<em>Molophilus</em>) <em>fluviatilis</em> Bangerter, 1947.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Chironomidae connus de la Nouvelle-Calédonie. II. Liste et distribution des espèces recensées (Diptera)</title>
 		<link>https://ephemera.insectes.org/publication/chironomidae-connus-de-la-nouvelle-caledonie-ii-liste-et-distribution-des-especes-recensees-diptera/</link>
 		
@@ -258,35 +288,6 @@
 					<description><![CDATA[Erioptera (Erioptera) limbata Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).]]></description>
 										<content:encoded><![CDATA[
 <p class="wp-block-paragraph"><em>Erioptera (Erioptera) limbata </em>Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Chaetocladius tenuistylus Brundin, 1947 et Cricotopus (Paratrichocladius) guidalii (Rossaro, 1990), deux espèces nouvelles pour la faune de France (Diptera, Chironomidae)</title>
-		<link>https://ephemera.insectes.org/publication/chaetocladius-tenuistylus-brundin-1947et-cricotopus-paratrichocladius-guidalii-rossaro-1990-deux-especes-nouvelles-pour-la-faune-de-france-diptera-chironomidae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 09:46:28 +0000</pubDate>
-				<category><![CDATA[2017]]></category>
-		<category><![CDATA[Alpes françaises]]></category>
-		<category><![CDATA[Chaetocladius subalpinus Rossaro et al.]]></category>
-		<category><![CDATA[Chironomes]]></category>
-		<category><![CDATA[French Alps]]></category>
-		<category><![CDATA[glacial torrent]]></category>
-		<category><![CDATA[non-biting midges]]></category>
-		<category><![CDATA[Orthocladiinae]]></category>
-		<category><![CDATA[torrent glaciaire]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2305</guid>
-
-					<description><![CDATA[La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre Chaetocladius Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). C. [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">La sous-famille des Orthocladiinae regroupe plus de 115 genres. Parmi eux, le genre <em>Chaetocladius</em> Kieffer, 1911 abrite cent-onze espèces décrites. Ce genre est majoritairement holarctique des régions froides et se retrouve aussi, dans une moindre diversité, dans les zones néotropicales et orientales (Cranston et al. 1989, Makarchenko et al. 2018, Andersen et al. 2024). <em>C. tenuistylus</em> est une espèce holarctique, non trouvée au sud du 51<sup>ème</sup> parallèle.</p>
-
-
-
-<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
 		
