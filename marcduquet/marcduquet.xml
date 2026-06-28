@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 16 Jun 2026 10:08:39 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 Jun 2026 11:07:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les guifettes nicheuses en France en 2025</title>
+		<link>https://marcduquet.com/les-guifettes-nicheuses-en-france-en-2025/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 28 Jun 2026 11:07:28 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Guifettes]]></category>
+		<category><![CDATA[Nidification]]></category>
+		<category><![CDATA[Population]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8086</guid>
+
+					<description><![CDATA[Par Jacques&#160;Trotignon Voici les résultats des dénombrements des trois espèces de guifettes nicheuses en France en 2025. Il est peu de dire que la situation n&#8217;est pas brillante… et la vague de chaleur qui sévit en cette deuxième décade de juin ne présage rien de bon pour la reproduction 2026. En 2025, la Guifette moustac...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 juin 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juin-2026/</link>
 		
@@ -109,23 +127,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7794</guid>
 
 					<description><![CDATA[On connaît le Vautour percnoptère sous son plumage adulte, noir et blanc, et sous celui, entièrement brun, du juvénile. Mais entre les deux, l’espèce porte plusieurs livrées intermédiaires, regroupées sous le terme subadulte&#160;dans&#160;Le Guide ornitho&#160;(Svensson&#160;et al.&#160;2025), qui ne sont décrites en détail que dans les ouvrages consacrés spécifiquement aux rapaces.&#160;Clark (1999) représente quatre plumages de...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 mai 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-mai-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 16 May 2026 15:48:48 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7845</guid>
-
-					<description><![CDATA[Dernière minute : un Pipit de Richard a été photographié à Chezelle (Allier) le 6, ce qui constitue une première mention départementale et seulement la troisième pour l&#8217;Auvergne (info. Romain Riols). Amorcée en fanfare avec l’observation d’un&#160;Guêpier de Perse&#160;dans l’Hérault et d’un&#160;Martinet des maisons en Camargue, suivie de deux Alouettes haussecols&#160;dans le Sud (Camargue et...]]></description>
 		
 		
 		
