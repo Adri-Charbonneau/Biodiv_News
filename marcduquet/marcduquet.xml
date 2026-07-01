@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 28 Jun 2026 11:07:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Jul 2026 09:46:42 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos: 16-30 juin 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-30-juin-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2026 09:46:42 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8114</guid>
+
+					<description><![CDATA[Quinzaine très calme en France côté oiseaux rares, en dehors de l’Engoulevent à collier roux&#160;des Pyrénées-Orientales qui est toujours cantonné et de quelques données d’espèces classiques comme le&#160;Faucon d’Éléonore, la&#160;Pie-grièche à poitrine rose&#160;ou encore le&#160;Bruant mélanocéphale… Les observations les plus remarquables proviennent du reste de l’Europe, notamment du Portugal, qui accueille une&#160;Barge hudsonienne, et des...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les guifettes nicheuses en France en 2025</title>
 		<link>https://marcduquet.com/les-guifettes-nicheuses-en-france-en-2025/</link>
 		
@@ -109,24 +123,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=7925</guid>
 
 					<description><![CDATA[ADDENDUM. Deux données normandes (Manche) importantes étaient passées à travers les mailles de mon filet : une Hirondelle rousseline à Genêts le 23 et surtout un Bruant rustique à Vains le 24, tous deux enregistrés par Sébastien Provost. Merci à Philippe J. Dubois qui m&#8217;a signalé ces oublis. Tandis que le passage du&#160;Faucon kobez&#160;s’étendait un...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mue et plumages du Vautour percnoptère</title>
-		<link>https://marcduquet.com/mue-et-plumages-du-vautour-percnoptere/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 08:59:21 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Mue]]></category>
-		<category><![CDATA[Neophron percnopterus]]></category>
-		<category><![CDATA[Plumage]]></category>
-		<category><![CDATA[Rapaces diurnes]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7794</guid>
-
-					<description><![CDATA[On connaît le Vautour percnoptère sous son plumage adulte, noir et blanc, et sous celui, entièrement brun, du juvénile. Mais entre les deux, l’espèce porte plusieurs livrées intermédiaires, regroupées sous le terme subadulte&#160;dans&#160;Le Guide ornitho&#160;(Svensson&#160;et al.&#160;2025), qui ne sont décrites en détail que dans les ouvrages consacrés spécifiquement aux rapaces.&#160;Clark (1999) représente quatre plumages de...]]></description>
 		
 		
 		
