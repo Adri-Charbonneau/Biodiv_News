@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Thu, 25 Jun 2026 14:38:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jul 2026 15:17:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Description of Heleniella assiana sp. n. from the upper basin of the River Assi in Lebanon (Diptera, Chironomidae)</title>
+		<link>https://ephemera.insectes.org/publication/description-of-heleniella-assiana-sp-n-from-the-upper-basin-of-the-river-assi-in-lebanon-diptera-chironomidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2026 14:39:58 +0000</pubDate>
+				<category><![CDATA[1929)]]></category>
+		<category><![CDATA[conservation]]></category>
+		<category><![CDATA[Heleniella ornaticollis (Edwards]]></category>
+		<category><![CDATA[new species]]></category>
+		<category><![CDATA[nouvelle espèce]]></category>
+		<category><![CDATA[taxonomie]]></category>
+		<category><![CDATA[taxonomy]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2405</guid>
+
+					<description><![CDATA[A large material of Chironomidae composed of adults, pupae, and larvae, collected in the upper basin of the River Assi (= River Orontes, north-eastern Lebanon), revealed the presence of a new Heleniella species. In this paper, only the male adult of H. assiana sp. n. is diagnosed and described. Distinctive pertinent specific characters include in [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">A large material of Chironomidae composed of adults, pupae, and larvae, collected in the upper basin of the River Assi (= River Orontes, north-eastern Lebanon), revealed the presence of a new <em>Heleniella</em> species. In this paper, only the male adult of<em> H</em>.<em> assiana </em>sp. n. is diagnosed and described. Distinctive pertinent specific characters include in particular: number and distribution pattern of setae on postnotum; unusual shape of virga, sternapodeme, phallapodeme and inferior volsella. At present, two <em>Heleniella</em> species were known from Lebanon, namely <em>H</em>. <em>ornaticollis</em> (Edwards, 1929) and <em>H</em>.<em> serratosioi</em> Ringe, 1976. Consequently, the description of the new species increases the total number of species to three from this country.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Découverte dans les Hautes-Alpes d’une espèce de Limoniidae nouvelle pour la France : Molophilus (Molophilus) fluviatilis Bangerter, 1947 (Diptera, Nematocera)</title>
 		<link>https://ephemera.insectes.org/publication/decouverte-dans-les-hautes-alpes-dune-espece-de-limoniidae-nouvelle-pour-la-france-molophilus-molophilus-fluviatilis-bangerter-1947-diptera-nematocera/</link>
 		
@@ -267,27 +290,6 @@
 					<description><![CDATA[Hydrellia maculiventris Becker, 1896, une espèce rare et mal connue d’Ephydridae, a été observée pour la première fois en France dans un étang du Massif central. Quelques informations sur ses exigences écologiques sont précisées, à l’aide des résultats obtenus avec les protocoles et indicateurs BECOME (Bioindication des ECOsystèmes Mares et Etangs).]]></description>
 										<content:encoded><![CDATA[
 <p class="wp-block-paragraph"><em>Hydrellia maculiventris</em> Becker, 1896, une espèce rare et mal connue d’Ephydridae, a été observée pour la première fois en France dans un étang du Massif central. Quelques informations sur ses exigences écologiques sont précisées, à l’aide des résultats obtenus avec les protocoles et indicateurs BECOME (Bioindication des ECOsystèmes Mares et Etangs).</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Découverte d’Erioptera (Erioptera) limbata Loew, 1873 dans le Val-d’Oise : première mention française d’une espèce peu connue en Europe (Diptera, Limoniidae)</title>
-		<link>https://ephemera.insectes.org/publication/decouverte-derioptera-erioptera-limbata-loew-1873-dans-le-val-doise-premiere-mention-francaise-dune-espece-peu-connue-en-europe-diptera-limoniidae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Mon, 05 Jan 2026 10:20:41 +0000</pubDate>
-				<category><![CDATA[craneflies]]></category>
-		<category><![CDATA[espèce nouvelle pour la France]]></category>
-		<category><![CDATA[Île-de-France]]></category>
-		<category><![CDATA[Île-de-France Region]]></category>
-		<category><![CDATA[species new for the French fauna.]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2316</guid>
-
-					<description><![CDATA[Erioptera (Erioptera) limbata Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph"><em>Erioptera (Erioptera) limbata </em>Loew, 1873 est un Limoniidae dont l’aire de répartition couvre une grande partie de l’Europe. Elle est signalée d’Allemagne, d’Autriche, de Belgique, de Bulgarie, de Grande-Bretagne, de Hongrie, de Lituanie, des Pays-Bas, de Pologne, de la République tchèque, de Roumanie, de Russie, de Slovaquie, de Suisse et d’Ukraine (Oosterbroek 2025).</p>
 ]]></content:encoded>
 					
 		
