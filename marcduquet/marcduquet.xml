@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 01 Jul 2026 09:46:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Jul 2026 08:55:09 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0</generator>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Islande : terre d’oiseaux (11-21 avril 2026)</title>
+		<link>https://marcduquet.com/islande-terre-doiseaux-11-21-avril-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 11 Jul 2026 08:55:09 +0000</pubDate>
+				<category><![CDATA[Voyages]]></category>
+		<category><![CDATA[Islande]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8143</guid>
+
+					<description><![CDATA[Par Patrick &#38; Geneviève Triplet L’Islande est une terre de contrastes, balayée par les vents froids venus du Pôle Nord et sujette à des éruptions volcaniques spectaculaires, capables de conduire à la fermeture de l&#8217;espace aérien européen, comme ce fut le cas en avril 2010. Mais l’Islande n’est pas que cela. C’est probablement l’une des...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos: 16-30 juin 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-30-juin-2026/</link>
 		
@@ -106,23 +122,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8005</guid>
 
 					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet La stabilisation des téléobjectifs photo existe depuis de nombreuses années et a démontré son efficacité. La marque japonaise&#160;Canon&#160;est la première, dès 1995, à avoir adapté ce système à des jumelles (modèle 12×36 IS), bientôt imitée par d’autres fabricants de matériel optique qui ont alors profité de ce système...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 mai 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-mai-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 01 Jun 2026 11:05:42 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=7925</guid>
-
-					<description><![CDATA[ADDENDUM. Deux données normandes (Manche) importantes étaient passées à travers les mailles de mon filet : une Hirondelle rousseline à Genêts le 23 et surtout un Bruant rustique à Vains le 24, tous deux enregistrés par Sébastien Provost. Merci à Philippe J. Dubois qui m&#8217;a signalé ces oublis. Tandis que le passage du&#160;Faucon kobez&#160;s’étendait un...]]></description>
 		
 		
 		
