@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 11 Jul 2026 08:55:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Jul 2026 10:40:42 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Islande : terre d’oiseaux (11-21 avril 2026)</title>
+		<title>Islande : terre d’oiseaux (11-21 mai 2026)</title>
 		<link>https://marcduquet.com/islande-terre-doiseaux-11-21-avril-2026/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
