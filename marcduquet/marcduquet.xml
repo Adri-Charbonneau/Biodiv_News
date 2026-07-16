@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 11 Jul 2026 10:40:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jul 2026 08:29:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 juillet 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juillet-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 08:29:13 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8188</guid>
+
+					<description><![CDATA[Cette première quinzaine de juillet aura été très calme sur le front des oiseaux rares, sans doute en lien avec l’épisode caniculaire qui a touché la France à cette période. Sans surprise, ce sont donc les espèces vivant près de l’eau – oiseaux de mer et d’eau douce – qui alimentent la rubrique, qui, pour...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Islande : terre d’oiseaux (11-21 mai 2026)</title>
 		<link>https://marcduquet.com/islande-terre-doiseaux-11-21-avril-2026/</link>
 		
@@ -106,22 +123,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8030</guid>
 
 					<description><![CDATA[Depuis une trentaine d’années, le Courlis cendré a connu un déclin démographique marqué dans de nombreuses régions de son aire de répartition et l’espèce a été inscrite en catégorie «quasi menacée (NT)» au niveau mondial par l’UICN (BirdLife International 2017).&#160;En France, la population qui comptait quelque 2000&#160;couples en 1996 (Dubois&#160;et al.&#160;2008) est tombée à un...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AT Balance, la longue-vue stabilisée de Swarovski</title>
-		<link>https://marcduquet.com/at-balance-la-longue-vue-stabilisee-de-swarovski/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 08 Jun 2026 10:10:04 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[longue-vue]]></category>
-		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8005</guid>
-
-					<description><![CDATA[Par Philippe J. Dubois &#38; Marc Duquet La stabilisation des téléobjectifs photo existe depuis de nombreuses années et a démontré son efficacité. La marque japonaise&#160;Canon&#160;est la première, dès 1995, à avoir adapté ce système à des jumelles (modèle 12×36 IS), bientôt imitée par d’autres fabricants de matériel optique qui ont alors profité de ce système...]]></description>
 		
 		
 		
