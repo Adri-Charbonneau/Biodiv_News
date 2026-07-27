@@ -12,13 +12,13 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Fri, 10 Jul 2026 11:13:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jul 2026 09:55:30 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.1</generator>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
 
 <image>
 	<url>https://ephemera.insectes.org/wp-content/uploads/2023/11/ephemerae_full-150x150.png</url>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Heleniella crenophila and H. helenae spp. n., two new species occurring in France (Diptera, Chironomidae)</title>
+		<link>https://ephemera.insectes.org/publication/heleniella-crenophila-and-h-helenae-spp-n-two-new-species-occurring-in-france-diptera-chironomidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 09:08:35 +0000</pubDate>
+				<category><![CDATA[Alpes maritimes]]></category>
+		<category><![CDATA[conservation]]></category>
+		<category><![CDATA[Eastern Pyrenees]]></category>
+		<category><![CDATA[Maritime Alps]]></category>
+		<category><![CDATA[new species]]></category>
+		<category><![CDATA[nouvelle espèce]]></category>
+		<category><![CDATA[Pyrénées orientales]]></category>
+		<category><![CDATA[taxonomie]]></category>
+		<category><![CDATA[taxonomy]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2414</guid>
+
+					<description><![CDATA[Heleniella crenophila sp. n. and H. helenae sp. n. are described and diagnosed based on material collected in two high mountainous sites: the first one in the maritime Alps (spring of Fontanalba, SE-France, alt. 1700-1500 m), the second in eastern Pyrenees (glacial upper stream of the River Têt, Massif of Carlit, S-France, alt. 2300-2100 m). [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><em>Heleniella crenophila </em>sp. n. and <em>H</em>. <em>helenae</em> sp. n. are described and diagnosed based on material collected in two high mountainous sites: the first one in the maritime Alps (spring of Fontanalba, SE-France, alt. 1700-1500 m), the second in eastern Pyrenees (glacial upper stream of the River Têt, Massif of Carlit, S-France, alt. 2300-2100 m). <em>H</em>. <em>crenophila</em> sp. n. is described as male adult and pupal exuviae, <em>H</em>. <em>helenae</em> sp. n. is described only as male adult. <em>H. crenophila</em> sp. n. keys near <em>H. ornaticollis</em> (Edwards, 1929) and <em>H. assiana</em> Moubayed, 2026, while <em>H. helenae</em> sp. n. resembles to <em>H. gaultieri</em> Moubayed, 2018. Main distinguishing characters found in the male adult are: distribution pattern and number of setae on postnotum, unusual shape of virga, sternapodeme, phallapodeme, anal point, inferior volsella and gonostylus. The pupal exuviae of <em>H</em>. <em>crenophila </em>sp. n. is briefly described and illustrated on the basis of the chaetotaxy and distribution pattern of armament on sternites I-III. To date, the two discovered species increase the total number of known <em>Heleniella</em> species to six from France, with <em>H</em>.<em> dorieri </em>Serra-Tosio, 1966,<em> H. gaultieri</em>,<em> H</em>.<em> ornaticollis </em>and <em>H</em>.<em> serratosioi</em> Ringe, 1976. Taxonomic notes and comments on the ecology and geographical distribution of the two new species are given. </p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles données de Besdolus imhoffi (Pictet, 1841) dans le Massif des Pyrénées (Plecoptera, Perlodidae)</title>
 		<link>https://ephemera.insectes.org/publication/nouvelles-donnees-de-besdolus-imhoffi-pictet-1841-dans-le-massif-des-pyrenees-plecoptera-perlodidae/</link>
 		
@@ -257,36 +286,6 @@
 					<description><![CDATA[La localité-type de Plectrocnemia appennina McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p class="wp-block-paragraph">La localité-type de <em>Plectrocnemia appennina </em>McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de la ville de Pistoia (McLachlan 1884).</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The Craneflies of Lebanon (Insecta, Tipuloidea:Tipulidae, Limoniidae &#038; Pediciidae)</title>
-		<link>https://ephemera.insectes.org/publication/the-craneflies-of-lebanon-insecta-tipuloideatipulidae-limoniidae-pediciidae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 10:02:54 +0000</pubDate>
-				<category><![CDATA[16 bassins versants]]></category>
-		<category><![CDATA[16 catchments]]></category>
-		<category><![CDATA[citations nouvelles.]]></category>
-		<category><![CDATA[Diptera]]></category>
-		<category><![CDATA[distribution]]></category>
-		<category><![CDATA[eaux courantes et stagnantes]]></category>
-		<category><![CDATA[Lebanon]]></category>
-		<category><![CDATA[Liban]]></category>
-		<category><![CDATA[new records.]]></category>
-		<category><![CDATA[répartition]]></category>
-		<category><![CDATA[running water]]></category>
-		<category><![CDATA[stagnant water]]></category>
-		<category><![CDATA[totalité du territoire]]></category>
-		<category><![CDATA[whole territory]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2339</guid>
-
-					<description><![CDATA[This study is a survey of the distribution of Diptera in the whole of Lebanon. 16 watersheds of the largest rivers were explored between 1979 and 2010, covering a wide variety of running waters distributed between 0 and 2150 m of altitude from springs and streams to the lower sectors of rivers, as well as [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">This study is a survey of the distribution of Diptera in the whole of Lebanon. 16 watersheds of the largest rivers were explored between 1979 and 2010, covering a wide variety of running waters distributed between 0 and 2150 m of altitude from springs and streams to the lower sectors of rivers, as well as high altitude marshes. 365 imagos of Tipulidae, Limoniidae and Pediciidae were identified to the species level at 84 out of 200 stations surveyed within the program of general inventory of macroinvertebrate fauna. 35 species have been identified.  9 of these species (1 Tipulids, 8 Limoniids) are new to the fauna of Lebanon. On the other hand, fourteen species, recorded in the past by other authors, were not observed again in our samples. The total number of potential species of these Diptera all over the Lebanese territory is thus raised to 52.</p>
 ]]></content:encoded>
 					
 		
