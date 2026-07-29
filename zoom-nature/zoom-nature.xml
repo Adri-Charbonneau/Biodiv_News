@@ -12,7 +12,7 @@
 	<atom:link href="https://www.zoom-nature.fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.zoom-nature.fr</link>
 	<description>Chroniques Nature &#38; Sciences</description>
-	<lastBuildDate>Mon, 27 Jul 2026 12:47:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jul 2026 10:43:56 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,337 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
+		<title>La symbiose entre les racines d’aulne et la bactérie Frankia </title>
+		<link>https://www.zoom-nature.fr/la-symbiose-entre-les-racines-daulne-et-la-bacterie-frankia/</link>
+		
+		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2026 10:43:54 +0000</pubDate>
+				<category><![CDATA[Bétulacées]]></category>
+		<category><![CDATA[Aulne]]></category>
+		<category><![CDATA[Bétulacée]]></category>
+		<category><![CDATA[Nodule]]></category>
+		<category><![CDATA[Symbiose]]></category>
+		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=38200</guid>
+
+					<description><![CDATA[<p>29/07/2026 Quand on parle de symbiose végétale, outre la mycorhize (racine de plante/champignon), un exemple [&#8230;]</p>
+<p>The post <a href="https://www.zoom-nature.fr/la-symbiose-entre-les-racines-daulne-et-la-bacterie-frankia/">La symbiose entre les racines d’aulne et la bactérie Frankia </a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>29/07/2026 Quand on parle de symbiose végétale, outre la mycorhize (racine de plante/champignon), un exemple occupe très souvent le devant de la scène&nbsp;: la symbiose racine de Légumineuse/bactérie&nbsp;<em>Rhizobium</em>&nbsp;avec la formation de nodosités bactériennes sur les racines. Cette symbiose est très connue pour sa capacité à fixer l’azote de l’air et d’en transférer une partie dans le sol&nbsp;: ceci fait des légumineuses des plantes dites améliorantes des sols en agriculture. Elle nous touche d’autant plus qu’elle concerne des plantes cultivées (pois, haricots, lentilles, soja, pois chiche) dont les graines sont une source essentielle de protéines pour notre alimentation. De ce fait, le grand public pense généralement que les Légumineuses sont les seules plantes capables de réaliser cette performance et cette transformation indirecte des sols.&nbsp;</p>
+
+
+
+<p>Or, il existe un second exemple différent de telle symbiose&nbsp;fixatrice d’azote chez d’autres familles de plantes : l’association racines /actinobactérie&nbsp;<em>Frankia</em>. Dans notre environnement, elle est notamment présente chez les aulnes dont l’aulne glutineux, l’espèce la plus répandue en plaine et moyenne montagne&nbsp;: c’est la symbiose&nbsp;<em>Alnus/Frankia</em>. Nous allons donc explorer cette symbiose très singulière et aux conséquences environnementales majeures dans les écosystèmes forestiers peuplés d’aulnes. Nous commencerons par présenter ces bactéries méconnues.&nbsp;</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v1.jpg"><img fetchpriority="high" decoding="async" width="436" height="768" data-id="38216" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v1.jpg" alt="" class="wp-image-38216" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v1.jpg 436w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v1-170x300.jpg 170w" sizes="(max-width: 436px) 100vw, 436px" /></a><figcaption class="wp-element-caption">Aulne glutineux </figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v2.jpg"><img decoding="async" width="447" height="768" data-id="38217" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v2.jpg" alt="" class="wp-image-38217" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v2.jpg 447w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v2-175x300.jpg 175w" sizes="(max-width: 447px) 100vw, 447px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v3.jpg"><img decoding="async" width="437" height="768" data-id="38218" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v3.jpg" alt="" class="wp-image-38218" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v3.jpg 437w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-v3-171x300.jpg 171w" sizes="(max-width: 437px) 100vw, 437px" /></a></figure>
+</figure>
+
+
+
+<h2 class="wp-block-heading">Actinobactéries : <em>Frankia</em> </h2>
+
+
+
+<p>Jusque dans les années 60, ces microorganismes étaient appelés&nbsp;Actinomycètes&nbsp;(<em>actino</em>&nbsp;= filament&nbsp;;&nbsp;<em>mycete</em>&nbsp;= champignon)&nbsp;: on croyait qu’il s’agissait de champignons à cause de leur apparence (microscopique) sous&nbsp;forme de filaments ramifiés faisant penser à mycélium&nbsp;; de plus, ils engendrent des conidies ou des sporanges … comme des champignons ascomycètes.&nbsp;</p>
+
+
+
+<p>On sait maintenant que ce sont des bactéries particulières à structure filamenteuse (convergence de forme)&nbsp;: les actinobactéries. Elles forment dans la classification phylogénétique un groupe à part (<em>Actinobacteria</em>), un des groupes de bactéries avec la plus forte diversité connue en espèces. Ce sont des bactéries en forme de batônnets, dites «&nbsp;Gram +&nbsp;»&nbsp;: elles réagissent positivement à la réaction de Gram en gardant la couleur du cristal violet appliqué en premier.</p>
+
+
+
+<p>Ces bactéries se trouvent en grandes quantités et avec une forte diversité dans les sols et les litières en décomposition&nbsp;; on en trouve aussi dans les eaux douces. Quand elles colonisent des supports solides, elles se réunissent en «&nbsp;colonies&nbsp;» formées de files de cellules d’où l’aspect filamenteux. Elles possèdent une paroi bactérienne très épaisse et résistante au dessèchement.&nbsp;</p>
+
+
+
+<p><em>Frankia</em>&nbsp;est le seul genre d’actinobactérie fixatrice d’azote en symbiose avec des racines de végétaux terrestres.&nbsp;Dans ce genre, on ne connaît justement qu’une seule espèce&nbsp;:&nbsp;<em>Frankia alni</em>&nbsp;qui vit en symbiose avec les racines de diverses espèces d’aulnes (genre&nbsp;<em>Alnus</em>). Pour le reste du genre&nbsp;<em>Frankia</em>, on ne connaît que des «&nbsp;souches&nbsp;», distinguées sur la base de la taille de leur génome et la spécificité de leur relation symbiotique&nbsp;; on les classe en quatre groupes génétiques.&nbsp;&nbsp;<em></em></p>
+
+
+
+<p>Toutes les bactéries&nbsp;<em>Frankia</em>&nbsp;fixent l’azote (N<sub>2</sub>) de l’air, qu’elles soient installées en relation symbiotique dans les nodules des racines ou libres dans le sol. Pour cela, elles utilisent une enzyme, la nitrogénase, dont la molécule est organisée autour d’un atome métallique de molybdène (Mo). Ce métal peut manquer dans les sols très acides rendant alors la symbiose impossible.&nbsp;&nbsp;L’enzyme transforme l’azote gazeux atmosphérique en ion ammonium NH<sup>4+</sup>, excrété dans le sol. En situation de symbiose, cet ammonium, toxique, est d’abord&nbsp;transformé en molécules non toxiques (glutamates, glutamine)&nbsp;; celles-ci sont ensuite directement exportées vers les cellules végétales de la plante hôte en passant par les vaisseaux conducteurs du xylème. Elles vont être intégrées dans le métabolisme azoté et servir notamment à la synthèse de protéines.&nbsp;</p>
+
+
+
+<p>Le fonctionnement de cette enzyme est très sensible à la présence d’oxygène&nbsp;; les bactéries disposent de plusieurs dispositifs de protection contre cet élément, négatif pour elles.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Nodulation&nbsp;</h2>
+
+
+
+<p>Une association symbiotique ne peut se faire que via une collaboration étroite entre les deux partenaires&nbsp;: ici, les racines de l’aulne glutineux et la bactérie&nbsp;<em>Frankia</em>.&nbsp;&nbsp;Cette association symbiotique se manifeste par la formation d’un nouvel organe racinaire, un nodule, suite à l’infection (bénéfique dans ce cas) des racines par la bactérie.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-plein.jpg"><img loading="lazy" decoding="async" width="1024" height="618" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-plein.jpg" alt="" class="wp-image-38207" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-plein.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-plein-300x181.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-plein-768x464.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-plein-600x362.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>Pour qu’un nodule se forme, la bactérie présente dans le sol, doit être reconnue par l’aulne. Au contact des poils racinaires d’une racine secondaire, elle forme un cordon d’infection filamenteux (voir l’encart Actinobactéries) induisant la déformation des poils absorbants qui tendent à s’enrouler sur eux-mêmes. Ces poils déformés vont servir de porte d’entrée à la bactérie qui va aller investir des cellules du cortex de la racine&nbsp;: le cortex est l’anneau de tissus qui entoure le centre de la racine avec les vaisseaux conducteurs.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-schem.jpg"><img loading="lazy" decoding="async" width="705" height="640" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-schem.jpg" alt="" class="wp-image-38214" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-schem.jpg 705w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-schem-300x272.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-schem-600x545.jpg 600w" sizes="(max-width: 705px) 100vw, 705px" /></a><figcaption class="wp-element-caption">Extrait de 2-Bibliographie </figcaption></figure></div>
+
+
+<p>La pénétration de la bactérie (infection intracellulaire) induit des divisions actives des cellules corticales (du cortex) infectées. L’infection des cellules corticales n’est pas immédiate et ne concerne que certaines des cellules corticales&nbsp;: ce n’est pas une invasion massive mais contrôlée.&nbsp;</p>
+
+
+
+<p>La bactérie reste d’abord à l’extérieur de la membrane des cellules hôtes, dans la paroi végétale qui double extérieurement la membrane cellulaire. La paroi élabore en réaction une structure dite d’encapsulation contenant entre autres de la pectine. Cette infection d’abord externe induit un gonflement du cortex apparaît, qualifié de prénodule. On voit donc que l’infection se fait selon un processus très graduel comme si les deux partenaires prenaient bien le temps de «&nbsp;s’apprivoiser&nbsp;» mutuellement&nbsp;; l’aulne apprend à reconnaître ce nouvel arrivant et à l’accepter.&nbsp;</p>
+
+
+
+<p>Dans le même temps, à l’interface entre le cortex de la racine et la partie centrale vasculaire, un mince anneau de cellules (une seule couche de cellules), le péricycle, commence à élaborer des racines secondaires qui émergent progressivement. Le cortex de ces nouvelles racines induites par l’infection va être à son tour investi par les cordons filamenteux de&nbsp;<em>Frankia</em>&nbsp;depuis les prénodules. Ces nouvelles racines infectées s’hypertrophient, se déforment et s’entremêlent, devenant une nodosité ou nodule mature. Il s’écoule en moyenne trois semaines entre le début de l’inoculation de la bactérie depuis le sol et la mise en place des nodules matures.</p>
+
+
+
+<h2 class="wp-block-heading">Nodules&nbsp;</h2>
+
+
+
+<p>Ces nodules sont qualifiés d’actinorhizes. Chacun d’eux se présente comme une masse globuleuse de cinq centimètres de diamètre au plus. Leur forme rappelle celle de coraux en boules : d’où le nom scientifique d’organes coralloïdes ou rhizothamnion. On les compare aussi souvent à la forme d’un cerveau en les qualifiant de «&nbsp;cérébriformes&nbsp;».</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod2.jpg"><img loading="lazy" decoding="async" width="1024" height="670" data-id="38203" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod2.jpg" alt="" class="wp-image-38203" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod2-300x196.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod2-768x503.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod2-600x393.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod1.jpg"><img loading="lazy" decoding="async" width="1024" height="591" data-id="38202" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod1.jpg" alt="" class="wp-image-38202" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod1-300x173.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod1-768x443.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-gpnod1-600x346.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>Cet aspect contourné, irrégulier, vient du fait que chaque nodule correspond à un amas de multiples racines secondaires induites, chacune hypertrophiée et déformée, entremêlées. Le cortex de chacune d’elles comporte des cellules infectées et des non infectées, avec un système vasculaire central qui assure l’alimentation. On a donc une structure complexe, très intégrée.&nbsp;</p>
+
+
+
+<p>Ces nodules peuvent se former dès la première année du cycle de vie, au stade de plantule des aulnes. Néanmoins, leur croissance ultérieure est très lente. Il existe chez l’aulne glutineux deux types de nodules&nbsp;:&nbsp;</p>
+
+
+
+<ul>
+<li>des nodules persistants à long terme (jusqu’à dix ans) qui réunissent des centaines de racines secondaires infectées entremêlées et pouvant atteindre la taille d’une balle de tennis. Ils émergent vers la base des grosses racines</li>
+
+
+
+<li>des nodules éphémères, petits (maximum 3mm) sur les racines superficielles. </li>
+</ul>
+
+
+
+<p>En coupe, ils présentent une teinte rouge-orangé due à la présence de pigments anthocyaniques&nbsp;; cette teinte ressort sous forme granuleuse à la surface des nodules usés par le frottement de l’eau.&nbsp;</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod1.jpg"><img loading="lazy" decoding="async" width="1024" height="793" data-id="38204" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod1.jpg" alt="" class="wp-image-38204" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod1-300x232.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod1-768x595.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod1-600x465.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod2.jpg"><img loading="lazy" decoding="async" width="1024" height="763" data-id="38205" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod2.jpg" alt="" class="wp-image-38205" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod2-300x224.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod2-768x572.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-nod2-600x447.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<p>On a mis en évidence la présence, en faible concentration, d’hémoglobine dans les nodules. Comme l’essentiel de celle-ci se trouve dans les parties des nodules infectées, on suppose que ce sont les bactéries qui la synthétisent. Pour autant, on n’en connaît pas la fonction exacte qui pourrait être autre que celle du transport de l’oxygène comme dans notre sang.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Symbiose&nbsp;</h2>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>La symbiose (<em>syn</em> = ensemble ; <em>bios</em> = vie) est une forme <a href="https://www.zoom-nature.fr/classer-les-interactions-entre-especes-une-chimere/" title="">d’interaction durable</a><strong><a href="https://www.zoom-nature.fr/classer-les-interactions-entre-especes-une-chimere/" title=""> </a></strong>et étroite (« intime ») entre deux espèces d’êtres vivants que l’on qualifie de symbiontes. On tend à qualifier le plus gros des deux d’hôte et le plus petit de symbionte. Le plus souvent, il s’agit d’une relation avec bénéfices réciproques (+/+) : un <a href="https://www.zoom-nature.fr/la-galaxie-des-mutualismes/" title="">mutualisme</a>.</p>
+</blockquote>
+
+
+
+<p>Cette symbiose apporte à l’aulne la capacité de fixer l’azote atmosphérique et de le transformer en nutriments azotés, une capacité que ne possède aucune plante verte «&nbsp;seule&nbsp;». En retour, l’arbre apporte à la bactérie des composés carbonés, issus de son activité photosynthétique. Ainsi, plusieurs sucres et acides organiques ont été détectés dans les nodules de l’aulne glutineux&nbsp;: galactose, saccharose, malate ou fumarate.&nbsp;La relation symbiotique&nbsp;<em>Frankia/Alnus</em>&nbsp;joue un rôle majeur dans la performance de cette essence pionnière, l’aidant à prospérer sur des sols pauvres en azote.</p>
+
+
+
+<p>Attention cependant&nbsp;: la fixation de l’azote est un processus qui consomme de l’énergie. L’activité des nodules peut ainsi consommer jusqu’à 12% de la production photosynthétique de l’arbre hôte. Ce n’est pas un «&nbsp;service gratuit&nbsp;»&nbsp;! De ce fait, la symbiose et la fixation de l’azote gazeux associée ne deviennent avantageux que dans des environnements pauvres en azote. La nodulation est freinée et moins marquée dans les sols déjà enrichis en azote. Ceci explique, entre autres, que cette symbiose soit facultative pour l’un et l’autre partenaire.&nbsp;</p>
+
+
+
+<p>Cette symbiose avec des actinobactéries&nbsp;<em>Frankia</em>&nbsp;ne se trouve que dans vingt-cinq genres de plantes appartenant à huit familles de plantes, réparties dans sept ordres différents. Deux exemples très connus&nbsp;: le filao ou «&nbsp;pin australien&nbsp;» (<em>Casuarina equisetifolia</em>), un arbre de la famille des Casuarinacées, très utilisé en restauration de terrains miniers ou salinisés&nbsp;; l’argousier (<em>Hippophae rhamnoides</em>), famille des Eléagnacées, un arbuste des dunes nordiques et des bords de torrents alpins. La récurrence de cette symbiose dans des groupes sans parenté immédiate suggère une apparition répétée mais de manière indépendante au cours de l’évolution&nbsp;; elle souligne indirectement l’avantage adaptatif qu’elle doit apporter au moins à la plante hôte.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>Dialogue moléculaire</p>
+
+
+
+<p>Nous venons de voir que la collaboration symbiotique impose une reconnaissance mutuelle des deux protagonistes, tant au moment de la mise en place qu’une fois le nodule installé pour assurer son bon fonctionnement. Un véritable dialogue moléculaire s’instaure entre l’arbre hôte et son symbionte bactérien. Si celui-ci est bien connu dans le cadre de la symbiose&nbsp;<em>Rhizobium</em>/nodosités de Légumineuses, on commence seulement à en dévoiler des bribes pour la symbiose&nbsp;<em>Frankia/Alnus</em>. On pense que des flavonoïdes produits dès les premières étapes de l’infection par les racines des aulnes favoriseraient l’attraction chimique et la multiplication des bactéries&nbsp;<em>Frankia</em>&nbsp;présentes autour.&nbsp;</p>
+</blockquote>
+
+
+
+<p>Par contre, on a bien identifié les gènes des aulnes impliqués lors de la mise en place de la symbiose. La reconnaissance par des récepteurs membranaires des cellules corticales de molécules portées par la bactérie active une cascade de réactions (voie de signalisation) dans laquelle les ions calcium jouent un rôle central.</p>
+
+
+
+<h2 class="wp-block-heading">Dispersion, inoculation&nbsp;</h2>
+
+
+
+<p>La bactérie, en culture et dans les nodules, peut produire des spores susceptibles de se disperser à grande échelle par voie aérienne mais surtout par la voie aquatique, notamment au long des rivières. Ainsi, la bactérie voyage et peut coloniser de nouveaux sols, y compris dans des contextes pionniers de sols récents.&nbsp;</p>
+
+
+
+<p>Dans les milieux pauvres en azote (voir ci-dessus) et donc très favorables à la mise en place de la relation symbiotique, encore faut-il qu’il y ait présence préalable des bactéries (un inoculum) susceptibles d’infester les racines. Ainsi, quand on plante des aulnes pour restaurer d’anciens terrains miniers, l’inoculation de&nbsp;<em>Frankia</em>&nbsp;est un prérequis incontournable pour que les aulnes développent des nodules et croissent correctement.&nbsp;</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac2.jpg"><img loading="lazy" decoding="async" width="1024" height="744" data-id="38209" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac2.jpg" alt="" class="wp-image-38209" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac2-300x218.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac2-768x558.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac2-600x436.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Le puissant appareil racinaire de l&rsquo;aulne glutineux</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac1.jpg"><img loading="lazy" decoding="async" width="1024" height="657" data-id="38208" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac1.jpg" alt="" class="wp-image-38208" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac1-300x192.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac1-768x493.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac1-600x385.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Système racinaire très ramifié </figcaption></figure>
+</figure>
+
+
+
+<p>L’inoculation de cette bactérie varie considérablement selon les sols et cela dépendrait des caractéristiques biotiques (relevant du vivant) et abiotiques (environnement physique et chimique) du sol. Une étude expérimentale sur de jeunes aulnes de dix ans et sur des arbres matures de plus de cent ans en peuplement forestier a identifié trois facteurs agissant sur le processus de nodulation et la performance des arbres. Les communautés fongiques de forêts matures suppriment les effets favorisant la croissance, induits par&nbsp;<em>F. alni</em>&nbsp;même si la masse des nodules ne change pas. Certaines bactéries et champignons du sol ont été identifiés comme ayant de tels effets inhibiteurs. Par ailleurs, on constate que la disponibilité en azote dans le sol réduit significativement la masse des nodules avec un seuil à partir duquel cet effet devient négatif. Inversement, si on ajoute du phosphore (P), la nodulation et la croissance des aulnes sont améliorées.</p>
+
+
+
+<h2 class="wp-block-heading">Immunité&nbsp;</h2>
+
+
+
+<p>Depuis les années 90, un net déclin de l’aulne a été observé dans de nombreux bassins versants de cours d’eau en Europe (France, Grande-Bretagne, Allemagne, …). La cause principale en est un sévère dépérissement avec divers symptômes&nbsp;: un houppier clairsemé avec petites feuilles&nbsp;; un jaunissement du feuillage&nbsp;; des taches suintantes noirâtres à la base des troncs et sur les racines, &#8230; Pourtant, l’aulne est réputé pour sa capacité de résilience face aux maladies et aux herbivores ravageurs.&nbsp;</p>
+
+
+
+<p>L’agent pathogène responsable de ce dépérissement, très agressif, dispersé par l’eau, a été identifié en 2004&nbsp;: il s’agit d’un Oomycète présent dans le sol<em>&nbsp;Phytophtora alni</em>. En dépit de certaines ressemblances avec des champignons (dont la présence d’hyphes), les Oomycètes ne sont pas du tout apparentés aux Champignons mais se classent dans le groupe des Hétérocontes aux côtés des Diatomées ou des Algues brunes. Des cellules «&nbsp;reproductrices&nbsp;», oogones et oospores, sont capables de pénétrer les cellules des racines et du collet des aulnes&nbsp;; l’infection entraîne un pourrissement des racines et une nécrose du collet et des tiges. Chez l’arbre infecté, la capacité de prélever des nutriments dans le sol se réduit&nbsp;: il s’en suit un jaunissement du feuillage, un flétrissement des branches et parfois, au bout de quelques années, la mort de l’arbre.&nbsp;</p>
+
+
+
+<p>La mortalité affecte surtout les jeunes arbres&nbsp;; les vieux arbres réussissent à survivre plusieurs années en dépit de leur dépérissement.&nbsp;</p>
+
+
+
+<p>Il semble bien que l’infection interfère avec la symbiose&nbsp;<em>Frankia/Alnus</em>&nbsp;et avec les bénéfices que celle-ci procure à l’arbre. Dans le cas des arbres de la famille des Légumineuses entretenant une symbiose racinaire avec des bactéries&nbsp;<em>Rhizobium</em>, on sait que des agents de stress peuvent altérer le bon fonctionnement des nodules&nbsp;: les effets se font sentir au niveau des réponses immunitaires, d’une perturbation potentielle de la formation de nodules et de l’efficacité de la fixation de l’azote de l’air.&nbsp;</p>
+
+
+
+<p>On a montré que l’infection par&nbsp;<em>P. alni</em>&nbsp;modifiait les processus à l’intérieur des nodules et induisait une reprogrammation des marqueurs liés à la défense immunitaire&nbsp;: celle-ci est réorientée vers les racines au détriment des nodules. Autrement dit, l’aulne renforce localement (dans ses racines directement attaquées) ses réponses immunitaires mais modère leur activation dans les nodules pour réserver le symbionte&nbsp;<em>Frankia</em>&nbsp;qui reste «&nbsp;un corps étranger&nbsp;».&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Ingénieur de l’écosystème</h2>
+
+
+
+<p>Nous avons vu que la symbiose avec la bactérie&nbsp;<em>Frankia</em>&nbsp;procurait à l’aulne une sorte de super-pouvoir&nbsp;: celui d’enrichir en nutriments azotés le sol sur lequel il se développe et ce d’autant plus que le sol initial est pauvre.&nbsp;Le pouvoir de fixation de l’aulne est même plus élevé que celui des nodules des Légumineuses : 814 mg d’azote par gramme de nodule sec.&nbsp;Or, le contenu en nutriments azotés est un facteur limitant essentiel pour le développement de toute la végétation.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac3.jpg"><img loading="lazy" decoding="async" width="1024" height="642" data-id="38210" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac3.jpg" alt="" class="wp-image-38210" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac3-300x188.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac3-768x482.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac3-600x376.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">L&rsquo;aulne est un fixateur de berges via son appareil racinaire</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac4.jpg"><img loading="lazy" decoding="async" width="1024" height="584" data-id="38211" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac4.jpg" alt="" class="wp-image-38211" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac4.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac4-300x171.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac4-768x438.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-rac4-600x342.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Il se développe à l&rsquo;interface eau/terre </figcaption></figure>
+</figure>
+
+
+
+<p>L’aulne enrichit le sol en azote via la dégradation des nodules et des racines qui se renouvellent et la litière de ses feuilles mortes, elles aussi enrichies en azote. De ce fait, l’aulne glutineux est un élément clé dans les réseaux trophiques des ripisylves, les forêts riveraines des cours d’eau. On peut ainsi considérer que l’aulne agit comme un « <a href="https://www.zoom-nature.fr/ingenieurs-de-lecosysteme/" title="">ingénieur de l’écosystème</a> », une espèce clé de voûte : il transforme son milieu de vie en l’enrichissant en azote, un enrichissement qui profite à une foule d’espèces et a des effets en cascade majeurs. </p>
+
+
+
+<p>Avec l’âge, le nombre de nodules semble augmenter ainsi que leur poids total. Dans un peuplement dominé par des aulnes de 20 ans, le poids total de matière sèche des nodules fonctionnels est d’environ 450 kg par hectare. L’accroissement de production de bois par l’aulne, induit par&nbsp;<em>Frankia,&nbsp;</em>est estimé à 25-33%.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv1.jpg"><img loading="lazy" decoding="async" width="1024" height="683" data-id="38212" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv1.jpg" alt="" class="wp-image-38212" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv1-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv1-768x512.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv1-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Liseré d&rsquo;aulnes le long d&rsquo;une rivière</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv2.jpg"><img loading="lazy" decoding="async" width="1024" height="663" data-id="38213" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv2.jpg" alt="" class="wp-image-38213" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv2-300x194.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv2-768x497.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fra-riv2-600x388.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Aulnaie riveraine d&rsquo;un étang </figcaption></figure>
+</figure>
+
+
+
+<p>Chaque automne, la litière de feuilles mortes et de brindilles vient ajouter son apport d’azote : comme les aulnes glutineux habitent souvent au bord de l’eau, une bonne partie de cette litière rejoint l’écosystème aquatique. Ainsi, au bord des rivières colonisées, l’aulne glutineux représente un élément clé capable d’améliorer considérablement la richesse nutritive de la litière ripariale (<a href="https://www.zoom-nature.fr/les-cours-deau-se-nourrissent-de-la-litiere-des-ripisylves/" title="">voir la chronique</a>) qui « nourrit » en grande partie l’écosystème rivière quand il n’y a pas de producteurs primaires (rivières de tête de bassin notamment). L’aulne transforme donc à sa manière plusieurs écosystèmes en même temps.</p>
+
+
+
+<h2 class="wp-block-heading">Usage en restauration des écosystèmes&nbsp;</h2>
+
+
+
+<p>Compte tenu de cette capacité à enrichir le sol en azote, l’aulne glutineux est une essence qui facilite la succession écologique dans les projets de restauration après des perturbations majeures qui ont considérablement appauvri les sols (comme les exploitations minières). Dans les environnements où ils trouvent suffisamment d’eau pour couvrir leurs besoins élevés, ils se comportent en espèces pionnières facilitatrices pour l’installation des essences qui suivent dans <a href="https://www.zoom-nature.fr/successions-communautes-et-perturbations/" title="">la succession écologique</a>. </p>
+
+
+
+<p>Dès qu’une forêt secondaire plantée se développe, les caractéristiques du sol changent. significativement&nbsp;: composition de la flore bactérienne et des communautés fongiques&nbsp;; richesse en nutriments. Or, l’aulne glutineux entretient deux types de symbioses racinaires&nbsp;(voir ci-dessus) : des mycorhizes et l’association avec&nbsp;<em>Frankia</em>.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>Mycorhizes des aulnes</p>
+
+
+
+<p>Les aulnes entretiennent aussi une symbiose de type mycorhize avec des champignons dont les filaments pénètrent dans les cellules des racines de la plante hôte pour y former des amas ou arbuscules&nbsp;; on parle donc de Champignons Mycorhiziens arbusculaires (CMA) ou Endomycorhiziens. Ces CMA améliorent le prélèvement par la plante dans le sol du phosphore (P), du soufre (S) et de micronutriments tels que le zinc et le cuivre. En effet, leurs filaments hyper ramifiés et très fins se montrent plus performants que les racines et radicelles des plantes. Ils améliorent aussi la prise d’eau dans le sol.</p>
+</blockquote>
+
+
+
+<p>Les communautés microbiennes du sol colonisé vont donc changer et devenir plus adaptés à un écosystème forestier plus mature. Les actinobactéries&nbsp;<em>Frankia</em>&nbsp;ont la capacité d’interagir avec ces autres microbes. On sait ainsi que les deux types de champignons mycorhiziens (endo et ectomycorhizes) interfèrent positivement avec&nbsp;<em>F. alni</em>&nbsp;et stimulent la nodulation&nbsp;; ceci entraîne une meilleure croissance des aulnes. Mais les communautés microbiennes du sol sont très complexes et leurs effets restent mal connus. Il a été montré qu’au fur et à mesure de la maturation du peuplement, la nodulation baisse à cause, probablement de microbes spécifiques inhibiteurs.</p>
+
+
+
+<p>Quand l’azote du sol est rare au départ, l’aulne réussit à s’installer via sa symbiose mais cela a un coût pour lui&nbsp;; au fur et à mesure que le sol s’enrichit en azote, il aura donc tendance à se «&nbsp;désengager&nbsp;» de son symbionte.</p>
+
+
+
+<h2 class="wp-block-heading">Bibliographie&nbsp;</h2>
+
+
+
+<p>Usman K. J. Suharjo ; J. D. Tjepkema<strong> </strong>Physiologia Plantarum Vol. 95, pp. 247–252, 1995 <strong>Occurrence of hemoglobin in the nitrogen-fixing root nodules of <em>Alnus glutinosa</em></strong></p>
+
+
+
+<p><br>2)Mathilde Vincent. <strong>Symbiose et immunité de la plante hôte : cas de l’interaction <em>Alnus glutinosa – Frankia alni– Phytophthora alni</em>.</strong> Ecologie, Environnement. Université Claude Bernard &#8211; Lyon I, 2023.</p>
+
+
+
+<p>Buchbauerová, L. et al&nbsp;&nbsp;<strong>Establishment of Nitrogen-Fixing Frankia, Arbuscular Mycorrhizal Fungi, and Their Effects on Alder (<em>Alnus glutinosa</em>&nbsp;L.) Growth in Post-Mining Heap Soils.&nbsp;</strong>Soil Syst. 2024, 8, 98.</p>
+
+
+
+<p>Mathilde Vincent et al. MPMI Vol. 38, No. 3, 2025, pp. 463–478&nbsp;<strong><em>Phytophthora alni</em>&nbsp;Infection Reinforces the Defense Reactions in&nbsp;<em>Alnus glutinosa -Frankia</em>&nbsp;Roots to the Detriment of Nodules</strong></p>
+
+
+
+<p>Konstantinos Georgopoulos et al. Applied Soil Ecology 215 (2025) 106466&nbsp;<strong>Soil microbes and nutrient inputs influence root nodulation and tree performance in&nbsp;<em>Alnus glutinosa</em></strong></p><p>The post <a href="https://www.zoom-nature.fr/la-symbiose-entre-les-racines-daulne-et-la-bacterie-frankia/">La symbiose entre les racines d’aulne et la bactérie Frankia </a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>25/07 Chemin faisant avec la migmatite</title>
 		<link>https://www.zoom-nature.fr/25-07-chemin-faisant-avec-la-migmatite/</link>
 		
@@ -49,7 +380,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan.jpg"><img fetchpriority="high" decoding="async" width="1024" height="474" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-1024x474.jpg" alt="" class="wp-image-38155" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-1024x474.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-300x139.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-768x355.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-600x278.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-1320x611.jpg 1320w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan.jpg"><img loading="lazy" decoding="async" width="1024" height="474" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-1024x474.jpg" alt="" class="wp-image-38155" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-1024x474.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-300x139.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-768x355.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-600x278.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan-1320x611.jpg 1320w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig0-plan.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -83,7 +414,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1.jpg"><img decoding="async" width="300" height="245" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1-300x245.jpg" alt="" class="wp-image-38098" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1-300x245.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1-768x626.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1-600x489.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1.jpg 942w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1.jpg"><img loading="lazy" decoding="async" width="300" height="245" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1-300x245.jpg" alt="" class="wp-image-38098" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1-300x245.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1-768x626.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1-600x489.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-1.jpg 942w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
 
 
 <p>Un horst est un bloc rocheux (légendé M et en rouge sur la carte géologique) important à l’échelle de plusieurs kilomètres, issu d’un soulèvement associé à des cassures profondes ou failles (traits noirs en gras sur la carte). Le horst dit «&nbsp;de Saint-Myon&nbsp;» s’étend au nord sur la commune d’Artonne dans les anciennes carrières de Cacherat et jusqu’à la Croix des Rameaux, vers le sud-est jusqu’à Parret (St Myon) et à l’Est jusqu’au Moulin Fradet et la Source Desaix. La présence de ce horst surélevé de roche dure a contraint la Morge&nbsp;: son cours se trouve encaissé sur un bon kilomètre entre des petites gorges rocheuses très pittoresques et insolites dans ce paysage de plaine de Limagne. La rivière recoupe le horst à la faveur d’une faille ouest/est par un resserrement marqué, autrefois surnommé «&nbsp;la percée ou trouée de César&nbsp;»&nbsp;; on disait alors que ce passage étroit, enserré dans les «&nbsp;gorges&nbsp;» était l’œuvre des Romains&nbsp;!&nbsp;</p>
@@ -116,8 +447,8 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1.jpg"><img decoding="async" width="1024" height="716" data-id="38156" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1.jpg" alt="" class="wp-image-38156" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1-300x210.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1-768x537.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1-600x420.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1.jpg"><img loading="lazy" decoding="async" width="1024" height="716" data-id="38156" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1.jpg" alt="" class="wp-image-38156" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1-300x210.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1-768x537.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-car1-600x420.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -134,7 +465,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-flo1.jpg"><img loading="lazy" decoding="async" width="1024" height="691" data-id="38158" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-flo1.jpg" alt="" class="wp-image-38158" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-flo1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-flo1-300x202.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-flo1-768x518.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-flo1-600x405.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Chondrille à feuilles de jonc (Composée) surnommée la « plante-squelette »</figcaption></figure>
 
 
@@ -152,7 +483,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-hed1.jpg"><img loading="lazy" decoding="async" width="1024" height="748" data-id="38161" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-hed1.jpg" alt="" class="wp-image-38161" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-hed1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-hed1-300x219.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-hed1-768x561.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig2-hed1-600x438.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
@@ -184,7 +515,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-10 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-4.jpg"><img loading="lazy" decoding="async" width="1024" height="786" data-id="38166" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-4.jpg" alt="" class="wp-image-38166" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-4.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-4-300x230.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-4-768x590.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-4-600x461.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Au bord de la route </figcaption></figure>
 
 
@@ -198,7 +529,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-11 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-2.jpg"><img loading="lazy" decoding="async" width="1024" height="666" data-id="38164" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-2.jpg" alt="" class="wp-image-38164" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-2-300x195.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-2-768x500.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig3-2-600x390.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Les cristaux tendent à se séparer</figcaption></figure>
 
 
@@ -221,7 +552,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-12 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-avt2.jpg"><img loading="lazy" decoding="async" width="1024" height="609" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-avt2.jpg" alt="" class="wp-image-38172" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-avt2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-avt2-300x178.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-avt2-768x457.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-avt2-600x357.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">La murette avant restauration </figcaption></figure>
 
 
@@ -235,7 +566,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-13 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-1.jpg"><img loading="lazy" decoding="async" width="1024" height="646" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-1.jpg" alt="" class="wp-image-38168" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-1-300x189.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-1-768x485.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig4-1-600x379.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
@@ -270,7 +601,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-14 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-3.jpg"><img loading="lazy" decoding="async" width="1024" height="681" data-id="38174" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-3.jpg" alt="" class="wp-image-38174" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-3-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-3-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-3-600x399.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Entrée du site depuis la route</figcaption></figure>
 
 
@@ -288,7 +619,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-15 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-fl3.jpg"><img loading="lazy" decoding="async" width="1024" height="747" data-id="38177" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-fl3.jpg" alt="" class="wp-image-38177" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-fl3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-fl3-300x219.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-fl3-768x560.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig5-fl3-600x438.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Hélianthème des Apennins (et, en arrière, potentille printanière)</figcaption></figure>
 
 
@@ -314,7 +645,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-10 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-16 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-pay1.jpg"><img loading="lazy" decoding="async" width="1024" height="644" data-id="38182" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-pay1.jpg" alt="" class="wp-image-38182" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-pay1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-pay1-300x189.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-pay1-768x483.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-pay1-600x377.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
@@ -332,7 +663,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-11 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-17 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-eb1.jpg"><img loading="lazy" decoding="async" width="1024" height="747" data-id="38180" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-eb1.jpg" alt="" class="wp-image-38180" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-eb1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-eb1-300x219.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-eb1-768x560.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-eb1-600x438.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Eboulis au pied de la falaise né d&rsquo;une écroulement d&rsquo;un pan de falaise</figcaption></figure>
 
 
@@ -346,7 +677,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-12 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-18 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-1.jpg"><img loading="lazy" decoding="async" width="1024" height="700" data-id="38178" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-1.jpg" alt="" class="wp-image-38178" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-1-300x205.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-1-768x525.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig6-1-600x410.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Au centre, la roche rouge correspond à un décrochement « récent » non colonisé par les lichens ; tout autour, la roche disparaît sous le manteau de lichens </figcaption></figure>
 
 
@@ -368,7 +699,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-13 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-19 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl1.jpg"><img loading="lazy" decoding="async" width="1024" height="714" data-id="38189" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl1.jpg" alt="" class="wp-image-38189" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl1-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl1-768x536.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl1-600x418.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Deux blocs rocheux accessibles et parés de lichens </figcaption></figure>
 
 
@@ -378,7 +709,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-14 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-20 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl3.jpg"><img loading="lazy" decoding="async" width="1024" height="805" data-id="38191" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl3.jpg" alt="" class="wp-image-38191" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl3-300x236.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl3-768x604.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-bl3-600x472.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Gros plan sur les blocs rocheux : ici au moins cinq espèces différentes sur une main de large ! </figcaption></figure>
 
 
@@ -392,7 +723,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-15 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-21 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-4.jpg"><img loading="lazy" decoding="async" width="1024" height="664" data-id="38188" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-4.jpg" alt="" class="wp-image-38188" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-4.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-4-300x195.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-4-768x498.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-4-600x389.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Dalle de migmatite peuplée de lichens </figcaption></figure>
 
 
@@ -406,7 +737,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-16 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-22 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-3.jpg"><img loading="lazy" decoding="async" width="1024" height="639" data-id="38187" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-3.jpg" alt="" class="wp-image-38187" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-3-300x187.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-3-768x479.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig7-3-600x374.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Diversité des textures ; en haut de l&rsquo;image, le lichen jaune est présenté ci-dessous</figcaption></figure>
 
 
@@ -428,7 +759,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-17 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-23 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig8-2.jpg"><img loading="lazy" decoding="async" width="1024" height="685" data-id="38194" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig8-2.jpg" alt="" class="wp-image-38194" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig8-2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig8-2-300x201.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig8-2-768x514.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/mig8-2-600x401.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
@@ -551,7 +882,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-18 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-24 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi1-2.jpg"><img loading="lazy" decoding="async" width="960" height="540" data-id="38134" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi1-2.jpg" alt="" class="wp-image-38134" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi1-2.jpg 960w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi1-2-300x169.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi1-2-768x432.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi1-2-600x338.jpg 600w" sizes="(max-width: 960px) 100vw, 960px" /></a><figcaption class="wp-element-caption">Cygnes chanteurs hivernants dans le Nord de l&rsquo;Europe (Ken Billington ; C.C. 3.0)</figcaption></figure>
 
 
@@ -597,7 +928,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-19 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-25 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-ord1.jpg"><img loading="lazy" decoding="async" width="1024" height="651" data-id="38137" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-ord1.jpg" alt="" class="wp-image-38137" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-ord1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-ord1-300x191.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-ord1-768x488.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-ord1-600x381.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Deux passereaux « ultra » ordinaires mais très appréciés : le moineau domestique, « le pierrot » </figcaption></figure>
 
 
@@ -615,7 +946,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-20 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-26 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-3.jpg"><img loading="lazy" decoding="async" width="1024" height="656" data-id="38135" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-3.jpg" alt="" class="wp-image-38135" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-3-300x192.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-3-768x492.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi2-3-600x384.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Les plans d&rsquo;eau des parcs urbains attirent souvent de nombreux oiseaux d&rsquo;eau faciles à observer</figcaption></figure>
 
 
@@ -641,7 +972,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-21 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-27 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi3-1.jpg"><img loading="lazy" decoding="async" width="1024" height="748" data-id="38139" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi3-1.jpg" alt="" class="wp-image-38139" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi3-1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi3-1-300x219.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi3-1-768x561.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi3-1-600x438.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Des rencontres « fortes » : nez à nez avec un renard </figcaption></figure>
 
 
@@ -671,7 +1002,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-22 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-28 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi4-2.jpg"><img loading="lazy" decoding="async" width="1024" height="656" data-id="38142" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi4-2.jpg" alt="" class="wp-image-38142" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi4-2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi4-2-300x192.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi4-2-768x492.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi4-2-600x384.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">La vipère aspic, ça se mérite : il faut savoir où chercher comme ici sur une murette de pierre sèche &#8230;</figcaption></figure>
 
 
@@ -705,7 +1036,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-23 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-29 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi5-2.jpg"><img loading="lazy" decoding="async" width="1024" height="678" data-id="38144" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi5-2.jpg" alt="" class="wp-image-38144" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi5-2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi5-2-300x199.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi5-2-768x509.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi5-2-600x397.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Vanneau huppé en parade (Charles J. Sharp ; C. C. 4.0)</figcaption></figure>
 
 
@@ -727,7 +1058,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-24 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-30 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi6-1.jpg"><img loading="lazy" decoding="async" width="1024" height="677" data-id="38145" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi6-1.jpg" alt="" class="wp-image-38145" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi6-1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi6-1-300x198.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi6-1-768x508.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ordi6-1-600x397.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Vol de grues en novembre lors du passage d&rsquo;automne </figcaption></figure>
 
 
@@ -829,7 +1160,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-25 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-31 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa1-plan.jpg"><img loading="lazy" decoding="async" width="1001" height="768" data-id="38097" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa1-plan.jpg" alt="" class="wp-image-38097" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa1-plan.jpg 1001w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa1-plan-300x230.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa1-plan-768x589.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa1-plan-600x460.jpg 600w" sizes="(max-width: 1001px) 100vw, 1001px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">1a</mark></strong></figcaption></figure>
 
 
@@ -898,7 +1229,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-26 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-32 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-3.jpg"><img loading="lazy" decoding="async" width="1024" height="785" data-id="38100" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-3.jpg" alt="" class="wp-image-38100" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-3-300x230.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-3-768x589.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa2-3-600x460.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">2b</mark></strong></figcaption></figure>
 
 
@@ -916,7 +1247,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-27 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-33 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-4.jpg"><img loading="lazy" decoding="async" width="1024" height="601" data-id="38104" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-4.jpg" alt="" class="wp-image-38104" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-4.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-4-300x176.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-4-768x451.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-4-600x352.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3a</mark></strong></figcaption></figure>
 
 
@@ -930,7 +1261,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-28 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-34 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-3.jpg"><img loading="lazy" decoding="async" width="1024" height="668" data-id="38103" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-3.jpg" alt="" class="wp-image-38103" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-3-300x196.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-3-768x501.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa3-3-600x391.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3c</mark></strong></figcaption></figure>
 
 
@@ -960,7 +1291,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-29 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-35 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-sol2.jpg"><img loading="lazy" decoding="async" width="1024" height="642" data-id="38113" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-sol2.jpg" alt="" class="wp-image-38113" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-sol2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-sol2-300x188.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-sol2-768x482.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-sol2-600x376.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">4a</mark></strong></figcaption></figure>
 
 
@@ -974,7 +1305,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-30 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-36 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv0.jpg"><img loading="lazy" decoding="async" width="1024" height="551" data-id="38107" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv0.jpg" alt="" class="wp-image-38107" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv0.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv0-300x161.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv0-768x413.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv0-600x323.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">4c</mark></strong></figcaption></figure>
 
 
@@ -992,7 +1323,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-31 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-37 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv5.jpg"><img loading="lazy" decoding="async" width="1024" height="556" data-id="38111" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv5.jpg" alt="" class="wp-image-38111" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv5.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv5-300x163.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv5-768x417.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa4-riv5-600x326.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">4f</mark></strong></figcaption></figure>
 
 
@@ -1018,7 +1349,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-32 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-38 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa5-1.jpg"><img loading="lazy" decoding="async" width="1024" height="637" data-id="38114" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa5-1.jpg" alt="" class="wp-image-38114" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa5-1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa5-1-300x187.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa5-1-768x478.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa5-1-600x373.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">4a</mark></strong></figcaption></figure>
 
 
@@ -1048,7 +1379,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-33 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-39 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa6-2.jpg"><img loading="lazy" decoding="async" width="1024" height="668" data-id="38118" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa6-2.jpg" alt="" class="wp-image-38118" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa6-2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa6-2-300x196.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa6-2-768x501.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa6-2-600x391.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
@@ -1074,7 +1405,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-34 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-40 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa7-h1.jpg"><img loading="lazy" decoding="async" width="1024" height="715" data-id="38119" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa7-h1.jpg" alt="" class="wp-image-38119" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa7-h1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa7-h1-300x209.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa7-h1-768x536.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/desa7-h1-600x419.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">7a</mark></strong></figcaption></figure>
 
 
@@ -1195,7 +1526,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-35 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-41 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m7.jpg"><img loading="lazy" decoding="async" width="1024" height="678" data-id="38089" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m7.jpg" alt="" class="wp-image-38089" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m7.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m7-300x199.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m7-768x509.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m7-600x397.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Blaireau : un bon capital de sympathie a priori </figcaption></figure>
 
 
@@ -1209,7 +1540,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-36 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-42 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m1.jpg"><img loading="lazy" decoding="async" width="1024" height="732" data-id="38083" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m1.jpg" alt="" class="wp-image-38083" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m1-300x214.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m1-768x549.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m1-600x429.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Jeune hérisson : difficile de trouver plus « consensuel »mignon » ! </figcaption></figure>
 
 
@@ -1251,7 +1582,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-37 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-43 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m4.jpg"><img loading="lazy" decoding="async" width="1024" height="832" data-id="38086" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m4.jpg" alt="" class="wp-image-38086" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/m4.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m4-300x244.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m4-768x624.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/m4-600x488.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Chouette hulotte : un « grand » oiseau mystérieux </figcaption></figure>
 
 
@@ -1309,7 +1640,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-38 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-44 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i2.jpg"><img loading="lazy" decoding="async" width="1024" height="727" data-id="38075" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i2.jpg" alt="" class="wp-image-38075" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i2-300x213.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i2-768x545.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i2-600x426.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Limace (léopard) : irréconciliable avec les jardiniers </figcaption></figure>
 
 
@@ -1327,7 +1658,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-39 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-45 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i5.jpg"><img loading="lazy" decoding="async" width="1024" height="761" data-id="38078" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i5.jpg" alt="" class="wp-image-38078" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i5.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i5-300x223.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i5-768x571.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i5-600x446.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Frelon européen : le plus craint ?</figcaption></figure>
 
 
@@ -1349,7 +1680,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-40 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-46 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i7.jpg"><img loading="lazy" decoding="async" width="1024" height="724" data-id="38080" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i7.jpg" alt="" class="wp-image-38080" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/i7.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i7-300x212.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i7-768x543.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/i7-600x424.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Deux coléoptères diamétralement opposés : le Géotrupe « gluant, sale, qui fait peur »</figcaption></figure>
 
 
@@ -1387,7 +1718,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-41 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-47 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ip1.jpg"><img loading="lazy" decoding="async" width="1024" height="783" data-id="38081" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ip1.jpg" alt="" class="wp-image-38081" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ip1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ip1-300x229.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ip1-768x587.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ip1-600x459.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Les papillons : beaux, colorés, associés à l&rsquo;enfance, &#8230; Vanesse petite tortue</figcaption></figure>
 
 
@@ -1421,7 +1752,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-42 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-48 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a6.jpg"><img loading="lazy" decoding="async" width="1024" height="866" data-id="38062" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a6.jpg" alt="" class="wp-image-38062" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a6.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a6-300x254.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a6-768x650.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a6-600x507.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Le chêne (pédonculé) : l&rsquo;arbre roi ! </figcaption></figure>
 
 
@@ -1474,7 +1805,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-43 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-49 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a3.jpg"><img loading="lazy" decoding="async" width="1024" height="719" data-id="38059" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a3.jpg" alt="" class="wp-image-38059" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a3-300x211.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a3-768x539.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a3-600x421.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Cônes de conifères : un fort potentiel décoratif ; Pin sylvestre</figcaption></figure>
 
 
@@ -1488,7 +1819,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-44 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-50 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a7.jpg"><img loading="lazy" decoding="async" width="1024" height="699" data-id="38063" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a7.jpg" alt="" class="wp-image-38063" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/a7.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a7-300x205.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a7-768x524.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/a7-600x410.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Marronnier d&rsquo;Inde : adoré pour ses fruits associés à l&rsquo;enfance &#8230;</figcaption></figure>
 
 
@@ -1510,7 +1841,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-45 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-51 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl1.jpg"><img loading="lazy" decoding="async" width="1024" height="755" data-id="38070" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl1.jpg" alt="" class="wp-image-38070" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl1-300x221.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl1-768x566.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl1-600x442.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Tapis fleuris printaniers : une image forte des milieux boisés. Jacinthe des bois </figcaption></figure>
 
 
@@ -1528,7 +1859,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-46 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-52 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl3.jpg"><img loading="lazy" decoding="async" width="1024" height="822" data-id="38072" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl3.jpg" alt="" class="wp-image-38072" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl3.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl3-300x241.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl3-768x617.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/fl3-600x482.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Fougère-aigle : toute verte et pas de fleurs ! </figcaption></figure>
 
 
@@ -1554,7 +1885,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-47 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-53 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ch2.jpg"><img loading="lazy" decoding="async" width="1024" height="693" data-id="38069" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ch2.jpg" alt="" class="wp-image-38069" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/ch2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ch2-300x203.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ch2-768x520.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/ch2-600x406.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Amanite tue-mouches : très appréciée esthétiquement et pourtant très toc$xique ! </figcaption></figure>
 
 
@@ -1645,297 +1976,6 @@
 		
 		
 			</item>
-		<item>
-		<title>13/07 Et coule la Morge (ENS Val de Morge)</title>
-		<link>https://www.zoom-nature.fr/13-07-et-coule-la-morge-ens-val-de-morge/</link>
-		
-		<dc:creator><![CDATA[Gérard GUILLOT]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 15:02:42 +0000</pubDate>
-				<category><![CDATA[Circuit Val de Morge]]></category>
-		<guid isPermaLink="false">https://www.zoom-nature.fr/?p=38023</guid>
-
-					<description><![CDATA[<p>Chroniques de la nature très ordinaire Cette chronique très particulière s’inscrit dans une série qui [&#8230;]</p>
-<p>The post <a href="https://www.zoom-nature.fr/13-07-et-coule-la-morge-ens-val-de-morge/">13/07 Et coule la Morge (ENS Val de Morge)</a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></description>
-										<content:encoded><![CDATA[<h2 class="wp-block-heading"><em>Chroniques de la nature très ordinaire</em></h2>
-
-
-
-<p><em>Cette chronique très particulière s’inscrit dans une série qui se met en place : une sorte de « journal-photo-nature » à propos de balades répétées le long du même circuit ENS Val de Morge, sur les communes de St Myon et Artonne (63). Ce circuit va servir de support pour des animations « nature et culture » sur le patrimoine naturel des deux communes. J’ai donc entrepris de le parcourir le plus souvent possible (en totalité ou par tronçons), sur une année et de relater ces « balades-découvertes » avec l’œil (et les autres sens !) d’un naturaliste : mes observations, découvertes, interrogations, émotions, émerveillements, étonnements, inquiétudes, … narrées au fil de la balade. Ainsi, vous pouvez « entrer » dans la logique (spéciale !) du naturaliste (de longue date), de sa manière d’appréhender le Vivant autour de lui et apprendre à le devenir si vous ne l’êtes pas déjà. La nature et les observations relatées relèvent globalement du « très ordinaire » ; les photos servent « d’illustrations-bloc-notes » et ont toutes été prises le jour de la balade relatée.</em></p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-medium"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-plan.jpg"><img loading="lazy" decoding="async" width="300" height="116" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-plan-300x116.jpg" alt="" class="wp-image-38027" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-plan-300x116.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-plan-1024x394.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-plan-768x296.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-plan-600x231.jpg 600w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-plan-1320x508.jpg 1320w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-plan.jpg 1516w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
-
-
-<p>13/07/2026 Nous sommes au pic de la troisième vague de canicule/sécheresse sévère. Avec une telle chaleur, je limite les sorties tôt le matin sur de courts tronçons à l’ombre. Le circuit ENS Val de Morge entre le Pont de St Myon et Bougerol est idéal à cet effet&nbsp;: il permet de longer la Morge rive gauche, à contre-courant, sur 800m (aller), sous le couvert d’une belle forêt riveraine. Soit on longe directement la Morge (partie amont), soit on chemine sur un sentier en parallèle depuis lequel on accède très facilement à la rivière à plusieurs reprises via des passages informels et sentiers de pêcheurs.&nbsp;</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-48 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-1.jpg"><img loading="lazy" decoding="async" width="1024" height="640" data-id="38025" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-1.jpg" alt="" class="wp-image-38025" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-1-300x188.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-1-768x480.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-1-600x375.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-2.jpg"><img loading="lazy" decoding="async" width="1024" height="641" data-id="38026" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-2.jpg" alt="" class="wp-image-38026" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-2-300x188.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-2-768x481.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm0-2-600x376.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
-</figure>
-
-
-
-<p>Je décide de me concentrer sur la seule rivière et ses berges&nbsp;; je reviendrai bientôt faire le même aller-retour en me centrant sur la forêt riveraine, la forêt alluviale des naturalistes. Choisir ainsi un «&nbsp;sujet d’approche&nbsp;» permet d’avoir le regard et les autres sens bien plus affûtés et pertinents&nbsp;!&nbsp; Nous allons ensemble apprendre à «&nbsp;lire la rivière&nbsp;» en tant que milieu de vie en évolution permanente et ses interactions avec les berges et les bords.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">1-Rivière en trompe l’œil&nbsp;</h2>
-
-
-
-<p>Il suffit de descendre par un escalier «&nbsp;rustique&nbsp;», de franchir un ancien bief (voir La forêt alluviale 14/07), et voici la Morge. Belle sensation de fraîcheur bienvenue. Et elle coule bien&nbsp;: le doux bruit du flot rafraîchit le cœur&nbsp;! Mais, au fait&nbsp;: comment se fait-il que cette rivière ait encore «&nbsp;tant d’eau&nbsp;» alors que partout dans la presse locale on nous parle de ruisseaux et rivières asséchés ou en cours d’assèchement&nbsp;?&nbsp;</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-49 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-1.jpg"><img loading="lazy" decoding="async" width="1024" height="508" data-id="38028" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-1.jpg" alt="" class="wp-image-38028" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-1.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-1-300x149.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-1-768x381.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-1-600x298.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-2.jpg"><img loading="lazy" decoding="async" width="1024" height="516" data-id="38029" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-2.jpg" alt="" class="wp-image-38029" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-2.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-2-300x151.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-2-768x387.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm1-2-600x302.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
-</figure>
-
-
-
-<p>En fait, il s’agit d’une situation entièrement artificielle. Le cours de la Morge en plaine est soutenu et maintenu à ce niveau via un barrage en amont sur un ruisseau affluent, la Sep, une «&nbsp;mégabassine&nbsp;» avant l’heure (1994) de 33 hectares avec une réserve d’eau de 4,7 millions de m3, entièrement dédiée à l’irrigation intensive en plaine de Limagne. Les irrigants pompent directement dans la rivière pour arroser les champs de maïs dont les surfaces ont explosé cette année&nbsp;; les tourniquets tournent à plein régime, du matin au soir en plein soleil.&nbsp;</p>
-
-
-
-<p>Grâce aux pluies abondantes de l’automne-hiver dernier, le barrage était bien rempli. Pour l’instant, en lâchant les vannes, on réussit donc à maintenir la rivière à un niveau constant compatible avec le pompage. Mais combien de temps cela va-t-il durer&nbsp;? Si la sécheresse/canicule se prolonge durablement, avant la fin de l’été, le barrage sera «&nbsp;vide&nbsp;» et la Morge retrouvera son «&nbsp;vrai&nbsp;» niveau, c’est-à-dire très bas&nbsp;!&nbsp;</p>
-
-
-
-<p>On pourrait se réjouir de la voir ainsi «&nbsp;à niveau&nbsp;» quand tout est grillé autour. Mais, c’est un leurre&nbsp;: toute cette eau artificiellement stockée a été prise à la rivière qui n’a pas rechargé sa nappe latérale et l’essentiel de ce qui s’écoule est intercepté rapidement par le pompage. Contrairement à une idée fausse savamment entretenue, l’eau qui s’écoule «&nbsp;ne part pas toute à la mer&nbsp;»&nbsp;: une partie recharge la nappe «&nbsp;sous et à côté&nbsp;» de la rivière ou est prélevée par la végétation riveraine.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">2-Rivière castor&nbsp;</h2>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-50 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-a.jpg"><img loading="lazy" decoding="async" width="1024" height="471" data-id="38030" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-a.jpg" alt="" class="wp-image-38030" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-a.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-a-300x138.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-a-768x353.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-a-600x276.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color"><strong>1a</strong></mark></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-b.jpg"><img loading="lazy" decoding="async" width="1024" height="707" data-id="38031" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-b.jpg" alt="" class="wp-image-38031" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-b.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-b-300x207.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-b-768x530.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-b-600x414.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color"><strong>1b</strong></mark></figcaption></figure>
-</figure>
-
-
-
-<p>Quand on atteint la Morge depuis la route, on tombe en arrêt devant un spectacle saisissant&nbsp;: un «&nbsp;gigantesque&nbsp;» peuplier (grisard&nbsp;?) est tombé en travers de la rivière en se cassant au pied, situé à dix mètres de la berge (1a,b). Une partie des grosses branches de sa canopée, s’est plantée dans le lit&nbsp;: devant elles, les hautes eaux de l’automne hiver ont accumulé du bois mort charrié par la rivière. Ainsi, s’est créé un premier «&nbsp;barrage&nbsp;» grossier (1c) devant lequel est venu se déposer des débris plus petits&nbsp;: branchettes et feuillages secs (1d, e). Ce colmatage massif a transformé ainsi cet arbre couché en un «&nbsp;barrage&nbsp;» qui fait irrésistiblement penser par sa structure aux ouvrages des castors. Oui, ouvrage plutôt que barrage&nbsp;: car, contrairement aux barrages faits par les Humains, celui-ci et ceux des castors ne sont pas étanches et une partie du flux d’eau passe à travers ou dessous. La rivière n’est pas «&nbsp;arrêtée&nbsp;»&nbsp;: le courant principal se déporte sur le côté, à la faveur d’une trouée.&nbsp;</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-51 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-c.jpg"><img loading="lazy" decoding="async" width="1024" height="590" data-id="38032" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-c.jpg" alt="" class="wp-image-38032" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-c.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-c-300x173.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-c-768x443.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-c-600x346.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">1c</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-d.jpg"><img loading="lazy" decoding="async" width="1024" height="647" data-id="38033" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-d.jpg" alt="" class="wp-image-38033" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-d.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-d-300x190.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-d-768x485.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-d-600x379.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">1d</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-e.jpg"><img loading="lazy" decoding="async" width="1024" height="659" data-id="38034" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-e.jpg" alt="" class="wp-image-38034" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-e.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-e-300x193.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-e-768x494.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm2-e-600x386.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">1e</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>J’entends d’ici les incontournables rengaines automatisées&nbsp;: «&nbsp;mais c’est sale&nbsp;; c’est dangereux&nbsp;; il faut vite intervenir et déblayer ça&nbsp;». Non, trois fois non&nbsp;: nous avons là devant nos yeux un superbe ouvrage réalisé par la rivière elle-même en collaboration avec la forêt en bordure (la forêt alluviale et ses peupliers entre autres). Non, cet ouvrage n’entrave pas la rivière ni ne «&nbsp;détruit l’environnement&nbsp;»&nbsp;: ralentissement ponctuel qui permet la recharge de la nappe latérale&nbsp;; dépôt de sédiments devant et derrière l’ouvrage qui rechargent le lit trop incisé sur place&nbsp;; au contraire, il introduit une perturbation synonyme de diversité&nbsp;et d’un meilleur fonctionnement de l’écosystème rivière : création de micro-milieux comme des parties calmes en aval où les poissons peuvent se reposer, chasser&nbsp;; création de turbulences ailleurs qui réoxygènent l’eau&nbsp;; apport de matériaux (bois mort, feuilles, …) qui «&nbsp;nourrissent&nbsp;» les «&nbsp;petites bêtes de la rivière&nbsp;», celles qui alimentent les réseaux alimentaires vers les poissons, le martin-pêcheur ou la loutre&nbsp;! Ces ouvrages témoignent d’une rivière libre et diversifiée&nbsp;: pas un chenal uniforme, surcreusé. Alors prenez le temps de détailler cet ouvrage unique&nbsp;: celui de la rivière-castor&nbsp;!&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">3-Précieux bois mort</h2>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-52 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-a.jpg"><img loading="lazy" decoding="async" width="1024" height="815" data-id="38035" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-a.jpg" alt="" class="wp-image-38035" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-a.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-a-300x239.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-a-768x611.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-a-600x478.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3a</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-b.jpg"><img loading="lazy" decoding="async" width="1024" height="733" data-id="38036" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-b.jpg" alt="" class="wp-image-38036" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-b.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-b-300x215.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-b-768x550.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-b-600x429.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3b</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>Avec ce nouveau regard éclairé, poursuivons la remontée le long de la rivière. Tout en cheminant, observez le lit de la rivière : facile à distinguer car la lame d’eau n’est pas très haute. Que voyez-vous&nbsp;(3a,b) : du sable, des cailloux, des gros blocs çà et là, de la vase fine, quelques inévitables déchets humains plastiques, des débris végétaux (feuilles, fruits de tilleul tombés, bois mort). Bien, ne trouvez-vous pas qu’il manque quelque chose de très important&nbsp;qu’on trouve normalement dans tous les autres milieux de vie environnants&nbsp;? Cherchez bien&nbsp;? … Il n’y aucune végétation «&nbsp;verte&nbsp;» dans l’eau&nbsp;: pas d’herbiers, pas de touffes de plantes vertes, … C’est classique et habituel dans ce type de rivière ombragée et en tête de bassin. Or, vous savez sans doute que les végétaux verts, les producteurs primaires grâce à la photosynthèse, sont à la abse des chaînes alimentaires. Autrement dit, la rivière est un milieu «&nbsp;sans base alimentaire&nbsp;»&nbsp;: elle dépend entièrement des apports latéraux depuis les berges et les milieux qui la longent au plus près et aussi de ses affluents.&nbsp;</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-53 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-c.jpg"><img loading="lazy" decoding="async" width="1024" height="705" data-id="38037" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-c.jpg" alt="" class="wp-image-38037" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-c.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-c-300x207.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-c-768x529.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-c-600x413.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3c</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-d.jpg"><img loading="lazy" decoding="async" width="1024" height="634" data-id="38038" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-d.jpg" alt="" class="wp-image-38038" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-d.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-d-300x186.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-d-768x476.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-d-600x371.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3d</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-e.jpg"><img loading="lazy" decoding="async" width="1024" height="681" data-id="38039" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-e.jpg" alt="" class="wp-image-38039" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-e.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-e-300x200.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-e-768x511.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-e-600x399.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3e</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>Et parmi ses apports extérieurs, il y a une composante majeure, en volume et en qualité nutritive&nbsp;: le bois mort&nbsp;! Les branches, brindilles, morceaux de troncs, arbres entiers, … tombés depuis les berges (3c , d, e, f, g). Leur décomposition va prendre beaucoup de temps et nourrit des hordes de «&nbsp;petites bêtes&nbsp;» et de microorganismes qui vont servir de proies pour les prédateurs et ainsi alimenter les réseaux trophiques&nbsp;! Pour vous en convaincre, il vous suffit de soulever un morceau de bois mort immergé dans l’eau près de la rive&nbsp;: presque à coup sûr, vous y verrez des dizaines de petites crevettes d’eau douce (gammares), de minuscules escargots aquatiques, des larves d’insectes fuyantes, … La biodiversité animale de la rivière est là, concentrée sur ces «&nbsp;épaves&nbsp;», inestimables sources de vie&nbsp;!&nbsp;</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-54 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-f.jpg"><img loading="lazy" decoding="async" width="1024" height="639" data-id="38040" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-f.jpg" alt="" class="wp-image-38040" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-f.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-f-300x187.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-f-768x479.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-f-600x374.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3f</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-g.jpg"><img loading="lazy" decoding="async" width="1024" height="691" data-id="38041" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-g.jpg" alt="" class="wp-image-38041" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-g.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-g-300x202.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-g-768x518.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm3-g-600x405.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">3g</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>Donc, au fur et à mesure de votre avancée, émerveillez-vous de voir autant de «&nbsp;nourriture&nbsp;» ainsi apportée à la rivière&nbsp;: elle a toujours faim&nbsp;!&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">4-Nouvel ouvrage&nbsp;</h2>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-55 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-a.jpg"><img loading="lazy" decoding="async" width="1024" height="506" data-id="38042" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-a.jpg" alt="" class="wp-image-38042" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-a.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-a-300x148.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-a-768x380.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-a-600x296.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">4a</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-b.jpg"><img loading="lazy" decoding="async" width="1024" height="590" data-id="38043" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-b.jpg" alt="" class="wp-image-38043" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-b.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-b-300x173.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-b-768x443.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-b-600x346.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">4b</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>A mi-parcours, sur la berge en face (rive droite), un autre ouvrage-rivière plus discret apparaît (4a). Discret certes, mais avec des effets remarquables si on prend le temps d’observer. Des troncs morts tombés ou transportés et déposés par la rivière en période de crue a été déposé&nbsp;: ils se sont accumulés en un ouvrage informe orienté cette fois parallèlement à la berge et pas en travers comme le premier. Du coup, ils ne freinent pratiquement pas l’écoulement&nbsp;: juste un secteur calme étroit entre eux et la berge, très propice pour les poissons. A la tête amont de cet amas, une souche relevée a joué le rôle de barrière à l’écoulement&nbsp;(4b) : juste en aval, alignée avec le tronc, une petite île de sable/vase (4c)s’est formée à la faveur de la zone calme engendrée. Là, on voit que le bois mort, de manière très subtile, agit sur la sédimentation dans la rivière qui charrie en permanence des grains de sable, de fines particules de vase en suspension (charge sédimentaire). Ces petites îles finissent par émerger et deviennent des lieux de chasse pour les animaux de la rivière&nbsp;: les bergeronnettes des ruisseaux adorent&nbsp;! Des végétaux (ici, des orties) (4d) ne tardent pas à coloniser ces zones exondées humides, apportant de la végétation terrestre «&nbsp;dans&nbsp;» la rivière&nbsp;!&nbsp;</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-56 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-c.jpg"><img loading="lazy" decoding="async" width="1024" height="618" data-id="38044" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-c.jpg" alt="" class="wp-image-38044" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-c.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-c-300x181.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-c-768x464.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-c-600x362.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">4c</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-d.jpg"><img loading="lazy" decoding="async" width="1024" height="742" data-id="38045" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-d.jpg" alt="" class="wp-image-38045" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-d.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-d-300x217.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-d-768x557.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm4-d-600x435.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">4d</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>Ainsi, le lit se recharge lentement et se réhausse. Sans cet obstacle, le lit serait resté un chenal uniforme balayé par le courant sans intérêt pour la vie animale. Le bois mort introduit de l’hétérogénéité dans la rivière, soit autant de micro-milieux différents que peuvent coloniser autant d’espèces différentes adaptées à ces environnements. Le secret d’une rivière vivante riche en biodiversité&nbsp;!&nbsp;</p>
-
-
-
-<p>Au passage, on notera que la position en parallèle de la berge protège celle-ci de l’érosion directe par le courant. Une autre interaction indirecte subtile et non négligeable. Un argument de plus pour maintenir le bois mort tombé dans le lit de la rivière&nbsp;!&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">5-Étude de cas&nbsp;</h2>
-
-
-
-<p>En balade, il faut savoir de temps en temps s’arrêter devant un sujet singulier, pas habituel et en apprécier toutes les nuances. Un exemple à mi-parcours avec ce tronc d’arbre cassé en deux, mais entier, en travers de la rivière (5a). Banal direz-vous&nbsp;? Pas tant que ça&nbsp;! Il a beaucoup à nous raconter</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-57 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-a.jpg"><img loading="lazy" decoding="async" width="1024" height="538" data-id="38046" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-a.jpg" alt="" class="wp-image-38046" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-a.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-a-300x158.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-a-768x404.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-a-600x315.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">5a</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-b.jpg"><img loading="lazy" decoding="async" width="1024" height="798" data-id="38047" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-b.jpg" alt="" class="wp-image-38047" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-b.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-b-300x234.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-b-768x599.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-b-600x468.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">5b</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-c.jpg"><img loading="lazy" decoding="async" width="1024" height="852" data-id="38048" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-c.jpg" alt="" class="wp-image-38048" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-c.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-c-300x250.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-c-768x639.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm5-c-600x499.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">5c</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>Regardons bien. La moitié cassée ne va pas tarder à se décrocher&nbsp;; elle est sèche et sera peut-être emportée plus loin en allant par exemple se bloquer contre l’ouvrage-castor en aval. L’autre moitié est encore ancrée dans la berge. L’angle indique qu’il s’agissait d’un arbre «&nbsp;penché&nbsp;» au-dessus de la rivière, une situation classique. En s ‘approchant à son pied (5b), on voit des rejets vers la base&nbsp;: l’arbre est encore bien vivant et en train de repartir&nbsp;! Il porte du lierre&nbsp;; le feuillage des rejets verts (5c)permet de dire qu’il s’agit d’un saule&nbsp;: des arbres au bois très tendre et fragile mais avec une capacité de régénération remarquable, … comme ici. Notez aussi dans la partie supérieure les branches dressées verticalement sur le tronc penché&nbsp;: ce sont des réitérations, des rejets depuis des bourgeons dormants sous l’écorce, réveillés par l’incident (la cassure).&nbsp;</p>
-
-
-
-<p>Cet exemple me fait penser que j’ai oublié de préciser un détail remarquable à propos du peuplier géant du début&nbsp;: lui aussi est encore vivant&nbsp;! il s’est couché à sa abse mais a conservé une partie de ses racines ancrées dans le sol&nbsp;! Prenons conscience de la «&nbsp;puissance vitale&nbsp;» de ces scènes végétales immobiles.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">6-Racines&nbsp;</h2>
-
-
-
-<p>Cet exemple souligne l’importance évidente des racines pour les arbres riverains. En s ‘installant sur les berges, ils doivent être capables de résister au travail de sape, d’érosion, de la rivière qui a tendance à affouiller les berges, notamment en période de crue. Les arbres riverains doivent donc développer des systèmes racinaires puissants, ramifiés et capables de réagir en cas de déchaussement.&nbsp;</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-58 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-a.jpg"><img loading="lazy" decoding="async" width="1024" height="662" data-id="38049" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-a.jpg" alt="" class="wp-image-38049" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-a.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-a-300x194.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-a-768x497.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-a-600x388.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">6a</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-b.jpg"><img loading="lazy" decoding="async" width="1024" height="694" data-id="38050" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-b.jpg" alt="" class="wp-image-38050" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-b.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-b-300x203.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-b-768x521.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-b-600x407.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">6b</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-c.jpg"><img loading="lazy" decoding="async" width="1024" height="598" data-id="38051" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-c.jpg" alt="" class="wp-image-38051" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-c.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-c-300x175.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-c-768x449.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-c-600x350.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">6c</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>Le long de ce parcours, les arbres des berges dominants sont des aulnes (voir la forêt alluviale). Leur système racinaire très noir affleure tout le long des berges au ras de l’eau&nbsp;(6a, b) : ils ont en effet la capacité de résister à l’immersion permanente ce que nombre d’autres arbres ne supportent pas. Leurs racines se déploient telles des pattes griffues qui plongent dans l’eau.&nbsp;&nbsp;On pressent de suite qu’elles doivent jouer un rôle considérable dans la stabilité des berges qu’elles agrippent littéralement.&nbsp;</p>
-
-
-
-<p>D’autres grands arbres, des frênes et des érables planes, déploient un système racinaire plus superficiel et perché sur le haut de la berge (6c). Localement, le courant a affouillé la berge et dégagé leur structure. Elles forment un réseau horizontal avec des soudures entre racines (anastomoses) qui renforcent la cohérence.&nbsp;</p>
-
-
-
-<p>Outre l’effet anti-érosion, ces systèmes racinaires exposés deviennent aussi des milieux de vie sur lesquels s’installent des hépatiques&nbsp;(6d) et des mousses (6e) : ces plantes vertes fragiles ont besoin d’une forte humidité et trouvent là un support idéal pour s’installer au plus près de l’eau sans être submergées.</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-59 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-d.jpg"><img loading="lazy" decoding="async" width="1024" height="718" data-id="38052" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-d.jpg" alt="" class="wp-image-38052" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-d.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-d-300x210.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-d-768x539.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-d-600x421.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">6d</mark></strong></figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><a href="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-e.jpg"><img loading="lazy" decoding="async" width="1024" height="643" data-id="38053" src="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-e.jpg" alt="" class="wp-image-38053" srcset="https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-e.jpg 1024w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-e-300x188.jpg 300w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-e-768x482.jpg 768w, https://www.zoom-nature.fr/wp-content/uploads/2026/07/vdm6-e-600x377.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">6e</mark></strong></figcaption></figure>
-</figure>
-
-
-
-<p>La rivière aura été notre fil conducteur d’un bout à l’autre de la balade. Considérons la comme un supra-être vivant sans cesse en train de modeler et transformer son propre environnement en s’appuyant sur ses alliés indispensables, les arbres des berges et des bords immédiats. Un bel exemple de solidarité écologique ! Un sujet passionnant et inépuisable à découvrir au frais et au fil de l’eau ! </p>
-
-
-
-<p>Vous pouvez retrouver toutes mes chroniques sur le val de Morge <strong><a href="https://www.zoom-nature.fr/articles/saint-myon/" title="">ici.</a></strong> </p>
-
-
-
-<h2 class="wp-block-heading">Bibliographie&nbsp;</h2>
-
-
-
-<p>A lire ces deux chroniques sur le bois mort en rivière sur mon blog zoom-nature.fr</p>
-
-
-
-<p><strong><a href="https://www.zoom-nature.fr/le-bois-mort-en-riviere-une-vieille-histoire/" title="">Le bois mort en rivière : une vieille histoire</a></strong></p>
-
-
-
-<p><strong><a href="https://www.zoom-nature.fr/bois-mort-en-riviere-un-element-cle-pour-les-poissons/" title="">Bois mort en rivière : un élément clé pour les poissons</a></strong></p><p>The post <a href="https://www.zoom-nature.fr/13-07-et-coule-la-morge-ens-val-de-morge/">13/07 Et coule la Morge (ENS Val de Morge)</a> first appeared on <a href="https://www.zoom-nature.fr">Zoom Nature</a>.</p>]]></content:encoded>
-					
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -1945,5 +1985,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Mise en cache de page à l’aide de Disk: Enhanced (Page is feed) 
 Mibnifié utilisant Disk
 
-Served from: www.zoom-nature.fr @ 2026-07-27 16:47:05 by W3 Total Cache
+Served from: www.zoom-nature.fr @ 2026-07-29 11:44:17 by W3 Total Cache
 -->
