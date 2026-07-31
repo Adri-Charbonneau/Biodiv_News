@@ -100,9 +100,9 @@ jobs:
         #if: always()
         #run: ./reseau_cen.ps1
 
-      - name: SHF
-        if: always()
-        run:  ./shf.ps1
+      #- name: SHF
+        #if: always()
+        #run:  ./shf.ps1
 
       - name: Tour du Valat
         if: always()
