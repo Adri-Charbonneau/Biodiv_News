@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 16 Jul 2026 08:29:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Aug 2026 17:35:48 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.1</generator>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-31 juillet 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-31-juillet-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 01 Aug 2026 17:35:48 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8275</guid>
+
+					<description><![CDATA[Les prémices de la migration postnuptiale se font sentir au cours d’une quinzaine, par ailleurs assez calme. Du côté de l’Atlantique, à signaler un Fou brun et de nombreux Océanites de Wilson en mer, ainsi qu’un Chevalier à pattes jaunes, un Pluvier fauve et un Faucon sacre sur la côte. Au sud, des Faucons d’Éléonore sont vus ici et là et le Martinet cafre de l’Hérault a...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 juillet 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juillet-2026/</link>
 		
@@ -105,24 +122,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8048</guid>
 
 					<description><![CDATA[Les observations les plus remarquables de cette première quinzaine de juin, relativement calme, concernent un&#160;Goéland d’Audouin&#160;en Ille-et-Vilaine, une&#160;Pie-grièche à poitrine rose&#160;dans les Yvelines, une&#160;Aigrette des récifs&#160;en Charente-Maritime et un&#160;Bruant mélanocéphale&#160;en Lozère, tandis que l’Engoulevent à collier roux&#160;continue à chanter dans les Pyrénées-Orientales… &#62;&#62; Canards et hérons L’Oie à bec court&#160;trouvée le 30 mai à Guissény...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OrnithoScience : pourquoi le Courlis cendré est-il en déclin ?</title>
-		<link>https://marcduquet.com/ornithoscience-pourquoi-le-courlis-cendre-est-il-en-declin/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 12 Jun 2026 16:21:50 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Limicoles]]></category>
-		<category><![CDATA[Numenius arquata]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8030</guid>
-
-					<description><![CDATA[Depuis une trentaine d’années, le Courlis cendré a connu un déclin démographique marqué dans de nombreuses régions de son aire de répartition et l’espèce a été inscrite en catégorie «quasi menacée (NT)» au niveau mondial par l’UICN (BirdLife International 2017).&#160;En France, la population qui comptait quelque 2000&#160;couples en 1996 (Dubois&#160;et al.&#160;2008) est tombée à un...]]></description>
 		
 		
 		
