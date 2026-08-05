@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 01 Aug 2026 17:35:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Aug 2026 08:29:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Identifier le Faucon crécerellette</title>
+		<link>https://marcduquet.com/identifier-le-faucon-crecerellette/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 08:29:28 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Falco tinnunculus]]></category>
+		<category><![CDATA[Falnau]]></category>
+		<category><![CDATA[Mue]]></category>
+		<category><![CDATA[Plumage]]></category>
+		<category><![CDATA[Rapaces diurnes]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8226</guid>
+
+					<description><![CDATA[Le Faucon crécerellette&#160;Falco naumanni&#160;niche dans tout le Paléarctique, de la péninsule Ibérique au nord de la Chine, et hiverne du Sahel à l’Afrique australe. En Europe, il se reproduit principalement au Portugal et en Espagne, dans le sud de la France (Languedoc-Roussillon et plaine de la Crau), en Sardaigne, en Sicile et dans le sud...]]></description>
+		
+		
+		<enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/1-XC388648-Faucon-crecerellette.mp3" length="271255" type="audio/mpeg" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/2-XC994311-Faucon-crecerellette.wav" length="2930732" type="audio/wav" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/3-XC1049540-Faucon-crecerelle.wav" length="2192332" type="audio/wav" />
+<enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/4-Faucon-crecerelle-XC1076829.wav" length="6761404" type="audio/wav" />
+
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 juillet 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-juillet-2026/</link>
 		
@@ -105,23 +128,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8086</guid>
 
 					<description><![CDATA[Par Jacques&#160;Trotignon Voici les résultats des dénombrements des trois espèces de guifettes nicheuses en France en 2025. Il est peu de dire que la situation n&#8217;est pas brillante… et la vague de chaleur qui sévit en cette deuxième décade de juin ne présage rien de bon pour la reproduction 2026. En 2025, la Guifette moustac...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 juin 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juin-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 10:08:39 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8048</guid>
-
-					<description><![CDATA[Les observations les plus remarquables de cette première quinzaine de juin, relativement calme, concernent un&#160;Goéland d’Audouin&#160;en Ille-et-Vilaine, une&#160;Pie-grièche à poitrine rose&#160;dans les Yvelines, une&#160;Aigrette des récifs&#160;en Charente-Maritime et un&#160;Bruant mélanocéphale&#160;en Lozère, tandis que l’Engoulevent à collier roux&#160;continue à chanter dans les Pyrénées-Orientales… &#62;&#62; Canards et hérons L’Oie à bec court&#160;trouvée le 30 mai à Guissény...]]></description>
 		
 		
 		
