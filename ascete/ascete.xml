@@ -12,13 +12,13 @@
 	<atom:link href="https://ascete.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ascete.org</link>
 	<description>Une association pour les orthoptéristes et les entomocénoticiens</description>
-	<lastBuildDate>Wed, 17 Jun 2026 19:18:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Aug 2026 19:00:17 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0</generator>
+	<generator>https://wordpress.org/?v=7.0.3</generator>
 
 <image>
 	<url>https://ascete.org/wp-content/uploads/2021/04/cropped-apple-touch-icon-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Assemblée Générale Ordinaire 2026 de l&#8217;ASCETE (11-13 septembre 2026)</title>
+		<link>https://ascete.org/assemblee-generale-ordinaire-2026-de-lascete-11-13-septembre-2026/</link>
+		
+		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2026 19:00:17 +0000</pubDate>
+				<category><![CDATA[Actualités]]></category>
+		<guid isPermaLink="false">https://ascete.org/?p=3895</guid>
+
+					<description><![CDATA[Chères adhérentes, chers adhérents, L&#8217;Assemblée Générale Ordinaire de l&#8217;ASCETE se tiendra du vendredi 11 au dimanche 13 septembre 2026. Cette année, nous allons à la rencontre des membres de Locusta, l&#8217;association des orthoptéristes d&#8217;Aquitaine, pour découvrir le Pays Basque et on l&#8217;espère de l&#8217;herbe verte et des températures inférieures à 35 degrés. Nous nous situerons entre [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rencontres sur l&#8217;acoustique des Orthoptères en Espagne (20-23 juillet 2026)</title>
 		<link>https://ascete.org/rencontres-sur-lacoustique-des-orthopteres-en-espagne-20-23-juillet-2026/</link>
 		
@@ -149,20 +163,6 @@
 		<guid isPermaLink="false">https://ascete.org/?p=3617</guid>
 
 					<description><![CDATA[Les heureux et heureuses propriétaires de la dernière édition du guide d&#8217;identification des Orthoptères (éditions Biotope) l&#8217;avaient déjà remarqué : une nouvelle espèce d&#8217;Ephippigère a été récemment découverte dans le sud de la Corse. Elle est à présent décrite et a un nom : l&#8217;Ephippigère de Bonifacio Uromenus melissae (Sardet, 2025). L&#8217;article, paru dans le [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Liste Rouge des Orthoptères des Pays de la Loire : parution du rapport synthétique</title>
-		<link>https://ascete.org/liste-rouge-des-orthopteres-des-pays-de-la-loire-parution-du-rapport-synthetique/</link>
-		
-		<dc:creator><![CDATA[Louis Ton]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 21:26:03 +0000</pubDate>
-				<category><![CDATA[Actualités]]></category>
-		<guid isPermaLink="false">https://ascete.org/?p=3595</guid>
-
-					<description><![CDATA[Après la publication du rapport technique complet en 2023, le GRETIA (Groupe d&#8217;Etude des Invertébrés Armoricains) vient de publier un rapport synthétique. Il contient notamment la liste d&#8217;espèces évaluées, des focus sur certaines espèces et dresse un état des lieux de l&#8217;état de conservation de l&#8217;orthoptérofaune de cette vaste région. Bonne lecture et bravo pour [&#8230;]]]></description>
 		
 		
 		
