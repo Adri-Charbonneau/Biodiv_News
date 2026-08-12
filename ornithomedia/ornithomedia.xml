@@ -12,12 +12,32 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 11 Aug 2026 11:40:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Aug 2026 19:23:42 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+		<item>
+		<title>Quelques exemples d&#8217;effets imprévisibles des éclipses solaires sur les oiseaux en migration</title>
+		<link>https://www.ornithomedia.com/breves/quelques-exemples-deffets-imprevisibles-des-eclipses-solaires-sur-les-oiseaux-en-migration/</link>
+					<comments>https://www.ornithomedia.com/breves/quelques-exemples-deffets-imprevisibles-des-eclipses-solaires-sur-les-oiseaux-en-migration/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 06:30:00 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=280269</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/quelques-exemples-deffets-imprevisibles-des-eclipses-solaires-sur-les-oiseaux-en-migration/">Quelques exemples d&rsquo;effets imprévisibles des éclipses solaires sur les oiseaux en migration</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/quelques-exemples-deffets-imprevisibles-des-eclipses-solaires-sur-les-oiseaux-en-migration/">Quelques exemples d&rsquo;effets imprévisibles des éclipses solaires sur les oiseaux en migration</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/quelques-exemples-deffets-imprevisibles-des-eclipses-solaires-sur-les-oiseaux-en-migration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>La population nicheuse de Faucons d’Éléonore en Grèce aurait dépassé 13 000 couples selon le dernier recensement national</title>
 		<link>https://www.ornithomedia.com/breves/la-population-de-faucons-deleonore-en-grece-aurait-depasse-13-262-couples-selon-le-dernier-recensement-national/</link>
@@ -196,27 +216,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/des-exemples-reussis-de-restauration-de-monuments-espagnols-tenant-compte-de-la-presence-de-colonies-de-martinets-noirs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Les effets variables des incendies sur les oiseaux migrateurs</title>
-		<link>https://www.ornithomedia.com/magazine/etudes/les-effets-variables-des-incendies-sur-les-oiseaux-migrateurs/</link>
-					<comments>https://www.ornithomedia.com/magazine/etudes/les-effets-variables-des-incendies-sur-les-oiseaux-migrateurs/#comments</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 19:44:01 +0000</pubDate>
-				<category><![CDATA[Études]]></category>
-		<category><![CDATA[Magazine]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=279695</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/les-effets-variables-des-incendies-sur-les-oiseaux-migrateurs/">Les effets variables des incendies sur les oiseaux migrateurs</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/les-effets-variables-des-incendies-sur-les-oiseaux-migrateurs/">Les effets variables des incendies sur les oiseaux migrateurs</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/les-effets-variables-des-incendies-sur-les-oiseaux-migrateurs/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
 		
 		
 			</item>
