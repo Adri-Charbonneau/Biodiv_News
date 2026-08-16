@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 05 Aug 2026 08:29:28 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Aug 2026 11:18:34 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.2</generator>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 août 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-aout-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 16 Aug 2026 11:18:33 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8478</guid>
+
+					<description><![CDATA[L’été avance et s’enrichit de migrateurs. Encore 45 Océanites de Wilson signalés au large des côtes atlantiques et de nouveau un Fou brun (probablement le même qu’en Charente-Maritime fin juillet) à la pointe bretonne. Dans le sud, une cinquantaine de Faucons d’Éléonores sont encore signalés et dans l’ouest du pays, le passage postnuptial du Phragmite aquatique a commencé et monte en puissance. Par ailleurs, une Sarcelle marbrée et...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Identifier le Faucon crécerellette</title>
 		<link>https://marcduquet.com/identifier-le-faucon-crecerellette/</link>
 		
@@ -101,7 +118,7 @@
 		
 			</item>
 		<item>
-		<title>Nouvelles ornithos: 16-30 juin 2026</title>
+		<title>Nouvelles ornithos : 16-30 juin 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-30-juin-2026/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
@@ -110,24 +127,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8114</guid>
 
 					<description><![CDATA[Quinzaine très calme en France côté oiseaux rares, en dehors de l’Engoulevent à collier roux&#160;des Pyrénées-Orientales qui est toujours cantonné et de quelques données d’espèces classiques comme le&#160;Faucon d’Éléonore, la&#160;Pie-grièche à poitrine rose&#160;ou encore le&#160;Bruant mélanocéphale… Les observations les plus remarquables proviennent du reste de l’Europe, notamment du Portugal, qui accueille une&#160;Barge hudsonienne, et des...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Les guifettes nicheuses en France en 2025</title>
-		<link>https://marcduquet.com/les-guifettes-nicheuses-en-france-en-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 28 Jun 2026 11:07:28 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Guifettes]]></category>
-		<category><![CDATA[Nidification]]></category>
-		<category><![CDATA[Population]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8086</guid>
-
-					<description><![CDATA[Par Jacques&#160;Trotignon Voici les résultats des dénombrements des trois espèces de guifettes nicheuses en France en 2025. Il est peu de dire que la situation n&#8217;est pas brillante… et la vague de chaleur qui sévit en cette deuxième décade de juin ne présage rien de bon pour la reproduction 2026. En 2025, la Guifette moustac...]]></description>
 		
 		
 		
