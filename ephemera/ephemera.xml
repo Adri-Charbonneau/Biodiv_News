@@ -12,13 +12,13 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Mon, 27 Jul 2026 09:55:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Aug 2026 10:14:16 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.2</generator>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
 
 <image>
 	<url>https://ephemera.insectes.org/wp-content/uploads/2023/11/ephemerae_full-150x150.png</url>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Communautés d&#8217;invertébrés des sources et des marais permanents et temporaires de haute montagne dans les bassins fermés de l’Orontes (Mont Liban)</title>
+		<link>https://ephemera.insectes.org/publication/communautes-dinvertebres-des-sources-et-des-marais-permanents-et-temporaires-de-haute-montagne-dans-les-bassins-fermes-de-lorontes-mont-liban/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Tue, 18 Aug 2026 09:51:59 +0000</pubDate>
+				<category><![CDATA[assèchement]]></category>
+		<category><![CDATA[bassins fermés de haute montagne]]></category>
+		<category><![CDATA[closed basins in high mountain]]></category>
+		<category><![CDATA[fauna invertebrate]]></category>
+		<category><![CDATA[habitats semi-rhéocrénal et lentique.]]></category>
+		<category><![CDATA[hydro period]]></category>
+		<category><![CDATA[invertébrés]]></category>
+		<category><![CDATA[karsts resurgences]]></category>
+		<category><![CDATA[milieux permanents ou temporaires]]></category>
+		<category><![CDATA[permanent or temporary wetlands]]></category>
+		<category><![CDATA[physico-chimie de l’eau]]></category>
+		<category><![CDATA[semi-rheocrenal and lentic habitats.]]></category>
+		<category><![CDATA[sources et marais]]></category>
+		<category><![CDATA[sources karstiques]]></category>
+		<category><![CDATA[springs and marshes]]></category>
+		<category><![CDATA[water physic-chemistry]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2420</guid>
+
+					<description><![CDATA[Les paramètres physico-chimiques de l’eau et la faune benthique de deux bassins fermés (zones de sources et marais) du haut piémont Est du Mont Liban septentrional (B.V. Orontes, alt. 1 720 &#8211; 2 150m), ont été étudiés. Ces milieux sont oligotrophes avec des eaux naturellement alcalines (pH = 8 à 8,2). Les espèces de Chironomides [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Les paramètres physico-chimiques de l’eau et la faune benthique de deux bassins fermés (zones de sources et marais) du haut piémont Est du Mont Liban septentrional (B.V. Orontes, alt. 1 720 &#8211; 2 150m), ont été étudiés. Ces milieux sont oligotrophes avec des eaux naturellement alcalines (pH = 8 à 8,2). Les espèces de Chironomides et de Coléoptères Hydrocanthares et Hydrophilides sont les plus nombreuses parmi les invertébrés recensés dans les milieux étudiés. La composition de la faune benthique dépend principalement du type de sources, de la nature de substrat, de la trophie de l’eau et de la durée des périodes d’assèchement. Il apparait que l’activité humaine n’affecte que légèrement le peuplement benthique jusqu’à présent.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Heleniella crenophila and H. helenae spp. n., two new species occurring in France (Diptera, Chironomidae)</title>
 		<link>https://ephemera.insectes.org/publication/heleniella-crenophila-and-h-helenae-spp-n-two-new-species-occurring-in-france-diptera-chironomidae/</link>
 		
@@ -262,30 +298,6 @@
 
 
 <p class="wp-block-paragraph"><em>Après sa carrière universitaire d’hydrobiologiste, contribuant fortement au développement des connaissances sur les invertébrés aquatiques, et à l’écologie fluviale avec des travaux de recherche et d’encadrements de thèses sur le Rhône, il avait conservé un vif intérêt pour les larves de trichoptères.</em></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Plectrocnemia appennina McLachlan, 1884 nouvelle espèce pour la faune de France (Trichoptera, Polycentropodidae)</title>
-		<link>https://ephemera.insectes.org/publication/plectrocnemia-appennina-mclachlan-1884-nouvelle-espece-pour-la-faune-de-france-trichoptera-polycentropodidae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Mon, 09 Mar 2026 09:44:00 +0000</pubDate>
-				<category><![CDATA[Caddisflies]]></category>
-		<category><![CDATA[Ecrins national Park]]></category>
-		<category><![CDATA[inventaire national]]></category>
-		<category><![CDATA[Isère]]></category>
-		<category><![CDATA[Isère department]]></category>
-		<category><![CDATA[national inventory]]></category>
-		<category><![CDATA[Parc national des Écrins]]></category>
-		<category><![CDATA[Trichoptères]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2346</guid>
-
-					<description><![CDATA[La localité-type de Plectrocnemia appennina McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">La localité-type de <em>Plectrocnemia appennina </em>McLachlan, 1884 est située en Italie, dans la région Toscane, plus précisément dans le massif des Apennins (Lodovici et al. 2020).  McLachlan décrit l’espèce à partir d’un mâle et d’une femelle collectés par Eaton un 27 juillet (année non précisée), entre San Marcello Piteglio et Villa Margherita, au nord de la ville de Pistoia (McLachlan 1884).</p>
 ]]></content:encoded>
 					
 		
