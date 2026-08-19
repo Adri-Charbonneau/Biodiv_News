@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 16 Aug 2026 11:18:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Aug 2026 05:57:25 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les îles Canaries : point chaud ornithologique</title>
+		<link>https://marcduquet.com/les-iles-canaries-point-chaud-ornithologique/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2026 05:56:38 +0000</pubDate>
+				<category><![CDATA[Voyages]]></category>
+		<category><![CDATA[Canaries]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8421</guid>
+
+					<description><![CDATA[Par Olivier Iborra &#38; Gilles Cheylan Ayant eu l’opportunité de nous rendre aux Canaries en mai 2026, nous avons visité deux îles de l’archipel&#160;: une occidentale,&#160;Tenerife, la plus grande (2050 km2) du 9 au 11, et une orientale,&#160;Fuerteventura, la seconde plus grande (1650 km2), du 12 au 15. Par ailleurs l’un d’entre nous (OI) avait...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 août 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-aout-2026/</link>
 		
@@ -39,7 +55,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=8478</guid>
 
-					<description><![CDATA[L’été avance et s’enrichit de migrateurs. Encore 45 Océanites de Wilson signalés au large des côtes atlantiques et de nouveau un Fou brun (probablement le même qu’en Charente-Maritime fin juillet) à la pointe bretonne. Dans le sud, une cinquantaine de Faucons d’Éléonores sont encore signalés et dans l’ouest du pays, le passage postnuptial du Phragmite aquatique a commencé et monte en puissance. Par ailleurs, une Sarcelle marbrée et...]]></description>
+					<description><![CDATA[L’été avance et s’enrichit de migrateurs. Encore 45&#160;Océanites de Wilson&#160;signalés&#160;au large des côtes atlantiques et de nouveau un&#160;Fou brun&#160;(probablement le même qu’en&#160;Charente-Maritime&#160;fin juillet) à la pointe bretonne. Dans le sud, une cinquantaine de&#160;Faucons d’Éléonores&#160;sont encore signalés et dans l’ouest du pays, le passage postnuptial du&#160;Phragmite aquatique&#160;a commencé et monte en puissance. Par ailleurs, une&#160;Sarcelle marbrée&#160;et...]]></description>
 		
 		
 		
@@ -113,20 +129,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8143</guid>
 
 					<description><![CDATA[Par Patrick &#38; Geneviève Triplet L’Islande est une terre de contrastes, balayée par les vents froids venus du Pôle Nord et sujette à des éruptions volcaniques spectaculaires, capables de conduire à la fermeture de l&#8217;espace aérien européen, comme ce fut le cas en avril 2010. Mais l’Islande n’est pas que cela. C’est probablement l’une des...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-30 juin 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-30-juin-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 01 Jul 2026 09:46:42 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8114</guid>
-
-					<description><![CDATA[Quinzaine très calme en France côté oiseaux rares, en dehors de l’Engoulevent à collier roux&#160;des Pyrénées-Orientales qui est toujours cantonné et de quelques données d’espèces classiques comme le&#160;Faucon d’Éléonore, la&#160;Pie-grièche à poitrine rose&#160;ou encore le&#160;Bruant mélanocéphale… Les observations les plus remarquables proviennent du reste de l’Europe, notamment du Portugal, qui accueille une&#160;Barge hudsonienne, et des...]]></description>
 		
 		
 		
