@@ -12,13 +12,13 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Tue, 18 Aug 2026 10:14:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Aug 2026 09:25:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.4</generator>
+	<generator>https://wordpress.org/?v=7.1</generator>
 
 <image>
 	<url>https://ephemera.insectes.org/wp-content/uploads/2023/11/ephemerae_full-150x150.png</url>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Heleniella reginae sp. n., a new species occurring in the Mutt glacial stream, Swiss Alps (Diptera, Chironomidae, Orthocladiinae)</title>
+		<link>https://ephemera.insectes.org/publication/heleniella-reginae-sp-n-a-new-species-occurring-in-the-mutt-glacial-stream-swiss-alps-diptera-chironomidae-orthocladiinae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 08:52:02 +0000</pubDate>
+				<category><![CDATA[Alpes Suisses]]></category>
+		<category><![CDATA[conservation measures]]></category>
+		<category><![CDATA[mesures de conservation]]></category>
+		<category><![CDATA[new species]]></category>
+		<category><![CDATA[nouvelle espèce]]></category>
+		<category><![CDATA[Swiss Alps]]></category>
+		<category><![CDATA[taxonomie]]></category>
+		<category><![CDATA[taxonomy]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2428</guid>
+
+					<description><![CDATA[Male adult of Heleniella reginae sp. n. is described based on material collected by Malaise traps placed along the glacial stream of Mutt (Swiss Alps, upper Rhône basin). Distinctive specific characters include in particular: anal tergal bands absent; virga composed of two long rods, thick basally fused apically; sternapodeme lacking lateral horn-like projection; anal point [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Male adult of <em>Heleniella reginae</em> sp. n. is described based on material collected by Malaise traps placed along the glacial stream of Mutt (Swiss Alps, upper Rhône basin). Distinctive specific characters include in particular: anal tergal bands absent; virga composed of two long rods, thick basally fused apically; sternapodeme lacking lateral horn-like projection; anal point short and wide, with apex composed of six small lobes; inferior volsella broadly semicircular and distinctly enlarged. The new species resembles to <em>H. assiana</em> Moubayed, 2026. They appear both to be considered as two sister species.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Communautés d&#8217;invertébrés des sources et des marais permanents et temporaires de haute montagne dans les bassins fermés de l’Orontes (Mont Liban)</title>
 		<link>https://ephemera.insectes.org/publication/communautes-dinvertebres-des-sources-et-des-marais-permanents-et-temporaires-de-haute-montagne-dans-les-bassins-fermes-de-lorontes-mont-liban/</link>
 		
@@ -274,30 +302,6 @@
 					<description><![CDATA[Cet article présente l’état des connaissances sur le genre Rhypholophus en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de R. bifurcatus et R. dufouri.  R. malickyi (Mendl, 1975) est mentionné pour la première fois en France.]]></description>
 										<content:encoded><![CDATA[
 <p class="wp-block-paragraph">Cet article présente l’état des connaissances sur le genre <em>Rhypholophus </em>en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de <em>R</em>. <em>bifurcatus</em> et <em>R</em>. <em>dufouri</em>.  <em>R. malickyi </em>(Mendl, 1975) est mentionné pour la première fois en France.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Hommage à Henri Tachet</title>
-		<link>https://ephemera.insectes.org/publication/hommage-a-henri-tachet/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 09:13:51 +0000</pubDate>
-				<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2352</guid>
-
-					<description><![CDATA[Henri Tachet nous a quittés à la fin de l’été dernier. L’annonce de sa disparition nous a attristés car il participait, simplement et sans défection, aux activités de notre groupe Opie-benthos, et tout particulièrement à l’inventaire des trichoptères qu’il avait initié il y a maintenant plus de vingt ans. Il nous avait confié ce programme [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph"><em>Henri Tachet nous a quittés à la fin de l’été dernier. L’annonce de sa disparition nous a attristés car il participait, simplement et sans défection, aux activités de notre groupe Opie-benthos, et tout particulièrement à l’inventaire des trichoptères qu’il avait initié il y a maintenant plus de vingt ans.</em></p>
-
-
-
-<p class="wp-block-paragraph"><em>Il nous avait confié ce programme et suivait toujours son déroulement, ses résultats, et répondait toujours présent à nos demandes pour résoudre une question de taxonomie.</em></p>
-
-
-
-<p class="wp-block-paragraph"><em>Après sa carrière universitaire d’hydrobiologiste, contribuant fortement au développement des connaissances sur les invertébrés aquatiques, et à l’écologie fluviale avec des travaux de recherche et d’encadrements de thèses sur le Rhône, il avait conservé un vif intérêt pour les larves de trichoptères.</em></p>
 ]]></content:encoded>
 					
 		
