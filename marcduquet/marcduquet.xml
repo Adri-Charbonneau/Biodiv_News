@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 19 Aug 2026 05:57:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Aug 2026 14:19:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.4</generator>
+	<generator>https://wordpress.org/?v=7.1</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Envol acrobatique d&#8217;une Huppe fasciée</title>
+		<link>https://marcduquet.com/envol-acrobatique-dune-huppe-fasciee/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 14:19:17 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Comportement]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Upupa epops]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8569</guid>
+
+					<description><![CDATA[Par Jérôme Poguet Une rencontre inattendue Voilà longtemps que j’attendais de croiser une Huppe fasciée et d’avoir l’opportunité de la photographier. À ma grande surprise, c’est en montagne, près du col du Granon (Hautes-Alpes) à environ 2100 m d&#8217;altitude, que je l’ai rencontrée un matin de juillet 2025. Peu impressionnée par ma présence, elle se...]]></description>
+		
+		
+		<enclosure url="https://marcduquet.com/wp-content/uploads/2026/08/5V8A4959_05_2_2-2.webm" length="1969145" type="video/webm" />
+
+			</item>
+		<item>
 		<title>Les îles Canaries : point chaud ornithologique</title>
 		<link>https://marcduquet.com/les-iles-canaries-point-chaud-ornithologique/</link>
 		
@@ -113,22 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8188</guid>
 
 					<description><![CDATA[Cette première quinzaine de juillet aura été très calme sur le front des oiseaux rares, sans doute en lien avec l’épisode caniculaire qui a touché la France à cette période. Sans surprise, ce sont donc les espèces vivant près de l’eau – oiseaux de mer et d’eau douce – qui alimentent la rubrique, qui, pour...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Islande : terre d’oiseaux (11-21 mai 2026)</title>
-		<link>https://marcduquet.com/islande-terre-doiseaux-11-21-avril-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 11 Jul 2026 08:55:09 +0000</pubDate>
-				<category><![CDATA[Voyages]]></category>
-		<category><![CDATA[Islande]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8143</guid>
-
-					<description><![CDATA[Par Patrick &#38; Geneviève Triplet L’Islande est une terre de contrastes, balayée par les vents froids venus du Pôle Nord et sujette à des éruptions volcaniques spectaculaires, capables de conduire à la fermeture de l&#8217;espace aérien européen, comme ce fut le cas en avril 2010. Mais l’Islande n’est pas que cela. C’est probablement l’une des...]]></description>
 		
 		
 		
