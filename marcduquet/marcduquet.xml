@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 28 Aug 2026 14:19:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Sep 2026 13:02:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-31 août 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-31-aout-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 10:21:05 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8586</guid>
+
+					<description><![CDATA[La migration postnuptiale est engagée, avec son lot d’espèces attendues, surtout des limicoles, comme le Guignard d’Eurasie, le Chevalier bargette, le Bécasseau falcinelle le Bécasseau de Temminck, les Phalaropes à bec large et à bec étroit, tandis que de nombreux Océanites de Wilson et des Fous bruns continuent leur show atlantique et que les Faucons d’Eléonore animent le ciel du Sud. Les limicoles nord-américains – Bécasseaux de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Envol acrobatique d&#8217;une Huppe fasciée</title>
 		<link>https://marcduquet.com/envol-acrobatique-dune-huppe-fasciee/</link>
 		
@@ -114,23 +131,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8275</guid>
 
 					<description><![CDATA[Les prémices de la migration postnuptiale se font sentir au cours d’une quinzaine, par ailleurs assez calme. Du côté de l’Atlantique, à signaler un Fou brun et de nombreux Océanites de Wilson en mer, ainsi qu’un Chevalier à pattes jaunes, un Pluvier fauve et un Faucon sacre sur la côte. Au sud, des Faucons d’Éléonore sont vus ici et là et le Martinet cafre de l’Hérault a...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 juillet 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-juillet-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 16 Jul 2026 08:29:13 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8188</guid>
-
-					<description><![CDATA[Cette première quinzaine de juillet aura été très calme sur le front des oiseaux rares, sans doute en lien avec l’épisode caniculaire qui a touché la France à cette période. Sans surprise, ce sont donc les espèces vivant près de l’eau – oiseaux de mer et d’eau douce – qui alimentent la rubrique, qui, pour...]]></description>
 		
 		
 		
