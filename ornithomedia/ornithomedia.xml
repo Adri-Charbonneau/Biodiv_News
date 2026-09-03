@@ -12,7 +12,7 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 02 Sep 2026 10:15:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Sep 2026 20:01:46 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,6 +27,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Certains oiseaux utilisent-ils la géothermie pour se débarrasser de leurs parasites ?</title>
+		<link>https://www.ornithomedia.com/magazine/etudes/certains-oiseaux-utilisent-ils-la-geothermie-pour-se-debarrasser-de-leurs-parasites/</link>
+					<comments>https://www.ornithomedia.com/magazine/etudes/certains-oiseaux-utilisent-ils-la-geothermie-pour-se-debarrasser-de-leurs-parasites/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 19:44:19 +0000</pubDate>
+				<category><![CDATA[Études]]></category>
+		<category><![CDATA[Magazine]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=281130</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/certains-oiseaux-utilisent-ils-la-geothermie-pour-se-debarrasser-de-leurs-parasites/">Certains oiseaux utilisent-ils la géothermie pour se débarrasser de leurs parasites ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/etudes/certains-oiseaux-utilisent-ils-la-geothermie-pour-se-debarrasser-de-leurs-parasites/">Certains oiseaux utilisent-ils la géothermie pour se débarrasser de leurs parasites ?</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/certains-oiseaux-utilisent-ils-la-geothermie-pour-se-debarrasser-de-leurs-parasites/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Première nidification confirmée en 2025 de l&#8217;Engoulevent du désert en Arabie saoudite</title>
 		<link>https://www.ornithomedia.com/breves/premiere-nidification-confirmee-de-lengoulevent-du-desert-en-arabie-saoudite-en-2025/</link>
 					<comments>https://www.ornithomedia.com/breves/premiere-nidification-confirmee-de-lengoulevent-du-desert-en-arabie-saoudite-en-2025/#respond</comments>
@@ -205,26 +226,6 @@
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/premier-cas-documente-de-jeunes-hirondelles-rustiques-ayant-quitte-leur-nid-en-novembre-en-italie-et-en-europe/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Le Flamant nain a niché en France en 2023, en Tunisie en 2025 et en Espagne en 2025 et en 2026</title>
-		<link>https://www.ornithomedia.com/breves/le-flamant-nain-a-niche-en-france-en-2023-en-tunisie-en-2025-et-en-espagne-en-2025-et-en-2026/</link>
-					<comments>https://www.ornithomedia.com/breves/le-flamant-nain-a-niche-en-france-en-2023-en-tunisie-en-2025-et-en-espagne-en-2025-et-en-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Mon, 17 Aug 2026 16:30:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=280357</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/le-flamant-nain-a-niche-en-france-en-2023-en-tunisie-en-2025-et-en-espagne-en-2025-et-en-2026/">Le Flamant nain a niché en France en 2023, en Tunisie en 2025 et en Espagne en 2025 et en 2026</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/le-flamant-nain-a-niche-en-france-en-2023-en-tunisie-en-2025-et-en-espagne-en-2025-et-en-2026/">Le Flamant nain a niché en France en 2023, en Tunisie en 2025 et en Espagne en 2025 et en 2026</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/le-flamant-nain-a-niche-en-france-en-2023-en-tunisie-en-2025-et-en-espagne-en-2025-et-en-2026/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
