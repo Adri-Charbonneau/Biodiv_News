@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 01 Sep 2026 13:02:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Sep 2026 10:58:07 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>L&#8217;Effraie n°70-2025 à 73–2026</title>
+		<link>https://marcduquet.com/leffraie-n70-2025-a-73-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 10:58:07 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[L'Effraie]]></category>
+		<category><![CDATA[Revue]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8656</guid>
+
+					<description><![CDATA[Il y a un an, je vous ai présenté la revue L&#8217;Effraie à l&#8217;occasion de la parution de son numéro 69. Depuis lors, les fascicules 70 à 72 ont été publiés et, aujourd&#8217;hui, c&#8217;est le numéro 73 qui vient de paraître ! Éditée depuis 1983, cette excellente revue trimestrielle de la LPO-Rhône est diffusée gratuitement...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 août 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-aout-2026/</link>
 		
@@ -117,23 +133,6 @@
 <enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/3-XC1049540-Faucon-crecerelle.wav" length="2192332" type="audio/wav" />
 <enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/4-Faucon-crecerelle-XC1076829.wav" length="6761404" type="audio/wav" />
 
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 juillet 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-juillet-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 01 Aug 2026 17:35:48 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8275</guid>
-
-					<description><![CDATA[Les prémices de la migration postnuptiale se font sentir au cours d’une quinzaine, par ailleurs assez calme. Du côté de l’Atlantique, à signaler un Fou brun et de nombreux Océanites de Wilson en mer, ainsi qu’un Chevalier à pattes jaunes, un Pluvier fauve et un Faucon sacre sur la côte. Au sud, des Faucons d’Éléonore sont vus ici et là et le Martinet cafre de l’Hérault a...]]></description>
-		
-		
-		
 			</item>
 	</channel>
 </rss>
