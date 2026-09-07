@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Tue, 25 Aug 2026 09:25:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Sep 2026 14:33:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>First record of Pedicia (Crunobia) pallens Savchenko, 1978 from France (Diptera, Pediciidae)</title>
+		<link>https://ephemera.insectes.org/publication/first-record-of-pedicia-crunobia-pallens-savchenko-1978-from-france-diptera-pediciidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 14:11:28 +0000</pubDate>
+				<category><![CDATA[Faunistics]]></category>
+		<category><![CDATA[Faunistique]]></category>
+		<category><![CDATA[Palaearctic]]></category>
+		<category><![CDATA[Paléarctic]]></category>
+		<category><![CDATA[Tipulomorpha]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2434</guid>
+
+					<description><![CDATA[Pedicia (Crunobia) pallens Savchenko, 1978, a species of Pediciidae previously known from Central Europe, the Balkan Peninsula and the Caucasus, is recorded from France for the first time, from the department of Val-d’Oise.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><em>Pedicia</em> (<em>Crunobia) pallens</em> Savchenko, 1978, a species of Pediciidae previously known from Central Europe, the Balkan Peninsula and the Caucasus, is recorded from France for the first time, from the department of Val-d’Oise.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Heleniella reginae sp. n., a new species occurring in the Mutt glacial stream, Swiss Alps (Diptera, Chironomidae, Orthocladiinae)</title>
 		<link>https://ephemera.insectes.org/publication/heleniella-reginae-sp-n-a-new-species-occurring-in-the-mutt-glacial-stream-swiss-alps-diptera-chironomidae-orthocladiinae/</link>
 		
@@ -126,8 +147,12 @@
 		
 		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2026 10:56:11 +0000</pubDate>
-				<category><![CDATA[inventaire national des Plécoptères ; exuvies larvaires ; liste rouge]]></category>
-		<category><![CDATA[national inventory; larval exuviae; red list]]></category>
+				<category><![CDATA[exuvies larvaires]]></category>
+		<category><![CDATA[inventaire national des Plécoptères]]></category>
+		<category><![CDATA[larval exuviae]]></category>
+		<category><![CDATA[liste rouge]]></category>
+		<category><![CDATA[national inventory]]></category>
+		<category><![CDATA[red list]]></category>
 		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2408</guid>
 
 					<description><![CDATA[Ce Plécoptère était connu par le passé de quelques rivières du piémont pyrénéen comme la Garonne et l’Arize (dépt. 31), le Nistos (dépt. 65) et le Lez (dépt. 09) (Le Doaré &#38; Vinçon 2007, Ruffoni 2024). Les dernières mentions connues des Pyrénées remontent aux années 1960 (Berthélemy 1966). Malgré quelques recherches assez récentes mais loin [&#8230;]]]></description>
@@ -142,11 +167,10 @@
 		<title>Description of Heleniella assiana sp. n. from the upper basin of the River Assi in Lebanon (Diptera, Chironomidae)</title>
 		<link>https://ephemera.insectes.org/publication/description-of-heleniella-assiana-sp-n-from-the-upper-basin-of-the-river-assi-in-lebanon-diptera-chironomidae/</link>
 		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<dc:creator><![CDATA[Administrateur]]></dc:creator>
 		<pubDate>Thu, 02 Jul 2026 14:39:58 +0000</pubDate>
-				<category><![CDATA[1929)]]></category>
-		<category><![CDATA[conservation]]></category>
-		<category><![CDATA[Heleniella ornaticollis (Edwards]]></category>
+				<category><![CDATA[conservation]]></category>
+		<category><![CDATA[Heleniella ornaticollis (Edwards, 1929)]]></category>
 		<category><![CDATA[new species]]></category>
 		<category><![CDATA[nouvelle espèce]]></category>
 		<category><![CDATA[taxonomie]]></category>
@@ -165,10 +189,9 @@
 		<title>Découverte dans les Hautes-Alpes d’une espèce de Limoniidae nouvelle pour la France : Molophilus (Molophilus) fluviatilis Bangerter, 1947 (Diptera, Nematocera)</title>
 		<link>https://ephemera.insectes.org/publication/decouverte-dans-les-hautes-alpes-dune-espece-de-limoniidae-nouvelle-pour-la-france-molophilus-molophilus-fluviatilis-bangerter-1947-diptera-nematocera/</link>
 		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<dc:creator><![CDATA[Administrateur]]></dc:creator>
 		<pubDate>Thu, 25 Jun 2026 14:18:34 +0000</pubDate>
-				<category><![CDATA[1861]]></category>
-		<category><![CDATA[Chioneinae Róndani]]></category>
+				<category><![CDATA[Chioneinae Róndani, 1861]]></category>
 		<category><![CDATA[Ecrins Massif]]></category>
 		<category><![CDATA[la Durance]]></category>
 		<category><![CDATA[la Séveraisse]]></category>
@@ -273,35 +296,6 @@
 
 
 <p class="wp-block-paragraph"></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Le genre Rhypholophus (Kolenati, 1860) en France : synthèse des connaissances et première mention de R. malickyi (Mendl, 1975) pour la France (Diptera, Limoniidae)</title>
-		<link>https://ephemera.insectes.org/publication/le-genre-rhypholophus-kolenati-1860-en-france-synthese-des-connaissances-et-premiere-mention-de-r-malickyi-mendl-1975-pour-la-france-diptera-limoniidae/</link>
-		
-		<dc:creator><![CDATA[Administrateur]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 08:55:06 +0000</pubDate>
-				<category><![CDATA[1900]]></category>
-		<category><![CDATA[1935)]]></category>
-		<category><![CDATA[Chioneinae.]]></category>
-		<category><![CDATA[clé de détermination]]></category>
-		<category><![CDATA[craneflies]]></category>
-		<category><![CDATA[distribution]]></category>
-		<category><![CDATA[genitalia]]></category>
-		<category><![CDATA[identification key.]]></category>
-		<category><![CDATA[inventaire national]]></category>
-		<category><![CDATA[national inventory]]></category>
-		<category><![CDATA[Ormosia]]></category>
-		<category><![CDATA[Rhypholophus crassipes Strobl]]></category>
-		<category><![CDATA[Rhypholophus lichtwardti (Lackschewitz]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2361</guid>
-
-					<description><![CDATA[Cet article présente l’état des connaissances sur le genre Rhypholophus en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de R. bifurcatus et R. dufouri.  R. malickyi (Mendl, 1975) est mentionné pour la première fois en France.]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Cet article présente l’état des connaissances sur le genre <em>Rhypholophus </em>en France, la répartition des espèces qui le composent et une clé d’identification. Des caractères précisent la détermination des femelles de <em>R</em>. <em>bifurcatus</em> et <em>R</em>. <em>dufouri</em>.  <em>R. malickyi </em>(Mendl, 1975) est mentionné pour la première fois en France.</p>
 ]]></content:encoded>
 					
 		
