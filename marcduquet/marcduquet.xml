@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 03 Sep 2026 10:58:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Sep 2026 11:51:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OrnithoScience : la Buse est de moins en moins variable</title>
+		<link>https://marcduquet.com/ornithoscience-la-buse-est-de-moins-en-moins-variable/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 11:51:10 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Buteo buteo]]></category>
+		<category><![CDATA[Rapaces diurnes]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8750</guid>
+
+					<description><![CDATA[Un polymorphisme de la couleur du plumage est observé chez environ 3,5% des espèces d’oiseaux, tout spécialement chez les rapaces, les buses du genre Buteo comptant 15 espèces polymorphes sur 25, ce qui est supérieur à tout autre genre d’Accipitriformes. Chez la Buse variable Buteo buteo, la variation de la coloration est continue entre les individus très sombres...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>L&#8217;Effraie n°70-2025 à 73–2026</title>
 		<link>https://marcduquet.com/leffraie-n70-2025-a-73-2026/</link>
 		
@@ -110,29 +126,6 @@
 		
 		
 		
-			</item>
-		<item>
-		<title>Identifier le Faucon crécerellette</title>
-		<link>https://marcduquet.com/identifier-le-faucon-crecerellette/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 08:29:28 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Falco tinnunculus]]></category>
-		<category><![CDATA[Falnau]]></category>
-		<category><![CDATA[Mue]]></category>
-		<category><![CDATA[Plumage]]></category>
-		<category><![CDATA[Rapaces diurnes]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8226</guid>
-
-					<description><![CDATA[Le Faucon crécerellette&#160;Falco naumanni&#160;niche dans tout le Paléarctique, de la péninsule Ibérique au nord de la Chine, et hiverne du Sahel à l’Afrique australe. En Europe, il se reproduit principalement au Portugal et en Espagne, dans le sud de la France (Languedoc-Roussillon et plaine de la Crau), en Sardaigne, en Sicile et dans le sud...]]></description>
-		
-		
-		<enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/1-XC388648-Faucon-crecerellette.mp3" length="271255" type="audio/mpeg" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/2-XC994311-Faucon-crecerellette.wav" length="2930732" type="audio/wav" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/3-XC1049540-Faucon-crecerelle.wav" length="2192332" type="audio/wav" />
-<enclosure url="https://marcduquet.com/wp-content/uploads/2026/07/4-Faucon-crecerelle-XC1076829.wav" length="6761404" type="audio/wav" />
-
 			</item>
 	</channel>
 </rss>
