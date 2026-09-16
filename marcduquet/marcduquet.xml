@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 15 Sep 2026 11:51:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Sep 2026 16:23:16 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 septembre 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-septembre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 16:16:56 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8744</guid>
+
+					<description><![CDATA[L’Océanite de Wilson&#160;est encore bien présent en ce début septembre, tout comme le&#160;Faucon d’Éléonore&#160;et le&#160;Bécasseau de Temminck. Une&#160;Sarcelle marbrée&#160;et un&#160;Grèbe à bec bigarré&#160;ont été vus brièvement dans l’Ouest, tandis qu’un&#160;Aigle des steppes&#160;et deux&#160;Aigles ibériques&#160;ont traversé les Pyrénées. Il faut signaler une belle arrivée de limicoles néarctiques au cours de cette quinzaine, à savoir 1&#160;Bécasseau de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OrnithoScience : la Buse est de moins en moins variable</title>
 		<link>https://marcduquet.com/ornithoscience-la-buse-est-de-moins-en-moins-variable/</link>
 		
@@ -106,23 +123,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8421</guid>
 
 					<description><![CDATA[Par Olivier Iborra &#38; Gilles Cheylan Ayant eu l’opportunité de nous rendre aux Canaries en mai 2026, nous avons visité deux îles de l’archipel&#160;: une occidentale,&#160;Tenerife, la plus grande (2050 km2) du 9 au 11, et une orientale,&#160;Fuerteventura, la seconde plus grande (1650 km2), du 12 au 15. Par ailleurs l’un d’entre nous (OI) avait...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 août 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-aout-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 16 Aug 2026 11:18:33 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8478</guid>
-
-					<description><![CDATA[L’été avance et s’enrichit de migrateurs. Encore 45&#160;Océanites de Wilson&#160;signalés&#160;au large des côtes atlantiques et de nouveau un&#160;Fou brun&#160;(probablement le même qu’en&#160;Charente-Maritime&#160;fin juillet) à la pointe bretonne. Dans le sud, une cinquantaine de&#160;Faucons d’Éléonores&#160;sont encore signalés et dans l’ouest du pays, le passage postnuptial du&#160;Phragmite aquatique&#160;a commencé et monte en puissance. Par ailleurs, une&#160;Sarcelle marbrée&#160;et...]]></description>
 		
 		
 		
