@@ -12,7 +12,7 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Tue, 15 Sep 2026 12:27:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Sep 2026 19:40:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,6 +27,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Découverte d&#8217;une population de Moucherolles des Galápagos sur un volcan au sud de l&#8217;île d&#8217;Isabela</title>
+		<link>https://www.ornithomedia.com/breves/decouverte-dune-population-de-moucherolles-des-galapagos-sur-un-volcan-au-sud-de-lile-disabela/</link>
+					<comments>https://www.ornithomedia.com/breves/decouverte-dune-population-de-moucherolles-des-galapagos-sur-un-volcan-au-sud-de-lile-disabela/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 06:30:00 +0000</pubDate>
+				<category><![CDATA[Brèves]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=281564</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/decouverte-dune-population-de-moucherolles-des-galapagos-sur-un-volcan-au-sud-de-lile-disabela/">Découverte d&rsquo;une population de Moucherolles des Galápagos sur un volcan au sud de l&rsquo;île d&rsquo;Isabela</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/decouverte-dune-population-de-moucherolles-des-galapagos-sur-un-volcan-au-sud-de-lile-disabela/">Découverte d&rsquo;une population de Moucherolles des Galápagos sur un volcan au sud de l&rsquo;île d&rsquo;Isabela</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/breves/decouverte-dune-population-de-moucherolles-des-galapagos-sur-un-volcan-au-sud-de-lile-disabela/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Proposition de reconnaissance d&#8217;une nouvelle espèce de hibou dans les Andes, le Grand-duc de la jalca</title>
 		<link>https://www.ornithomedia.com/magazine/etudes/proposition-de-reconnaissance-dune-nouvelle-espece-de-hibou-dans-les-andes-le-grand-duc-de-la-jalca/</link>
 					<comments>https://www.ornithomedia.com/magazine/etudes/proposition-de-reconnaissance-dune-nouvelle-espece-de-hibou-dans-les-andes-le-grand-duc-de-la-jalca/#respond</comments>
@@ -43,26 +63,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/magazine/etudes/proposition-de-reconnaissance-dune-nouvelle-espece-de-hibou-dans-les-andes-le-grand-duc-de-la-jalca/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>22es Rencontres Bourgogne Franche-Comté Nature à Dijon (Côte-d&#8217;Or) les 25 et 26 septembre 2026</title>
-		<link>https://www.ornithomedia.com/breves/22es-rencontres-bourgogne-franche-comte-nature-a-dijon-cote-dor-les-25-et-26-septembre-2026/</link>
-					<comments>https://www.ornithomedia.com/breves/22es-rencontres-bourgogne-franche-comte-nature-a-dijon-cote-dor-les-25-et-26-septembre-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sun, 13 Sep 2026 06:30:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=281451</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/22es-rencontres-bourgogne-franche-comte-nature-a-dijon-cote-dor-les-25-et-26-septembre-2026/">22es Rencontres Bourgogne Franche-Comté Nature à Dijon (Côte-d&rsquo;Or) les 25 et 26 septembre 2026</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/22es-rencontres-bourgogne-franche-comte-nature-a-dijon-cote-dor-les-25-et-26-septembre-2026/">22es Rencontres Bourgogne Franche-Comté Nature à Dijon (Côte-d&rsquo;Or) les 25 et 26 septembre 2026</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/22es-rencontres-bourgogne-franche-comte-nature-a-dijon-cote-dor-les-25-et-26-septembre-2026/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -124,7 +124,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/voyage-ornithologique-dans-le-sud-est-de-la-turquie-des-monts-aladag-a-la-lagune-de-tuzla-en-passant-par-la-vallee-de-leuphrate/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
+			<slash:comments>4</slash:comments>
 		
 		
 			</item>
