@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 16 Sep 2026 16:23:16 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Sep 2026 05:47:19 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1</generator>
+	<generator>https://wordpress.org/?v=7.1.1</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rassemblement postnuptial exceptionnel de Cigognes noires dans le Loir-et-Cher</title>
+		<link>https://marcduquet.com/rassemblement-postnuptial-exceptionnel-de-cigognes-noires-dans-le-loir-et-cher/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 19 Sep 2026 05:47:19 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Ciconia nigra]]></category>
+		<category><![CDATA[Cigognes]]></category>
+		<category><![CDATA[Comportement]]></category>
+		<category><![CDATA[Migration]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8831</guid>
+
+					<description><![CDATA[Par Frédéric Pelsy La Cigogne noire est un nicheur rare en France avec seulement 75&#160;couples recensés en 2022 (Brouillard &#38; Boutteaux 2024). Elle niche en forêt et se nourrit dans les zones ouvertes qui disposent de cours d’eau de bonne qualité. L’espèce est en progression constante depuis les premières nidifications connues en France dans les...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 septembre 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-septembre-2026/</link>
 		
@@ -110,22 +128,6 @@
 		
 		<enclosure url="https://marcduquet.com/wp-content/uploads/2026/08/5V8A4959_05_2_2-2.webm" length="1969145" type="video/webm" />
 
-			</item>
-		<item>
-		<title>Les îles Canaries : point chaud ornithologique</title>
-		<link>https://marcduquet.com/les-iles-canaries-point-chaud-ornithologique/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 19 Aug 2026 05:56:38 +0000</pubDate>
-				<category><![CDATA[Voyages]]></category>
-		<category><![CDATA[Canaries]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8421</guid>
-
-					<description><![CDATA[Par Olivier Iborra &#38; Gilles Cheylan Ayant eu l’opportunité de nous rendre aux Canaries en mai 2026, nous avons visité deux îles de l’archipel&#160;: une occidentale,&#160;Tenerife, la plus grande (2050 km2) du 9 au 11, et une orientale,&#160;Fuerteventura, la seconde plus grande (1650 km2), du 12 au 15. Par ailleurs l’un d’entre nous (OI) avait...]]></description>
-		
-		
-		
 			</item>
 	</channel>
 </rss>
