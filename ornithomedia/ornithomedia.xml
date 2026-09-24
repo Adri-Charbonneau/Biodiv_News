@@ -12,7 +12,7 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Wed, 23 Sep 2026 10:13:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Sep 2026 19:38:34 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,6 +27,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Voyage à la recherche du Moineau de Zarudny (ou d&#8217;Asie) au Turkménistan en mai 2025</title>
+		<link>https://www.ornithomedia.com/magazine/voyages/voyage-a-la-recherche-du-moineau-de-zarudny-dans-le-sud-du-turkmenistan-en-mai-2025/</link>
+					<comments>https://www.ornithomedia.com/magazine/voyages/voyage-a-la-recherche-du-moineau-de-zarudny-dans-le-sud-du-turkmenistan-en-mai-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 19:01:45 +0000</pubDate>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Voyages]]></category>
+		<guid isPermaLink="false">https://www.ornithomedia.com/?p=281769</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/voyages/voyage-a-la-recherche-du-moineau-de-zarudny-dans-le-sud-du-turkmenistan-en-mai-2025/">Voyage à la recherche du Moineau de Zarudny (ou d&rsquo;Asie) au Turkménistan en mai 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/voyages/voyage-a-la-recherche-du-moineau-de-zarudny-dans-le-sud-du-turkmenistan-en-mai-2025/">Voyage à la recherche du Moineau de Zarudny (ou d&rsquo;Asie) au Turkménistan en mai 2025</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/voyages/voyage-a-la-recherche-du-moineau-de-zarudny-dans-le-sud-du-turkmenistan-en-mai-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Un Grand Géocoucou recueilli au Texas par une soigneuse se comporte comme un chat et lui apporte régulièrement des « cadeaux »</title>
 		<link>https://www.ornithomedia.com/breves/un-grand-geocoucou-recueilli-au-texas-par-une-soigneuse-se-comporte-comme-un-chat-et-lui-apporte-regulierement-des-cadeaux/</link>
 					<comments>https://www.ornithomedia.com/breves/un-grand-geocoucou-recueilli-au-texas-par-une-soigneuse-se-comporte-comme-un-chat-et-lui-apporte-regulierement-des-cadeaux/#respond</comments>
@@ -62,26 +83,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/breves/un-jeune-faucon-crecerelle-a-ete-eleve-parmi-des-effraies-des-clochers-dans-un-meme-nichoir-en-israel/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Journées Européennes de la Migration (Eurobirdwatch) du 3 au 11 octobre 2026</title>
-		<link>https://www.ornithomedia.com/breves/journees-europeennes-de-la-migration-eurobirdwatchdu-3-au-11-octobre-2026/</link>
-					<comments>https://www.ornithomedia.com/breves/journees-europeennes-de-la-migration-eurobirdwatchdu-3-au-11-octobre-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Sun, 20 Sep 2026 06:30:00 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=281711</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/journees-europeennes-de-la-migration-eurobirdwatchdu-3-au-11-octobre-2026/">Journées Européennes de la Migration (Eurobirdwatch) du 3 au 11 octobre 2026</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/journees-europeennes-de-la-migration-eurobirdwatchdu-3-au-11-octobre-2026/">Journées Européennes de la Migration (Eurobirdwatch) du 3 au 11 octobre 2026</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/journees-europeennes-de-la-migration-eurobirdwatchdu-3-au-11-octobre-2026/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
