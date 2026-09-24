@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 22 Sep 2026 07:53:09 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Sep 2026 08:58:21 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.1</generator>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le livre « Avifaune de la Plaine Maritime Picarde »</title>
+		<link>https://marcduquet.com/le-livre-avifaune-de-la-plaine-maritime-picarde/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 08:58:21 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Livres]]></category>
+		<category><![CDATA[Oiseaux]]></category>
+		<category><![CDATA[Picardie]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8691</guid>
+
+					<description><![CDATA[En 1999, François Sueur et Patrick Triplet, assistés de Jean-Claude Robert, Francis Montel, Pierre Royer, Florent Violet, Anne Bacqueville, Cédric Fagot, Arnaud Souria, Jacques Bellard, Frédéric Lepilliez, Arnaud Lengignon, Sébastien Bacquet, Philippe Carruette et Michel Urban, publiaient Les oiseaux de la Baie de Somme, un inventaire commenté des oiseaux de la baie de Somme et de...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Des Flamants roses en Dombes : saison 2</title>
 		<link>https://marcduquet.com/des-flamants-roses-en-dombes-saison-2/</link>
 		
@@ -108,23 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8656</guid>
 
 					<description><![CDATA[Il y a un an, je vous ai présenté la revue L&#8217;Effraie à l&#8217;occasion de la parution de son numéro 69. Depuis lors, les fascicules 70 à 72 ont été publiés et, aujourd&#8217;hui, c&#8217;est le numéro 73 qui vient de paraître ! Éditée depuis 1983, cette excellente revue trimestrielle de la LPO-Rhône est diffusée gratuitement...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 août 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-aout-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 10:21:05 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8586</guid>
-
-					<description><![CDATA[La migration postnuptiale est engagée, avec son lot d’espèces attendues, surtout des limicoles, comme le Guignard d’Eurasie, le Chevalier bargette, le Bécasseau falcinelle le Bécasseau de Temminck, les Phalaropes à bec large et à bec étroit, tandis que de nombreux Océanites de Wilson et des Fous bruns continuent leur show atlantique et que les Faucons d’Eléonore animent le ciel du Sud. Les limicoles nord-américains – Bécasseaux de...]]></description>
 		
 		
 		
