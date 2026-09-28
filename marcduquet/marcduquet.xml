@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 24 Sep 2026 08:58:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Sep 2026 10:47:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Finlande-Norvège (mai-juillet 2026) : d’Helsinki à la Laponie</title>
+		<link>https://marcduquet.com/finlande-norvege-mai-juillet-2026-dhelsinki-a-la-laponie/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 07:48:51 +0000</pubDate>
+				<category><![CDATA[Voyages]]></category>
+		<category><![CDATA[Finlande]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8699</guid>
+
+					<description><![CDATA[Par Fabienne &#38; Didier Pépin(avec la télé-assistance régulière de Marc Duquet) Un demi-siècle après nos deux premiers périples&#160;(du 29&#160;juin au 6&#160;août 1984 avec Doris et Patrick Viain&#160;et&#160;du 22&#160;juin au 27&#160;juillet 1985 avec Marc Duquet et Dominique Michelat)&#160;en Renault 4 F6 depuis la Franche-Comté jusqu’à la Norvège arctique, nous avons refait le voyage, en camping-car cette...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le livre « Avifaune de la Plaine Maritime Picarde »</title>
 		<link>https://marcduquet.com/le-livre-avifaune-de-la-plaine-maritime-picarde/</link>
 		
@@ -110,22 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8750</guid>
 
 					<description><![CDATA[Un polymorphisme de la couleur du plumage est observé chez environ 3,5% des espèces d’oiseaux, tout spécialement chez les rapaces, les buses du genre Buteo comptant 15 espèces polymorphes sur 25, ce qui est supérieur à tout autre genre d’Accipitriformes. Chez la Buse variable Buteo buteo, la variation de la coloration est continue entre les individus très sombres...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>L&#8217;Effraie n°70-2025 à 73–2026</title>
-		<link>https://marcduquet.com/leffraie-n70-2025-a-73-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 10:58:07 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[L'Effraie]]></category>
-		<category><![CDATA[Revue]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8656</guid>
-
-					<description><![CDATA[Il y a un an, je vous ai présenté la revue L&#8217;Effraie à l&#8217;occasion de la parution de son numéro 69. Depuis lors, les fascicules 70 à 72 ont été publiés et, aujourd&#8217;hui, c&#8217;est le numéro 73 qui vient de paraître ! Éditée depuis 1983, cette excellente revue trimestrielle de la LPO-Rhône est diffusée gratuitement...]]></description>
 		
 		
 		
