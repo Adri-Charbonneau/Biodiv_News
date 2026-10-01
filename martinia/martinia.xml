@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Mon, 27 Apr 2026 10:00:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 04:34:46 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.5</generator>
+	<generator>https://wordpress.org/?v=6.7.9</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,12 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Première mention de Diplacodes lefebvrii (Rambur, 1842) en Corse (Odonata : Libellulidae)</title>
+		<link>https://martinia.insectes.org/premiere-mention-de-emdiplacodes-lefebvrii-em-rambur-1842-en-corse-odonata-libellulidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 04:05:00 +0000</pubDate>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[autochtonie probable]]></category>
+		<category><![CDATA[Black Percher]]></category>
+		<category><![CDATA[changement climatique]]></category>
+		<category><![CDATA[climate change]]></category>
+		<category><![CDATA[Corse du Sud]]></category>
+		<category><![CDATA[Diplacode noir]]></category>
+		<category><![CDATA[expansion de l'aire de répartition]]></category>
+		<category><![CDATA[possible autochthony]]></category>
+		<category><![CDATA[Range expansion.]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=7267</guid>
+
+					<description><![CDATA[Auteur(s) :Buriasco Mathis &#038; Carrage Emma Numérotation : Type de publication : Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Premières observations de Selysiothemis nigra (Vander Linden, 1825), en région Auvergne-Rhône-Alpes, France (Odonata : Libellulidae)</title>
 		<link>https://martinia.insectes.org/premieres-observations-de-emselysiothemis-nigra-em-vander-linden-1825-en-region-auvergne-rhone-alpes-france-odonata-libellulidae/</link>
 		
 		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2026 10:00:44 +0000</pubDate>
 				<category><![CDATA[Article]]></category>
+		<category><![CDATA[autochthony]]></category>
+		<category><![CDATA[autochtonie]]></category>
+		<category><![CDATA[Black pennant]]></category>
+		<category><![CDATA[changement climatique]]></category>
+		<category><![CDATA[dispersal]]></category>
+		<category><![CDATA[Dispersion]]></category>
+		<category><![CDATA[Exuviae]]></category>
+		<category><![CDATA[Exuvies]]></category>
+		<category><![CDATA[global warming]]></category>
+		<category><![CDATA[gravel pits]]></category>
+		<category><![CDATA[gravières]]></category>
+		<category><![CDATA[Sélysiothémis noir]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=7194</guid>
 
 					<description><![CDATA[Auteur(s) :Le Merrer-Le Bot Camille , Krieg-Jacquier Régis, Charrier Roman &#038; Hahn Jérémie Numérotation : Type de publication : Article]]></description>
@@ -193,8 +228,8 @@
 		<category><![CDATA[Doubs]]></category>
 		<category><![CDATA[Franche-Comté]]></category>
 		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[Revision]]></category>
 		<category><![CDATA[Révision]]></category>
+		<category><![CDATA[Revision]]></category>
 		<category><![CDATA[Stylurus flavipes]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6700</guid>
 
@@ -219,30 +254,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6661</guid>
 
 					<description><![CDATA[La faune odonatologique algérienne est l’une des plus riches de la région du Maghreb, avec 64 espèces. Trois sont endémiques du Maghreb dont une spécifique à l’Algérie (Lestes numidicus Samraoui, Weekers &#38; Dumont, 2003) et quatre ont un statut de conservation préoccupant (Jödicke et al., 2004 ; Riservato et al., 2009 ; Khelifa et al., [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Comportements de ponte en tandem chez deux espèces d’anisoptères après décapitation de la femelle (Odonata)</title>
-		<link>https://martinia.insectes.org/comportements-de-ponte-en-tandem-chez-deux-especes-danisopteres-apres-decapitation-de-la-femelle-odonata/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 05:48:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Anax parthenope]]></category>
-		<category><![CDATA[cerci]]></category>
-		<category><![CDATA[cerques]]></category>
-		<category><![CDATA[prédation]]></category>
-		<category><![CDATA[predation]]></category>
-		<category><![CDATA[reproduction]]></category>
-		<category><![CDATA[sensilla]]></category>
-		<category><![CDATA[sensilles]]></category>
-		<category><![CDATA[Sympetrum meridionale]]></category>
-		<category><![CDATA[Sympetrum striolatum]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=6589</guid>
-
-					<description><![CDATA[Chez les anisoptères, les stratégies de ponte ont évolué plusieurs fois en fonction de la disponibilité des habitats et de phénomènes migratoires (Ware et al., 2012). La femelle peut pondre seule sans surveillance du mâle, seule et surveillée (« non-contact guarding ») ou en tandem (« contact guarding ») (Corbet, 2004). Chez le genre Sympetrum, [&#8230;]]]></description>
 		
 		
 		
