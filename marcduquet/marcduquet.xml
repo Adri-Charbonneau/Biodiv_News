@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 28 Sep 2026 10:47:12 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 16:38:09 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 16-30 septembre 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-16-30-septembre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 16:04:16 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8996</guid>
+
+					<description><![CDATA[Les passereaux de l’automne ont enfin fait leur apparition&#160;: une vingtaine de&#160;Pouillots à grands sourcils&#160;et quatre&#160;Pipits de Richard&#160;ont ainsi été détectés au cours de la quinzaine, ainsi qu’un&#160;Pouillot brun, un&#160;Pipit à dos olive, un&#160;Bruant nain, un&#160;Bruant lapon, une&#160;Rousserolle isabelle, deux&#160;Fauvettes épervières&#160;et deux Traquets isabelles, mais aussi une Pie-grièche isabelle. Les observations de limicoles nord-américains se...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Finlande-Norvège (mai-juillet 2026) : d’Helsinki à la Laponie</title>
 		<link>https://marcduquet.com/finlande-norvege-mai-juillet-2026-dhelsinki-a-la-laponie/</link>
 		
@@ -110,22 +127,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8744</guid>
 
 					<description><![CDATA[L’Océanite de Wilson&#160;est encore bien présent en ce début septembre, tout comme le&#160;Faucon d’Éléonore&#160;et le&#160;Bécasseau de Temminck. Une&#160;Sarcelle marbrée&#160;et un&#160;Grèbe à bec bigarré&#160;ont été vus brièvement dans l’Ouest, tandis qu’un&#160;Aigle des steppes&#160;et deux&#160;Aigles ibériques&#160;ont traversé les Pyrénées. Il faut signaler une belle arrivée de limicoles néarctiques au cours de cette quinzaine, à savoir 1&#160;Bécasseau de...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OrnithoScience : la Buse est de moins en moins variable</title>
-		<link>https://marcduquet.com/ornithoscience-la-buse-est-de-moins-en-moins-variable/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 15 Sep 2026 11:51:10 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Buteo buteo]]></category>
-		<category><![CDATA[Rapaces diurnes]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8750</guid>
-
-					<description><![CDATA[Un polymorphisme de la couleur du plumage est observé chez environ 3,5% des espèces d’oiseaux, tout spécialement chez les rapaces, les buses du genre Buteo comptant 15 espèces polymorphes sur 25, ce qui est supérieur à tout autre genre d’Accipitriformes. Chez la Buse variable Buteo buteo, la variation de la coloration est continue entre les individus très sombres...]]></description>
 		
 		
 		
