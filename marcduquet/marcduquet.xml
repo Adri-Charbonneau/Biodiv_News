@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 01 Oct 2026 16:38:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Oct 2026 16:31:45 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>En direct des gags : octobre 2026</title>
+		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 16:31:45 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
+
+					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme amical et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-30 septembre 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-30-septembre-2026/</link>
 		
@@ -110,23 +124,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8831</guid>
 
 					<description><![CDATA[Par Frédéric Pelsy La Cigogne noire est un nicheur rare en France avec seulement 75&#160;couples recensés en 2022 (Brouillard &#38; Boutteaux 2024). Elle niche en forêt et se nourrit dans les zones ouvertes qui disposent de cours d’eau de bonne qualité. L’espèce est en progression constante depuis les premières nidifications connues en France dans les...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 septembre 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-septembre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 16:16:56 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8744</guid>
-
-					<description><![CDATA[L’Océanite de Wilson&#160;est encore bien présent en ce début septembre, tout comme le&#160;Faucon d’Éléonore&#160;et le&#160;Bécasseau de Temminck. Une&#160;Sarcelle marbrée&#160;et un&#160;Grèbe à bec bigarré&#160;ont été vus brièvement dans l’Ouest, tandis qu’un&#160;Aigle des steppes&#160;et deux&#160;Aigles ibériques&#160;ont traversé les Pyrénées. Il faut signaler une belle arrivée de limicoles néarctiques au cours de cette quinzaine, à savoir 1&#160;Bécasseau de...]]></description>
 		
 		
 		
