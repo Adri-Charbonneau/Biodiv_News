@@ -12,13 +12,13 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Mon, 07 Sep 2026 14:33:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Oct 2026 15:23:17 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1</generator>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
 
 <image>
 	<url>https://ephemera.insectes.org/wp-content/uploads/2023/11/ephemerae_full-150x150.png</url>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Découverte de Leuctra meridionalis Aubert, 1951 dans les Alpes françaises (Plecoptera, Leuctridae)</title>
+		<link>https://ephemera.insectes.org/publication/decouverte-de-leuctra-meridionalis-aubert-1951-dans-les-alpes-francaises-plecoptera-leuctridae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 15:20:56 +0000</pubDate>
+				<category><![CDATA[distribution]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Leuctra albida]]></category>
+		<category><![CDATA[Leuctre méridionale]]></category>
+		<category><![CDATA[Queyras]]></category>
+		<category><![CDATA[répartition]]></category>
+		<category><![CDATA[Stoneflies]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2442</guid>
+
+					<description><![CDATA[Lors d’un voyage estival en 2026 dans les Alpes françaises (massifs des Écrins, du Queyras et des Cerces), des échantillons d’insectes aquatiques ont été collectés.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Lors d’un voyage estival en 2026 dans les Alpes françaises (massifs des Écrins, du Queyras et des Cerces), des échantillons d’insectes aquatiques ont été collectés.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>First record of Pedicia (Crunobia) pallens Savchenko, 1978 from France (Diptera, Pediciidae)</title>
 		<link>https://ephemera.insectes.org/publication/first-record-of-pedicia-crunobia-pallens-savchenko-1978-from-france-diptera-pediciidae/</link>
 		
@@ -258,40 +285,6 @@
 					<description><![CDATA[Male adult of Harnischia curvistyla sp. n. is described and diagnosed based on material recently collected in the nearby of the River Changeon (Central-West France). Other additional adults collected in Spain by F. Reiss and deposited in the museum of Munich as unnamed taxa could belong to H. curvistyla sp. n. (M. Spies pers. com.). [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p class="wp-block-paragraph">Male adult of <em>Harnischia curvistyla </em>sp. n. is described and diagnosed based on material recently collected in the nearby of the River Changeon (Central-West France). Other additional adults collected in Spain by F. Reiss and deposited in the museum of Munich as unnamed taxa could belong to <em>H</em>. <em>curvistyla </em>sp. n. (M. Spies pers. com.). A combination of some distinguishing characters found in the male adult (anal tergite band cup-shaped, not interrupted medially; anal point slender with truncate apex, median part without tuff of setae; distal part of gonocoxite with a distinct setulate rounded lobe; gonostylus atypically concave bearing a characteristic basal expansion), will easily separate the new species from other related congeners. With <em>H. curtilamellata</em> (Malloch, 1915) and <em>H. fuscimana</em> Kieffer, 1921, the new species is the third memberof the<em> Harnischia</em> group to occur in Europe and France. Consequently, the description here of<em>H. curvistyla </em>sp. n. increases the total number in the genus to 9 valid species worldwide. Short comments on the taxonomic position of the new species are given.</p>
-
-
-
-<p class="wp-block-paragraph"></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The genus Ochthebius in the Lebanese rivers, with additional notes on its ecology (Insecta, Coleoptera, Hydraenidae)</title>
-		<link>https://ephemera.insectes.org/publication/the-genus-ochthebius-in-the-lebanese-rivers-with-additional-notes-on-its-ecology-insecta-coleoptera-hydraenidae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Mon, 11 May 2026 10:15:17 +0000</pubDate>
-				<category><![CDATA[14 bassins versants]]></category>
-		<category><![CDATA[14 catchments]]></category>
-		<category><![CDATA[citations nouvelles.]]></category>
-		<category><![CDATA[distribution]]></category>
-		<category><![CDATA[eaux courantes]]></category>
-		<category><![CDATA[eaux stagnantes]]></category>
-		<category><![CDATA[Lebanon]]></category>
-		<category><![CDATA[Liban]]></category>
-		<category><![CDATA[new data]]></category>
-		<category><![CDATA[répartition]]></category>
-		<category><![CDATA[running water]]></category>
-		<category><![CDATA[stagnant water]]></category>
-		<category><![CDATA[totalité du territoire]]></category>
-		<category><![CDATA[whole territory]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2369</guid>
-
-					<description><![CDATA[The aim of the present study was to fill in the gaps in previous knowledge of the faunistics and distribution of the running water species of Ochthebius species in Lebanon, by sampling throughout the entire country. 14 catchments of the largest river systems, not previously taken into account, were studied between 1984 and 2015, including [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">The aim of the present study was to fill in the gaps in previous knowledge of the faunistics and distribution of the running water species of <em>Ochthebius</em> species in Lebanon, by sampling throughout the entire country. 14 catchments of the largest river systems, not previously taken into account, were studied between 1984 and 2015, including a great diversity of running waters, from springs and streamlets to lower river reaches. This faunal program was extended up to 200 stations during 35 years. At 39 sites within the range of 0 to 2100 m elevation a. s. l., 3245 samples representing 161 imagines of <em>Ochthebius</em>. Seven species have been determined.</p>
 
 
 
