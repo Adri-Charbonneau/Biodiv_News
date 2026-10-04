@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 02 Oct 2026 16:31:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Oct 2026 10:59:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Finlande-Norvège (16 mai-2 juillet 2026) : la péninsule de Varanger</title>
+		<link>https://marcduquet.com/finlande-norvege-16-mai-2-juillet-2026-la-peninsule-de-varanger/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2026 08:53:21 +0000</pubDate>
+				<category><![CDATA[Voyages]]></category>
+		<category><![CDATA[Norvège]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8896</guid>
+
+					<description><![CDATA[Par Fabienne &#38; Didier Pépin(avec la télé-assistance régulière de Marc Duquet) Ce second volet de notre fabuleux voyage en Finlande-Norvège (lire la première partie&#160;ici) prend en compte la période du 9&#160;au 30&#160;juin 2026, au cours de laquelle nous avons longuement exploré la&#160;péninsule de Varanger, en Norvège arctique, avant de redescendre à Helsinki, avec un nouvel...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>En direct des gags : octobre 2026</title>
 		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
 		
@@ -36,7 +52,7 @@
 				<category><![CDATA[Observations]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
 
-					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme amical et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
+					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
 		
 		
 		
@@ -106,24 +122,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8867</guid>
 
 					<description><![CDATA[Par Pierre Crouzier À l’automne 2025, l’irruption sans précédent de plusieurs dizaines de Flamants roses, quasi exclusivement des oiseaux de 1re&#160;année, a été notée au mois de septembre sur les étangs de la Dombes (Ain), ainsi que l’observation de groupes migrant vers le nord au défilé du Fort l’Écluse (Ain/Haute-Savoie), puis de quelques dizaines d’individus...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rassemblement postnuptial exceptionnel de Cigognes noires dans le Loir-et-Cher</title>
-		<link>https://marcduquet.com/rassemblement-postnuptial-exceptionnel-de-cigognes-noires-dans-le-loir-et-cher/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 19 Sep 2026 05:47:19 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Ciconia nigra]]></category>
-		<category><![CDATA[Cigognes]]></category>
-		<category><![CDATA[Comportement]]></category>
-		<category><![CDATA[Migration]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8831</guid>
-
-					<description><![CDATA[Par Frédéric Pelsy La Cigogne noire est un nicheur rare en France avec seulement 75&#160;couples recensés en 2022 (Brouillard &#38; Boutteaux 2024). Elle niche en forêt et se nourrit dans les zones ouvertes qui disposent de cours d’eau de bonne qualité. L’espèce est en progression constante depuis les premières nidifications connues en France dans les...]]></description>
 		
 		
 		
