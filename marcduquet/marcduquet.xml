@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 04 Oct 2026 10:59:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Oct 2026 08:08:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>En direct des gags : octobre 2026</title>
+		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 08:02:04 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
+
+					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Finlande-Norvège (16 mai-2 juillet 2026) : la péninsule de Varanger</title>
 		<link>https://marcduquet.com/finlande-norvege-16-mai-2-juillet-2026-la-peninsule-de-varanger/</link>
 		
@@ -39,20 +53,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8896</guid>
 
 					<description><![CDATA[Par Fabienne &#38; Didier Pépin(avec la télé-assistance régulière de Marc Duquet) Ce second volet de notre fabuleux voyage en Finlande-Norvège (lire la première partie&#160;ici) prend en compte la période du 9&#160;au 30&#160;juin 2026, au cours de laquelle nous avons longuement exploré la&#160;péninsule de Varanger, en Norvège arctique, avant de redescendre à Helsinki, avec un nouvel...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>En direct des gags : octobre 2026</title>
-		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 16:31:45 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
-
-					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
 		
 		
 		
