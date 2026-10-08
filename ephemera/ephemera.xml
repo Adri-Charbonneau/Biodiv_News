@@ -12,13 +12,13 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Fri, 02 Oct 2026 15:23:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Oct 2026 12:40:41 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.2</generator>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
 
 <image>
 	<url>https://ephemera.insectes.org/wp-content/uploads/2023/11/ephemerae_full-150x150.png</url>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>First record of Dicranota (Paradicranota) reitteri Mik, 1882 in France with notes on its ecology and an original sampling method (Diptera, Pediciidae)</title>
+		<link>https://ephemera.insectes.org/publication/first-record-of-dicranota-paradicranota-reitteri-mik-1882-in-france-with-notes-on-its-ecology-and-an-original-sampling-method-diptera-pediciidae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 12:17:24 +0000</pubDate>
+				<category><![CDATA[Alpes]]></category>
+		<category><![CDATA[Alps]]></category>
+		<category><![CDATA[brachyptérisme]]></category>
+		<category><![CDATA[Brachyptery]]></category>
+		<category><![CDATA[citation nouvelle]]></category>
+		<category><![CDATA[départements de l’Isère et des Hautes-Alpes]]></category>
+		<category><![CDATA[faunistic list]]></category>
+		<category><![CDATA[Isère and Hautes-Alpes departments]]></category>
+		<category><![CDATA[liste faunistique]]></category>
+		<category><![CDATA[new record]]></category>
+		<category><![CDATA[Pediciinae]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2448</guid>
+
+					<description><![CDATA[Dicranota (Paradicranota) reitteri Mik, 1882, a rare alpine species previously known only from Germany, Austria and Italy, is recorded from France for the first time following surveys conducted in the Romanche Valley (Isère) and along the Durance and Séveraisse rivers (Hautes-Alpes). The occupied sites are associated with nival or nival-glacial rivers characterised by high sediment [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><em>Dicranota</em> (<em>Paradicranota</em>) <em>reitteri</em> Mik, 1882, a rare alpine species previously known only from Germany, Austria and Italy, is recorded from France for the first time following surveys conducted in the Romanche Valley (Isère) and along the Durance and Séveraisse rivers (Hautes-Alpes). The occupied sites are associated with nival or nival-glacial rivers characterised by high sediment dynamics. Insects were observed exclusively on the undersides of boulders resting on exposed gravel bars in the immediate vicinity of the active channel. Photographs of the adults and male interbases are provided for the first time.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Découverte de Leuctra meridionalis Aubert, 1951 dans les Alpes françaises (Plecoptera, Leuctridae)</title>
 		<link>https://ephemera.insectes.org/publication/decouverte-de-leuctra-meridionalis-aubert-1951-dans-les-alpes-francaises-plecoptera-leuctridae/</link>
 		
@@ -264,31 +295,6 @@
 					<description><![CDATA[De nombreuses campagnes de prélèvements qualitatifs et quantitatifs de la faune des macro-invertébrés aquatiques de Nouvelle-Calédonie (N-C) ont permis la collecte, entre 1996 et 2023, de près de 100 000 individus de chironomes, composés d’adultes, nymphes, exuvies nymphales et larves. Un premier examen avait permis de dresser une première liste faunistique au niveau générique (Moubayed [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p class="wp-block-paragraph">De nombreuses campagnes de prélèvements qualitatifs et quantitatifs de la faune des macro-invertébrés aquatiques de Nouvelle-Calédonie (N-C) ont permis la collecte, entre 1996 et 2023, de près de 100 000 individus de chironomes, composés d’adultes, nymphes, exuvies nymphales et larves. Un premier examen avait permis de dresser une première liste faunistique au niveau générique (Moubayed et al. 2021) et la description de 15 nouvelles espèces. Une seconde liste composée de 199 taxons-espèces appartenant à 4 sous-familles (22 Tanypodinae, 3 Telmatogetoninae, 73 Orthocladiinae, 101 Chironominae) et incluant un grand nombre d’espèces encore non décrites, est proposée. Les trois sous-familles présentant les ratios les plus élevés de taxons-espèces recensés (Tableaux I-II) sont les Tanypodinae, Orthocladiinae et Chironominae, qui s’avèrent prédominantes et bien diversifiées. Certains taxons uniquement trouvés à l’état larvaire ou nymphal ne correspondent à aucune espèce décrite de la littérature. Ces résultats montrent une richesse spécifique élevée dans les secteurs hydrographiques inférieurs des rivières et les habitats lentiques. Une plus faible richesse spécifique est observée dans des sites localisés dans le cours supérieur, les estuaires et la zone littorale marine. Une approche faunistique entre les Chironomidae de N-C et ceux actuellement connus de régions biogéographiques voisines (Australie et Nouvelle-Zélande) met en évidence l’importance des affinités taxonomiques et zoogéographiques. Le taux d’endémisme est estimé à plus de 60 %.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>On the genus Harnischia Kieffer, 1921 from France. Description of H. curvistyla sp. n. (Diptera, Chironomidae, Chironominae)</title>
-		<link>https://ephemera.insectes.org/publication/on-the-genus-harnischia-kieffer-1921-from-france-description-of-h-curvistyla-sp-n-diptera-chironomidae-chironominae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 09:07:13 +0000</pubDate>
-				<category><![CDATA[conservation]]></category>
-		<category><![CDATA[new species]]></category>
-		<category><![CDATA[nouvelle espèce]]></category>
-		<category><![CDATA[taxonomie]]></category>
-		<category><![CDATA[taxonomy]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2389</guid>
-
-					<description><![CDATA[Male adult of Harnischia curvistyla sp. n. is described and diagnosed based on material recently collected in the nearby of the River Changeon (Central-West France). Other additional adults collected in Spain by F. Reiss and deposited in the museum of Munich as unnamed taxa could belong to H. curvistyla sp. n. (M. Spies pers. com.). [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Male adult of <em>Harnischia curvistyla </em>sp. n. is described and diagnosed based on material recently collected in the nearby of the River Changeon (Central-West France). Other additional adults collected in Spain by F. Reiss and deposited in the museum of Munich as unnamed taxa could belong to <em>H</em>. <em>curvistyla </em>sp. n. (M. Spies pers. com.). A combination of some distinguishing characters found in the male adult (anal tergite band cup-shaped, not interrupted medially; anal point slender with truncate apex, median part without tuff of setae; distal part of gonocoxite with a distinct setulate rounded lobe; gonostylus atypically concave bearing a characteristic basal expansion), will easily separate the new species from other related congeners. With <em>H. curtilamellata</em> (Malloch, 1915) and <em>H. fuscimana</em> Kieffer, 1921, the new species is the third memberof the<em> Harnischia</em> group to occur in Europe and France. Consequently, the description here of<em>H. curvistyla </em>sp. n. increases the total number in the genus to 9 valid species worldwide. Short comments on the taxonomic position of the new species are given.</p>
-
-
-
-<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
 		
