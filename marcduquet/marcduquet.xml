@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 05 Oct 2026 08:08:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 10 Oct 2026 11:53:08 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.2</generator>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,11 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OrnithoScience : la Bondrée apivore et le Frelon asiatique</title>
+		<link>https://marcduquet.com/ornithoscience-la-bondree-apivore-et-le-frelon-asiatique/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2026 11:52:27 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[Pernis apivorus]]></category>
+		<category><![CDATA[Prédation]]></category>
+		<category><![CDATA[Vespa velutina]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9071</guid>
+
+					<description><![CDATA[Ces dernières années, plusieurs articles espagnols rapportant que la Bondrée apivore pouvait être un prédateur potentiellement important du Frelon asiatique ont été publiés (Macià&#160;et al.&#160;2019,&#160;Rebollo&#160;et al.&#160;2023,Martín-Ávila&#160;et al.&#160;2024, 2025). Cela me donne l’occasion de faire le point sur la présence et l’expansion de cet hyménoptère en Europe, des problèmes qu’il pose et des solutions qui existent...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>En direct des gags : octobre 2026</title>
 		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 08:02:04 +0000</pubDate>
+		<pubDate>Sat, 10 Oct 2026 11:50:32 +0000</pubDate>
 				<category><![CDATA[Observations]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
 
@@ -104,24 +121,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8691</guid>
 
 					<description><![CDATA[En 1999, François Sueur et Patrick Triplet, assistés de Jean-Claude Robert, Francis Montel, Pierre Royer, Florent Violet, Anne Bacqueville, Cédric Fagot, Arnaud Souria, Jacques Bellard, Frédéric Lepilliez, Arnaud Lengignon, Sébastien Bacquet, Philippe Carruette et Michel Urban, publiaient Les oiseaux de la Baie de Somme, un inventaire commenté des oiseaux de la baie de Somme et de...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Des Flamants roses en Dombes : saison 2</title>
-		<link>https://marcduquet.com/des-flamants-roses-en-dombes-saison-2/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 07:53:09 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Afflux]]></category>
-		<category><![CDATA[Flamants]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Phoenicopterus roseus]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8867</guid>
-
-					<description><![CDATA[Par Pierre Crouzier À l’automne 2025, l’irruption sans précédent de plusieurs dizaines de Flamants roses, quasi exclusivement des oiseaux de 1re&#160;année, a été notée au mois de septembre sur les étangs de la Dombes (Ain), ainsi que l’observation de groupes migrant vers le nord au défilé du Fort l’Écluse (Ain/Haute-Savoie), puis de quelques dizaines d’individus...]]></description>
 		
 		
 		
