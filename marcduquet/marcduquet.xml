@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 10 Oct 2026 11:53:08 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Oct 2026 19:51:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>En direct des gags : octobre 2026</title>
+		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2026 19:51:18 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
+
+					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OrnithoScience : la Bondrée apivore et le Frelon asiatique</title>
 		<link>https://marcduquet.com/ornithoscience-la-bondree-apivore-et-le-frelon-asiatique/</link>
 		
@@ -40,20 +54,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=9071</guid>
 
 					<description><![CDATA[Ces dernières années, plusieurs articles espagnols rapportant que la Bondrée apivore pouvait être un prédateur potentiellement important du Frelon asiatique ont été publiés (Macià&#160;et al.&#160;2019,&#160;Rebollo&#160;et al.&#160;2023,Martín-Ávila&#160;et al.&#160;2024, 2025). Cela me donne l’occasion de faire le point sur la présence et l’expansion de cet hyménoptère en Europe, des problèmes qu’il pose et des solutions qui existent...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>En direct des gags : octobre 2026</title>
-		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 10 Oct 2026 11:50:32 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
-
-					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
 		
 		
 		
