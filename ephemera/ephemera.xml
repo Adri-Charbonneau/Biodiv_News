@@ -12,7 +12,7 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Thu, 08 Oct 2026 12:40:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2026 10:49:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Polypedilum (Tripodura) camai sp. n. (acifer-group), a new species occurring in wetlands habitats of a large forest of Central-West France (Diptera, Chironomidae, Chironominae)</title>
+		<link>https://ephemera.insectes.org/publication/polypedilum-tripodura-camai-sp-n-acifer-group-a-new-species-occurring-in-wetlands-habitats-of-a-large-forest-of-central-west-france-diptera-chironomidae-chironominae/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 10:29:44 +0000</pubDate>
+				<category><![CDATA[Malaise trap]]></category>
+		<category><![CDATA[new species]]></category>
+		<category><![CDATA[nouvelle espèce]]></category>
+		<category><![CDATA[taxonomie]]></category>
+		<category><![CDATA[taxonomy]]></category>
+		<category><![CDATA[tente Malaise]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2453</guid>
+
+					<description><![CDATA[Male adult of Polypedilum (Tripodura) camai sp. n. is described on the basis of material collected by Malaise trap placed in a young coniferous area of a large forest (Central-W France), nearby of little temporary streams and ponds. The new species keys directly in the acifer group (as emended by Vardal et al. 2002) based [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Male adult of <em>Polypedilum</em> (<em>Tripodura</em>) <em>camai</em> sp. n. is described on the basis of material collected by Malaise trap placed in a young coniferous area of a large forest (Central-W France), nearby of little temporary streams and ponds. The new species keys directly in the <em>acifer</em> group (as emended by Vardal et al. 2002) based on the shape of anal point and presence of two lateral setae on superior volsella. Other closely related congeners (namely: <em>P</em>. <em>acifer</em> Townes, 1945; <em>P</em>. <em>falcatum</em> Zhang et al., 2015; <em>P</em>. <em>procerum</em> Zhang et al., 2015; <em>P</em>. <em>pseudoacifer</em> Zorina &amp; Makarchenko, 2001) are also included in the <em>acifer</em>-gr on the basis of some taxonomic similarities. Remarks and comments are given.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>First record of Dicranota (Paradicranota) reitteri Mik, 1882 in France with notes on its ecology and an original sampling method (Diptera, Pediciidae)</title>
 		<link>https://ephemera.insectes.org/publication/first-record-of-dicranota-paradicranota-reitteri-mik-1882-in-france-with-notes-on-its-ecology-and-an-original-sampling-method-diptera-pediciidae/</link>
 		
@@ -267,34 +289,6 @@
 
 
 <p class="wp-block-paragraph"></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Chironomidae connus de la Nouvelle-Calédonie. II. Liste et distribution des espèces recensées (Diptera)</title>
-		<link>https://ephemera.insectes.org/publication/chironomidae-connus-de-la-nouvelle-caledonie-ii-liste-et-distribution-des-especes-recensees-diptera/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 08:37:07 +0000</pubDate>
-				<category><![CDATA[adultes]]></category>
-		<category><![CDATA[adults]]></category>
-		<category><![CDATA[ecological zones]]></category>
-		<category><![CDATA[exuvies nymphales]]></category>
-		<category><![CDATA[faunal list]]></category>
-		<category><![CDATA[liste faunistique]]></category>
-		<category><![CDATA[nymphes]]></category>
-		<category><![CDATA[Oceania]]></category>
-		<category><![CDATA[Océanie]]></category>
-		<category><![CDATA[pupae]]></category>
-		<category><![CDATA[pupal exuviae]]></category>
-		<category><![CDATA[zones écologiques]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2383</guid>
-
-					<description><![CDATA[De nombreuses campagnes de prélèvements qualitatifs et quantitatifs de la faune des macro-invertébrés aquatiques de Nouvelle-Calédonie (N-C) ont permis la collecte, entre 1996 et 2023, de près de 100 000 individus de chironomes, composés d’adultes, nymphes, exuvies nymphales et larves. Un premier examen avait permis de dresser une première liste faunistique au niveau générique (Moubayed [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">De nombreuses campagnes de prélèvements qualitatifs et quantitatifs de la faune des macro-invertébrés aquatiques de Nouvelle-Calédonie (N-C) ont permis la collecte, entre 1996 et 2023, de près de 100 000 individus de chironomes, composés d’adultes, nymphes, exuvies nymphales et larves. Un premier examen avait permis de dresser une première liste faunistique au niveau générique (Moubayed et al. 2021) et la description de 15 nouvelles espèces. Une seconde liste composée de 199 taxons-espèces appartenant à 4 sous-familles (22 Tanypodinae, 3 Telmatogetoninae, 73 Orthocladiinae, 101 Chironominae) et incluant un grand nombre d’espèces encore non décrites, est proposée. Les trois sous-familles présentant les ratios les plus élevés de taxons-espèces recensés (Tableaux I-II) sont les Tanypodinae, Orthocladiinae et Chironominae, qui s’avèrent prédominantes et bien diversifiées. Certains taxons uniquement trouvés à l’état larvaire ou nymphal ne correspondent à aucune espèce décrite de la littérature. Ces résultats montrent une richesse spécifique élevée dans les secteurs hydrographiques inférieurs des rivières et les habitats lentiques. Une plus faible richesse spécifique est observée dans des sites localisés dans le cours supérieur, les estuaires et la zone littorale marine. Une approche faunistique entre les Chironomidae de N-C et ceux actuellement connus de régions biogéographiques voisines (Australie et Nouvelle-Zélande) met en évidence l’importance des affinités taxonomiques et zoogéographiques. Le taux d’endémisme est estimé à plus de 60 %.</p>
 ]]></content:encoded>
 					
 		
