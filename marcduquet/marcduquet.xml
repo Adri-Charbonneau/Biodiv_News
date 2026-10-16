@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 11 Oct 2026 19:51:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Oct 2026 08:08:41 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,11 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 octobre 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-octobre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 08:08:41 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9265</guid>
+
+					<description><![CDATA[Au terme de cette première quinzaine d’octobre, les passereaux rares semblent avoir en grande partie évité les îles bretonnes… beaucoup préférant se montrer dans les terres : deux Pouillots verdâtres en Camargue et au cap Sizun, un Pouillot de Hume dans le Val-de-Marne, un Pouillot brun en Moselle, une Fauvette épervière en Camargue, un Bruant nain dans le Gard et un autre en Camargue, un Pipit à...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>En direct des gags : octobre 2026</title>
 		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 11 Oct 2026 19:51:18 +0000</pubDate>
+		<pubDate>Thu, 15 Oct 2026 17:59:00 +0000</pubDate>
 				<category><![CDATA[Observations]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
 
@@ -103,24 +120,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8699</guid>
 
 					<description><![CDATA[Par Fabienne &#38; Didier Pépin(avec la télé-assistance régulière de Marc Duquet) Un demi-siècle après nos deux premiers périples&#160;(du 29&#160;juin au 6&#160;août 1984 avec Doris et Patrick Viain&#160;et&#160;du 22&#160;juin au 27&#160;juillet 1985 avec Marc Duquet et Dominique Michelat)&#160;en Renault 4 F6 depuis la Franche-Comté jusqu’à la Norvège arctique, nous avons refait le voyage, en camping-car cette...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Le livre « Avifaune de la Plaine Maritime Picarde »</title>
-		<link>https://marcduquet.com/le-livre-avifaune-de-la-plaine-maritime-picarde/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 08:58:21 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Livres]]></category>
-		<category><![CDATA[Oiseaux]]></category>
-		<category><![CDATA[Picardie]]></category>
-		<category><![CDATA[Statut]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8691</guid>
-
-					<description><![CDATA[En 1999, François Sueur et Patrick Triplet, assistés de Jean-Claude Robert, Francis Montel, Pierre Royer, Florent Violet, Anne Bacqueville, Cédric Fagot, Arnaud Souria, Jacques Bellard, Frédéric Lepilliez, Arnaud Lengignon, Sébastien Bacquet, Philippe Carruette et Michel Urban, publiaient Les oiseaux de la Baie de Somme, un inventaire commenté des oiseaux de la baie de Somme et de...]]></description>
 		
 		
 		
