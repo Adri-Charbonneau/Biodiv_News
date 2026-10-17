@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Fri, 16 Oct 2026 08:08:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 17 Oct 2026 19:26:40 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>En direct des gags : octobre 2026</title>
+		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 19:26:40 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
+
+					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 octobre 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-octobre-2026/</link>
 		
@@ -39,21 +53,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=9265</guid>
 
-					<description><![CDATA[Au terme de cette première quinzaine d’octobre, les passereaux rares semblent avoir en grande partie évité les îles bretonnes… beaucoup préférant se montrer dans les terres : deux Pouillots verdâtres en Camargue et au cap Sizun, un Pouillot de Hume dans le Val-de-Marne, un Pouillot brun en Moselle, une Fauvette épervière en Camargue, un Bruant nain dans le Gard et un autre en Camargue, un Pipit à...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>En direct des gags : octobre 2026</title>
-		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 17:59:00 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
-
-					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
+					<description><![CDATA[Au terme de cette première quinzaine d’octobre, les passereaux rares semblent avoir en grande partie évité les îles bretonnes… beaucoup préférant se montrer dans les terres&#160;: deux&#160;Pouillots verdâtres&#160;en Camargue et au cap Sizun, un&#160;Pouillot brun&#160;en Moselle, une&#160;Fauvette épervière&#160;en Camargue, un&#160;Bruant nain&#160;dans le Gard et un autre en Camargue, un&#160;Pipit à dos olive&#160;dans l’Orne et, après...]]></description>
 		
 		
 		
