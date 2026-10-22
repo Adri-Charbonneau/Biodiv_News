@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 17 Oct 2026 19:26:40 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Oct 2026 09:44:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,11 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>À propos des Pouillots fitis ternes/à pattes sombres vus en France</title>
+		<link>https://marcduquet.com/a-propos-des-pouillots-fitis-ternes-a-pattes-sombres-vus-en-france/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 07:52:19 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[P. t. acredula]]></category>
+		<category><![CDATA[P. t. yakutensis]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Phylloscopus trochilus]]></category>
+		<category><![CDATA[Sous-espèce]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9171</guid>
+
+					<description><![CDATA[Par Grégoire Duffez Le Pouillot fitis&#160;Phylloscopus trochilus&#160;est un passereau migrateur bien connu en Europe occidentale, où la sous-espèce nominale&#160;P. t. trochilus&#160;est communément observée en migration et durant la période de reproduction. Il se distingue du Pouillot véloce&#160;P. collybita&#160;principalement par sa coloration plus jaune, sa taille légèrement supérieure, sa projection primaire plus longue et surtout ses...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>En direct des gags : octobre 2026</title>
 		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 17 Oct 2026 19:26:40 +0000</pubDate>
+		<pubDate>Tue, 20 Oct 2026 18:45:04 +0000</pubDate>
 				<category><![CDATA[Observations]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
 
@@ -104,22 +124,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8996</guid>
 
 					<description><![CDATA[Les passereaux de l’automne ont enfin fait leur apparition&#160;: une vingtaine de&#160;Pouillots à grands sourcils&#160;et quatre&#160;Pipits de Richard&#160;ont ainsi été détectés au cours de la quinzaine, ainsi qu’un&#160;Pouillot brun, un&#160;Pipit à dos olive, un&#160;Bruant nain, un&#160;Bruant lapon, une&#160;Rousserolle isabelle, deux&#160;Fauvettes épervières&#160;et deux Traquets isabelles, mais aussi une Pie-grièche isabelle. Les observations de limicoles nord-américains se...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Finlande-Norvège (mai-juillet 2026) : d’Helsinki à la Laponie</title>
-		<link>https://marcduquet.com/finlande-norvege-mai-juillet-2026-dhelsinki-a-la-laponie/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 07:48:51 +0000</pubDate>
-				<category><![CDATA[Voyages]]></category>
-		<category><![CDATA[Finlande]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8699</guid>
-
-					<description><![CDATA[Par Fabienne &#38; Didier Pépin(avec la télé-assistance régulière de Marc Duquet) Un demi-siècle après nos deux premiers périples&#160;(du 29&#160;juin au 6&#160;août 1984 avec Doris et Patrick Viain&#160;et&#160;du 22&#160;juin au 27&#160;juillet 1985 avec Marc Duquet et Dominique Michelat)&#160;en Renault 4 F6 depuis la Franche-Comté jusqu’à la Norvège arctique, nous avons refait le voyage, en camping-car cette...]]></description>
 		
 		
 		
