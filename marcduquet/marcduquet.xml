@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 27 Oct 2026 07:19:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Oct 2026 20:33:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>En direct des gags : octobre 2026</title>
+		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 20:29:08 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
+
+					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Topographie de l’oiseau (III) : l’aile</title>
 		<link>https://marcduquet.com/topographie-de-loiseau-iii-laile/</link>
 		
@@ -40,20 +54,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8957</guid>
 
 					<description><![CDATA[Après deux articles consacrés d’une part à la tête et aux parties inférieures (Duquet 2025) et d’autre part à la queue et aux parties supérieures (Duquet 2026), ce troisième volet présente la topographie de l’aile, une partie du corps qui comporte de nombreux détails précieux pour la détermination de l’âge d’un oiseau ainsi que pour...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>En direct des gags : octobre 2026</title>
-		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 20:50:28 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
-
-					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
 		
 		
 		
