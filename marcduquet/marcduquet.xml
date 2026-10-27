@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 24 Oct 2026 21:14:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Oct 2026 07:19:19 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,11 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Topographie de l’oiseau (III) : l’aile</title>
+		<link>https://marcduquet.com/topographie-de-loiseau-iii-laile/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 07:13:24 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Aile]]></category>
+		<category><![CDATA[Plumage]]></category>
+		<category><![CDATA[Topographie]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=8957</guid>
+
+					<description><![CDATA[Après deux articles consacrés d’une part à la tête et aux parties inférieures (Duquet 2025) et d’autre part à la queue et aux parties supérieures (Duquet 2026), ce troisième volet présente la topographie de l’aile, une partie du corps qui comporte de nombreux détails précieux pour la détermination de l’âge d’un oiseau ainsi que pour...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>En direct des gags : octobre 2026</title>
 		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
 		
 		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 24 Oct 2026 21:14:43 +0000</pubDate>
+		<pubDate>Mon, 26 Oct 2026 20:50:28 +0000</pubDate>
 				<category><![CDATA[Observations]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
 
@@ -107,23 +124,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8896</guid>
 
 					<description><![CDATA[Par Fabienne &#38; Didier Pépin(avec la télé-assistance régulière de Marc Duquet) Ce second volet de notre fabuleux voyage en Finlande-Norvège (lire la première partie&#160;ici) prend en compte la période du 9&#160;au 30&#160;juin 2026, au cours de laquelle nous avons longuement exploré la&#160;péninsule de Varanger, en Norvège arctique, avant de redescendre à Helsinki, avec un nouvel...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-30 septembre 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-30-septembre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 01 Oct 2026 16:04:16 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8996</guid>
-
-					<description><![CDATA[Les passereaux de l’automne ont enfin fait leur apparition&#160;: une vingtaine de&#160;Pouillots à grands sourcils&#160;et quatre&#160;Pipits de Richard&#160;ont ainsi été détectés au cours de la quinzaine, ainsi qu’un&#160;Pouillot brun, un&#160;Pipit à dos olive, un&#160;Bruant nain, un&#160;Bruant lapon, une&#160;Rousserolle isabelle, deux&#160;Fauvettes épervières&#160;et deux Traquets isabelles, mais aussi une Pie-grièche isabelle. Les observations de limicoles nord-américains se...]]></description>
 		
 		
 		
