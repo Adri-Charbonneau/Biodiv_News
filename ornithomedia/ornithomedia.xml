@@ -12,7 +12,7 @@
 	<atom:link href="https://www.ornithomedia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ornithomedia.com/</link>
 	<description>Le web de l&#039;ornithologie</description>
-	<lastBuildDate>Mon, 26 Oct 2026 19:28:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Oct 2026 16:56:29 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,6 +27,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Observer les oiseaux sur l&#8217;île de Sein (Finistère) en automne</title>
+		<link>https://www.ornithomedia.com/magazine/observer-france/ile-sein-00380/</link>
+					<comments>https://www.ornithomedia.com/magazine/observer-france/ile-sein-00380/#comments</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 07:30:00 +0000</pubDate>
+				<category><![CDATA[Magazine]]></category>
+		<category><![CDATA[Observer en France]]></category>
+		<guid isPermaLink="false">http://www.ornitho2.on-web.fr/non-classe/ile-sein-00380/</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/ile-sein-00380/">Observer les oiseaux sur l&rsquo;île de Sein (Finistère) en automne</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/magazine/observer-france/ile-sein-00380/">Observer les oiseaux sur l&rsquo;île de Sein (Finistère) en automne</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.ornithomedia.com/magazine/observer-france/ile-sein-00380/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Irruption majeure de Sittelles torchepots orientales en Finlande durant l&#8217;automne 2026</title>
 		<link>https://www.ornithomedia.com/breves/irruption-majeure-de-sittelles-torchepots-orientales-en-finlande-durant-lautomne-2026/</link>
 					<comments>https://www.ornithomedia.com/breves/irruption-majeure-de-sittelles-torchepots-orientales-en-finlande-durant-lautomne-2026/#respond</comments>
@@ -205,26 +226,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.ornithomedia.com/pratique/identification/observation-et-identification-dune-jeune-pie-grieche-isabelle-en-cote-dor-en-octobre-2026/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>La saison de reproduction 2026 a été très bonne pour la rarissime Buse de Ridgway</title>
-		<link>https://www.ornithomedia.com/breves/la-saison-de-reproduction-2026-a-ete-tres-bonne-pour-la-rarissime-buse-de-ridgway/</link>
-					<comments>https://www.ornithomedia.com/breves/la-saison-de-reproduction-2026-a-ete-tres-bonne-pour-la-rarissime-buse-de-ridgway/#respond</comments>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 19:37:48 +0000</pubDate>
-				<category><![CDATA[Brèves]]></category>
-		<guid isPermaLink="false">https://www.ornithomedia.com/?p=282703</guid>
-
-					<description><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/la-saison-de-reproduction-2026-a-ete-tres-bonne-pour-la-rarissime-buse-de-ridgway/">La saison de reproduction 2026 a été très bonne pour la rarissime Buse de Ridgway</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>L’article <a href="https://www.ornithomedia.com/breves/la-saison-de-reproduction-2026-a-ete-tres-bonne-pour-la-rarissime-buse-de-ridgway/">La saison de reproduction 2026 a été très bonne pour la rarissime Buse de Ridgway</a> est apparu en premier sur <a href="https://www.ornithomedia.com">Ornithomedia.com</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ornithomedia.com/breves/la-saison-de-reproduction-2026-a-ete-tres-bonne-pour-la-rarissime-buse-de-ridgway/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
