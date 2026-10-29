@@ -12,13 +12,13 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Wed, 07 Oct 2026 19:22:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Oct 2026 19:17:03 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.10</generator>
+	<generator>https://wordpress.org/?v=6.7.11</generator>
 
 <image>
 	<url>https://martinia.insectes.org/wp-content/uploads/2020/12/cropped-Rene_martin-32x32.png</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Suivi d’exuvies et distribution des émergences de Somatochlora metallica (Vander Linden, 1825) dans un étang du département de l’Orne de 2015 à 2017 (Odonata : Corduliidae)</title>
+		<link>https://martinia.insectes.org/suivi-dexuvies-et-distribution-des-emergences-de-emsomatochlora-metallica-em-vander-linden-1825-dans-un-etang-du-departement-de-lorne-de-2015-a-2017-odonata-corduliid/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Article]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=7362</guid>
+
+					<description><![CDATA[Auteur(s)&#160;:Iorio Étienne, Jacob Emmanuel &#038; Lagarde Mathieu Numérotation&#160;: Type de publication&#160;: Article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Liste de référence des Odonates de France métropolitaine</title>
 		<link>https://martinia.insectes.org/liste-de-reference-des-odonates-de-france-metropolitaine-3/</link>
 		
@@ -59,7 +73,7 @@
 		<category><![CDATA[Range expansion.]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=7267</guid>
 
-					<description><![CDATA[Auteur(s) :Buriasco Mathis &#038; Carrage Emma Numérotation : Type de publication : Article]]></description>
+					<description><![CDATA[Auteur(s)&#160;:Buriasco Mathis &#038; Carrage Emma Numérotation&#160;: Type de publication&#160;: Article]]></description>
 		
 		
 		
@@ -85,7 +99,7 @@
 		<category><![CDATA[Sélysiothémis noir]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=7194</guid>
 
-					<description><![CDATA[Auteur(s) :Le Merrer-Le Bot Camille , Krieg-Jacquier Régis, Charrier Roman &#038; Hahn Jérémie Numérotation : Type de publication : Article]]></description>
+					<description><![CDATA[Auteur(s)&#160;:Le Merrer-Le Bot Camille , Krieg-Jacquier Régis, Charrier Roman &#038; Hahn Jérémie Numérotation&#160;: Type de publication&#160;: Article]]></description>
 		
 		
 		
@@ -107,11 +121,11 @@
 		<category><![CDATA[log scale]]></category>
 		<category><![CDATA[parcours de dénombrement]]></category>
 		<category><![CDATA[Pollard walk]]></category>
-		<category><![CDATA[ténéral]]></category>
 		<category><![CDATA[teneral]]></category>
+		<category><![CDATA[ténéral]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=7155</guid>
 
-					<description><![CDATA[Auteur(s) :Lambret Philippe Numérotation : Type de publication : Article]]></description>
+					<description><![CDATA[Auteur(s)&#160;:Lambret Philippe Numérotation&#160;: Type de publication&#160;: Article]]></description>
 		
 		
 		
@@ -137,7 +151,7 @@
 		<category><![CDATA[thermal responses]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=7109</guid>
 
-					<description><![CDATA[Auteur(s) :Louboutin Bastien Numérotation : Type de publication : Article]]></description>
+					<description><![CDATA[Auteur(s)&#160;:Louboutin Bastien Numérotation&#160;: Type de publication&#160;: Article]]></description>
 		
 		
 		
@@ -172,8 +186,8 @@
 		<category><![CDATA[Éthiopie]]></category>
 		<category><![CDATA[lac Langano]]></category>
 		<category><![CDATA[Langano lake]]></category>
-		<category><![CDATA[prédation]]></category>
 		<category><![CDATA[predation]]></category>
+		<category><![CDATA[prédation]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=7028</guid>
 
 					<description><![CDATA[Le 30 octobre 2018, une heure avant le coucher du soleil (17:01) dans l’atmosphère brumeuse d’une fin de journée très chaude, j’ai inventorié les odonates sur la rive ouest du lac Langano (Fig. 1a) en Éthiopie (7°35&#8217;29.856&#8243; N, 38°41&#8217;34.968&#8243; E, alt. 1585 m). Très peu d’espèces se sont avérées être présentes dans les herbes basses d’une [&#8230;]]]></description>
@@ -205,7 +219,7 @@
 		<category><![CDATA[tourbière]]></category>
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6948</guid>
 
-					<description><![CDATA[Auteur(s) :Doucet Guillaume, Itrac-Bruneau Raphaëlle, Mora Frédéric, Dehondt François &#038; Durlet Pierre Numérotation : Type de publication : Article]]></description>
+					<description><![CDATA[Auteur(s)&#160;:Doucet Guillaume, Itrac-Bruneau Raphaëlle, Mora Frédéric, Dehondt François &#038; Durlet Pierre Numérotation&#160;: Type de publication&#160;: Article]]></description>
 		
 		
 		
@@ -226,28 +240,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6861</guid>
 
 					<description><![CDATA[Nothodiplax est un genre monospécifique représenté par l’espèce Nothodiplax dendrophila Belle, 1984. Celle-ci a été décrite à partir de trois mâles et deux femelles collectés en 1964 dans le nord-est du Suriname (Belle, 1984). Elle a ensuite été signalée en Guyane (Machet, 1991), mais aucune autre observation n’a été rapportée jusqu’en 2019, année d’une nouvelle [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>La collection d&#8217;odonates de Léandre Pidancet (1824-1888) au musée de Poligny (Jura)</title>
-		<link>https://martinia.insectes.org/la-collection-dodonates-de-leandre-pidancet-1824-1888-au-musee-de-poligny-jura/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 04:22:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Coeanagrion ornatum]]></category>
-		<category><![CDATA[conservation]]></category>
-		<category><![CDATA[Doubs]]></category>
-		<category><![CDATA[Franche-Comté]]></category>
-		<category><![CDATA[Haute-Saône]]></category>
-		<category><![CDATA[Révision]]></category>
-		<category><![CDATA[Revision]]></category>
-		<category><![CDATA[Stylurus flavipes]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=6700</guid>
-
-					<description><![CDATA[Auteur(s) :David Gwénaël, Krieg-Jacquier Régis, Barré-Chaubet Hugo, Cuenot Thibault &#038; Malchausse Arthur Numérotation : Type de publication : Article]]></description>
 		
 		
 		
